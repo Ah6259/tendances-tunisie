@@ -10,7 +10,7 @@
 
   // ---- masquage de catégories (gardé dans le navigateur ; défaut : football)
   var MASQUABLES = [["football", "⚽", "Football", "كرة القدم"], ["sport", "🏅", "Autres sports", "رياضات أخرى"],
-    ["divertissement", "🎬", "Divertissement", "الترفيه"], ["politique", "🏛️", "Politique", "السياسة"]];
+    ["divertissement", "🎬", "Divertissement", "الترفيه"], ["politique", "🏛️", "Politique", "السياسة"], ["meteo", "🌦️", "Météo", "الطقس"]];
   var CLE = "tendances-masquer";
   function masques() {
     try { var v = localStorage.getItem(CLE); if (v !== null) return JSON.parse(v); } catch (e) {}

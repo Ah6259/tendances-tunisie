@@ -48,7 +48,8 @@ check("version ?v= identique sur toutes les pages (règle § 21)", new Set(pages
 
 // ---- 3. accueil
 const acc = lire("index.html");
-check("accueil : chiffres (aujourd'hui, semaine, nouveautés, mots suivis)", (acc.match(/class="chiffre"/g) || []).length >= 4);
+check("accueil : 4 cases de chiffres, toutes CLIQUABLES (01/11/2026, Ahmed) vers aujourd'hui, semaine, nouveautés, historique", (acc.match(/<a class="chiffre" href="/g) || []).length === 4 && ["#aujourdhui", "semaine/", "#nouveautes", "historique/"].every(h => acc.includes(`<a class="chiffre" href="${h}"`)));
+check("barre Masquer : 5 catégories masquables dont la météo", lire("assets/app.js").includes('["meteo", "🌦️", "Météo", "الطقس"]'));
 check("accueil : listes Aujourd'hui, Nouveautés, Hausses, Opportunités (aperçu), Qui redescend / revient", ["aujourdhui", "nouveautes", "hausses", "opportunites-apercu", "retombees", "recurrents"].every(i => acc.includes(`id="${i}"`)));
 check("accueil : grille des 17 catégories, chacune vers sa page", CATS.every(c => acc.includes(`href="categorie/${c}/"`)) && acc.includes('id="categories"'));
 check("accueil : chaque ligne = mot (lien vers sa page), catégorie, nombres ; limite de 10 lignes", /<li class="tendance" data-cat="[a-z]+" data-mot="[^"]+"><span class="rang">1<\/span><span class="mot" dir="(ltr|rtl)"><a href="mot\/[^"]+\/">/.test(acc) && acc.includes('data-limite="10"'));
@@ -94,7 +95,8 @@ const FONCTIONS = [
   ["page de chaque mot", mots.length > 0, /Chaque mot a sa page/, /لكل كلمة صفحتها/],
   ["Qui redescend / revient", acc.includes('id="retombees"'), /Qui redescend.*3 jours/, /ما يتراجع.*3 أيام/],
   ["filtres et Voir les N autres", sem.includes("data-filtre-cat"), /filtrent par catégorie.*Voir les N autres/, /تُصفّى حسب الفئة/],
-  ["masquer le football", lire("assets/app.js").includes("tendances-masquer"), /Masquer.*football par défaut/, /إخفاء.*كرة القدم افتراضيًا/],
+  ["masquer le football", lire("assets/app.js").includes("tendances-masquer"), /Masquer.*football par défaut.*météo/, /إخفاء.*كرة القدم افتراضيًا.*الطقس/],
+  ["cases de chiffres cliquables", acc.includes('<a class="chiffre"'), /cases de chiffres.*liens/, /خانات الأرقام.*روابط/],
   ["deux langues", existsSync(join(root, "ar/index.html")), /français et en arabe.*adresse/, /بالفرنسية والعربية.*عنوانها/],
   ["bouton Partager", lire("assets/page.js").includes("partagerLien"), /bouton rond « Partager »/, /الزر الدائري «شارك»/],
   ["Votre avis", acc.includes('id="avis-form"'), /Votre avis.*e-mail obligatoire/, /رأيك.*البريد الإلكتروني إجباري/],
