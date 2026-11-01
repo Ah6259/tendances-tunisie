@@ -245,7 +245,7 @@ def accueil(a, v, maj):
             f'<a class="chiffre" href="#aujourdhui"><b>{ISO(t["aujourdhui"])}</b><span>{L("tendances aujourd’hui", "اتجاهًا اليوم")}</span></a>'
             f'<a class="chiffre" href="semaine/"><b>{ISO(t["semaine"])}</b><span>{L("cette semaine", "هذا الأسبوع")}</span></a>'
             f'<a class="chiffre" href="#nouveautes"><b>{ISO(len(a["nouveautes"]))}</b><span>{L("nouveautés (jamais vues)", "جديد (لم يُرَ من قبل)")}</span></a>'
-            f'<a class="chiffre" href="historique/"><b>{ISO(t["mots_distincts"])}</b><span>{L("mots suivis depuis le début", "كلمة متابعة منذ البداية")}</span></a></div>'
+            f'<a class="chiffre" href="historique/"><b>{ISO(t["mots_distincts"])}</b><span>{L("mots suivis depuis le début", "كلمة متابعة منذ البداية")}</span></a></div>')
     corps = []
     if jeune:
         corps.append(f'<p class="premiere">{L(f"Site tout neuf : nos premières lectures datent du {dfr(premiere[:10])}. L’historique se construit jour après jour ; les listes « nouveautés » et « qui redescendent » prendront tout leur sens après quelques semaines.", f"موقع جديد: أول قراءاتنا بتاريخ {dfr(premiere[:10])}. السجل يُبنى يومًا بعد يوم؛ قوائم «الجديد» و«ما يتراجع» تكتمل بعد بضعة أسابيع.")}</p>')
