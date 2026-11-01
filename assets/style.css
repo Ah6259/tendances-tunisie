@@ -540,3 +540,9 @@ html[lang="ar"] .tendance .mot[dir="ltr"]{text-align:left}
 .premiere{background:var(--or-clair);border-radius:12px;padding:10px 12px;font-size:14px;margin:8px 0}
 .compact details{border:1px solid var(--ligne);border-radius:12px;padding:8px 12px;margin:6px 0;background:var(--carte)}
 .compact summary{font-weight:700;cursor:pointer}
+.cachee-masque{display:none!important}
+.masquage{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:0 0 14px;padding:10px 12px;background:var(--carte);border:1px solid var(--ligne);border-radius:14px;box-shadow:var(--ombre)}
+.masquage-titre{font-size:13px;font-weight:700;color:var(--doux)}
+.masquage button{font:inherit;font-size:13px;font-weight:700;padding:6px 11px;border-radius:999px;border:1px solid var(--ligne);background:var(--bg);color:var(--texte);cursor:pointer}
+.masquage button.actif{background:var(--rouge-clair);border-color:var(--rouge);color:var(--rouge);text-decoration:line-through}
+.masquage .etat{flex-basis:100%;font-size:12px;color:var(--doux)}

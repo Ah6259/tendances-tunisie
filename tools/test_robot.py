@@ -51,7 +51,7 @@ check("palier : « 5 000+ »", C.palier_texte(5000) == "5 000+" and C.palier_t
 check("langue : arabe / français", C.langue_de("سرقة") == "ar" and C.langue_de("huile") == "fr")
 # ---- 4. catégories (mots-clés avant codes Google)
 for mot, codes, attendu in [("كراء شقة سوسة", [], "immobilier"), ("prix voiture neuve", [1], "automobile"), ("journal officiel de la république tunisienne", [9, 10], "administration"),
-                            ("panneau solaire prix tunisie", [], "energie"), ("concours finances 2026", [], "emploi"), ("classement fc barcelone", [17], "sport"),
+                            ("panneau solaire prix tunisie", [], "energie"), ("concours finances 2026", [], "emploi"), ("classement fc barcelone", [17], "football"), ("tennis monastir", [17], "sport"), ("nba", [17], "sport"),
                             ("أمطار متفرقة", [20], "meteo"), ("inconnu xyz", [], "autre"), ("inconnu xyz", [16], "commerce"), ("resultat bac 2026", [], "education")]:
     check(f"catégorie de « {mot} » = {attendu}", K.categorie(C.normaliser(mot), codes) == attendu)
 check("intention commerciale : prix / كراء oui, match non", K.intention_commerciale("prix iphone") and K.intention_commerciale("كراء شقه") and not K.intention_commerciale("match barca"))

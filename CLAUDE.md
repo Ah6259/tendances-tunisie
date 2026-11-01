@@ -31,6 +31,9 @@ Adresse : https://tendances.clicvia.com/ (sous-domaine Cloudflare d'Ahmed, CNAME
   clé mot normalisé + heure de début ; relevés bruts `donnees/releves/` 60 jours ; `donnees/etat.json` = dernier succès par source),
   `robot/mots.py` (hebdo, `donnees/mots.json` : apparu / vu / meilleur rang), `robot/analyse.py` (→ `donnees/analyse.json`, données
   ouvertes), `robot/construire_site.py` (pages FR, puis AR par `tools/pages_langues.py` copié de Mosquées en version 2 langues).
+- **Masquage (01/11/2026, Ahmed : « la plupart des recherches sont liées au football »)** : catégorie `football` séparée de `sport`
+  (robot/categories.py) ; barre « Masquer » (assets/app.js, clé localStorage `tendances-masquer`, défaut `["football"]`, boutons football /
+  sport / divertissement / politique), rangs renumérotés, jamais masqué sur la page de sa catégorie (`body[data-categorie]`) ; tests jsdom.
 - Pages : accueil, `semaine/`, `opportunites/`, `mots-tapes/`, `historique/`, `a-propos/` (« Comment fonctionne le site ? », liste
   `FONCTIONS` : toute fonction visible nouvelle = une ligne + son test), `categorie/<clé>/`, `mot/<slug>/` (mots vus ce mois ou
   récurrents ; les anciens dossiers sont retirés à la construction).

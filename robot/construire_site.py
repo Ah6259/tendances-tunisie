@@ -52,7 +52,7 @@ def version(*fichiers):
 
 
 # ---------------------------------------------------------------- gabarit
-def page(chemin, titre, description, hero, contenu, v, maj, titre_ar="", desc_ar="", jsonld="", og_type="website", indexer=True):
+def page(chemin, titre, description, hero, contenu, v, maj, titre_ar="", desc_ar="", jsonld="", og_type="website", indexer=True, categorie=""):
     racine = "../" * chemin.count("/")
     canon = URL_SITE + chemin
     hreflang = PL.liens_hreflang(URL_SITE, chemin, ["fr", "ar"])
@@ -91,7 +91,7 @@ def page(chemin, titre, description, hero, contenu, v, maj, titre_ar="", desc_ar
 <script src="{racine}assets/app.js?v={v}"></script>
 <script src="{racine}assets/avis.js?v={v}"></script>
 </head>
-<body data-maj="{maj}" data-maj-texte="{dfr(maj)}" data-titre-ar="{E(titre_ar)}" data-desc-ar="{E(desc_ar)}">
+<body data-maj="{maj}" data-maj-texte="{dfr(maj)}" data-titre-ar="{E(titre_ar)}" data-desc-ar="{E(desc_ar)}"{f' data-categorie="{categorie}"' if categorie else ""}>
 <header class="entete" id="entete"></header>
 <section class="hero">
   <div class="wrap">
@@ -275,7 +275,8 @@ def accueil(a, v, maj):
                        '<div class="compact">'
                        f'<details><summary>{L("1. Nos robots lisent Google Trends deux fois par jour", "1. روبوتاتنا تقرأ Google Trends مرتين في اليوم")}</summary><p>{L("Les recherches en forte hausse en Tunisie (sur 24 h, 48 h et 7 jours), telles que Google les montre : mot tapé, volume approximatif, progression, recherches liées.", "عمليات البحث الأكثر صعودًا في تونس (24 ساعة، 48 ساعة، 7 أيام) كما يعرضها غوغل: الكلمة، الحجم التقديري، نسبة الصعود، البحوث المرتبطة.")}</p></details>'
                        f'<details><summary>{L("2. Nous gardons tout, jour après jour", "2. نحتفظ بكل شيء يومًا بعد يوم")}</summary><p>{L("Google ne garde que 7 jours. Nous, nous gardons chaque tendance avec sa date : c’est ainsi que naissent les nouveautés, les retours et l’historique.", "غوغل يحتفظ بـ7 أيام فقط. نحن نحتفظ بكل اتجاه مع تاريخه: هكذا تظهر المستجدات والعودة والسجل.")}</p></details>'
-                       f'<details><summary>{L("3. Nous classons par catégorie et repérons les opportunités", "3. نصنّف حسب الفئة ونرصد الفرص")}</summary><p>{L("Mots-clés en français, en arabe et en tunisien, puis les catégories de Google ; une opportunité = un secteur utile + une intention d’achat ou un gros volume.", "كلمات مفتاحية بالفرنسية والعربية والتونسية، ثم فئات غوغل؛ الفرصة = قطاع مفيد + نية شراء أو حجم كبير.")}</p></details>'
+                       f'<details><summary>{L("3. Le football est masqué par défaut", "3. كرة القدم مخفية افتراضيًا")}</summary><p>{L("Le sport écrase tout le reste dans les recherches : la barre « Masquer » en haut cache le football (et, si vous voulez, les autres sports, le divertissement, la politique). Touchez un bouton pour changer ; votre choix est gardé.", "الرياضة تطغى على كل شيء في البحث: شريط «إخفاء» في الأعلى يخفي كرة القدم (وإن شئت الرياضات الأخرى والترفيه والسياسة). المس زرًا للتغيير؛ اختيارك محفوظ.")}</p></details>'
+                       f'<details><summary>{L("4. Nous classons par catégorie et repérons les opportunités", "4. نصنّف حسب الفئة ونرصد الفرص")}</summary><p>{L("Mots-clés en français, en arabe et en tunisien, puis les catégories de Google ; une opportunité = un secteur utile + une intention d’achat ou un gros volume.", "كلمات مفتاحية بالفرنسية والعربية والتونسية، ثم فئات غوغل؛ الفرصة = قطاع مفيد + نية شراء أو حجم كبير.")}</p></details>'
                        f'</div><p><a href="{r}a-propos/">{L("Toute la méthode, les limites et les sources →", "الطريقة كاملة والحدود والمصادر ←")}</a></p>' + source_bloc(),
                        ident="comment"))
     corps.append(AVIS)
@@ -321,7 +322,7 @@ def page_categorie(a, cle, v, maj):
     corps += carte("Autres catégories", "فئات أخرى", '<div class="etiquettes">' + "".join(f'<a href="{r}categorie/{c}/">{L(E(f), a_)}</a>' for c, f, a_ in K.CATEGORIES if c != cle) + '</div>') + source_bloc()
     return page(f"categorie/{cle}/", f"{fr} : tendances de recherche en Tunisie | {NOM['fr']}",
                 f"Les recherches Google en hausse en Tunisie dans la catégorie {fr.lower()} : {d['n_semaine']} cette semaine, avec volume, progression et mots tapés.",
-                hero, corps, v, maj, f"{ar}: اتجاهات البحث في تونس | {NOM['ar']}", f"عمليات البحث الصاعدة في تونس في فئة {ar}: {d['n_semaine']} هذا الأسبوع، مع الحجم ونسبة الصعود والكلمات المكتوبة.")
+                hero, corps, v, maj, f"{ar}: اتجاهات البحث في تونس | {NOM['ar']}", f"عمليات البحث الصاعدة في تونس في فئة {ar}: {d['n_semaine']} هذا الأسبوع، مع الحجم ونسبة الصعود والكلمات المكتوبة.", categorie=cle)
 
 
 def page_opportunites(a, v, maj):
@@ -433,6 +434,7 @@ FONCTIONS = [
     ("Historique", "السجل", "La page « Historique » garde tout depuis la première lecture : tendances par jour, par semaine et par mois, avec les catégories dominantes.", "صفحة «السجل» تحتفظ بكل شيء منذ أول قراءة: الاتجاهات حسب اليوم والأسبوع والشهر، مع الفئات الغالبة."),
     ("Page de chaque mot", "صفحة كل كلمة", "Chaque mot a sa page : toutes les fois où il est monté, son volume, ses recherches liées, sa catégorie et un lien vers sa courbe sur Google Trends.", "لكل كلمة صفحتها: كل المرات التي صعدت فيها، حجمها، البحوث المرتبطة، فئتها، ورابط إلى منحناها على Google Trends."),
     ("Qui redescend, qui revient", "ما يتراجع وما يعود", "« Qui redescend » = présents la semaine passée, absents cette semaine ; « qui revient » = vus sur au moins 3 jours différents ce mois-ci.", "«ما يتراجع» = كانت الأسبوع الماضي وغابت هذا الأسبوع؛ «ما يعود» = ظهرت في 3 أيام مختلفة على الأقل هذا الشهر."),
+    ("Masquer le football (et d’autres catégories)", "إخفاء كرة القدم (وفئات أخرى)", "La barre « Masquer » en haut des classements cache le football par défaut, et au choix les autres sports, le divertissement et la politique ; le choix est gardé sur votre appareil, les rangs sont renumérotés, et la page d’une catégorie montre toujours sa catégorie.", "شريط «إخفاء» أعلى الترتيب يخفي كرة القدم افتراضيًا، وبالاختيار الرياضات الأخرى والترفيه والسياسة؛ يُحفظ اختيارك على جهازك، ويُعاد ترقيم الصفوف، وصفحة الفئة تعرض فئتها دائمًا."),
     ("Filtres", "التصفية", "Les listes se filtrent par catégorie et par mot, montrent 10 lignes puis « Voir les N autres ».", "القوائم تُصفّى حسب الفئة والكلمة، وتعرض 10 أسطر ثم «عرض N الأخرى»."),
     ("Deux langues", "لغتان", "Le site existe en français et en arabe, chaque langue à sa propre adresse (bouton « ع / Fr » en haut).", "الموقع متاح بالفرنسية والعربية، ولكل لغة عنوانها الخاص (زر «ع / Fr» في الأعلى)."),
     ("Partager", "شارك", "Le bouton rond « Partager » en haut envoie le lien de la page par le menu de partage du téléphone, sinon par WhatsApp.", "الزر الدائري «شارك» في الأعلى يرسل رابط الصفحة عبر قائمة المشاركة في الهاتف، وإلا عبر واتساب."),

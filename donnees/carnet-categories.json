@@ -8,11 +8,6 @@
    "volume": 2000
   },
   {
-   "mot": "kylian mbappé",
-   "fois": 1,
-   "volume": 2000
-  },
-  {
    "mot": "سرقة",
    "fois": 1,
    "volume": 1000
@@ -23,19 +18,9 @@
    "volume": 1000
   },
   {
-   "mot": "كيليان مبابي",
-   "fois": 1,
-   "volume": 1000
-  },
-  {
    "mot": "تهريب",
    "fois": 1,
    "volume": 500
-  },
-  {
-   "mot": "manchester united",
-   "fois": 1,
-   "volume": 100
   },
   {
    "mot": "قطار",

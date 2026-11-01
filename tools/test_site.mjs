@@ -13,7 +13,7 @@ const SITE = "https://tendances.clicvia.com/";
 
 const A = JSON.parse(lire("donnees/analyse.json"));
 const M = JSON.parse(lire("donnees/tendances.json"));
-const CATS = ["immobilier", "automobile", "emploi", "education", "tourisme", "sante", "commerce", "technologie", "administration", "energie", "finance", "sport", "divertissement", "meteo", "politique", "religion", "autre"];
+const CATS = ["immobilier", "automobile", "emploi", "education", "tourisme", "sante", "commerce", "technologie", "administration", "energie", "finance", "football", "sport", "divertissement", "meteo", "politique", "religion", "autre"];
 const fixes = ["", "semaine/", "opportunites/", "mots-tapes/", "historique/", "a-propos/", ...CATS.map(c => `categorie/${c}/`)];
 const mots = readdirSync(join(root, "mot")).map(m => `mot/${m}/`);
 const pages = [...fixes, ...mots];
@@ -94,6 +94,7 @@ const FONCTIONS = [
   ["page de chaque mot", mots.length > 0, /Chaque mot a sa page/, /لكل كلمة صفحتها/],
   ["Qui redescend / revient", acc.includes('id="retombees"'), /Qui redescend.*3 jours/, /ما يتراجع.*3 أيام/],
   ["filtres et Voir les N autres", sem.includes("data-filtre-cat"), /filtrent par catégorie.*Voir les N autres/, /تُصفّى حسب الفئة/],
+  ["masquer le football", lire("assets/app.js").includes("tendances-masquer"), /Masquer.*football par défaut/, /إخفاء.*كرة القدم افتراضيًا/],
   ["deux langues", existsSync(join(root, "ar/index.html")), /français et en arabe.*adresse/, /بالفرنسية والعربية.*عنوانها/],
   ["bouton Partager", lire("assets/page.js").includes("partagerLien"), /bouton rond « Partager »/, /الزر الدائري «شارك»/],
   ["Votre avis", acc.includes('id="avis-form"'), /Votre avis.*e-mail obligatoire/, /رأيك.*البريد الإلكتروني إجباري/],
@@ -131,6 +132,15 @@ if (JSDOM) {
   };
   const w = await ouvrir("index.html");
   const d = w.document;
+  // masquage (01/11/2026, Ahmed) : football caché par défaut, rangs renumérotés, bouton pour le remontrer ; page de catégorie jamais masquée
+  const footAcc = d.querySelectorAll('ul.tendances > li[data-cat="football"]');
+  check("jsdom : barre « Masquer » présente, football masqué par défaut dans les classements", d.querySelector(".masquage button[data-cat=football][aria-pressed=true]") && [...footAcc].every(li => li.classList.contains("cachee-masque")));
+  check("jsdom : les rangs visibles recommencent à 1 sans trou", (() => { const r = [...d.querySelectorAll("#semaine > li:not(.cachee-masque) .rang, #aujourdhui > li:not(.cachee-masque) .rang")].slice(0, 5).map(x => +x.textContent); return r.length === 0 || r[0] === 1; })());
+  d.querySelector(".masquage button[data-cat=football]").click();
+  check("jsdom : un clic remontre le football et garde le choix", d.querySelector(".masquage button[data-cat=football][aria-pressed=false]") && [...footAcc].every(li => !li.classList.contains("cachee-masque")) && w.localStorage.getItem("tendances-masquer") === "[]");
+  w.localStorage.removeItem("tendances-masquer");
+  const wf = await ouvrir("categorie/football/index.html");
+  check("jsdom : la page de la catégorie Football montre ses lignes malgré le masquage par défaut", wf.document.body.getAttribute("data-categorie") === "football" && [...wf.document.querySelectorAll('ul.tendances > li[data-cat="football"]')].every(li => !li.classList.contains("cachee-masque")));
   check("jsdom : en-tête avec logo, bouton Partager, bouton de langue, lien Opportunités", d.querySelector("#entete .logo") && d.querySelector("#entete .partager") && d.querySelector("#entete .langue") && d.querySelector('#entete a[href$="opportunites/"]'));
   check("jsdom : pied de page avec les rubriques et « Tous nos services »", d.querySelectorAll("#pied nav a").length >= 7 && d.querySelector('#pied a[href="https://clicvia.com/"]'));
   check("jsdom : liste Aujourd'hui limitée à 10 + bouton « Voir les N autres »", d.querySelectorAll("#aujourdhui > li:not(.cachee-limite)").length <= 10 && (d.querySelector("#aujourdhui + .voir-plus") || d.querySelectorAll("#aujourdhui > li").length <= 10));
