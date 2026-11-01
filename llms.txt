@@ -1,20 +1,39 @@
-# Tendances de recherche en Tunisie
+# Tendances de recherche en Tunisie : ce que les Tunisiens cherchent sur Google aujourd'hui
 
-> Ce que les Tunisiens cherchent sur Google : recherches en forte hausse (24 h, 7 jours), nouveautés, catégories, opportunités pour les entrepreneurs, historique construit jour après jour. Français et arabe (une adresse par langue : /ar/). Adresse : https://tendances.clicvia.com/
+> Chaque jour : les mots et expressions en forte hausse dans les recherches Google en Tunisie, en français et en arabe, par catégorie, avec leur historique et les opportunités pour les entrepreneurs. Données Google Trends, mises à jour automatiquement.
 
-Source des données : Google Trends (Tunisie) et suggestions de recherche Google ; lecture automatique deux fois par jour. Volumes = ordres de grandeur par paliers, jamais exacts.
+Site gratuit et indépendant, publié par Clicvia (https://clicvia.com/), le portail de services pratiques pour la Tunisie. Adresse : https://tendances.clicvia.com/
+Langues : français, arabe (une adresse par langue : /ar/).
 
-## Pages
-- [Aujourd'hui](https://tendances.clicvia.com/) : recherches commencées dans les 24 dernières heures, nouveautés, hausses inhabituelles, opportunités, catégories.
-- [Cette semaine](https://tendances.clicvia.com/semaine/) : toutes les tendances des 7 derniers jours, filtrables.
-- [Opportunités](https://tendances.clicvia.com/opportunites/) : recherches en hausse qui révèlent un besoin ou une intention d'achat.
-- [Mots tapés](https://tendances.clicvia.com/mots-tapes/) : expressions réellement tapées (suggestions Google), nouvelles et disparues.
-- [Historique](https://tendances.clicvia.com/historique/) : par jour, semaine et mois.
-- [Catégories](https://tendances.clicvia.com/categorie/immobilier/) : une page par catégorie (immobilier, automobile, emploi, education, tourisme, sante, commerce, technologie, administration, energie, finance, sport, divertissement, meteo, politique, religion, autre).
-- [Comment fonctionne le site ?](https://tendances.clicvia.com/a-propos/) : méthode, limites, sources.
+## Pages principales
 
-## Données ouvertes
-- https://tendances.clicvia.com/donnees/analyse.json : l'analyse du jour (JSON) ; https://tendances.clicvia.com/donnees/tendances.json : toutes les tendances vues. Réutilisation libre avec la mention « Tendances de recherche en Tunisie (tendances.clicvia.com), d'après Google Trends ».
+- [Tendances de recherche de la semaine en Tunisie](https://tendances.clicvia.com/semaine/) : Les 173 recherches Google en forte hausse en Tunisie ces 7 derniers jours, par catégorie, avec volume et progression.
+- [Opportunités commerciales dans les recherches Google en Tunisie](https://tendances.clicvia.com/opportunites/) : Les recherches en hausse qui révèlent un besoin ou une intention d'achat en Tunisie : produits, services et idées de sites, repérés chaque semaine.
+- [Les mots que les Tunisiens tapent sur Google](https://tendances.clicvia.com/mots-tapes/) : Les expressions réellement tapées sur Google en Tunisie, d'après les suggestions de recherche : nouvelles expressions, par catégorie, expressions disparues.
+- [Historique des tendances de recherche en Tunisie](https://tendances.clicvia.com/historique/) : Semaine après semaine, mois après mois : le nombre de recherches en hausse en Tunisie, les catégories dominantes et les mots les plus forts, gardés depuis la première lecture.
+- [Comment fonctionne le site ? Méthode, sources et limites](https://tendances.clicvia.com/a-propos/) : Comment Tendances de recherche en Tunisie lit Google Trends deux fois par jour, garde l'historique, classe par catégorie et repère les opportunités ; ce que les volumes veulent dire et leurs limites.
+- [« ballon d'or 2026 » : tendance de recherche en Tunisie](https://tendances.clicvia.com/mot/ballon-d-or-2026/) : Le mot « ballon d'or 2026 » dans les recherches Google en Tunisie : 1 jour(s) en forte hausse, jusqu'à 50 000+ recherches, catégorie sport, dernière poussée le 25/10/2026.
+- [« barcelone – real madrid » : tendance de recherche en Tunisie](https://tendances.clicvia.com/mot/barcelone-real-madrid/) : Le mot « barcelone – real madrid » dans les recherches Google en Tunisie : 1 jour(s) en forte hausse, jusqu'à 20 000+ recherches, catégorie sport, dernière poussée le 25/10/2026.
+- [« classement cs sfaxien – es tunis » : tendance de recherche en Tunisie](https://tendances.clicvia.com/mot/classement-cs-sfaxien-es-tunis/) : Le mot « classement cs sfaxien – es tunis » dans les recherches Google en Tunisie : 1 jour(s) en forte hausse, jusqu'à 20 000+ recherches, catégorie sport, dernière poussée le 29/10/2026.
+- [« club africain » : tendance de recherche en Tunisie](https://tendances.clicvia.com/mot/club-africain/) : Le mot « club africain » dans les recherches Google en Tunisie : 1 jour(s) en forte hausse, jusqu'à 20 000+ recherches, catégorie sport, dernière poussée le 25/10/2026.
+- [« météo » : tendance de recherche en Tunisie](https://tendances.clicvia.com/mot/meteo/) : Le mot « météo » dans les recherches Google en Tunisie : 2 jour(s) en forte hausse, jusqu'à 20 000+ recherches, catégorie météo, dernière poussée le 30/10/2026.
+- [« météo demain » : tendance de recherche en Tunisie](https://tendances.clicvia.com/mot/meteo-demain/) : Le mot « météo demain » dans les recherches Google en Tunisie : 1 jour(s) en forte hausse, jusqu'à 20 000+ recherches, catégorie météo, dernière poussée le 29/10/2026.
+- [« real vs barca » : tendance de recherche en Tunisie](https://tendances.clicvia.com/mot/real-vs-barca/) : Le mot « real vs barca » dans les recherches Google en Tunisie : 1 jour(s) en forte hausse, jusqu'à 20 000+ recherches, catégorie sport, dernière poussée le 25/10/2026.
+- [« club africain – ca bizertin » : tendance de recherche en Tunisie](https://tendances.clicvia.com/mot/club-africain-ca-bizertin/) : Le mot « club africain – ca bizertin » dans les recherches Google en Tunisie : 1 jour(s) en forte hausse, jusqu'à 10 000+ recherches, catégorie sport, dernière poussée le 29/10/2026.
+- [Immobilier : tendances de recherche en Tunisie](https://tendances.clicvia.com/categorie/immobilier/) : Les recherches Google en hausse en Tunisie dans la catégorie immobilier : 1 cette semaine, avec volume, progression et mots tapés.
+- [Automobile : tendances de recherche en Tunisie](https://tendances.clicvia.com/categorie/automobile/) : Les recherches Google en hausse en Tunisie dans la catégorie automobile : 0 cette semaine, avec volume, progression et mots tapés.
+- [Emploi et concours : tendances de recherche en Tunisie](https://tendances.clicvia.com/categorie/emploi/) : Les recherches Google en hausse en Tunisie dans la catégorie emploi et concours : 0 cette semaine, avec volume, progression et mots tapés.
+- [Éducation : tendances de recherche en Tunisie](https://tendances.clicvia.com/categorie/education/) : Les recherches Google en hausse en Tunisie dans la catégorie éducation : 0 cette semaine, avec volume, progression et mots tapés.
+- [Tourisme et voyages : tendances de recherche en Tunisie](https://tendances.clicvia.com/categorie/tourisme/) : Les recherches Google en hausse en Tunisie dans la catégorie tourisme et voyages : 3 cette semaine, avec volume, progression et mots tapés.
+- [Santé : tendances de recherche en Tunisie](https://tendances.clicvia.com/categorie/sante/) : Les recherches Google en hausse en Tunisie dans la catégorie santé : 0 cette semaine, avec volume, progression et mots tapés.
+- [Commerce et consommation : tendances de recherche en Tunisie](https://tendances.clicvia.com/categorie/commerce/) : Les recherches Google en hausse en Tunisie dans la catégorie commerce et consommation : 4 cette semaine, avec volume, progression et mots tapés.
+- [Technologie : tendances de recherche en Tunisie](https://tendances.clicvia.com/categorie/technologie/) : Les recherches Google en hausse en Tunisie dans la catégorie technologie : 1 cette semaine, avec volume, progression et mots tapés.
+
+Le site compte 187 pages au total ; la liste complète est dans le plan du site : https://tendances.clicvia.com/sitemap.xml
 
 ## À savoir
-- Site indépendant, non officiel, sans lien avec Google. Pour citer : le nom du site et le lien de la page.
+
+- Recherches Google en forte hausse en Tunisie, lues deux fois par jour sur Google Trends ; volumes par paliers (ordres de grandeur), catégories, opportunités, historique construit jour après jour. Source des données : Google Trends.
+- Site non officiel : en cas de doute, la source officielle indiquée sur la page fait foi.
+- Pour citer : « Tendances de recherche en Tunisie : ce que les Tunisiens cherchent sur Google aujourd'hui » avec le lien de la page utilisée.
+- Les assistants IA qui répondent à une question en citant leur source sont les bienvenus ; l'aspiration du contenu pour entraîner un modèle n'est pas autorisée (voir robots.txt).
