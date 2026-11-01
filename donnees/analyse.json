@@ -1,12 +1,12 @@
 {
- "maj": "2026-11-01T11:04:22",
+ "maj": "2026-11-01T11:10:37",
  "jour": "2026-11-01",
  "totaux": {
-  "tendances": 171,
-  "mots_distincts": 162,
-  "aujourdhui": 27,
-  "semaine": 170,
-  "mois": 171,
+  "tendances": 174,
+  "mots_distincts": 165,
+  "aujourdhui": 29,
+  "semaine": 173,
+  "mois": 174,
   "expressions_tapees": 1743,
   "premiere_lecture": "2026-11-01T10:46:10"
  },
@@ -89,6 +89,22 @@
    "jour": "2026-10-31"
   },
   {
+   "mot": "fc barcelona vs deportivo alavés standings",
+   "slug": "fc-barcelona-vs-deportivo-alaves-standings",
+   "langue": "fr",
+   "categorie": "sport",
+   "volume": 2000,
+   "hausse": 700,
+   "debut": "2026-10-31T23:20:00",
+   "fin": "2026-11-01T09:50:00",
+   "liees": [
+    "lamine yamal",
+    "fcb",
+    "barca"
+   ],
+   "jour": "2026-10-31"
+  },
+  {
    "mot": "ac milan – inter",
    "slug": "ac-milan-inter",
    "langue": "fr",
@@ -163,18 +179,15 @@
    "jour": "2026-10-31"
   },
   {
-   "mot": "fc barcelona vs deportivo alavés standings",
-   "slug": "fc-barcelona-vs-deportivo-alaves-standings",
+   "mot": "bayern munich",
+   "slug": "bayern-munich",
    "langue": "fr",
    "categorie": "sport",
    "volume": 500,
-   "hausse": 700,
-   "debut": "2026-10-31T23:20:00",
-   "fin": "2026-11-01T09:50:00",
-   "liees": [
-    "lamine yamal",
-    "fcb"
-   ],
+   "hausse": 600,
+   "debut": "2026-10-31T19:00:00",
+   "fin": "2026-11-01T09:40:00",
+   "liees": [],
    "jour": "2026-10-31"
   },
   {
@@ -187,7 +200,8 @@
    "debut": "2026-10-31T21:30:00",
    "fin": "2026-11-01T07:50:00",
    "liees": [
-    "ac milan"
+    "ac milan",
+    "milan vs inter"
    ],
    "jour": "2026-10-31"
   },
@@ -264,6 +278,18 @@
    "fin": "2026-11-01T10:30:00",
    "liees": [],
    "jour": "2026-11-01"
+  },
+  {
+   "mot": "ac milan",
+   "slug": "ac-milan",
+   "langue": "fr",
+   "categorie": "sport",
+   "volume": 200,
+   "hausse": 500,
+   "debut": "2026-10-31T21:40:00",
+   "fin": "2026-11-01T00:00:00",
+   "liees": [],
+   "jour": "2026-10-31"
   },
   {
    "mot": "pêche",
@@ -490,6 +516,22 @@
    "fin": "2026-10-29T19:40:00",
    "liees": [],
    "jour": "2026-10-29"
+  },
+  {
+   "mot": "real madrid",
+   "slug": "real-madrid",
+   "langue": "fr",
+   "categorie": "sport",
+   "volume": 10000,
+   "hausse": 1000,
+   "debut": "2026-10-25T21:10:00",
+   "fin": "2026-10-26T00:10:00",
+   "liees": [
+    "clasico",
+    "el clasico",
+    "madrid vs barcelona"
+   ],
+   "jour": "2026-10-25"
   },
   {
    "mot": "ballon d'or live",
@@ -921,6 +963,22 @@
     "ligue des champions de la caf"
    ],
    "jour": "2026-10-29"
+  },
+  {
+   "mot": "fc barcelona vs deportivo alavés standings",
+   "slug": "fc-barcelona-vs-deportivo-alaves-standings",
+   "langue": "fr",
+   "categorie": "sport",
+   "volume": 2000,
+   "hausse": 700,
+   "debut": "2026-10-31T23:20:00",
+   "fin": "2026-11-01T09:50:00",
+   "liees": [
+    "lamine yamal",
+    "fcb",
+    "barca"
+   ],
+   "jour": "2026-10-31"
   },
   {
    "mot": "kylian mbappé",
@@ -1460,21 +1518,6 @@
    "jour": "2026-10-25"
   },
   {
-   "mot": "fc barcelona vs deportivo alavés standings",
-   "slug": "fc-barcelona-vs-deportivo-alaves-standings",
-   "langue": "fr",
-   "categorie": "sport",
-   "volume": 500,
-   "hausse": 700,
-   "debut": "2026-10-31T23:20:00",
-   "fin": "2026-11-01T09:50:00",
-   "liees": [
-    "lamine yamal",
-    "fcb"
-   ],
-   "jour": "2026-10-31"
-  },
-  {
    "mot": "fcb",
    "slug": "fcb",
    "langue": "fr",
@@ -1487,6 +1530,18 @@
     "raphinha"
    ],
    "jour": "2026-10-25"
+  },
+  {
+   "mot": "bayern munich",
+   "slug": "bayern-munich",
+   "langue": "fr",
+   "categorie": "sport",
+   "volume": 500,
+   "hausse": 600,
+   "debut": "2026-10-31T19:00:00",
+   "fin": "2026-11-01T09:40:00",
+   "liees": [],
+   "jour": "2026-10-31"
   },
   {
    "mot": "huile",
@@ -1510,7 +1565,8 @@
    "debut": "2026-10-31T21:30:00",
    "fin": "2026-11-01T07:50:00",
    "liees": [
-    "ac milan"
+    "ac milan",
+    "milan vs inter"
    ],
    "jour": "2026-10-31"
   },
@@ -2069,6 +2125,18 @@
    "jour": "2026-10-25"
   },
   {
+   "mot": "ac milan",
+   "slug": "ac-milan",
+   "langue": "fr",
+   "categorie": "sport",
+   "volume": 200,
+   "hausse": 500,
+   "debut": "2026-10-31T21:40:00",
+   "fin": "2026-11-01T00:00:00",
+   "liees": [],
+   "jour": "2026-10-31"
+  },
+  {
    "mot": "club vs",
    "slug": "club-vs",
    "langue": "fr",
@@ -2622,6 +2690,22 @@
    "jour": "2026-10-31"
   },
   {
+   "mot": "fc barcelona vs deportivo alavés standings",
+   "slug": "fc-barcelona-vs-deportivo-alaves-standings",
+   "langue": "fr",
+   "categorie": "sport",
+   "volume": 2000,
+   "hausse": 700,
+   "debut": "2026-10-31T23:20:00",
+   "fin": "2026-11-01T09:50:00",
+   "liees": [
+    "lamine yamal",
+    "fcb",
+    "barca"
+   ],
+   "jour": "2026-10-31"
+  },
+  {
    "mot": "ac milan – inter",
    "slug": "ac-milan-inter",
    "langue": "fr",
@@ -2684,18 +2768,15 @@
    "jour": "2026-10-31"
   },
   {
-   "mot": "fc barcelona vs deportivo alavés standings",
-   "slug": "fc-barcelona-vs-deportivo-alaves-standings",
+   "mot": "bayern munich",
+   "slug": "bayern-munich",
    "langue": "fr",
    "categorie": "sport",
    "volume": 500,
-   "hausse": 700,
-   "debut": "2026-10-31T23:20:00",
-   "fin": "2026-11-01T09:50:00",
-   "liees": [
-    "lamine yamal",
-    "fcb"
-   ],
+   "hausse": 600,
+   "debut": "2026-10-31T19:00:00",
+   "fin": "2026-11-01T09:40:00",
+   "liees": [],
    "jour": "2026-10-31"
   },
   {
@@ -2708,7 +2789,8 @@
    "debut": "2026-10-31T21:30:00",
    "fin": "2026-11-01T07:50:00",
    "liees": [
-    "ac milan"
+    "ac milan",
+    "milan vs inter"
    ],
    "jour": "2026-10-31"
   },
@@ -2773,6 +2855,18 @@
    "fin": "2026-11-01T10:30:00",
    "liees": [],
    "jour": "2026-11-01"
+  },
+  {
+   "mot": "ac milan",
+   "slug": "ac-milan",
+   "langue": "fr",
+   "categorie": "sport",
+   "volume": 200,
+   "hausse": 500,
+   "debut": "2026-10-31T21:40:00",
+   "fin": "2026-11-01T00:00:00",
+   "liees": [],
+   "jour": "2026-10-31"
   },
   {
    "mot": "pêche",
@@ -2951,6 +3045,22 @@
    "fin": "2026-10-29T19:40:00",
    "liees": [],
    "jour": "2026-10-29"
+  },
+  {
+   "mot": "real madrid",
+   "slug": "real-madrid",
+   "langue": "fr",
+   "categorie": "sport",
+   "volume": 10000,
+   "hausse": 1000,
+   "debut": "2026-10-25T21:10:00",
+   "fin": "2026-10-26T00:10:00",
+   "liees": [
+    "clasico",
+    "el clasico",
+    "madrid vs barcelona"
+   ],
+   "jour": "2026-10-25"
   },
   {
    "mot": "classement fc barcelone – deportivo alavés",
@@ -3656,20 +3766,6 @@
    "fin": "2026-10-31T23:50:00",
    "liees": [],
    "jour": "2026-10-31"
-  },
-  {
-   "mot": "classement ac milan – inter milan",
-   "slug": "classement-ac-milan-inter-milan",
-   "langue": "fr",
-   "categorie": "sport",
-   "volume": 200,
-   "hausse": 1000,
-   "debut": "2026-10-31T23:50:00",
-   "fin": "2026-11-01T08:40:00",
-   "liees": [
-    "milan ac"
-   ],
-   "jour": "2026-10-31"
   }
  ],
  "retombees": [
@@ -4115,8 +4211,8 @@
   "sport": {
    "fr": "Sport",
    "ar": "الرياضة",
-   "n_semaine": 122,
-   "n_mois": 123,
+   "n_semaine": 125,
+   "n_mois": 126,
    "top": [
     {
      "mot": "ballon d'or 2026",
@@ -4219,6 +4315,22 @@
      "fin": "2026-10-29T19:40:00",
      "liees": [],
      "jour": "2026-10-29"
+    },
+    {
+     "mot": "real madrid",
+     "slug": "real-madrid",
+     "langue": "fr",
+     "categorie": "sport",
+     "volume": 10000,
+     "hausse": 1000,
+     "debut": "2026-10-25T21:10:00",
+     "fin": "2026-10-26T00:10:00",
+     "liees": [
+      "clasico",
+      "el clasico",
+      "madrid vs barcelona"
+     ],
+     "jour": "2026-10-25"
     },
     {
      "mot": "ballon d'or live",
@@ -4578,6 +4690,22 @@
      "jour": "2026-10-29"
     },
     {
+     "mot": "fc barcelona vs deportivo alavés standings",
+     "slug": "fc-barcelona-vs-deportivo-alaves-standings",
+     "langue": "fr",
+     "categorie": "sport",
+     "volume": 2000,
+     "hausse": 700,
+     "debut": "2026-10-31T23:20:00",
+     "fin": "2026-11-01T09:50:00",
+     "liees": [
+      "lamine yamal",
+      "fcb",
+      "barca"
+     ],
+     "jour": "2026-10-31"
+    },
+    {
      "mot": "ac milan – inter",
      "slug": "ac-milan-inter",
      "langue": "fr",
@@ -4927,35 +5055,6 @@
      "fin": "2026-10-26T00:00:00",
      "liees": [],
      "jour": "2026-10-25"
-    },
-    {
-     "mot": "fc barcelona vs deportivo alavés standings",
-     "slug": "fc-barcelona-vs-deportivo-alaves-standings",
-     "langue": "fr",
-     "categorie": "sport",
-     "volume": 500,
-     "hausse": 700,
-     "debut": "2026-10-31T23:20:00",
-     "fin": "2026-11-01T09:50:00",
-     "liees": [
-      "lamine yamal",
-      "fcb"
-     ],
-     "jour": "2026-10-31"
-    },
-    {
-     "mot": "fcb",
-     "slug": "fcb",
-     "langue": "fr",
-     "categorie": "sport",
-     "volume": 500,
-     "hausse": 700,
-     "debut": "2026-10-25T21:50:00",
-     "fin": "2026-10-26T00:00:00",
-     "liees": [
-      "raphinha"
-     ],
-     "jour": "2026-10-25"
     }
    ],
    "top24": [
@@ -5037,6 +5136,22 @@
      "jour": "2026-10-31"
     },
     {
+     "mot": "fc barcelona vs deportivo alavés standings",
+     "slug": "fc-barcelona-vs-deportivo-alaves-standings",
+     "langue": "fr",
+     "categorie": "sport",
+     "volume": 2000,
+     "hausse": 700,
+     "debut": "2026-10-31T23:20:00",
+     "fin": "2026-11-01T09:50:00",
+     "liees": [
+      "lamine yamal",
+      "fcb",
+      "barca"
+     ],
+     "jour": "2026-10-31"
+    },
+    {
      "mot": "ac milan – inter",
      "slug": "ac-milan-inter",
      "langue": "fr",
@@ -5084,21 +5199,6 @@
      "debut": "2026-10-31T21:50:00",
      "fin": "2026-10-31T23:50:00",
      "liees": [],
-     "jour": "2026-10-31"
-    },
-    {
-     "mot": "fc barcelona vs deportivo alavés standings",
-     "slug": "fc-barcelona-vs-deportivo-alaves-standings",
-     "langue": "fr",
-     "categorie": "sport",
-     "volume": 500,
-     "hausse": 700,
-     "debut": "2026-10-31T23:20:00",
-     "fin": "2026-11-01T09:50:00",
-     "liees": [
-      "lamine yamal",
-      "fcb"
-     ],
      "jour": "2026-10-31"
     }
    ]
@@ -5563,7 +5663,7 @@
  "historique": {
   "semaines": {
    "2026-10-26": {
-    "n": 122,
+    "n": 124,
     "top": [
      {
       "mot": "classement cs sfaxien – es tunis",
@@ -5712,7 +5812,7 @@
     "categories": [
      {
       "cle": "sport",
-      "n": 78
+      "n": 80
      },
      {
       "cle": "administration",
@@ -5757,7 +5857,7 @@
     ]
    },
    "2026-10-19": {
-    "n": 49,
+    "n": 50,
     "top": [
      {
       "mot": "ballon d'or 2026",
@@ -5828,6 +5928,22 @@
        "barca",
        "barca real madrid",
        "fc barcelona vs real madrid standings"
+      ],
+      "jour": "2026-10-25"
+     },
+     {
+      "mot": "real madrid",
+      "slug": "real-madrid",
+      "langue": "fr",
+      "categorie": "sport",
+      "volume": 10000,
+      "hausse": 1000,
+      "debut": "2026-10-25T21:10:00",
+      "fin": "2026-10-26T00:10:00",
+      "liees": [
+       "clasico",
+       "el clasico",
+       "madrid vs barcelona"
       ],
       "jour": "2026-10-25"
      },
@@ -5907,24 +6023,12 @@
       "fin": "2026-10-25T21:20:00",
       "liees": [],
       "jour": "2026-10-25"
-     },
-     {
-      "mot": "ca vs",
-      "slug": "ca-vs",
-      "langue": "fr",
-      "categorie": "sport",
-      "volume": 2000,
-      "hausse": 1000,
-      "debut": "2026-10-25T16:20:00",
-      "fin": "2026-10-25T21:10:00",
-      "liees": [],
-      "jour": "2026-10-25"
      }
     ],
     "categories": [
      {
       "cle": "sport",
-      "n": 45
+      "n": 46
      },
      {
       "cle": "autre",
@@ -5982,7 +6086,7 @@
     ]
    },
    "2026-10": {
-    "n": 169,
+    "n": 172,
     "top": [
      {
       "mot": "ballon d'or 2026",
@@ -6111,6 +6215,22 @@
       "jour": "2026-10-29"
      },
      {
+      "mot": "real madrid",
+      "slug": "real-madrid",
+      "langue": "fr",
+      "categorie": "sport",
+      "volume": 10000,
+      "hausse": 1000,
+      "debut": "2026-10-25T21:10:00",
+      "fin": "2026-10-26T00:10:00",
+      "liees": [
+       "clasico",
+       "el clasico",
+       "madrid vs barcelona"
+      ],
+      "jour": "2026-10-25"
+     },
+     {
       "mot": "real madrid vs barcelona",
       "slug": "real-madrid-vs-barcelona",
       "langue": "fr",
@@ -6126,30 +6246,12 @@
        "madrid vs barcelona"
       ],
       "jour": "2026-10-25"
-     },
-     {
-      "mot": "ballon d'or live",
-      "slug": "ballon-d-or-live",
-      "langue": "fr",
-      "categorie": "sport",
-      "volume": 5000,
-      "hausse": 1000,
-      "debut": "2026-10-26T19:00:00",
-      "fin": "2026-10-27T01:00:00",
-      "liees": [
-       "ballon d'or 2026 live",
-       "ballon d or",
-       "live ballon d or 2026",
-       "ballon d'or ceremony",
-       "ballon d'or winner 2026"
-      ],
-      "jour": "2026-10-26"
      }
     ],
     "categories": [
      {
       "cle": "sport",
-      "n": 121
+      "n": 124
      },
      {
       "cle": "administration",
@@ -9944,6 +10046,38 @@
    "liees": []
   },
   {
+   "mot": "real madrid",
+   "mot_norm": "real madrid",
+   "slug": "real-madrid",
+   "langue": "fr",
+   "categorie": "sport",
+   "episodes": [
+    {
+     "mot": "real madrid",
+     "slug": "real-madrid",
+     "langue": "fr",
+     "categorie": "sport",
+     "volume": 10000,
+     "hausse": 1000,
+     "debut": "2026-10-25T21:10:00",
+     "fin": "2026-10-26T00:10:00",
+     "liees": [
+      "clasico",
+      "el clasico",
+      "madrid vs barcelona"
+     ],
+     "jour": "2026-10-25"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 10000,
+   "liees": [
+    "clasico",
+    "el clasico",
+    "madrid vs barcelona"
+   ]
+  },
+  {
    "mot": "real madrid vs barcelona",
    "mot_norm": "real madrid vs barcelona",
    "slug": "real-madrid-vs-barcelona",
@@ -10614,6 +10748,38 @@
    "volume_max": 2000,
    "liees": [
     "ligue des champions de la caf"
+   ]
+  },
+  {
+   "mot": "fc barcelona vs deportivo alavés standings",
+   "mot_norm": "fc barcelona vs deportivo alaves standings",
+   "slug": "fc-barcelona-vs-deportivo-alaves-standings",
+   "langue": "fr",
+   "categorie": "sport",
+   "episodes": [
+    {
+     "mot": "fc barcelona vs deportivo alavés standings",
+     "slug": "fc-barcelona-vs-deportivo-alaves-standings",
+     "langue": "fr",
+     "categorie": "sport",
+     "volume": 2000,
+     "hausse": 700,
+     "debut": "2026-10-31T23:20:00",
+     "fin": "2026-11-01T09:50:00",
+     "liees": [
+      "lamine yamal",
+      "fcb",
+      "barca"
+     ],
+     "jour": "2026-10-31"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 2000,
+   "liees": [
+    "barca",
+    "fcb",
+    "lamine yamal"
    ]
   },
   {
@@ -11573,6 +11739,30 @@
    "liees": []
   },
   {
+   "mot": "bayern munich",
+   "mot_norm": "bayern munich",
+   "slug": "bayern-munich",
+   "langue": "fr",
+   "categorie": "sport",
+   "episodes": [
+    {
+     "mot": "bayern munich",
+     "slug": "bayern-munich",
+     "langue": "fr",
+     "categorie": "sport",
+     "volume": 500,
+     "hausse": 600,
+     "debut": "2026-10-31T19:00:00",
+     "fin": "2026-11-01T09:40:00",
+     "liees": [],
+     "jour": "2026-10-31"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 500,
+   "liees": []
+  },
+  {
    "mot": "binance",
    "mot_norm": "binance",
    "slug": "binance",
@@ -11667,36 +11857,6 @@
    "jours": 1,
    "volume_max": 500,
    "liees": []
-  },
-  {
-   "mot": "fc barcelona vs deportivo alavés standings",
-   "mot_norm": "fc barcelona vs deportivo alaves standings",
-   "slug": "fc-barcelona-vs-deportivo-alaves-standings",
-   "langue": "fr",
-   "categorie": "sport",
-   "episodes": [
-    {
-     "mot": "fc barcelona vs deportivo alavés standings",
-     "slug": "fc-barcelona-vs-deportivo-alaves-standings",
-     "langue": "fr",
-     "categorie": "sport",
-     "volume": 500,
-     "hausse": 700,
-     "debut": "2026-10-31T23:20:00",
-     "fin": "2026-11-01T09:50:00",
-     "liees": [
-      "lamine yamal",
-      "fcb"
-     ],
-     "jour": "2026-10-31"
-    }
-   ],
-   "jours": 1,
-   "volume_max": 500,
-   "liees": [
-    "fcb",
-    "lamine yamal"
-   ]
   },
   {
    "mot": "fcb",
@@ -11795,7 +11955,8 @@
      "debut": "2026-10-31T21:30:00",
      "fin": "2026-11-01T07:50:00",
      "liees": [
-      "ac milan"
+      "ac milan",
+      "milan vs inter"
      ],
      "jour": "2026-10-31"
     }
@@ -11803,7 +11964,8 @@
    "jours": 1,
    "volume_max": 500,
    "liees": [
-    "ac milan"
+    "ac milan",
+    "milan vs inter"
    ]
   },
   {
@@ -12288,6 +12450,30 @@
    ],
    "jours": 1,
    "volume_max": 500,
+   "liees": []
+  },
+  {
+   "mot": "ac milan",
+   "mot_norm": "ac milan",
+   "slug": "ac-milan",
+   "langue": "fr",
+   "categorie": "sport",
+   "episodes": [
+    {
+     "mot": "ac milan",
+     "slug": "ac-milan",
+     "langue": "fr",
+     "categorie": "sport",
+     "volume": 200,
+     "hausse": 500,
+     "debut": "2026-10-31T21:40:00",
+     "fin": "2026-11-01T00:00:00",
+     "liees": [],
+     "jour": "2026-10-31"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
    "liees": []
   },
   {
