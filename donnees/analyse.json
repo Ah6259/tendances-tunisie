@@ -1,11 +1,11 @@
 {
- "maj": "2026-11-01T18:17:30",
+ "maj": "2026-11-01T19:25:30",
  "jour": "2026-11-01",
  "totaux": {
   "tendances": 174,
   "mots_distincts": 165,
-  "aujourdhui": 19,
-  "semaine": 156,
+  "aujourdhui": 16,
+  "semaine": 150,
   "mois": 174,
   "expressions_tapees": 1743,
   "premiere_lecture": "2026-11-01T10:46:10"
@@ -95,18 +95,6 @@
    "jour": "2026-10-31"
   },
   {
-   "mot": "bayern munich",
-   "slug": "bayern-munich",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 500,
-   "hausse": 600,
-   "debut": "2026-10-31T19:00:00",
-   "fin": "2026-11-01T09:40:00",
-   "liees": [],
-   "jour": "2026-10-31"
-  },
-  {
    "mot": "inter milan",
    "slug": "inter-milan",
    "langue": "fr",
@@ -144,18 +132,6 @@
    "hausse": 1000,
    "debut": "2026-10-31T21:10:00",
    "fin": "2026-10-31T23:50:00",
-   "liees": [],
-   "jour": "2026-10-31"
-  },
-  {
-   "mot": "udinese – roma",
-   "slug": "udinese-roma",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": 1000,
-   "debut": "2026-10-31T18:20:00",
-   "fin": "2026-10-31T20:40:00",
    "liees": [],
    "jour": "2026-10-31"
   },
@@ -199,7 +175,7 @@
    "mot": "serie a",
    "slug": "serie-a",
    "langue": "fr",
-   "categorie": "divertissement",
+   "categorie": "football",
    "volume": 200,
    "hausse": 200,
    "debut": "2026-10-31T22:40:00",
@@ -228,18 +204,6 @@
    "hausse": 1000,
    "debut": "2026-10-31T21:50:00",
    "fin": "2026-10-31T22:50:00",
-   "liees": [],
-   "jour": "2026-10-31"
-  },
-  {
-   "mot": "tottenham – crystal palace",
-   "slug": "tottenham-crystal-palace",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 100,
-   "hausse": 1000,
-   "debut": "2026-10-31T19:10:00",
-   "fin": "2026-10-31T20:20:00",
    "liees": [],
    "jour": "2026-10-31"
   },
@@ -412,7 +376,7 @@
    "mot": "dazn",
    "slug": "dazn",
    "langue": "fr",
-   "categorie": "sport",
+   "categorie": "football",
    "volume": 5000,
    "hausse": 1000,
    "debut": "2026-10-26T18:10:00",
@@ -482,7 +446,7 @@
    "mot": "من فاز بالكرة الذهبية 2026",
    "slug": "من-فاز-بالكره-الذهبيه-2026",
    "langue": "ar",
-   "categorie": "sport",
+   "categorie": "football",
    "volume": 5000,
    "hausse": 1000,
    "debut": "2026-10-26T21:40:00",
@@ -617,7 +581,7 @@
    "mot": "la liga",
    "slug": "la-liga",
    "langue": "fr",
-   "categorie": "sport",
+   "categorie": "football",
    "volume": 2000,
    "hausse": 1000,
    "debut": "2026-10-25T20:00:00",
@@ -696,7 +660,7 @@
    "mot": "قرعة دوري ابطال افريقيا",
    "slug": "قرعه-دوري-ابطال-افريقيا",
    "langue": "ar",
-   "categorie": "sport",
+   "categorie": "football",
    "volume": 2000,
    "hausse": 1000,
    "debut": "2026-10-28T12:00:00",
@@ -886,7 +850,7 @@
    "mot": "bein sport",
    "slug": "bein-sport",
    "langue": "fr",
-   "categorie": "sport",
+   "categorie": "football",
    "volume": 1000,
    "hausse": 800,
    "debut": "2026-10-26T19:50:00",
@@ -1132,7 +1096,7 @@
    "mot": "yalla kora",
    "slug": "yalla-kora",
    "langue": "fr",
-   "categorie": "sport",
+   "categorie": "football",
    "volume": 500,
    "hausse": 1000,
    "debut": "2026-10-29T14:40:00",
@@ -1144,7 +1108,7 @@
    "mot": "كورة سيتي",
    "slug": "كوره-سيتي",
    "langue": "ar",
-   "categorie": "sport",
+   "categorie": "football",
    "volume": 500,
    "hausse": 1000,
    "debut": "2026-10-25T21:20:00",
@@ -1340,18 +1304,6 @@
    "jour": "2026-10-29"
   },
   {
-   "mot": "مباريات اليوم مباشر",
-   "slug": "مباريات-اليوم-مباشر",
-   "langue": "ar",
-   "categorie": "sport",
-   "volume": 500,
-   "hausse": 500,
-   "debut": "2026-10-25T18:20:00",
-   "fin": "2026-10-25T23:30:00",
-   "liees": [],
-   "jour": "2026-10-25"
-  },
-  {
    "mot": "bna",
    "slug": "bna",
    "langue": "fr",
@@ -1362,18 +1314,6 @@
    "fin": "2026-10-27T16:50:00",
    "liees": [],
    "jour": "2026-10-27"
-  },
-  {
-   "mot": "match",
-   "slug": "match",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 500,
-   "hausse": 400,
-   "debut": "2026-10-25T18:50:00",
-   "fin": "2026-10-26T00:10:00",
-   "liees": [],
-   "jour": "2026-10-25"
   },
   {
    "mot": "binance",
@@ -1669,7 +1609,7 @@
    "mot": "bein sport live",
    "slug": "bein-sport-live",
    "langue": "fr",
-   "categorie": "sport",
+   "categorie": "football",
    "volume": 200,
    "hausse": 700,
    "debut": "2026-10-26T21:00:00",
@@ -1681,7 +1621,7 @@
    "mot": "bein sport live",
    "slug": "bein-sport-live",
    "langue": "fr",
-   "categorie": "sport",
+   "categorie": "football",
    "volume": 200,
    "hausse": 700,
    "debut": "2026-10-25T21:30:00",
@@ -1700,18 +1640,6 @@
    "fin": "2026-10-29T22:50:00",
    "liees": [],
    "jour": "2026-10-29"
-  },
-  {
-   "mot": "club african",
-   "slug": "club-african",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": 700,
-   "debut": "2026-10-25T18:40:00",
-   "fin": "2026-10-25T20:40:00",
-   "liees": [],
-   "jour": "2026-10-25"
   },
   {
    "mot": "prix",
@@ -1746,18 +1674,6 @@
    "hausse": 700,
    "debut": "2026-10-25T21:10:00",
    "fin": "2026-10-25T22:50:00",
-   "liees": [],
-   "jour": "2026-10-25"
-  },
-  {
-   "mot": "lecce – juventus",
-   "slug": "lecce-juventus",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": 600,
-   "debut": "2026-10-25T18:20:00",
-   "fin": "2026-10-25T21:10:00",
    "liees": [],
    "jour": "2026-10-25"
   },
@@ -1798,18 +1714,6 @@
    "jour": "2026-10-31"
   },
   {
-   "mot": "club vs",
-   "slug": "club-vs",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": 500,
-   "debut": "2026-10-25T18:50:00",
-   "fin": "2026-10-25T21:00:00",
-   "liees": [],
-   "jour": "2026-10-25"
-  },
-  {
    "mot": "didier fraisse",
    "slug": "didier-fraisse",
    "langue": "fr",
@@ -1837,7 +1741,7 @@
    "mot": "koora goal",
    "slug": "koora-goal",
    "langue": "fr",
-   "categorie": "sport",
+   "categorie": "football",
    "volume": 200,
    "hausse": 400,
    "debut": "2026-10-25T21:10:00",
@@ -1925,7 +1829,7 @@
    "mot": "serie a",
    "slug": "serie-a",
    "langue": "fr",
-   "categorie": "divertissement",
+   "categorie": "football",
    "volume": 200,
    "hausse": 200,
    "debut": "2026-10-31T22:40:00",
@@ -1954,18 +1858,6 @@
    "hausse": 200,
    "debut": "2026-10-25T23:00:00",
    "fin": "2026-10-26T06:20:00",
-   "liees": [],
-   "jour": "2026-10-25"
-  },
-  {
-   "mot": "مباريات اليوم",
-   "slug": "مباريات-اليوم",
-   "langue": "ar",
-   "categorie": "sport",
-   "volume": 200,
-   "hausse": 200,
-   "debut": "2026-10-25T18:20:00",
-   "fin": "2026-10-25T23:30:00",
    "liees": [],
    "jour": "2026-10-25"
   },
@@ -2333,18 +2225,6 @@
    "jour": "2026-10-31"
   },
   {
-   "mot": "bayern munich",
-   "slug": "bayern-munich",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 500,
-   "hausse": 600,
-   "debut": "2026-10-31T19:00:00",
-   "fin": "2026-11-01T09:40:00",
-   "liees": [],
-   "jour": "2026-10-31"
-  },
-  {
    "mot": "inter milan",
    "slug": "inter-milan",
    "langue": "fr",
@@ -2382,18 +2262,6 @@
    "hausse": 1000,
    "debut": "2026-10-31T21:10:00",
    "fin": "2026-10-31T23:50:00",
-   "liees": [],
-   "jour": "2026-10-31"
-  },
-  {
-   "mot": "udinese – roma",
-   "slug": "udinese-roma",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": 1000,
-   "debut": "2026-10-31T18:20:00",
-   "fin": "2026-10-31T20:40:00",
    "liees": [],
    "jour": "2026-10-31"
   },
@@ -2437,23 +2305,11 @@
    "mot": "serie a",
    "slug": "serie-a",
    "langue": "fr",
-   "categorie": "divertissement",
+   "categorie": "football",
    "volume": 200,
    "hausse": 200,
    "debut": "2026-10-31T22:40:00",
    "fin": "2026-11-01T08:40:00",
-   "liees": [],
-   "jour": "2026-10-31"
-  },
-  {
-   "mot": "tottenham – crystal palace",
-   "slug": "tottenham-crystal-palace",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 100,
-   "hausse": 1000,
-   "debut": "2026-10-31T19:10:00",
-   "fin": "2026-10-31T20:20:00",
    "liees": [],
    "jour": "2026-10-31"
   },
@@ -2642,7 +2498,7 @@
    "mot": "dazn",
    "slug": "dazn",
    "langue": "fr",
-   "categorie": "sport",
+   "categorie": "football",
    "volume": 5000,
    "hausse": 1000,
    "debut": "2026-10-26T18:10:00",
@@ -2684,7 +2540,7 @@
    "mot": "من فاز بالكرة الذهبية 2026",
    "slug": "من-فاز-بالكره-الذهبيه-2026",
    "langue": "ar",
-   "categorie": "sport",
+   "categorie": "football",
    "volume": 5000,
    "hausse": 1000,
    "debut": "2026-10-26T21:40:00",
@@ -2821,7 +2677,7 @@
    "mot": "قرعة دوري ابطال افريقيا",
    "slug": "قرعه-دوري-ابطال-افريقيا",
    "langue": "ar",
-   "categorie": "sport",
+   "categorie": "football",
    "volume": 2000,
    "hausse": 1000,
    "debut": "2026-10-28T12:00:00",
@@ -2838,7 +2694,7 @@
    "mot": "la liga",
    "slug": "la-liga",
    "langue": "fr",
-   "categorie": "sport",
+   "categorie": "football",
    "volume": 2000,
    "hausse": 1000,
    "debut": "2026-10-25T20:00:00",
@@ -3057,7 +2913,7 @@
    "mot": "yalla kora",
    "slug": "yalla-kora",
    "langue": "fr",
-   "categorie": "sport",
+   "categorie": "football",
    "volume": 500,
    "hausse": 1000,
    "debut": "2026-10-29T14:40:00",
@@ -3117,7 +2973,7 @@
    "mot": "كورة سيتي",
    "slug": "كوره-سيتي",
    "langue": "ar",
-   "categorie": "sport",
+   "categorie": "football",
    "volume": 500,
    "hausse": 1000,
    "debut": "2026-10-25T21:20:00",
@@ -3448,6 +3304,30 @@
    "jour": "2026-10-25"
   },
   {
+   "mot": "مباريات اليوم مباشر",
+   "slug": "مباريات-اليوم-مباشر",
+   "langue": "ar",
+   "categorie": "sport",
+   "volume": 500,
+   "hausse": 500,
+   "debut": "2026-10-25T18:20:00",
+   "fin": "2026-10-25T23:30:00",
+   "liees": [],
+   "jour": "2026-10-25"
+  },
+  {
+   "mot": "match",
+   "slug": "match",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 500,
+   "hausse": 400,
+   "debut": "2026-10-25T18:50:00",
+   "fin": "2026-10-26T00:10:00",
+   "liees": [],
+   "jour": "2026-10-25"
+  },
+  {
    "mot": "celta vigo – betis",
    "slug": "celta-vigo-betis",
    "langue": "fr",
@@ -3472,6 +3352,18 @@
    "jour": "2026-10-25"
   },
   {
+   "mot": "club african",
+   "slug": "club-african",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": 700,
+   "debut": "2026-10-25T18:40:00",
+   "fin": "2026-10-25T20:40:00",
+   "liees": [],
+   "jour": "2026-10-25"
+  },
+  {
    "mot": "marseille – le havre",
    "slug": "marseille-le-havre",
    "langue": "fr",
@@ -3484,6 +3376,30 @@
    "jour": "2026-10-25"
   },
   {
+   "mot": "lecce – juventus",
+   "slug": "lecce-juventus",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": 600,
+   "debut": "2026-10-25T18:20:00",
+   "fin": "2026-10-25T21:10:00",
+   "liees": [],
+   "jour": "2026-10-25"
+  },
+  {
+   "mot": "club vs",
+   "slug": "club-vs",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": 500,
+   "debut": "2026-10-25T18:50:00",
+   "fin": "2026-10-25T21:00:00",
+   "liees": [],
+   "jour": "2026-10-25"
+  },
+  {
    "mot": "الشروق",
    "slug": "الشروق",
    "langue": "ar",
@@ -3492,6 +3408,18 @@
    "hausse": 200,
    "debut": "2026-10-25T18:10:00",
    "fin": "2026-10-26T07:30:00",
+   "liees": [],
+   "jour": "2026-10-25"
+  },
+  {
+   "mot": "مباريات اليوم",
+   "slug": "مباريات-اليوم",
+   "langue": "ar",
+   "categorie": "sport",
+   "volume": 200,
+   "hausse": 200,
+   "debut": "2026-10-25T18:20:00",
+   "fin": "2026-10-25T23:30:00",
    "liees": [],
    "jour": "2026-10-25"
   },
@@ -3908,8 +3836,8 @@
   "football": {
    "fr": "Football",
    "ar": "كرة القدم",
-   "n_semaine": 75,
-   "n_mois": 87,
+   "n_semaine": 82,
+   "n_mois": 98,
    "top": [
     {
      "mot": "ballon d'or 2026",
@@ -4039,6 +3967,18 @@
      "jour": "2026-10-31"
     },
     {
+     "mot": "dazn",
+     "slug": "dazn",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 5000,
+     "hausse": 1000,
+     "debut": "2026-10-26T18:10:00",
+     "fin": "2026-10-27T01:00:00",
+     "liees": [],
+     "jour": "2026-10-26"
+    },
+    {
      "mot": "manchester city – brighton",
      "slug": "manchester-city-brighton",
      "langue": "fr",
@@ -4067,6 +4007,24 @@
      "liees": [
       "classement paris saint-germain football club – olympique lyonnais",
       "psg vs ol"
+     ],
+     "jour": "2026-10-26"
+    },
+    {
+     "mot": "من فاز بالكرة الذهبية 2026",
+     "slug": "من-فاز-بالكره-الذهبيه-2026",
+     "langue": "ar",
+     "categorie": "football",
+     "volume": 5000,
+     "hausse": 1000,
+     "debut": "2026-10-26T21:40:00",
+     "fin": "2026-10-27T10:50:00",
+     "liees": [
+      "حفل الكرة الذهبية 2026",
+      "yalla kora",
+      "الكرة الذهبية 2026",
+      "من الفائز بالكرة الذهبية 2026",
+      "الكرة الذهبية"
      ],
      "jour": "2026-10-26"
     },
@@ -4176,6 +4134,18 @@
      "jour": "2026-10-30"
     },
     {
+     "mot": "la liga",
+     "slug": "la-liga",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 2000,
+     "hausse": 1000,
+     "debut": "2026-10-25T20:00:00",
+     "fin": "2026-10-26T08:40:00",
+     "liees": [],
+     "jour": "2026-10-25"
+    },
+    {
      "mot": "liverpool – chelsea",
      "slug": "liverpool-chelsea",
      "langue": "fr",
@@ -4203,6 +4173,23 @@
       "fc barcelona"
      ],
      "jour": "2026-10-25"
+    },
+    {
+     "mot": "قرعة دوري ابطال افريقيا",
+     "slug": "قرعه-دوري-ابطال-افريقيا",
+     "langue": "ar",
+     "categorie": "football",
+     "volume": 2000,
+     "hausse": 1000,
+     "debut": "2026-10-28T12:00:00",
+     "fin": "2026-10-28T20:00:00",
+     "liees": [
+      "موزاييك أف أم",
+      "قرعة دوري أبطال أفريقيا 2026",
+      "دوري أبطال إفريقيا",
+      "قرعة دوري ابطال افريقيا 2027"
+     ],
+     "jour": "2026-10-28"
     },
     {
      "mot": "espérance sportive de tunis",
@@ -4328,6 +4315,18 @@
       "بطولة تونس"
      ],
      "jour": "2026-10-29"
+    },
+    {
+     "mot": "bein sport",
+     "slug": "bein-sport",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 1000,
+     "hausse": 800,
+     "debut": "2026-10-26T19:50:00",
+     "fin": "2026-10-27T00:00:00",
+     "liees": [],
+     "jour": "2026-10-26"
     },
     {
      "mot": "barca",
@@ -4478,6 +4477,30 @@
      "jour": "2026-10-27"
     },
     {
+     "mot": "yalla kora",
+     "slug": "yalla-kora",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 500,
+     "hausse": 1000,
+     "debut": "2026-10-29T14:40:00",
+     "fin": "2026-10-29T15:50:00",
+     "liees": [],
+     "jour": "2026-10-29"
+    },
+    {
+     "mot": "كورة سيتي",
+     "slug": "كوره-سيتي",
+     "langue": "ar",
+     "categorie": "football",
+     "volume": 500,
+     "hausse": 1000,
+     "debut": "2026-10-25T21:20:00",
+     "fin": "2026-10-25T23:40:00",
+     "liees": [],
+     "jour": "2026-10-25"
+    },
+    {
      "mot": "barca vs",
      "slug": "barca-vs",
      "langue": "fr",
@@ -4527,18 +4550,6 @@
      "fin": "2026-10-29T09:50:00",
      "liees": [],
      "jour": "2026-10-28"
-    },
-    {
-     "mot": "match",
-     "slug": "match",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 500,
-     "hausse": 400,
-     "debut": "2026-10-25T18:50:00",
-     "fin": "2026-10-26T00:10:00",
-     "liees": [],
-     "jour": "2026-10-25"
     },
     {
      "mot": "championnat",
@@ -4649,78 +4660,6 @@
      "fin": "2026-10-31T16:40:00",
      "liees": [],
      "jour": "2026-10-31"
-    },
-    {
-     "mot": "liverpool",
-     "slug": "liverpool",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 200,
-     "hausse": 800,
-     "debut": "2026-10-28T21:50:00",
-     "fin": "2026-10-29T00:40:00",
-     "liees": [],
-     "jour": "2026-10-28"
-    },
-    {
-     "mot": "championnat de tunisie de football",
-     "slug": "championnat-de-tunisie-de-football",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 200,
-     "hausse": 700,
-     "debut": "2026-10-29T16:30:00",
-     "fin": "2026-10-29T22:50:00",
-     "liees": [],
-     "jour": "2026-10-29"
-    },
-    {
-     "mot": "club african",
-     "slug": "club-african",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 200,
-     "hausse": 700,
-     "debut": "2026-10-25T18:40:00",
-     "fin": "2026-10-25T20:40:00",
-     "liees": [],
-     "jour": "2026-10-25"
-    },
-    {
-     "mot": "vincent kompany",
-     "slug": "vincent-kompany",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 200,
-     "hausse": 700,
-     "debut": "2026-11-01T09:40:00",
-     "fin": "2026-11-01T10:30:00",
-     "liees": [],
-     "jour": "2026-11-01"
-    },
-    {
-     "mot": "lecce – juventus",
-     "slug": "lecce-juventus",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 200,
-     "hausse": 600,
-     "debut": "2026-10-25T18:20:00",
-     "fin": "2026-10-25T21:10:00",
-     "liees": [],
-     "jour": "2026-10-25"
-    },
-    {
-     "mot": "real madrid vs barca",
-     "slug": "real-madrid-vs-barca",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 200,
-     "hausse": 600,
-     "debut": "2026-10-25T21:10:00",
-     "fin": "2026-10-26T00:00:00",
-     "liees": [],
-     "jour": "2026-10-25"
     }
    ],
    "top24": [
@@ -4872,51 +4811,9 @@
   "sport": {
    "fr": "Autres sports",
    "ar": "رياضات أخرى",
-   "n_semaine": 38,
-   "n_mois": 42,
+   "n_semaine": 26,
+   "n_mois": 32,
    "top": [
-    {
-     "mot": "dazn",
-     "slug": "dazn",
-     "langue": "fr",
-     "categorie": "sport",
-     "volume": 5000,
-     "hausse": 1000,
-     "debut": "2026-10-26T18:10:00",
-     "fin": "2026-10-27T01:00:00",
-     "liees": [],
-     "jour": "2026-10-26"
-    },
-    {
-     "mot": "من فاز بالكرة الذهبية 2026",
-     "slug": "من-فاز-بالكره-الذهبيه-2026",
-     "langue": "ar",
-     "categorie": "sport",
-     "volume": 5000,
-     "hausse": 1000,
-     "debut": "2026-10-26T21:40:00",
-     "fin": "2026-10-27T10:50:00",
-     "liees": [
-      "حفل الكرة الذهبية 2026",
-      "yalla kora",
-      "الكرة الذهبية 2026",
-      "من الفائز بالكرة الذهبية 2026",
-      "الكرة الذهبية"
-     ],
-     "jour": "2026-10-26"
-    },
-    {
-     "mot": "la liga",
-     "slug": "la-liga",
-     "langue": "fr",
-     "categorie": "sport",
-     "volume": 2000,
-     "hausse": 1000,
-     "debut": "2026-10-25T20:00:00",
-     "fin": "2026-10-26T08:40:00",
-     "liees": [],
-     "jour": "2026-10-25"
-    },
     {
      "mot": "le havre – paris-sg",
      "slug": "le-havre-paris-sg",
@@ -4932,23 +4829,6 @@
      "jour": "2026-10-30"
     },
     {
-     "mot": "قرعة دوري ابطال افريقيا",
-     "slug": "قرعه-دوري-ابطال-افريقيا",
-     "langue": "ar",
-     "categorie": "sport",
-     "volume": 2000,
-     "hausse": 1000,
-     "debut": "2026-10-28T12:00:00",
-     "fin": "2026-10-28T20:00:00",
-     "liees": [
-      "موزاييك أف أم",
-      "قرعة دوري أبطال أفريقيا 2026",
-      "دوري أبطال إفريقيا",
-      "قرعة دوري ابطال افريقيا 2027"
-     ],
-     "jour": "2026-10-28"
-    },
-    {
      "mot": "alexia putellas",
      "slug": "alexia-putellas",
      "langue": "fr",
@@ -4957,18 +4837,6 @@
      "hausse": 1000,
      "debut": "2026-10-26T23:30:00",
      "fin": "2026-10-27T18:30:00",
-     "liees": [],
-     "jour": "2026-10-26"
-    },
-    {
-     "mot": "bein sport",
-     "slug": "bein-sport",
-     "langue": "fr",
-     "categorie": "sport",
-     "volume": 1000,
-     "hausse": 800,
-     "debut": "2026-10-26T19:50:00",
-     "fin": "2026-10-27T00:00:00",
      "liees": [],
      "jour": "2026-10-26"
     },
@@ -4985,30 +4853,6 @@
       "caf champions league"
      ],
      "jour": "2026-10-28"
-    },
-    {
-     "mot": "yalla kora",
-     "slug": "yalla-kora",
-     "langue": "fr",
-     "categorie": "sport",
-     "volume": 500,
-     "hausse": 1000,
-     "debut": "2026-10-29T14:40:00",
-     "fin": "2026-10-29T15:50:00",
-     "liees": [],
-     "jour": "2026-10-29"
-    },
-    {
-     "mot": "كورة سيتي",
-     "slug": "كوره-سيتي",
-     "langue": "ar",
-     "categorie": "sport",
-     "volume": 500,
-     "hausse": 1000,
-     "debut": "2026-10-25T21:20:00",
-     "fin": "2026-10-25T23:40:00",
-     "liees": [],
-     "jour": "2026-10-25"
     },
     {
      "mot": "f1",
@@ -5059,18 +4903,6 @@
      "fin": "2026-10-30T08:20:00",
      "liees": [],
      "jour": "2026-10-29"
-    },
-    {
-     "mot": "مباريات اليوم مباشر",
-     "slug": "مباريات-اليوم-مباشر",
-     "langue": "ar",
-     "categorie": "sport",
-     "volume": 500,
-     "hausse": 500,
-     "debut": "2026-10-25T18:20:00",
-     "fin": "2026-10-25T23:30:00",
-     "liees": [],
-     "jour": "2026-10-25"
     },
     {
      "mot": "al-nassr vs al kholood",
@@ -5205,30 +5037,6 @@
      "jour": "2026-10-26"
     },
     {
-     "mot": "bein sport live",
-     "slug": "bein-sport-live",
-     "langue": "fr",
-     "categorie": "sport",
-     "volume": 200,
-     "hausse": 700,
-     "debut": "2026-10-26T21:00:00",
-     "fin": "2026-10-27T00:50:00",
-     "liees": [],
-     "jour": "2026-10-26"
-    },
-    {
-     "mot": "bein sport live",
-     "slug": "bein-sport-live",
-     "langue": "fr",
-     "categorie": "sport",
-     "volume": 200,
-     "hausse": 700,
-     "debut": "2026-10-25T21:30:00",
-     "fin": "2026-10-25T23:00:00",
-     "liees": [],
-     "jour": "2026-10-25"
-    },
-    {
      "mot": "yallakora",
      "slug": "yallakora",
      "langue": "fr",
@@ -5237,18 +5045,6 @@
      "hausse": 700,
      "debut": "2026-10-25T21:10:00",
      "fin": "2026-10-25T22:50:00",
-     "liees": [],
-     "jour": "2026-10-25"
-    },
-    {
-     "mot": "koora goal",
-     "slug": "koora-goal",
-     "langue": "fr",
-     "categorie": "sport",
-     "volume": 200,
-     "hausse": 400,
-     "debut": "2026-10-25T21:10:00",
-     "fin": "2026-10-25T22:30:00",
      "liees": [],
      "jour": "2026-10-25"
     },
@@ -5273,18 +5069,6 @@
      "hausse": 200,
      "debut": "2026-10-25T23:00:00",
      "fin": "2026-10-26T06:20:00",
-     "liees": [],
-     "jour": "2026-10-25"
-    },
-    {
-     "mot": "مباريات اليوم",
-     "slug": "مباريات-اليوم",
-     "langue": "ar",
-     "categorie": "sport",
-     "volume": 200,
-     "hausse": 200,
-     "debut": "2026-10-25T18:20:00",
-     "fin": "2026-10-25T23:30:00",
      "liees": [],
      "jour": "2026-10-25"
     },
@@ -5367,8 +5151,8 @@
   "divertissement": {
    "fr": "Divertissement et médias",
    "ar": "الترفيه والإعلام",
-   "n_semaine": 8,
-   "n_mois": 8,
+   "n_semaine": 7,
+   "n_mois": 7,
    "top": [
     {
      "mot": "درة",
@@ -5453,18 +5237,6 @@
      "fin": "2026-10-30T15:20:00",
      "liees": [],
      "jour": "2026-10-30"
-    },
-    {
-     "mot": "serie a",
-     "slug": "serie-a",
-     "langue": "fr",
-     "categorie": "divertissement",
-     "volume": 200,
-     "hausse": 200,
-     "debut": "2026-10-31T22:40:00",
-     "fin": "2026-11-01T08:40:00",
-     "liees": [],
-     "jour": "2026-10-31"
     }
    ],
    "top24": [
@@ -5477,18 +5249,6 @@
      "hausse": 200,
      "debut": "2026-10-31T04:50:00",
      "fin": "2026-11-01T01:00:00",
-     "liees": [],
-     "jour": "2026-10-31"
-    },
-    {
-     "mot": "serie a",
-     "slug": "serie-a",
-     "langue": "fr",
-     "categorie": "divertissement",
-     "volume": 200,
-     "hausse": 200,
-     "debut": "2026-10-31T22:40:00",
-     "fin": "2026-11-01T08:40:00",
      "liees": [],
      "jour": "2026-10-31"
     }
@@ -5851,7 +5611,7 @@
       "mot": "dazn",
       "slug": "dazn",
       "langue": "fr",
-      "categorie": "sport",
+      "categorie": "football",
       "volume": 5000,
       "hausse": 1000,
       "debut": "2026-10-26T18:10:00",
@@ -5907,11 +5667,11 @@
     "categories": [
      {
       "cle": "football",
-      "n": 55
+      "n": 62
      },
      {
       "cle": "sport",
-      "n": 27
+      "n": 21
      },
      {
       "cle": "administration",
@@ -5919,7 +5679,7 @@
      },
      {
       "cle": "divertissement",
-      "n": 8
+      "n": 7
      },
      {
       "cle": "meteo",
@@ -6127,11 +5887,11 @@
     "categories": [
      {
       "cle": "football",
-      "n": 32
+      "n": 36
      },
      {
       "cle": "sport",
-      "n": 15
+      "n": 11
      },
      {
       "cle": "tourisme",
@@ -6354,11 +6114,11 @@
     "categories": [
      {
       "cle": "football",
-      "n": 86
+      "n": 97
      },
      {
       "cle": "sport",
-      "n": 41
+      "n": 31
      },
      {
       "cle": "administration",
@@ -6366,7 +6126,7 @@
      },
      {
       "cle": "divertissement",
-      "n": 8
+      "n": 7
      },
      {
       "cle": "meteo",
@@ -10315,13 +10075,13 @@
    "mot_norm": "dazn",
    "slug": "dazn",
    "langue": "fr",
-   "categorie": "sport",
+   "categorie": "football",
    "episodes": [
     {
      "mot": "dazn",
      "slug": "dazn",
      "langue": "fr",
-     "categorie": "sport",
+     "categorie": "football",
      "volume": 5000,
      "hausse": 1000,
      "debut": "2026-10-26T18:10:00",
@@ -10534,13 +10294,13 @@
    "mot_norm": "من فاز بالكره الذهبيه 2026",
    "slug": "من-فاز-بالكره-الذهبيه-2026",
    "langue": "ar",
-   "categorie": "sport",
+   "categorie": "football",
    "episodes": [
     {
      "mot": "من فاز بالكرة الذهبية 2026",
      "slug": "من-فاز-بالكره-الذهبيه-2026",
      "langue": "ar",
-     "categorie": "sport",
+     "categorie": "football",
      "volume": 5000,
      "hausse": 1000,
      "debut": "2026-10-26T21:40:00",
@@ -10946,13 +10706,13 @@
    "mot_norm": "la liga",
    "slug": "la-liga",
    "langue": "fr",
-   "categorie": "sport",
+   "categorie": "football",
    "episodes": [
     {
      "mot": "la liga",
      "slug": "la-liga",
      "langue": "fr",
-     "categorie": "sport",
+     "categorie": "football",
      "volume": 2000,
      "hausse": 1000,
      "debut": "2026-10-25T20:00:00",
@@ -11162,13 +10922,13 @@
    "mot_norm": "قرعه دوري ابطال افريقيا",
    "slug": "قرعه-دوري-ابطال-افريقيا",
    "langue": "ar",
-   "categorie": "sport",
+   "categorie": "football",
    "episodes": [
     {
      "mot": "قرعة دوري ابطال افريقيا",
      "slug": "قرعه-دوري-ابطال-افريقيا",
      "langue": "ar",
-     "categorie": "sport",
+     "categorie": "football",
      "volume": 2000,
      "hausse": 1000,
      "debut": "2026-10-28T12:00:00",
@@ -11292,13 +11052,13 @@
    "mot_norm": "bein sport",
    "slug": "bein-sport",
    "langue": "fr",
-   "categorie": "sport",
+   "categorie": "football",
    "episodes": [
     {
      "mot": "bein sport",
      "slug": "bein-sport",
      "langue": "fr",
-     "categorie": "sport",
+     "categorie": "football",
      "volume": 1000,
      "hausse": 800,
      "debut": "2026-10-26T19:50:00",
@@ -12296,13 +12056,13 @@
    "mot_norm": "yalla kora",
    "slug": "yalla-kora",
    "langue": "fr",
-   "categorie": "sport",
+   "categorie": "football",
    "episodes": [
     {
      "mot": "yalla kora",
      "slug": "yalla-kora",
      "langue": "fr",
-     "categorie": "sport",
+     "categorie": "football",
      "volume": 500,
      "hausse": 1000,
      "debut": "2026-10-29T14:40:00",
@@ -12464,13 +12224,13 @@
    "mot_norm": "كوره سيتي",
    "slug": "كوره-سيتي",
    "langue": "ar",
-   "categorie": "sport",
+   "categorie": "football",
    "episodes": [
     {
      "mot": "كورة سيتي",
      "slug": "كوره-سيتي",
      "langue": "ar",
-     "categorie": "sport",
+     "categorie": "football",
      "volume": 500,
      "hausse": 1000,
      "debut": "2026-10-25T21:20:00",
@@ -12684,13 +12444,13 @@
    "mot_norm": "bein sport live",
    "slug": "bein-sport-live",
    "langue": "fr",
-   "categorie": "sport",
+   "categorie": "football",
    "episodes": [
     {
      "mot": "bein sport live",
      "slug": "bein-sport-live",
      "langue": "fr",
-     "categorie": "sport",
+     "categorie": "football",
      "volume": 200,
      "hausse": 700,
      "debut": "2026-10-26T21:00:00",
@@ -12702,7 +12462,7 @@
      "mot": "bein sport live",
      "slug": "bein-sport-live",
      "langue": "fr",
-     "categorie": "sport",
+     "categorie": "football",
      "volume": 200,
      "hausse": 700,
      "debut": "2026-10-25T21:30:00",
@@ -13056,13 +12816,13 @@
    "mot_norm": "koora goal",
    "slug": "koora-goal",
    "langue": "fr",
-   "categorie": "sport",
+   "categorie": "football",
    "episodes": [
     {
      "mot": "koora goal",
      "slug": "koora-goal",
      "langue": "fr",
-     "categorie": "sport",
+     "categorie": "football",
      "volume": 200,
      "hausse": 400,
      "debut": "2026-10-25T21:10:00",
@@ -13384,13 +13144,13 @@
    "mot_norm": "serie a",
    "slug": "serie-a",
    "langue": "fr",
-   "categorie": "divertissement",
+   "categorie": "football",
    "episodes": [
     {
      "mot": "serie a",
      "slug": "serie-a",
      "langue": "fr",
-     "categorie": "divertissement",
+     "categorie": "football",
      "volume": 200,
      "hausse": 200,
      "debut": "2026-10-31T22:40:00",

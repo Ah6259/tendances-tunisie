@@ -496,7 +496,7 @@
    "codes": [
     17
    ],
-   "categorie": "divertissement",
+   "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
    "vu_dernier": "2026-11-01T11:10:29",
    "releves": 8,
@@ -1541,7 +1541,7 @@
    "codes": [
     17
    ],
-   "categorie": "sport",
+   "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
    "vu_dernier": "2026-11-01T11:10:29",
    "releves": 2,
@@ -1754,7 +1754,7 @@
    "codes": [
     17
    ],
-   "categorie": "sport",
+   "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
    "vu_dernier": "2026-11-01T11:10:29",
    "releves": 2,
@@ -1783,7 +1783,7 @@
    "codes": [
     17
    ],
-   "categorie": "sport",
+   "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
    "vu_dernier": "2026-11-01T11:10:29",
    "releves": 2,
@@ -1991,7 +1991,7 @@
    "codes": [
     17
    ],
-   "categorie": "sport",
+   "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
    "vu_dernier": "2026-11-01T11:10:29",
    "releves": 2,
@@ -2601,7 +2601,7 @@
    "codes": [
     17
    ],
-   "categorie": "sport",
+   "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
    "vu_dernier": "2026-11-01T11:10:29",
    "releves": 2,
@@ -2847,7 +2847,7 @@
    "codes": [
     17
    ],
-   "categorie": "sport",
+   "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
    "vu_dernier": "2026-11-01T11:10:29",
    "releves": 2,
@@ -3235,7 +3235,7 @@
    "codes": [
     17
    ],
-   "categorie": "sport",
+   "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
    "vu_dernier": "2026-11-01T11:10:29",
    "releves": 2,
@@ -3576,7 +3576,7 @@
    "codes": [
     17
    ],
-   "categorie": "sport",
+   "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
    "vu_dernier": "2026-11-01T11:10:29",
    "releves": 2,
@@ -4057,7 +4057,7 @@
    "codes": [
     17
    ],
-   "categorie": "sport",
+   "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
    "vu_dernier": "2026-11-01T11:10:29",
    "releves": 2,
@@ -4179,7 +4179,7 @@
    "codes": [
     17
    ],
-   "categorie": "sport",
+   "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
    "vu_dernier": "2026-11-01T11:10:29",
    "releves": 2,
@@ -4516,5 +4516,5 @@
    ]
   }
  },
- "maj": "2026-11-01T18:17:29"
+ "maj": "2026-11-01T19:25:29"
 }
