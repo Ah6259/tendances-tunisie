@@ -1273,7 +1273,7 @@
    "codes": [
     17
    ],
-   "categorie": "meteo",
+   "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
    "vu_dernier": "2026-11-01T11:10:29",
    "releves": 2,
@@ -1754,7 +1754,7 @@
    "codes": [
     17
    ],
-   "categorie": "football",
+   "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
    "vu_dernier": "2026-11-01T11:10:29",
    "releves": 2,
@@ -2148,7 +2148,7 @@
    "codes": [
     11
    ],
-   "categorie": "finance",
+   "categorie": "autre",
    "vu_premier": "2026-11-01T10:46:10",
    "vu_dernier": "2026-11-01T11:10:29",
    "releves": 2,
@@ -4516,5 +4516,5 @@
    ]
   }
  },
- "maj": "2026-11-01T19:25:29"
+ "maj": "2026-11-01T19:26:30"
 }

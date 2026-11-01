@@ -58,7 +58,17 @@ MOTS = [
     (r"\b(president|parlement|gouvernement|ministre|election|vote|manifestation|guerre|israel|gaza|palestine|france|algerie|libye|usa|onu|crise)\b|رئيس|برلمان|حكومه|وزير|انتخابات|تصويت|مظاهره|حرب|اسرائيل|غزه|فلسطين|فرنسا|الجزائر|ليبيا|ازمه", "politique"),
     (r"\b(ramadan|aid|eid|mouled|achoura|priere|mosquee|coran|hijri|moharram|jeune|fete)\b|رمضان|عيد|مولد|عاشوراء|صلاه|مسجد|قران|هجري|محرم|صيام", "religion"),
 ]
-_MOTS = [(re.compile(r), c) for r, c in MOTS]
+def _compiler(r):
+    """Les mots latins ont déjà leurs limites de mot (). Les mots arabes (après le groupe latin) doivent COMMENCER un mot, avec ou
+    sans l'article « ال » (01/11/2026 : « رياح » (vent) se trouvait à l'intérieur de « مرياح », un nom de footballeur rangé en météo) ;
+    la fin reste libre (« عقار » trouve « عقارات »)."""
+    i = r.find("\\b|")
+    if i < 0:
+        return re.compile(r)
+    return re.compile(r[:i + 2] + r"|(?<!\w)(?:ال)?(?:" + r[i + 3:] + ")")
+
+
+_MOTS = [(_compiler(r), c) for r, c in MOTS]
 
 
 def categorie(mot_norm, codes_google=()):
@@ -78,5 +88,8 @@ INTENTION = re.compile(r"\b(prix|tarif|acheter|achat|vente|vendre|louer|location
                        r"|سعر|اسعار|ثمن|شراء|بيع|للبيع|كراء|للكراء|عرض|تخفيض|تكوين|دوره|توصيل|اصلاح|مستعمل|رخيص|افضل|كيفاش|كيف")
 
 
+_INTENTION = _compiler(INTENTION.pattern)
+
+
 def intention_commerciale(mot_norm):
-    return bool(INTENTION.search(mot_norm))
+    return bool(_INTENTION.search(mot_norm))

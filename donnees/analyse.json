@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-01T19:25:30",
+ "maj": "2026-11-01T19:26:30",
  "jour": "2026-11-01",
  "totaux": {
   "tendances": 174,
@@ -446,7 +446,7 @@
    "mot": "من فاز بالكرة الذهبية 2026",
    "slug": "من-فاز-بالكره-الذهبيه-2026",
    "langue": "ar",
-   "categorie": "football",
+   "categorie": "sport",
    "volume": 5000,
    "hausse": 1000,
    "debut": "2026-10-26T21:40:00",
@@ -464,7 +464,7 @@
    "mot": "ياسين مرياح",
    "slug": "ياسين-مرياح",
    "langue": "ar",
-   "categorie": "meteo",
+   "categorie": "sport",
    "volume": 5000,
    "hausse": 1000,
    "debut": "2026-10-27T23:20:00",
@@ -1271,7 +1271,7 @@
    "mot": "الشركة التونسية للبنك",
    "slug": "الشركه-التونسيه-للبنك",
    "langue": "ar",
-   "categorie": "finance",
+   "categorie": "autre",
    "volume": 500,
    "hausse": 500,
    "debut": "2026-10-27T06:10:00",
@@ -2471,7 +2471,7 @@
    "mot": "ياسين مرياح",
    "slug": "ياسين-مرياح",
    "langue": "ar",
-   "categorie": "meteo",
+   "categorie": "sport",
    "volume": 5000,
    "hausse": 1000,
    "debut": "2026-10-27T23:20:00",
@@ -2540,7 +2540,7 @@
    "mot": "من فاز بالكرة الذهبية 2026",
    "slug": "من-فاز-بالكره-الذهبيه-2026",
    "langue": "ar",
-   "categorie": "football",
+   "categorie": "sport",
    "volume": 5000,
    "hausse": 1000,
    "debut": "2026-10-26T21:40:00",
@@ -3774,21 +3774,9 @@
   "finance": {
    "fr": "Argent et banques",
    "ar": "المال والبنوك",
-   "n_semaine": 3,
-   "n_mois": 3,
+   "n_semaine": 2,
+   "n_mois": 2,
    "top": [
-    {
-     "mot": "الشركة التونسية للبنك",
-     "slug": "الشركه-التونسيه-للبنك",
-     "langue": "ar",
-     "categorie": "finance",
-     "volume": 500,
-     "hausse": 500,
-     "debut": "2026-10-27T06:10:00",
-     "fin": "2026-10-28T07:20:00",
-     "liees": [],
-     "jour": "2026-10-27"
-    },
     {
      "mot": "bna",
      "slug": "bna",
@@ -3836,8 +3824,8 @@
   "football": {
    "fr": "Football",
    "ar": "كرة القدم",
-   "n_semaine": 82,
-   "n_mois": 98,
+   "n_semaine": 81,
+   "n_mois": 97,
    "top": [
     {
      "mot": "ballon d'or 2026",
@@ -4007,24 +3995,6 @@
      "liees": [
       "classement paris saint-germain football club – olympique lyonnais",
       "psg vs ol"
-     ],
-     "jour": "2026-10-26"
-    },
-    {
-     "mot": "من فاز بالكرة الذهبية 2026",
-     "slug": "من-فاز-بالكره-الذهبيه-2026",
-     "langue": "ar",
-     "categorie": "football",
-     "volume": 5000,
-     "hausse": 1000,
-     "debut": "2026-10-26T21:40:00",
-     "fin": "2026-10-27T10:50:00",
-     "liees": [
-      "حفل الكرة الذهبية 2026",
-      "yalla kora",
-      "الكرة الذهبية 2026",
-      "من الفائز بالكرة الذهبية 2026",
-      "الكرة الذهبية"
      ],
      "jour": "2026-10-26"
     },
@@ -4660,6 +4630,18 @@
      "fin": "2026-10-31T16:40:00",
      "liees": [],
      "jour": "2026-10-31"
+    },
+    {
+     "mot": "liverpool",
+     "slug": "liverpool",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": 800,
+     "debut": "2026-10-28T21:50:00",
+     "fin": "2026-10-29T00:40:00",
+     "liees": [],
+     "jour": "2026-10-28"
     }
    ],
    "top24": [
@@ -4811,9 +4793,39 @@
   "sport": {
    "fr": "Autres sports",
    "ar": "رياضات أخرى",
-   "n_semaine": 26,
-   "n_mois": 32,
+   "n_semaine": 28,
+   "n_mois": 34,
    "top": [
+    {
+     "mot": "من فاز بالكرة الذهبية 2026",
+     "slug": "من-فاز-بالكره-الذهبيه-2026",
+     "langue": "ar",
+     "categorie": "sport",
+     "volume": 5000,
+     "hausse": 1000,
+     "debut": "2026-10-26T21:40:00",
+     "fin": "2026-10-27T10:50:00",
+     "liees": [
+      "حفل الكرة الذهبية 2026",
+      "yalla kora",
+      "الكرة الذهبية 2026",
+      "من الفائز بالكرة الذهبية 2026",
+      "الكرة الذهبية"
+     ],
+     "jour": "2026-10-26"
+    },
+    {
+     "mot": "ياسين مرياح",
+     "slug": "ياسين-مرياح",
+     "langue": "ar",
+     "categorie": "sport",
+     "volume": 5000,
+     "hausse": 1000,
+     "debut": "2026-10-27T23:20:00",
+     "fin": "2026-10-29T09:40:00",
+     "liees": [],
+     "jour": "2026-10-27"
+    },
     {
      "mot": "le havre – paris-sg",
      "slug": "le-havre-paris-sg",
@@ -5257,8 +5269,8 @@
   "meteo": {
    "fr": "Météo",
    "ar": "الطقس",
-   "n_semaine": 7,
-   "n_mois": 7,
+   "n_semaine": 6,
+   "n_mois": 6,
    "top": [
     {
      "mot": "météo",
@@ -5297,18 +5309,6 @@
       "الطقس"
      ],
      "jour": "2026-10-29"
-    },
-    {
-     "mot": "ياسين مرياح",
-     "slug": "ياسين-مرياح",
-     "langue": "ar",
-     "categorie": "meteo",
-     "volume": 5000,
-     "hausse": 1000,
-     "debut": "2026-10-27T23:20:00",
-     "fin": "2026-10-29T09:40:00",
-     "liees": [],
-     "jour": "2026-10-27"
     },
     {
      "mot": "meteo",
@@ -5393,8 +5393,8 @@
   "autre": {
    "fr": "Autre",
    "ar": "أخرى",
-   "n_semaine": 6,
-   "n_mois": 6,
+   "n_semaine": 7,
+   "n_mois": 7,
    "top": [
     {
      "mot": "بناء",
@@ -5443,6 +5443,18 @@
      "fin": "2026-10-27T07:30:00",
      "liees": [],
      "jour": "2026-10-26"
+    },
+    {
+     "mot": "الشركة التونسية للبنك",
+     "slug": "الشركه-التونسيه-للبنك",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": 500,
+     "debut": "2026-10-27T06:10:00",
+     "fin": "2026-10-28T07:20:00",
+     "liees": [],
+     "jour": "2026-10-27"
     },
     {
      "mot": "خصم",
@@ -5667,15 +5679,19 @@
     "categories": [
      {
       "cle": "football",
-      "n": 62
+      "n": 61
      },
      {
       "cle": "sport",
-      "n": 21
+      "n": 23
      },
      {
       "cle": "administration",
       "n": 9
+     },
+     {
+      "cle": "autre",
+      "n": 7
      },
      {
       "cle": "divertissement",
@@ -5683,10 +5699,6 @@
      },
      {
       "cle": "meteo",
-      "n": 7
-     },
-     {
-      "cle": "autre",
       "n": 6
      },
      {
@@ -5695,7 +5707,7 @@
      },
      {
       "cle": "finance",
-      "n": 3
+      "n": 2
      },
      {
       "cle": "tourisme",
@@ -6114,15 +6126,19 @@
     "categories": [
      {
       "cle": "football",
-      "n": 97
+      "n": 96
      },
      {
       "cle": "sport",
-      "n": 31
+      "n": 33
      },
      {
       "cle": "administration",
       "n": 10
+     },
+     {
+      "cle": "autre",
+      "n": 7
      },
      {
       "cle": "divertissement",
@@ -6130,10 +6146,6 @@
      },
      {
       "cle": "meteo",
-      "n": 7
-     },
-     {
-      "cle": "autre",
       "n": 6
      },
      {
@@ -6145,11 +6157,11 @@
       "n": 3
      },
      {
-      "cle": "finance",
-      "n": 3
+      "cle": "politique",
+      "n": 2
      },
      {
-      "cle": "politique",
+      "cle": "finance",
       "n": 2
      },
      {
@@ -10294,13 +10306,13 @@
    "mot_norm": "من فاز بالكره الذهبيه 2026",
    "slug": "من-فاز-بالكره-الذهبيه-2026",
    "langue": "ar",
-   "categorie": "football",
+   "categorie": "sport",
    "episodes": [
     {
      "mot": "من فاز بالكرة الذهبية 2026",
      "slug": "من-فاز-بالكره-الذهبيه-2026",
      "langue": "ar",
-     "categorie": "football",
+     "categorie": "sport",
      "volume": 5000,
      "hausse": 1000,
      "debut": "2026-10-26T21:40:00",
@@ -10334,13 +10346,13 @@
    "mot_norm": "ياسين مرياح",
    "slug": "ياسين-مرياح",
    "langue": "ar",
-   "categorie": "meteo",
+   "categorie": "sport",
    "episodes": [
     {
      "mot": "ياسين مرياح",
      "slug": "ياسين-مرياح",
      "langue": "ar",
-     "categorie": "meteo",
+     "categorie": "sport",
      "volume": 5000,
      "hausse": 1000,
      "debut": "2026-10-27T23:20:00",
@@ -12104,13 +12116,13 @@
    "mot_norm": "الشركه التونسيه للبنك",
    "slug": "الشركه-التونسيه-للبنك",
    "langue": "ar",
-   "categorie": "finance",
+   "categorie": "autre",
    "episodes": [
     {
      "mot": "الشركة التونسية للبنك",
      "slug": "الشركه-التونسيه-للبنك",
      "langue": "ar",
-     "categorie": "finance",
+     "categorie": "autre",
      "volume": 500,
      "hausse": 500,
      "debut": "2026-10-27T06:10:00",
