@@ -19,8 +19,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 4,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 8,
    "periodes": [
     24,
     48,
@@ -48,8 +48,8 @@
    ],
    "categorie": "autre",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 3,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 6,
    "periodes": [
     24,
     48,
@@ -78,8 +78,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 3,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 6,
    "periodes": [
     24,
     48,
@@ -106,8 +106,8 @@
    ],
    "categorie": "commerce",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 3,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 6,
    "periodes": [
     24,
     48,
@@ -134,8 +134,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 3,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 6,
    "periodes": [
     24,
     48,
@@ -154,19 +154,20 @@
    "debut": "2026-10-31T23:20:00",
    "debut_ts": 1793485200,
    "fin": "2026-11-01T09:50:00",
-   "volume": 500,
+   "volume": 2000,
    "hausse": 700,
    "liees": [
     "lamine yamal",
-    "fcb"
+    "fcb",
+    "barca"
    ],
    "codes": [
     17
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 4,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 8,
    "periodes": [
     24,
     48,
@@ -198,8 +199,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 3,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 6,
    "periodes": [
     24,
     48,
@@ -231,8 +232,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 3,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 6,
    "periodes": [
     24,
     48,
@@ -262,8 +263,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 3,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 6,
    "periodes": [
     24,
     48,
@@ -292,8 +293,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 3,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 6,
    "periodes": [
     24,
     48,
@@ -349,8 +350,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 3,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 6,
    "periodes": [
     24,
     48,
@@ -377,8 +378,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 4,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 8,
    "periodes": [
     24,
     48,
@@ -401,15 +402,16 @@
    "volume": 500,
    "hausse": 600,
    "liees": [
-    "ac milan"
+    "ac milan",
+    "milan vs inter"
    ],
    "codes": [
     17
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 4,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 8,
    "periodes": [
     24,
     48,
@@ -467,8 +469,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 4,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 8,
    "periodes": [
     24,
     48,
@@ -496,8 +498,8 @@
    ],
    "categorie": "divertissement",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 4,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 8,
    "periodes": [
     24,
     48,
@@ -526,8 +528,8 @@
    ],
    "categorie": "administration",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 3,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 6,
    "periodes": [
     24,
     48,
@@ -554,8 +556,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 3,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 6,
    "periodes": [
     24,
     48,
@@ -582,8 +584,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 4,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 8,
    "periodes": [
     24,
     48,
@@ -611,8 +613,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 3,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 6,
    "periodes": [
     24,
     48,
@@ -639,8 +641,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 4,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 8,
    "periodes": [
     24,
     48,
@@ -668,8 +670,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 3,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 6,
    "periodes": [
     24,
     48,
@@ -696,8 +698,8 @@
    ],
    "categorie": "autre",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 3,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 6,
    "periodes": [
     24,
     48,
@@ -724,8 +726,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 4,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 8,
    "periodes": [
     24,
     48,
@@ -754,8 +756,8 @@
    ],
    "categorie": "administration",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 4,
    "periodes": [
     48,
     168
@@ -780,8 +782,8 @@
    ],
    "categorie": "autre",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 4,
    "periodes": [
     48,
     168
@@ -806,8 +808,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 4,
    "periodes": [
     48,
     168
@@ -833,8 +835,8 @@
    ],
    "categorie": "divertissement",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 4,
    "periodes": [
     48,
     168
@@ -861,8 +863,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 4,
    "periodes": [
     48,
     168
@@ -887,8 +889,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 4,
    "periodes": [
     48,
     168
@@ -916,8 +918,8 @@
    ],
    "categorie": "administration",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 4,
    "periodes": [
     48,
     168
@@ -942,8 +944,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 4,
    "periodes": [
     48,
     168
@@ -968,8 +970,8 @@
    ],
    "categorie": "divertissement",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 4,
    "periodes": [
     48,
     168
@@ -995,8 +997,8 @@
    ],
    "categorie": "commerce",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 4,
    "periodes": [
     48,
     168
@@ -1021,8 +1023,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 4,
    "periodes": [
     48,
     168
@@ -1047,8 +1049,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 4,
    "periodes": [
     48,
     168
@@ -1083,8 +1085,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1117,8 +1119,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1143,8 +1145,8 @@
    ],
    "categorie": "meteo",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1177,8 +1179,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1201,8 +1203,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1225,8 +1227,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1249,8 +1251,8 @@
    ],
    "categorie": "divertissement",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1273,8 +1275,8 @@
    ],
    "categorie": "meteo",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1297,8 +1299,8 @@
    ],
    "categorie": "meteo",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1321,8 +1323,8 @@
    ],
    "categorie": "autre",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1374,8 +1376,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1408,8 +1410,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1432,8 +1434,8 @@
    ],
    "categorie": "meteo",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1466,8 +1468,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1493,8 +1495,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1517,8 +1519,8 @@
    ],
    "categorie": "technologie",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1541,8 +1543,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1565,8 +1567,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1598,8 +1600,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1622,8 +1624,8 @@
    ],
    "categorie": "politique",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1646,8 +1648,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1670,8 +1672,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1696,8 +1698,8 @@
    ],
    "categorie": "autre",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1720,8 +1722,8 @@
    ],
    "categorie": "commerce",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1754,8 +1756,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1783,8 +1785,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1807,8 +1809,8 @@
    ],
    "categorie": "tourisme",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1831,8 +1833,8 @@
    ],
    "categorie": "administration",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1857,8 +1859,8 @@
    ],
    "categorie": "autre",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1885,8 +1887,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1919,8 +1921,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1943,8 +1945,8 @@
    ],
    "categorie": "divertissement",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1967,8 +1969,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -1991,8 +1993,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2017,8 +2019,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2050,8 +2052,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2075,8 +2077,8 @@
    ],
    "categorie": "commerce",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2099,8 +2101,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2124,8 +2126,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2148,8 +2150,8 @@
    ],
    "categorie": "finance",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2172,8 +2174,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2196,8 +2198,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2220,8 +2222,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2244,8 +2246,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2268,8 +2270,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2292,8 +2294,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2321,8 +2323,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2345,8 +2347,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2370,8 +2372,8 @@
    ],
    "categorie": "divertissement",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2399,8 +2401,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2425,8 +2427,8 @@
    ],
    "categorie": "finance",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2457,8 +2459,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2481,8 +2483,8 @@
    ],
    "categorie": "administration",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2505,8 +2507,8 @@
    ],
    "categorie": "administration",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2529,8 +2531,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2553,8 +2555,8 @@
    ],
    "categorie": "administration",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2577,8 +2579,8 @@
    ],
    "categorie": "administration",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2601,8 +2603,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2625,8 +2627,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2651,8 +2653,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2675,8 +2677,8 @@
    ],
    "categorie": "finance",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2699,8 +2701,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2723,8 +2725,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2749,8 +2751,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2775,8 +2777,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2799,8 +2801,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2823,8 +2825,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2847,8 +2849,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2871,8 +2873,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2895,8 +2897,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2919,8 +2921,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2943,8 +2945,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2967,8 +2969,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -2991,8 +2993,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3017,8 +3019,8 @@
    ],
    "categorie": "administration",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3041,8 +3043,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3065,8 +3067,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3089,8 +3091,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3114,8 +3116,8 @@
    ],
    "categorie": "tourisme",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3139,8 +3141,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3163,8 +3165,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3187,8 +3189,8 @@
    ],
    "categorie": "autre",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3211,8 +3213,8 @@
    ],
    "categorie": "divertissement",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3235,8 +3237,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3259,8 +3261,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3283,8 +3285,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3310,8 +3312,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3334,8 +3336,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3358,8 +3360,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3382,8 +3384,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3406,8 +3408,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3430,8 +3432,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3454,8 +3456,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3478,8 +3480,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3502,8 +3504,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3526,8 +3528,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3552,8 +3554,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3576,8 +3578,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3600,8 +3602,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3624,8 +3626,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3648,8 +3650,8 @@
    ],
    "categorie": "immobilier",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3672,8 +3674,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3696,8 +3698,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3720,8 +3722,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3744,8 +3746,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3768,8 +3770,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3792,8 +3794,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3816,8 +3818,8 @@
    ],
    "categorie": "meteo",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3840,8 +3842,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3864,8 +3866,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3888,8 +3890,8 @@
    ],
    "categorie": "divertissement",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3912,8 +3914,8 @@
    ],
    "categorie": "autre",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3936,8 +3938,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3960,8 +3962,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -3984,8 +3986,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -4009,8 +4011,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -4033,8 +4035,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -4057,8 +4059,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -4083,8 +4085,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -4107,8 +4109,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -4131,8 +4133,8 @@
    ],
    "categorie": "autre",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -4155,8 +4157,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -4179,8 +4181,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -4203,8 +4205,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -4227,8 +4229,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -4251,8 +4253,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -4275,8 +4277,8 @@
    ],
    "categorie": "meteo",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -4299,8 +4301,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -4323,8 +4325,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -4347,8 +4349,8 @@
    ],
    "categorie": "tourisme",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -4371,8 +4373,8 @@
    ],
    "categorie": "meteo",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -4395,8 +4397,8 @@
    ],
    "categorie": "administration",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 1,
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
    "periodes": [
     168
    ],
@@ -4419,7 +4421,92 @@
    ],
    "categorie": "politique",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 2,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "bayern munich|498186": {
+   "mot": "bayern munich",
+   "mot_norm": "bayern munich",
+   "langue": "fr",
+   "debut": "2026-10-31T19:00:00",
+   "debut_ts": 1793469600,
+   "fin": "2026-11-01T09:40:00",
+   "volume": 500,
+   "hausse": 600,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T11:10:29",
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 3,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h"
+   ]
+  },
+  "ac milan|498188": {
+   "mot": "ac milan",
+   "mot_norm": "ac milan",
+   "langue": "fr",
+   "debut": "2026-10-31T21:40:00",
+   "debut_ts": 1793479200,
+   "fin": "2026-11-01T00:00:00",
+   "volume": 200,
+   "hausse": 500,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T11:10:29",
+   "vu_dernier": "2026-11-01T11:10:29",
+   "releves": 4,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h",
+    "rss"
+   ]
+  },
+  "real madrid|498044": {
+   "mot": "real madrid",
+   "mot_norm": "real madrid",
+   "langue": "fr",
+   "debut": "2026-10-25T21:10:00",
+   "debut_ts": 1792959000,
+   "fin": "2026-10-26T00:10:00",
+   "volume": 10000,
+   "hausse": 1000,
+   "liees": [
+    "clasico",
+    "el clasico",
+    "madrid vs barcelona"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T11:10:29",
+   "vu_dernier": "2026-11-01T11:10:29",
    "releves": 1,
    "periodes": [
     168
@@ -4429,5 +4516,5 @@
    ]
   }
  },
- "maj": "2026-11-01T11:04:21"
+ "maj": "2026-11-01T11:10:29"
 }
