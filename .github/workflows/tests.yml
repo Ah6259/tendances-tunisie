@@ -1,0 +1,30 @@
+# À chaque envoi : test du robot (sans réseau) + test du site + visiteur simulé. En cas d'échec, GitHub prévient.
+name: Tests
+on:
+  push:
+    branches: [main, "entretien-tests/**"]
+    paths-ignore: ["**.md"]
+  workflow_dispatch:
+concurrency:
+  group: tests-${{ github.ref }}
+  cancel-in-progress: true
+permissions:
+  contents: read      # ce robot ne fait que lire (audit de sécurité)
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python tools/test_robot.py
+        env: { PYTHONIOENCODING: utf-8 }
+      - uses: actions/setup-node@v4
+        with: { node-version: "22" }
+      - run: |
+          npm install --no-save --no-package-lock jsdom
+          node tools/test_site.mjs
+      - name: Visiteur simulé (comme un visiteur sur téléphone, avant le vrai visiteur — règle générale du 18/10/2026)
+        run: python tools/visiteur_simule.py
+        env: { PYTHONIOENCODING: utf-8 }

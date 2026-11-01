@@ -1,0 +1,4433 @@
+{
+ "explication": "Toutes les tendances de recherche vues en Tunisie (Google Trends), avec première et dernière lecture.",
+ "tendances": {
+  "classement fc barcelone - deportivo alaves|498190": {
+   "mot": "classement fc barcelone – deportivo alavés",
+   "mot_norm": "classement fc barcelone - deportivo alaves",
+   "langue": "fr",
+   "debut": "2026-10-31T23:10:00",
+   "debut_ts": 1793484600,
+   "fin": null,
+   "volume": 5000,
+   "hausse": 1000,
+   "liees": [
+    "fc barcelone",
+    "barcelone"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 4,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h",
+    "rss"
+   ]
+  },
+  "سرقه|498181": {
+   "mot": "سرقة",
+   "mot_norm": "سرقه",
+   "langue": "ar",
+   "debut": "2026-10-31T14:00:00",
+   "debut_ts": 1793451600,
+   "fin": null,
+   "volume": 1000,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    11
+   ],
+   "categorie": "autre",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 3,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h"
+   ]
+  },
+  "barcelona vs alaves|498187": {
+   "mot": "barcelona vs alavés",
+   "mot_norm": "barcelona vs alaves",
+   "langue": "fr",
+   "debut": "2026-10-31T20:20:00",
+   "debut_ts": 1793474400,
+   "fin": "2026-11-01T09:10:00",
+   "volume": 2000,
+   "hausse": 1000,
+   "liees": [
+    "barcelona"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 3,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h"
+   ]
+  },
+  "huile|498182": {
+   "mot": "huile",
+   "mot_norm": "huile",
+   "langue": "fr",
+   "debut": "2026-10-31T15:40:00",
+   "debut_ts": 1793457600,
+   "fin": "2026-11-01T08:40:00",
+   "volume": 1000,
+   "hausse": 400,
+   "liees": [],
+   "codes": [
+    3
+   ],
+   "categorie": "commerce",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 3,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h"
+   ]
+  },
+  "ac milan - inter|498187": {
+   "mot": "ac milan – inter",
+   "mot_norm": "ac milan - inter",
+   "langue": "fr",
+   "debut": "2026-10-31T20:10:00",
+   "debut_ts": 1793473800,
+   "fin": "2026-11-01T09:30:00",
+   "volume": 1000,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 3,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h"
+   ]
+  },
+  "fc barcelona vs deportivo alaves standings|498190": {
+   "mot": "fc barcelona vs deportivo alavés standings",
+   "mot_norm": "fc barcelona vs deportivo alaves standings",
+   "langue": "fr",
+   "debut": "2026-10-31T23:20:00",
+   "debut_ts": 1793485200,
+   "fin": "2026-11-01T09:50:00",
+   "volume": 500,
+   "hausse": 700,
+   "liees": [
+    "lamine yamal",
+    "fcb"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 4,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h",
+    "rss"
+   ]
+  },
+  "bayern - dortmund|498185": {
+   "mot": "bayern – dortmund",
+   "mot_norm": "bayern - dortmund",
+   "langue": "fr",
+   "debut": "2026-10-31T18:00:00",
+   "debut_ts": 1793466000,
+   "fin": "2026-10-31T21:50:00",
+   "volume": 2000,
+   "hausse": 1000,
+   "liees": [
+    "bayern vs dortmund",
+    "bundesliga",
+    "bayern"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 3,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h"
+   ]
+  },
+  "manchester city - brighton|498182": {
+   "mot": "manchester city – brighton",
+   "mot_norm": "manchester city - brighton",
+   "langue": "fr",
+   "debut": "2026-10-31T15:30:00",
+   "debut_ts": 1793457000,
+   "fin": "2026-10-31T19:00:00",
+   "volume": 5000,
+   "hausse": 1000,
+   "liees": [
+    "man city vs brighton",
+    "man city",
+    "manchester city",
+    "yasin ayari"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 3,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h"
+   ]
+  },
+  "chelsea - man utd|498179": {
+   "mot": "chelsea – man utd",
+   "mot_norm": "chelsea - man utd",
+   "langue": "fr",
+   "debut": "2026-10-31T12:50:00",
+   "debut_ts": 1793447400,
+   "fin": "2026-10-31T17:20:00",
+   "volume": 2000,
+   "hausse": 1000,
+   "liees": [
+    "chelsea vs man utd",
+    "premier league"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 3,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h"
+   ]
+  },
+  "classement bayern munich - borussia dortmund|498188": {
+   "mot": "classement bayern munich – borussia dortmund",
+   "mot_norm": "classement bayern munich - borussia dortmund",
+   "langue": "fr",
+   "debut": "2026-10-31T21:00:00",
+   "debut_ts": 1793476800,
+   "fin": "2026-11-01T00:10:00",
+   "volume": 1000,
+   "hausse": 1000,
+   "liees": [
+    "bayern munich"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 3,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h"
+   ]
+  },
+  "barca|498188": {
+   "mot": "barca",
+   "mot_norm": "barca",
+   "langue": "fr",
+   "debut": "2026-10-31T21:50:00",
+   "debut_ts": 1793479800,
+   "fin": "2026-10-31T23:50:00",
+   "volume": 1000,
+   "hausse": 700,
+   "liees": [],
+   "codes": [
+    11
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 4,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h",
+    "rss"
+   ]
+  },
+  "levante - atletico madrid|498180": {
+   "mot": "levante – atlético madrid",
+   "mot_norm": "levante - atletico madrid",
+   "langue": "fr",
+   "debut": "2026-10-31T13:20:00",
+   "debut_ts": 1793449200,
+   "fin": "2026-10-31T17:50:00",
+   "volume": 1000,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 3,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h"
+   ]
+  },
+  "sports|498193": {
+   "mot": "sports",
+   "mot_norm": "sports",
+   "langue": "fr",
+   "debut": "2026-11-01T02:50:00",
+   "debut_ts": 1793497800,
+   "fin": "2026-11-01T06:30:00",
+   "volume": 200,
+   "hausse": 200,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 4,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h",
+    "rss"
+   ]
+  },
+  "inter milan|498188": {
+   "mot": "inter milan",
+   "mot_norm": "inter milan",
+   "langue": "fr",
+   "debut": "2026-10-31T21:30:00",
+   "debut_ts": 1793478600,
+   "fin": "2026-11-01T07:50:00",
+   "volume": 500,
+   "hausse": 600,
+   "liees": [
+    "ac milan"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 4,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h",
+    "rss"
+   ]
+  },
+  "milan vs inter|498188": {
+   "mot": "milan vs inter",
+   "mot_norm": "milan vs inter",
+   "langue": "fr",
+   "debut": "2026-10-31T21:10:00",
+   "debut_ts": 1793477400,
+   "fin": "2026-10-31T23:50:00",
+   "volume": 200,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 3,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h"
+   ]
+  },
+  "classement ac milan - inter milan|498190": {
+   "mot": "classement ac milan – inter milan",
+   "mot_norm": "classement ac milan - inter milan",
+   "langue": "fr",
+   "debut": "2026-10-31T23:50:00",
+   "debut_ts": 1793487000,
+   "fin": "2026-11-01T08:40:00",
+   "volume": 200,
+   "hausse": 1000,
+   "liees": [
+    "milan ac"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 4,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h",
+    "rss"
+   ]
+  },
+  "serie a|498189": {
+   "mot": "serie a",
+   "mot_norm": "serie a",
+   "langue": "fr",
+   "debut": "2026-10-31T22:40:00",
+   "debut_ts": 1793482800,
+   "fin": "2026-11-01T08:40:00",
+   "volume": 200,
+   "hausse": 200,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "divertissement",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 4,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h",
+    "rss"
+   ]
+  },
+  "pologne|498178": {
+   "mot": "pologne",
+   "mot_norm": "pologne",
+   "langue": "fr",
+   "debut": "2026-10-31T11:40:00",
+   "debut_ts": 1793443200,
+   "fin": "2026-11-01T08:00:00",
+   "volume": 200,
+   "hausse": 300,
+   "liees": [],
+   "codes": [
+    10,
+    14
+   ],
+   "categorie": "administration",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 3,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h"
+   ]
+  },
+  "udinese - roma|498185": {
+   "mot": "udinese – roma",
+   "mot_norm": "udinese - roma",
+   "langue": "fr",
+   "debut": "2026-10-31T18:20:00",
+   "debut_ts": 1793467200,
+   "fin": "2026-10-31T20:40:00",
+   "volume": 200,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 3,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h"
+   ]
+  },
+  "برشلونه ضد الافيس|498188": {
+   "mot": "برشلونة ضد ألافيس",
+   "mot_norm": "برشلونه ضد الافيس",
+   "langue": "ar",
+   "debut": "2026-10-31T21:20:00",
+   "debut_ts": 1793478000,
+   "fin": "2026-10-31T23:30:00",
+   "volume": 200,
+   "hausse": 900,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 4,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h",
+    "rss"
+   ]
+  },
+  "chelsea|498181": {
+   "mot": "chelsea",
+   "mot_norm": "chelsea",
+   "langue": "fr",
+   "debut": "2026-10-31T14:50:00",
+   "debut_ts": 1793454600,
+   "fin": "2026-10-31T16:40:00",
+   "volume": 200,
+   "hausse": 800,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 3,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h"
+   ]
+  },
+  "barca vs|498188": {
+   "mot": "barca vs",
+   "mot_norm": "barca vs",
+   "langue": "fr",
+   "debut": "2026-10-31T21:50:00",
+   "debut_ts": 1793479800,
+   "fin": "2026-10-31T22:50:00",
+   "volume": 100,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 4,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h",
+    "rss"
+   ]
+  },
+  "tottenham - crystal palace|498186": {
+   "mot": "tottenham – crystal palace",
+   "mot_norm": "tottenham - crystal palace",
+   "langue": "fr",
+   "debut": "2026-10-31T19:10:00",
+   "debut_ts": 1793470200,
+   "fin": "2026-10-31T20:20:00",
+   "volume": 100,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 3,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h"
+   ]
+  },
+  "manchester united|498182": {
+   "mot": "manchester united",
+   "mot_norm": "manchester united",
+   "langue": "fr",
+   "debut": "2026-10-31T15:30:00",
+   "debut_ts": 1793457000,
+   "fin": "2026-10-31T16:40:00",
+   "volume": 100,
+   "hausse": 800,
+   "liees": [],
+   "codes": [
+    11
+   ],
+   "categorie": "autre",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 3,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h"
+   ]
+  },
+  "الرابطه التونسيه المحترفه الثانيه لكره القدم|498189": {
+   "mot": "الرابطة التونسية المحترفة الثانية لكرة القدم",
+   "mot_norm": "الرابطه التونسيه المحترفه الثانيه لكره القدم",
+   "langue": "ar",
+   "debut": "2026-10-31T22:00:00",
+   "debut_ts": 1793480400,
+   "fin": "2026-10-31T22:40:00",
+   "volume": 100,
+   "hausse": 400,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 4,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h",
+    "rss"
+   ]
+  },
+  "journal officiel de la republique tunisienne|498156": {
+   "mot": "journal officiel de la république tunisienne",
+   "mot_norm": "journal officiel de la republique tunisienne",
+   "langue": "fr",
+   "debut": "2026-10-30T13:30:00",
+   "debut_ts": 1793363400,
+   "fin": "2026-11-01T08:10:00",
+   "volume": 5000,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    9,
+    10
+   ],
+   "categorie": "administration",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 2,
+   "periodes": [
+    48,
+    168
+   ],
+   "sources": [
+    "48h",
+    "168h"
+   ]
+  },
+  "بناء|498162": {
+   "mot": "بناء",
+   "mot_norm": "بناء",
+   "langue": "ar",
+   "debut": "2026-10-30T19:50:00",
+   "debut_ts": 1793386200,
+   "fin": "2026-10-31T21:00:00",
+   "volume": 2000,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    11
+   ],
+   "categorie": "autre",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 2,
+   "periodes": [
+    48,
+    168
+   ],
+   "sources": [
+    "48h",
+    "168h"
+   ]
+  },
+  "classement le havre athletic club - paris saint-germain football club|498164": {
+   "mot": "classement le havre athletic club – paris saint-germain football club",
+   "mot_norm": "classement le havre athletic club - paris saint-germain football club",
+   "langue": "fr",
+   "debut": "2026-10-30T21:10:00",
+   "debut_ts": 1793391000,
+   "fin": "2026-10-31T15:20:00",
+   "volume": 2000,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 2,
+   "periodes": [
+    48,
+    168
+   ],
+   "sources": [
+    "48h",
+    "168h"
+   ]
+  },
+  "halloween|498171": {
+   "mot": "halloween",
+   "mot_norm": "halloween",
+   "langue": "fr",
+   "debut": "2026-10-31T04:50:00",
+   "debut_ts": 1793418600,
+   "fin": "2026-11-01T01:00:00",
+   "volume": 500,
+   "hausse": 200,
+   "liees": [],
+   "codes": [
+    4,
+    8
+   ],
+   "categorie": "divertissement",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 2,
+   "periodes": [
+    48,
+    168
+   ],
+   "sources": [
+    "48h",
+    "168h"
+   ]
+  },
+  "le havre - paris-sg|498161": {
+   "mot": "le havre – paris-sg",
+   "mot_norm": "le havre - paris-sg",
+   "langue": "fr",
+   "debut": "2026-10-30T18:30:00",
+   "debut_ts": 1793381400,
+   "fin": "2026-10-30T22:30:00",
+   "volume": 2000,
+   "hausse": 1000,
+   "liees": [
+    "le havre vs psg"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 2,
+   "periodes": [
+    48,
+    168
+   ],
+   "sources": [
+    "48h",
+    "168h"
+   ]
+  },
+  "يوسف بلايلي|498164": {
+   "mot": "يوسف بلايلي",
+   "mot_norm": "يوسف بلايلي",
+   "langue": "ar",
+   "debut": "2026-10-30T21:40:00",
+   "debut_ts": 1793392800,
+   "fin": "2026-10-31T18:00:00",
+   "volume": 500,
+   "hausse": 600,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 2,
+   "periodes": [
+    48,
+    168
+   ],
+   "sources": [
+    "48h",
+    "168h"
+   ]
+  },
+  "وزاره الدفاع الوطني|498161": {
+   "mot": "وزارة الدفاع الوطني",
+   "mot_norm": "وزاره الدفاع الوطني",
+   "langue": "ar",
+   "debut": "2026-10-30T18:00:00",
+   "debut_ts": 1793379600,
+   "fin": "2026-10-31T07:10:00",
+   "volume": 500,
+   "hausse": 800,
+   "liees": [
+    "وزارة الدفاع"
+   ],
+   "codes": [
+    10,
+    14
+   ],
+   "categorie": "administration",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 2,
+   "periodes": [
+    48,
+    168
+   ],
+   "sources": [
+    "48h",
+    "168h"
+   ]
+  },
+  "villarreal - espanyol|498164": {
+   "mot": "villarreal – espanyol",
+   "mot_norm": "villarreal - espanyol",
+   "langue": "fr",
+   "debut": "2026-10-30T21:00:00",
+   "debut_ts": 1793390400,
+   "fin": "2026-10-31T07:00:00",
+   "volume": 200,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 2,
+   "periodes": [
+    48,
+    168
+   ],
+   "sources": [
+    "48h",
+    "168h"
+   ]
+  },
+  "didier fraisse|498155": {
+   "mot": "didier fraisse",
+   "mot_norm": "didier fraisse",
+   "langue": "fr",
+   "debut": "2026-10-30T12:00:00",
+   "debut_ts": 1793358000,
+   "fin": "2026-10-30T15:20:00",
+   "volume": 200,
+   "hausse": 500,
+   "liees": [],
+   "codes": [
+    4
+   ],
+   "categorie": "divertissement",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 2,
+   "periodes": [
+    48,
+    168
+   ],
+   "sources": [
+    "48h",
+    "168h"
+   ]
+  },
+  "prix|498162": {
+   "mot": "prix",
+   "mot_norm": "prix",
+   "langue": "fr",
+   "debut": "2026-10-30T19:10:00",
+   "debut_ts": 1793383800,
+   "fin": "2026-10-31T07:20:00",
+   "volume": 200,
+   "hausse": 700,
+   "liees": [],
+   "codes": [
+    3,
+    1
+   ],
+   "categorie": "commerce",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 2,
+   "periodes": [
+    48,
+    168
+   ],
+   "sources": [
+    "48h",
+    "168h"
+   ]
+  },
+  "carlos alcaraz|498159": {
+   "mot": "carlos alcaraz",
+   "mot_norm": "carlos alcaraz",
+   "langue": "fr",
+   "debut": "2026-10-30T16:40:00",
+   "debut_ts": 1793374800,
+   "fin": "2026-10-30T18:20:00",
+   "volume": 100,
+   "hausse": 500,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 2,
+   "periodes": [
+    48,
+    168
+   ],
+   "sources": [
+    "48h",
+    "168h"
+   ]
+  },
+  "ماهر الكنزاري|498163": {
+   "mot": "ماهر الكنزاري",
+   "mot_norm": "ماهر الكنزاري",
+   "langue": "ar",
+   "debut": "2026-10-30T20:20:00",
+   "debut_ts": 1793388000,
+   "fin": "2026-10-31T07:00:00",
+   "volume": 100,
+   "hausse": 400,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 2,
+   "periodes": [
+    48,
+    168
+   ],
+   "sources": [
+    "48h",
+    "168h"
+   ]
+  },
+  "ballon d'or 2026|498044": {
+   "mot": "ballon d'or 2026",
+   "mot_norm": "ballon d'or 2026",
+   "langue": "fr",
+   "debut": "2026-10-25T21:50:00",
+   "debut_ts": 1792961400,
+   "fin": "2026-10-28T09:00:00",
+   "volume": 50000,
+   "hausse": 1000,
+   "liees": [
+    "ballon d'or",
+    "harry kane",
+    "ballon dor",
+    "dazn live",
+    "who won the ballon d'or 2026",
+    "ballon dor live",
+    "ballon d'or 2026 date",
+    "ballon d'or 2026 winner",
+    "ballon d or 2026"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "classement cs sfaxien - es tunis|498136": {
+   "mot": "classement cs sfaxien – es tunis",
+   "mot_norm": "classement cs sfaxien - es tunis",
+   "langue": "fr",
+   "debut": "2026-10-29T17:50:00",
+   "debut_ts": 1793292600,
+   "fin": "2026-10-30T18:00:00",
+   "volume": 20000,
+   "hausse": 1000,
+   "liees": [
+    "classement club africain – ca bizertin",
+    "club africain",
+    "est vs css",
+    "ligue 1 tunisienne",
+    "championnat tunisie",
+    "est",
+    "esperance",
+    "classement stade tunisien – es zarzis",
+    "ligue 1 tunisie"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "امطار متفرقه|498134": {
+   "mot": "أمطار متفرقة",
+   "mot_norm": "امطار متفرقه",
+   "langue": "ar",
+   "debut": "2026-10-29T15:40:00",
+   "debut_ts": 1793284800,
+   "fin": "2026-10-30T11:00:00",
+   "volume": 5000,
+   "hausse": 1000,
+   "liees": [
+    "الطقس"
+   ],
+   "codes": [
+    20
+   ],
+   "categorie": "meteo",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "barcelone - real madrid|498042": {
+   "mot": "barcelone – real madrid",
+   "mot_norm": "barcelone - real madrid",
+   "langue": "fr",
+   "debut": "2026-10-25T19:50:00",
+   "debut_ts": 1792954200,
+   "fin": "2026-10-26T12:40:00",
+   "volume": 20000,
+   "hausse": 1000,
+   "liees": [
+    "classement fc barcelone – real madrid",
+    "match real madrid aujourd'hui",
+    "match real",
+    "real madrid barcelone",
+    "fc barcelone",
+    "match barcelone aujourd'hui",
+    "fc barcelone – real madrid",
+    "match ca aujourd hui",
+    "fc barcelone – real madrid : composition"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "vincent kompany|498200": {
+   "mot": "vincent kompany",
+   "mot_norm": "vincent kompany",
+   "langue": "fr",
+   "debut": "2026-11-01T09:40:00",
+   "debut_ts": 1793522400,
+   "fin": "2026-11-01T10:30:00",
+   "volume": 200,
+   "hausse": 700,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "club africain - ca bizertin|498132": {
+   "mot": "club africain – ca bizertin",
+   "mot_norm": "club africain - ca bizertin",
+   "langue": "fr",
+   "debut": "2026-10-29T13:50:00",
+   "debut_ts": 1793278200,
+   "fin": "2026-10-29T19:40:00",
+   "volume": 10000,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "دره|498115": {
+   "mot": "درة",
+   "mot_norm": "دره",
+   "langue": "ar",
+   "debut": "2026-10-28T20:50:00",
+   "debut_ts": 1793217000,
+   "fin": "2026-10-30T08:10:00",
+   "volume": 2000,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    4
+   ],
+   "categorie": "divertissement",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "ياسين مرياح|498094": {
+   "mot": "ياسين مرياح",
+   "mot_norm": "ياسين مرياح",
+   "langue": "ar",
+   "debut": "2026-10-27T23:20:00",
+   "debut_ts": 1793139600,
+   "fin": "2026-10-29T09:40:00",
+   "volume": 5000,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "meteo",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "meteo|498149": {
+   "mot": "météo",
+   "mot_norm": "meteo",
+   "langue": "fr",
+   "debut": "2026-10-30T06:30:00",
+   "debut_ts": 1793338200,
+   "fin": "2026-10-30T08:50:00",
+   "volume": 20000,
+   "hausse": 100,
+   "liees": [],
+   "codes": [
+    20
+   ],
+   "categorie": "meteo",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "ثعبان|498148": {
+   "mot": "ثعبان",
+   "mot_norm": "ثعبان",
+   "langue": "ar",
+   "debut": "2026-10-30T05:40:00",
+   "debut_ts": 1793335200,
+   "fin": "2026-10-31T09:10:00",
+   "volume": 1000,
+   "hausse": 400,
+   "liees": [],
+   "codes": [
+    11
+   ],
+   "categorie": "autre",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "real madrid vs barcelona|498033": {
+   "mot": "real madrid vs barcelona",
+   "mot_norm": "real madrid vs barcelona",
+   "langue": "fr",
+   "debut": "2026-10-25T10:50:00",
+   "debut_ts": 1792921800,
+   "fin": "2026-10-26T10:20:00",
+   "volume": 10000,
+   "hausse": 1000,
+   "liees": [
+    "real madrid",
+    "clasico",
+    "el clasico",
+    "madrid vs barcelona"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "liverpool - chelsea|498115": {
+   "mot": "liverpool – chelsea",
+   "mot_norm": "liverpool - chelsea",
+   "langue": "fr",
+   "debut": "2026-10-28T20:10:00",
+   "debut_ts": 1793214600,
+   "fin": "2026-10-29T10:10:00",
+   "volume": 2000,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "club africain|498040": {
+   "mot": "club africain",
+   "mot_norm": "club africain",
+   "langue": "fr",
+   "debut": "2026-10-25T17:00:00",
+   "debut_ts": 1792944000,
+   "fin": "2026-10-25T21:10:00",
+   "volume": 20000,
+   "hausse": 1000,
+   "liees": [
+    "match club africain",
+    "ca vs mazembe",
+    "club africain vs mazembe",
+    "club africain – tp mazembe",
+    "match club",
+    "match ca",
+    "club africain vs mazembe live",
+    "ca match",
+    "club africain vs tp mazembe"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "meteo demain|498139": {
+   "mot": "météo demain",
+   "mot_norm": "meteo demain",
+   "langue": "fr",
+   "debut": "2026-10-29T20:50:00",
+   "debut_ts": 1793303400,
+   "fin": "2026-10-29T22:30:00",
+   "volume": 20000,
+   "hausse": 75,
+   "liees": [],
+   "codes": [
+    20
+   ],
+   "categorie": "meteo",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "real vs barca|498040": {
+   "mot": "real vs barca",
+   "mot_norm": "real vs barca",
+   "langue": "fr",
+   "debut": "2026-10-25T17:10:00",
+   "debut_ts": 1792944600,
+   "fin": "2026-10-26T10:40:00",
+   "volume": 20000,
+   "hausse": 1000,
+   "liees": [
+    "flashscore",
+    "barca vs real",
+    "barca",
+    "barca real madrid",
+    "fc barcelona vs real madrid standings",
+    "flash score",
+    "barca vs real madrid",
+    "real barca",
+    "real vs"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "paris-sg - ol|498067": {
+   "mot": "paris-sg – ol",
+   "mot_norm": "paris-sg - ol",
+   "langue": "fr",
+   "debut": "2026-10-26T20:00:00",
+   "debut_ts": 1793041200,
+   "fin": "2026-10-27T09:10:00",
+   "volume": 5000,
+   "hausse": 1000,
+   "liees": [
+    "classement paris saint-germain football club – olympique lyonnais",
+    "psg vs ol"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "binance|498149": {
+   "mot": "binance",
+   "mot_norm": "binance",
+   "langue": "fr",
+   "debut": "2026-10-30T06:40:00",
+   "debut_ts": 1793338800,
+   "fin": "2026-10-31T05:10:00",
+   "volume": 500,
+   "hausse": 300,
+   "liees": [],
+   "codes": [
+    3
+   ],
+   "categorie": "technologie",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "dazn|498065": {
+   "mot": "dazn",
+   "mot_norm": "dazn",
+   "langue": "fr",
+   "debut": "2026-10-26T18:10:00",
+   "debut_ts": 1793034600,
+   "fin": "2026-10-27T01:00:00",
+   "volume": 5000,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "barcelona vs real madrid|498042": {
+   "mot": "barcelona vs real madrid",
+   "mot_norm": "barcelona vs real madrid",
+   "langue": "fr",
+   "debut": "2026-10-25T19:30:00",
+   "debut_ts": 1792953000,
+   "fin": "2026-10-26T09:20:00",
+   "volume": 5000,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "ballon d'or live|498066": {
+   "mot": "ballon d'or live",
+   "mot_norm": "ballon d'or live",
+   "langue": "fr",
+   "debut": "2026-10-26T19:00:00",
+   "debut_ts": 1793037600,
+   "fin": "2026-10-27T01:00:00",
+   "volume": 5000,
+   "hausse": 1000,
+   "liees": [
+    "ballon d'or 2026 live",
+    "ballon d or",
+    "live ballon d or 2026",
+    "ballon d'or ceremony",
+    "ballon d'or winner 2026",
+    "ballon d-or 2026",
+    "ballon d or live"
+   ],
+   "codes": [
+    17,
+    4
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "فرنسا|498150": {
+   "mot": "فرنسا",
+   "mot_norm": "فرنسا",
+   "langue": "ar",
+   "debut": "2026-10-30T07:20:00",
+   "debut_ts": 1793341200,
+   "fin": "2026-10-31T07:10:00",
+   "volume": 500,
+   "hausse": 600,
+   "liees": [],
+   "codes": [
+    11
+   ],
+   "categorie": "politique",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "bayern - magdebourg|498115": {
+   "mot": "bayern – magdebourg",
+   "mot_norm": "bayern - magdebourg",
+   "langue": "fr",
+   "debut": "2026-10-28T20:10:00",
+   "debut_ts": 1793214600,
+   "fin": "2026-10-29T10:10:00",
+   "volume": 1000,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "al-nassr fc - al-kholood club|498137": {
+   "mot": "al-nassr fc – al-kholood club",
+   "mot_norm": "al-nassr fc - al-kholood club",
+   "langue": "fr",
+   "debut": "2026-10-29T18:40:00",
+   "debut_ts": 1793295600,
+   "fin": "2026-10-29T22:20:00",
+   "volume": 2000,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "kylian mbappe|498044": {
+   "mot": "kylian mbappé",
+   "mot_norm": "kylian mbappe",
+   "langue": "fr",
+   "debut": "2026-10-25T21:50:00",
+   "debut_ts": 1792961400,
+   "fin": "2026-10-27T19:10:00",
+   "volume": 2000,
+   "hausse": 600,
+   "liees": [
+    "mbappe"
+   ],
+   "codes": [
+    11
+   ],
+   "categorie": "autre",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "سعر|498111": {
+   "mot": "سعر",
+   "mot_norm": "سعر",
+   "langue": "ar",
+   "debut": "2026-10-28T16:30:00",
+   "debut_ts": 1793201400,
+   "fin": "2026-10-29T09:00:00",
+   "volume": 1000,
+   "hausse": 800,
+   "liees": [],
+   "codes": [
+    3
+   ],
+   "categorie": "commerce",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "من فاز بالكره الذهبيه 2026|498068": {
+   "mot": "من فاز بالكرة الذهبية 2026",
+   "mot_norm": "من فاز بالكره الذهبيه 2026",
+   "langue": "ar",
+   "debut": "2026-10-26T21:40:00",
+   "debut_ts": 1793047200,
+   "fin": "2026-10-27T10:50:00",
+   "volume": 5000,
+   "hausse": 1000,
+   "liees": [
+    "حفل الكرة الذهبية 2026",
+    "yalla kora",
+    "الكرة الذهبية 2026",
+    "من الفائز بالكرة الذهبية 2026",
+    "الكرة الذهبية",
+    "حفل الكرة الذهبية",
+    "جائزة الكرة الذهبية",
+    "الفائز بالكرة الذهبية 2026",
+    "القنوات الناقلة لحفل الكرة الذهبية 2026"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "قرعه دوري ابطال افريقيا|498107": {
+   "mot": "قرعة دوري ابطال افريقيا",
+   "mot_norm": "قرعه دوري ابطال افريقيا",
+   "langue": "ar",
+   "debut": "2026-10-28T12:00:00",
+   "debut_ts": 1793185200,
+   "fin": "2026-10-28T20:00:00",
+   "volume": 2000,
+   "hausse": 1000,
+   "liees": [
+    "موزاييك أف أم",
+    "قرعة دوري أبطال أفريقيا 2026",
+    "دوري أبطال إفريقيا",
+    "قرعة دوري ابطال افريقيا 2027"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "visa|498038": {
+   "mot": "visa",
+   "mot_norm": "visa",
+   "langue": "fr",
+   "debut": "2026-10-25T15:10:00",
+   "debut_ts": 1792937400,
+   "fin": "2026-10-26T09:00:00",
+   "volume": 2000,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    3
+   ],
+   "categorie": "tourisme",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "telepeage|498114": {
+   "mot": "télépéage",
+   "mot_norm": "telepeage",
+   "langue": "fr",
+   "debut": "2026-10-28T19:50:00",
+   "debut_ts": 1793213400,
+   "fin": "2026-10-29T09:20:00",
+   "volume": 1000,
+   "hausse": 800,
+   "liees": [],
+   "codes": [
+    10
+   ],
+   "categorie": "administration",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "كيليان مبابي|498068": {
+   "mot": "كيليان مبابي",
+   "mot_norm": "كيليان مبابي",
+   "langue": "ar",
+   "debut": "2026-10-26T21:50:00",
+   "debut_ts": 1793047800,
+   "fin": "2026-10-28T07:30:00",
+   "volume": 1000,
+   "hausse": 700,
+   "liees": [
+    "كرة القدم"
+   ],
+   "codes": [
+    11
+   ],
+   "categorie": "autre",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "البطوله التونسيه|498134": {
+   "mot": "البطولة التونسية",
+   "mot_norm": "البطوله التونسيه",
+   "langue": "ar",
+   "debut": "2026-10-29T15:10:00",
+   "debut_ts": 1793283000,
+   "fin": "2026-10-29T19:50:00",
+   "volume": 1000,
+   "hausse": 900,
+   "liees": [
+    "ترتيب الدوري التونسي",
+    "الدوري التونسي",
+    "بطولة تونس"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "تي بي مازيمبي|498036": {
+   "mot": "تي بي مازيمبي",
+   "mot_norm": "تي بي مازيمبي",
+   "langue": "ar",
+   "debut": "2026-10-25T13:40:00",
+   "debut_ts": 1792932000,
+   "fin": "2026-10-25T19:30:00",
+   "volume": 5000,
+   "hausse": 1000,
+   "liees": [
+    "ماهر الكنزاري",
+    "الافريقي",
+    "النادي الافريقي",
+    "مباراة النادي الافريقي",
+    "bein sport 1",
+    "نتيجة مباراة النادي الافريقي اليوم",
+    "نادي الافريقي",
+    "النادي الإفريقي مباشر",
+    "مباراة النادي الافريقي اليوم"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "patrick stewart|498140": {
+   "mot": "patrick stewart",
+   "mot_norm": "patrick stewart",
+   "langue": "fr",
+   "debut": "2026-10-29T21:40:00",
+   "debut_ts": 1793306400,
+   "fin": "2026-10-30T09:50:00",
+   "volume": 500,
+   "hausse": 800,
+   "liees": [],
+   "codes": [
+    4
+   ],
+   "categorie": "divertissement",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "خالد بن يحيي|498138": {
+   "mot": "خالد بن يحيى",
+   "mot_norm": "خالد بن يحيي",
+   "langue": "ar",
+   "debut": "2026-10-29T19:40:00",
+   "debut_ts": 1793299200,
+   "fin": "2026-10-30T08:20:00",
+   "volume": 500,
+   "hausse": 500,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "la liga|498043": {
+   "mot": "la liga",
+   "mot_norm": "la liga",
+   "langue": "fr",
+   "debut": "2026-10-25T20:00:00",
+   "debut_ts": 1792954800,
+   "fin": "2026-10-26T08:40:00",
+   "volume": 2000,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "esperance sportive de tunis|498134": {
+   "mot": "espérance sportive de tunis",
+   "mot_norm": "esperance sportive de tunis",
+   "langue": "fr",
+   "debut": "2026-10-29T15:00:00",
+   "debut_ts": 1793282400,
+   "fin": "2026-10-29T17:40:00",
+   "volume": 2000,
+   "hausse": 800,
+   "liees": [
+    "ligue des champions de la caf"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "ريال مدريد|498043": {
+   "mot": "ريال مدريد",
+   "mot_norm": "ريال مدريد",
+   "langue": "ar",
+   "debut": "2026-10-25T20:20:00",
+   "debut_ts": 1792956000,
+   "fin": "2026-10-26T08:00:00",
+   "volume": 5000,
+   "hausse": 500,
+   "liees": [
+    "برشلونة ضد الريال",
+    "نادي برشلونة",
+    "برشلونة",
+    "ترتيب الدوري الاسباني",
+    "الكلاسيكو",
+    "ريال مدريد اليوم",
+    "برشلونة اليوم",
+    "مباراة برشلونة"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "huile|498135": {
+   "mot": "huile",
+   "mot_norm": "huile",
+   "langue": "fr",
+   "debut": "2026-10-29T16:30:00",
+   "debut_ts": 1793287800,
+   "fin": "2026-10-29T21:40:00",
+   "volume": 500,
+   "hausse": 600,
+   "liees": [],
+   "codes": [
+    3,
+    5
+   ],
+   "categorie": "commerce",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "alexia putellas|498070": {
+   "mot": "alexia putellas",
+   "mot_norm": "alexia putellas",
+   "langue": "fr",
+   "debut": "2026-10-26T23:30:00",
+   "debut_ts": 1793053800,
+   "fin": "2026-10-27T18:30:00",
+   "volume": 1000,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "ca|498039": {
+   "mot": "ca",
+   "mot_norm": "ca",
+   "langue": "fr",
+   "debut": "2026-10-25T16:50:00",
+   "debut_ts": 1792943400,
+   "fin": "2026-10-25T21:20:00",
+   "volume": 2000,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    10,
+    14
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "الشركه التونسيه للبنك|498077": {
+   "mot": "الشركة التونسية للبنك",
+   "mot_norm": "الشركه التونسيه للبنك",
+   "langue": "ar",
+   "debut": "2026-10-27T06:10:00",
+   "debut_ts": 1793077800,
+   "fin": "2026-10-28T07:20:00",
+   "volume": 500,
+   "hausse": 500,
+   "liees": [],
+   "codes": [
+    11
+   ],
+   "categorie": "finance",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "lamine yamal|498046": {
+   "mot": "lamine yamal",
+   "mot_norm": "lamine yamal",
+   "langue": "fr",
+   "debut": "2026-10-25T23:10:00",
+   "debut_ts": 1792966200,
+   "fin": "2026-10-27T08:50:00",
+   "volume": 1000,
+   "hausse": 600,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "الرابطه الوطنيه لكره القدم المحترفه|498116": {
+   "mot": "الرابطة الوطنية لكرة القدم المحترفة",
+   "mot_norm": "الرابطه الوطنيه لكره القدم المحترفه",
+   "langue": "ar",
+   "debut": "2026-10-28T21:50:00",
+   "debut_ts": 1793220600,
+   "fin": "2026-10-29T09:50:00",
+   "volume": 500,
+   "hausse": 600,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "liverpool vs chelsea|498115": {
+   "mot": "liverpool vs chelsea",
+   "mot_norm": "liverpool vs chelsea",
+   "langue": "fr",
+   "debut": "2026-10-28T20:50:00",
+   "debut_ts": 1793217000,
+   "fin": "2026-10-29T07:20:00",
+   "volume": 500,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "ca vs|498039": {
+   "mot": "ca vs",
+   "mot_norm": "ca vs",
+   "langue": "fr",
+   "debut": "2026-10-25T16:20:00",
+   "debut_ts": 1792941600,
+   "fin": "2026-10-25T21:10:00",
+   "volume": 2000,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "ca vs|498134": {
+   "mot": "ca vs",
+   "mot_norm": "ca vs",
+   "langue": "fr",
+   "debut": "2026-10-29T15:10:00",
+   "debut_ts": 1793283000,
+   "fin": "2026-10-29T17:20:00",
+   "volume": 500,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "modern future football club - al ahly|498134": {
+   "mot": "modern future football club – al ahly",
+   "mot_norm": "modern future football club - al ahly",
+   "langue": "fr",
+   "debut": "2026-10-29T15:20:00",
+   "debut_ts": 1793283600,
+   "fin": "2026-10-29T18:30:00",
+   "volume": 500,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "man utd - bournemouth|498037": {
+   "mot": "man utd – bournemouth",
+   "mot_norm": "man utd - bournemouth",
+   "langue": "fr",
+   "debut": "2026-10-25T14:30:00",
+   "debut_ts": 1792935000,
+   "fin": "2026-10-25T18:50:00",
+   "volume": 2000,
+   "hausse": 1000,
+   "liees": [
+    "bein sport",
+    "premier league",
+    "man utd vs bournemouth",
+    "manchester united"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "everton - newcastle|498139": {
+   "mot": "everton – newcastle",
+   "mot_norm": "everton - newcastle",
+   "langue": "fr",
+   "debut": "2026-10-29T20:40:00",
+   "debut_ts": 1793302800,
+   "fin": "2026-10-29T23:30:00",
+   "volume": 200,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "kick|498068": {
+   "mot": "kick",
+   "mot_norm": "kick",
+   "langue": "fr",
+   "debut": "2026-10-26T21:40:00",
+   "debut_ts": 1793047200,
+   "fin": "2026-10-27T00:50:00",
+   "volume": 2000,
+   "hausse": 200,
+   "liees": [],
+   "codes": [
+    4,
+    6
+   ],
+   "categorie": "divertissement",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "real madrid vs|498044": {
+   "mot": "real madrid vs",
+   "mot_norm": "real madrid vs",
+   "langue": "fr",
+   "debut": "2026-10-25T21:20:00",
+   "debut_ts": 1792959600,
+   "fin": "2026-10-26T00:00:00",
+   "volume": 2000,
+   "hausse": 1000,
+   "liees": [
+    "barcelona",
+    "clasico real vs barça",
+    "fcb vs real madrid",
+    "fc barcelona"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "peche|498184": {
+   "mot": "pêche",
+   "mot_norm": "peche",
+   "langue": "fr",
+   "debut": "2026-10-31T17:50:00",
+   "debut_ts": 1793465400,
+   "fin": "2026-10-31T19:00:00",
+   "volume": 200,
+   "hausse": 400,
+   "liees": [
+    "crevette"
+   ],
+   "codes": [
+    3
+   ],
+   "categorie": "finance",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "ballon d'or 2026 heure|498066": {
+   "mot": "ballon d'or 2026 heure",
+   "mot_norm": "ballon d'or 2026 heure",
+   "langue": "fr",
+   "debut": "2026-10-26T19:30:00",
+   "debut_ts": 1793039400,
+   "fin": "2026-10-26T23:20:00",
+   "volume": 2000,
+   "hausse": 1000,
+   "liees": [
+    "qui a gagné le ballon d'or 2026",
+    "ceremonie ballon d'or",
+    "classement ballon d'or 2026",
+    "ceremonie ballon d'or 2026",
+    "match aujourd'hui",
+    "ballon d'or 2026 classement",
+    "l'équipe"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "cab|498134": {
+   "mot": "cab",
+   "mot_norm": "cab",
+   "langue": "fr",
+   "debut": "2026-10-29T15:00:00",
+   "debut_ts": 1793282400,
+   "fin": "2026-10-29T17:40:00",
+   "volume": 500,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    10
+   ],
+   "categorie": "administration",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "تسويه|498093": {
+   "mot": "تسوية",
+   "mot_norm": "تسويه",
+   "langue": "ar",
+   "debut": "2026-10-27T22:10:00",
+   "debut_ts": 1793135400,
+   "fin": "2026-10-28T09:20:00",
+   "volume": 500,
+   "hausse": 500,
+   "liees": [],
+   "codes": [
+    10
+   ],
+   "categorie": "administration",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "championnat de tunisie de football|498135": {
+   "mot": "championnat de tunisie de football",
+   "mot_norm": "championnat de tunisie de football",
+   "langue": "fr",
+   "debut": "2026-10-29T16:30:00",
+   "debut_ts": 1793287800,
+   "fin": "2026-10-29T22:50:00",
+   "volume": 200,
+   "hausse": 700,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "تونس|498067": {
+   "mot": "تونس",
+   "mot_norm": "تونس",
+   "langue": "ar",
+   "debut": "2026-10-26T20:00:00",
+   "debut_ts": 1793041200,
+   "fin": "2026-10-27T06:30:00",
+   "volume": 1000,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    10
+   ],
+   "categorie": "administration",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "police|498039": {
+   "mot": "police",
+   "mot_norm": "police",
+   "langue": "fr",
+   "debut": "2026-10-25T16:30:00",
+   "debut_ts": 1792942200,
+   "fin": "2026-10-25T21:50:00",
+   "volume": 1000,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    10
+   ],
+   "categorie": "administration",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "bein sport|498066": {
+   "mot": "bein sport",
+   "mot_norm": "bein sport",
+   "langue": "fr",
+   "debut": "2026-10-26T19:50:00",
+   "debut_ts": 1793040600,
+   "fin": "2026-10-27T00:00:00",
+   "volume": 1000,
+   "hausse": 800,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "kooora|498041": {
+   "mot": "kooora",
+   "mot_norm": "kooora",
+   "langue": "fr",
+   "debut": "2026-10-25T18:10:00",
+   "debut_ts": 1792948200,
+   "fin": "2026-10-25T23:40:00",
+   "volume": 1000,
+   "hausse": 500,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "caf|498107": {
+   "mot": "caf",
+   "mot_norm": "caf",
+   "langue": "fr",
+   "debut": "2026-10-28T12:20:00",
+   "debut_ts": 1793186400,
+   "fin": "2026-10-28T15:30:00",
+   "volume": 1000,
+   "hausse": 700,
+   "liees": [
+    "caf champions league"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "bna|498078": {
+   "mot": "bna",
+   "mot_norm": "bna",
+   "langue": "fr",
+   "debut": "2026-10-27T07:30:00",
+   "debut_ts": 1793082600,
+   "fin": "2026-10-27T16:50:00",
+   "volume": 500,
+   "hausse": 400,
+   "liees": [],
+   "codes": [
+    11
+   ],
+   "categorie": "finance",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "al nassr|498140": {
+   "mot": "al nassr",
+   "mot_norm": "al nassr",
+   "langue": "fr",
+   "debut": "2026-10-29T21:00:00",
+   "debut_ts": 1793304000,
+   "fin": "2026-10-29T23:20:00",
+   "volume": 200,
+   "hausse": 700,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "النجم الرياضي الساحلي|498109": {
+   "mot": "النجم الرياضي الساحلي",
+   "mot_norm": "النجم الرياضي الساحلي",
+   "langue": "ar",
+   "debut": "2026-10-28T14:10:00",
+   "debut_ts": 1793193000,
+   "fin": "2026-10-29T07:50:00",
+   "volume": 200,
+   "hausse": 300,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "fleetwood vs arsenal|498092": {
+   "mot": "fleetwood vs arsenal",
+   "mot_norm": "fleetwood vs arsenal",
+   "langue": "fr",
+   "debut": "2026-10-27T21:20:00",
+   "debut_ts": 1793132400,
+   "fin": "2026-10-28T06:20:00",
+   "volume": 500,
+   "hausse": 1000,
+   "liees": [
+    "arsenal"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "liverpool - brighton|498037": {
+   "mot": "liverpool – brighton",
+   "mot_norm": "liverpool - brighton",
+   "langue": "fr",
+   "debut": "2026-10-25T14:50:00",
+   "debut_ts": 1792936200,
+   "fin": "2026-10-25T18:50:00",
+   "volume": 1000,
+   "hausse": 1000,
+   "liees": [
+    "liverpool vs brighton"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "al-nassr fc - al wasl|498065": {
+   "mot": "al-nassr fc – al wasl",
+   "mot_norm": "al-nassr fc - al wasl",
+   "langue": "fr",
+   "debut": "2026-10-26T18:40:00",
+   "debut_ts": 1793036400,
+   "fin": "2026-10-26T21:50:00",
+   "volume": 500,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "ac milan - bologne|498113": {
+   "mot": "ac milan – bologne",
+   "mot_norm": "ac milan - bologne",
+   "langue": "fr",
+   "debut": "2026-10-28T18:40:00",
+   "debut_ts": 1793209200,
+   "fin": "2026-10-28T21:10:00",
+   "volume": 500,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "yalla kora|498133": {
+   "mot": "yalla kora",
+   "mot_norm": "yalla kora",
+   "langue": "fr",
+   "debut": "2026-10-29T14:40:00",
+   "debut_ts": 1793281200,
+   "fin": "2026-10-29T15:50:00",
+   "volume": 500,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "cristiano ronaldo|498134": {
+   "mot": "cristiano ronaldo",
+   "mot_norm": "cristiano ronaldo",
+   "langue": "fr",
+   "debut": "2026-10-29T15:30:00",
+   "debut_ts": 1793284200,
+   "fin": "2026-10-29T22:10:00",
+   "volume": 200,
+   "hausse": 200,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "al-nassr vs al kholood|498138": {
+   "mot": "al-nassr vs al kholood",
+   "mot_norm": "al-nassr vs al kholood",
+   "langue": "fr",
+   "debut": "2026-10-29T19:50:00",
+   "debut_ts": 1793299800,
+   "fin": "2026-10-29T21:50:00",
+   "volume": 200,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "مباريات اليوم مباشر|498041": {
+   "mot": "مباريات اليوم مباشر",
+   "mot_norm": "مباريات اليوم مباشر",
+   "langue": "ar",
+   "debut": "2026-10-25T18:20:00",
+   "debut_ts": 1792948800,
+   "fin": "2026-10-25T23:30:00",
+   "volume": 500,
+   "hausse": 500,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "roma - cagliari|498091": {
+   "mot": "roma – cagliari",
+   "mot_norm": "roma - cagliari",
+   "langue": "fr",
+   "debut": "2026-10-27T20:50:00",
+   "debut_ts": 1793130600,
+   "fin": "2026-10-28T08:10:00",
+   "volume": 500,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "fribourg - bayern|498040": {
+   "mot": "fribourg – bayern",
+   "mot_norm": "fribourg - bayern",
+   "langue": "fr",
+   "debut": "2026-10-25T17:10:00",
+   "debut_ts": 1792944600,
+   "fin": "2026-10-25T20:40:00",
+   "volume": 1000,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "alkass|498133": {
+   "mot": "alkass",
+   "mot_norm": "alkass",
+   "langue": "fr",
+   "debut": "2026-10-29T14:30:00",
+   "debut_ts": 1793280600,
+   "fin": "2026-10-29T16:30:00",
+   "volume": 200,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "israel elections|498095": {
+   "mot": "israel elections",
+   "mot_norm": "israel elections",
+   "langue": "fr",
+   "debut": "2026-10-28T00:50:00",
+   "debut_ts": 1793145000,
+   "fin": "2026-10-28T18:50:00",
+   "volume": 200,
+   "hausse": 200,
+   "liees": [
+    "election israel"
+   ],
+   "codes": [
+    14
+   ],
+   "categorie": "administration",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "match|498041": {
+   "mot": "match",
+   "mot_norm": "match",
+   "langue": "fr",
+   "debut": "2026-10-25T18:50:00",
+   "debut_ts": 1792950600,
+   "fin": "2026-10-26T00:10:00",
+   "volume": 500,
+   "hausse": 400,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "young africans|498108": {
+   "mot": "young africans",
+   "mot_norm": "young africans",
+   "langue": "fr",
+   "debut": "2026-10-28T13:50:00",
+   "debut_ts": 1793191800,
+   "fin": "2026-10-28T16:20:00",
+   "volume": 200,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "liverpool|498116": {
+   "mot": "liverpool",
+   "mot_norm": "liverpool",
+   "langue": "fr",
+   "debut": "2026-10-28T21:50:00",
+   "debut_ts": 1793220600,
+   "fin": "2026-10-29T00:40:00",
+   "volume": 200,
+   "hausse": 800,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "parking|498069": {
+   "mot": "parking",
+   "mot_norm": "parking",
+   "langue": "fr",
+   "debut": "2026-10-26T22:10:00",
+   "debut_ts": 1793049000,
+   "fin": "2026-10-27T11:00:00",
+   "volume": 200,
+   "hausse": 400,
+   "liees": [],
+   "codes": [
+    19,
+    3
+   ],
+   "categorie": "tourisme",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "championnat|498134": {
+   "mot": "championnat",
+   "mot_norm": "championnat",
+   "langue": "fr",
+   "debut": "2026-10-29T15:50:00",
+   "debut_ts": 1793285400,
+   "fin": "2026-10-29T17:40:00",
+   "volume": 200,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    1,
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "real|498044": {
+   "mot": "real",
+   "mot_norm": "real",
+   "langue": "fr",
+   "debut": "2026-10-25T21:20:00",
+   "debut_ts": 1792959600,
+   "fin": "2026-10-26T00:20:00",
+   "volume": 500,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "تهريب|498066": {
+   "mot": "تهريب",
+   "mot_norm": "تهريب",
+   "langue": "ar",
+   "debut": "2026-10-26T19:50:00",
+   "debut_ts": 1793040600,
+   "fin": "2026-10-27T07:30:00",
+   "volume": 500,
+   "hausse": 900,
+   "liees": [],
+   "codes": [
+    11
+   ],
+   "categorie": "autre",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "taraji|498134": {
+   "mot": "taraji",
+   "mot_norm": "taraji",
+   "langue": "fr",
+   "debut": "2026-10-29T15:40:00",
+   "debut_ts": 1793284800,
+   "fin": "2026-10-29T16:20:00",
+   "volume": 500,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    4
+   ],
+   "categorie": "divertissement",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "bein sport live|498068": {
+   "mot": "bein sport live",
+   "mot_norm": "bein sport live",
+   "langue": "fr",
+   "debut": "2026-10-26T21:00:00",
+   "debut_ts": 1793044800,
+   "fin": "2026-10-27T00:50:00",
+   "volume": 200,
+   "hausse": 700,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "balon de oro 2026|498068": {
+   "mot": "balon de oro 2026",
+   "mot_norm": "balon de oro 2026",
+   "langue": "fr",
+   "debut": "2026-10-26T21:10:00",
+   "debut_ts": 1793045400,
+   "fin": "2026-10-27T02:00:00",
+   "volume": 200,
+   "hausse": 700,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "real madrid club de futbol|498044": {
+   "mot": "real madrid club de fútbol",
+   "mot_norm": "real madrid club de futbol",
+   "langue": "fr",
+   "debut": "2026-10-25T21:20:00",
+   "debut_ts": 1792959600,
+   "fin": "2026-10-26T00:10:00",
+   "volume": 500,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "match barca|498044": {
+   "mot": "match barca",
+   "mot_norm": "match barca",
+   "langue": "fr",
+   "debut": "2026-10-25T21:20:00",
+   "debut_ts": 1792959600,
+   "fin": "2026-10-26T00:00:00",
+   "volume": 1000,
+   "hausse": 900,
+   "liees": [
+    "barca match",
+    "rma vs fcb"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "venezia - inter|498114": {
+   "mot": "venezia – inter",
+   "mot_norm": "venezia - inter",
+   "langue": "fr",
+   "debut": "2026-10-28T19:00:00",
+   "debut_ts": 1793210400,
+   "fin": "2026-10-28T23:10:00",
+   "volume": 200,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "inter - fiorentina|498035": {
+   "mot": "inter – fiorentina",
+   "mot_norm": "inter - fiorentina",
+   "langue": "fr",
+   "debut": "2026-10-25T12:40:00",
+   "debut_ts": 1792928400,
+   "fin": "2026-10-25T17:00:00",
+   "volume": 500,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "seville - osasuna|498067": {
+   "mot": "séville – osasuna",
+   "mot_norm": "seville - osasuna",
+   "langue": "fr",
+   "debut": "2026-10-26T20:50:00",
+   "debut_ts": 1793044200,
+   "fin": "2026-10-27T00:20:00",
+   "volume": 200,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "inter miami - cincinnati|498124": {
+   "mot": "inter miami – cincinnati",
+   "mot_norm": "inter miami - cincinnati",
+   "langue": "fr",
+   "debut": "2026-10-29T05:40:00",
+   "debut_ts": 1793248800,
+   "fin": "2026-10-29T08:50:00",
+   "volume": 100,
+   "hausse": 300,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "novak djokovic|498112": {
+   "mot": "novak djokovic",
+   "mot_norm": "novak djokovic",
+   "langue": "fr",
+   "debut": "2026-10-28T17:20:00",
+   "debut_ts": 1793204400,
+   "fin": "2026-10-28T19:20:00",
+   "volume": 200,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "f1|498044": {
+   "mot": "f1",
+   "mot_norm": "f1",
+   "langue": "fr",
+   "debut": "2026-10-25T21:10:00",
+   "debut_ts": 1792959000,
+   "fin": "2026-10-26T00:00:00",
+   "volume": 500,
+   "hausse": 700,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "zamalek - al mokawloon|498114": {
+   "mot": "zamalek – al mokawloon",
+   "mot_norm": "zamalek - al mokawloon",
+   "langue": "fr",
+   "debut": "2026-10-28T19:00:00",
+   "debut_ts": 1793210400,
+   "fin": "2026-10-28T20:50:00",
+   "volume": 200,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "real madrid vs barca|498044": {
+   "mot": "real madrid vs barca",
+   "mot_norm": "real madrid vs barca",
+   "langue": "fr",
+   "debut": "2026-10-25T21:10:00",
+   "debut_ts": 1792959000,
+   "fin": "2026-10-26T00:00:00",
+   "volume": 200,
+   "hausse": 600,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "celta vigo - betis|498039": {
+   "mot": "celta vigo – betis",
+   "mot_norm": "celta vigo - betis",
+   "langue": "fr",
+   "debut": "2026-10-25T16:20:00",
+   "debut_ts": 1792941600,
+   "fin": "2026-10-25T19:00:00",
+   "volume": 200,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "fcb|498044": {
+   "mot": "fcb",
+   "mot_norm": "fcb",
+   "langue": "fr",
+   "debut": "2026-10-25T21:50:00",
+   "debut_ts": 1792961400,
+   "fin": "2026-10-26T00:00:00",
+   "volume": 500,
+   "hausse": 700,
+   "liees": [
+    "raphinha"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "كوره سيتي|498044": {
+   "mot": "كورة سيتي",
+   "mot_norm": "كوره سيتي",
+   "langue": "ar",
+   "debut": "2026-10-25T21:20:00",
+   "debut_ts": 1792959600,
+   "fin": "2026-10-25T23:40:00",
+   "volume": 500,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "barca vs|498044": {
+   "mot": "barca vs",
+   "mot_norm": "barca vs",
+   "langue": "fr",
+   "debut": "2026-10-25T21:40:00",
+   "debut_ts": 1792960800,
+   "fin": "2026-10-25T23:50:00",
+   "volume": 500,
+   "hausse": 900,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "lecce - juventus|498041": {
+   "mot": "lecce – juventus",
+   "mot_norm": "lecce - juventus",
+   "langue": "fr",
+   "debut": "2026-10-25T18:20:00",
+   "debut_ts": 1792948800,
+   "fin": "2026-10-25T21:10:00",
+   "volume": 200,
+   "hausse": 600,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "bournemouth - aston villa|498116": {
+   "mot": "bournemouth – aston villa",
+   "mot_norm": "bournemouth - aston villa",
+   "langue": "fr",
+   "debut": "2026-10-28T21:40:00",
+   "debut_ts": 1793220000,
+   "fin": "2026-10-28T23:10:00",
+   "volume": 100,
+   "hausse": 700,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "immobilier",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "marseille - le havre|498040": {
+   "mot": "marseille – le havre",
+   "mot_norm": "marseille - le havre",
+   "langue": "fr",
+   "debut": "2026-10-25T17:50:00",
+   "debut_ts": 1792947000,
+   "fin": "2026-10-25T20:20:00",
+   "volume": 200,
+   "hausse": 700,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "genoa - juventus|498116": {
+   "mot": "genoa – juventus",
+   "mot_norm": "genoa - juventus",
+   "langue": "fr",
+   "debut": "2026-10-28T21:20:00",
+   "debut_ts": 1793218800,
+   "fin": "2026-10-28T23:10:00",
+   "volume": 100,
+   "hausse": 600,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "esperance sportive de zarzis|498042": {
+   "mot": "espérance sportive de zarzis",
+   "mot_norm": "esperance sportive de zarzis",
+   "langue": "fr",
+   "debut": "2026-10-25T19:30:00",
+   "debut_ts": 1792953000,
+   "fin": "2026-10-25T23:40:00",
+   "volume": 200,
+   "hausse": 400,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "rizespor - trabzonspor|498065": {
+   "mot": "rizespor – trabzonspor",
+   "mot_norm": "rizespor - trabzonspor",
+   "langue": "fr",
+   "debut": "2026-10-26T18:10:00",
+   "debut_ts": 1793034600,
+   "fin": "2026-10-26T20:00:00",
+   "volume": 200,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "yallakora|498044": {
+   "mot": "yallakora",
+   "mot_norm": "yallakora",
+   "langue": "fr",
+   "debut": "2026-10-25T21:10:00",
+   "debut_ts": 1792959000,
+   "fin": "2026-10-25T22:50:00",
+   "volume": 200,
+   "hausse": 700,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "الشروق|498041": {
+   "mot": "الشروق",
+   "mot_norm": "الشروق",
+   "langue": "ar",
+   "debut": "2026-10-25T18:10:00",
+   "debut_ts": 1792948200,
+   "fin": "2026-10-26T07:30:00",
+   "volume": 200,
+   "hausse": 200,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "الطقس غدا|498140": {
+   "mot": "الطقس غدًا",
+   "mot_norm": "الطقس غدا",
+   "langue": "ar",
+   "debut": "2026-10-29T21:20:00",
+   "debut_ts": 1793305200,
+   "fin": "2026-10-29T22:10:00",
+   "volume": 200,
+   "hausse": 50,
+   "liees": [],
+   "codes": [
+    20
+   ],
+   "categorie": "meteo",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "unai simon|498069": {
+   "mot": "unai simon",
+   "mot_norm": "unai simon",
+   "langue": "fr",
+   "debut": "2026-10-26T22:40:00",
+   "debut_ts": 1793050800,
+   "fin": "2026-10-26T23:50:00",
+   "volume": 200,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "مباريات اليوم|498041": {
+   "mot": "مباريات اليوم",
+   "mot_norm": "مباريات اليوم",
+   "langue": "ar",
+   "debut": "2026-10-25T18:20:00",
+   "debut_ts": 1792948800,
+   "fin": "2026-10-25T23:30:00",
+   "volume": 200,
+   "hausse": 200,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "sophie turner|498070": {
+   "mot": "sophie turner",
+   "mot_norm": "sophie turner",
+   "langue": "fr",
+   "debut": "2026-10-26T23:10:00",
+   "debut_ts": 1793052600,
+   "fin": "2026-10-27T00:20:00",
+   "volume": 200,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    4
+   ],
+   "categorie": "divertissement",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "قطار|498127": {
+   "mot": "قطار",
+   "mot_norm": "قطار",
+   "langue": "ar",
+   "debut": "2026-10-29T08:20:00",
+   "debut_ts": 1793258400,
+   "fin": "2026-10-29T09:50:00",
+   "volume": 100,
+   "hausse": 300,
+   "liees": [],
+   "codes": [
+    11
+   ],
+   "categorie": "autre",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "novak djokovic|498140": {
+   "mot": "novak djokovic",
+   "mot_norm": "novak djokovic",
+   "langue": "fr",
+   "debut": "2026-10-29T21:40:00",
+   "debut_ts": 1793306400,
+   "fin": "2026-10-29T22:30:00",
+   "volume": 100,
+   "hausse": 900,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "club african|498041": {
+   "mot": "club african",
+   "mot_norm": "club african",
+   "langue": "fr",
+   "debut": "2026-10-25T18:40:00",
+   "debut_ts": 1792950000,
+   "fin": "2026-10-25T20:40:00",
+   "volume": 200,
+   "hausse": 700,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "vicky lopez|498069": {
+   "mot": "vicky lopez",
+   "mot_norm": "vicky lopez",
+   "langue": "fr",
+   "debut": "2026-10-26T22:00:00",
+   "debut_ts": 1793048400,
+   "fin": "2026-10-26T23:10:00",
+   "volume": 200,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "club vs|498041": {
+   "mot": "club vs",
+   "mot_norm": "club vs",
+   "langue": "fr",
+   "debut": "2026-10-25T18:50:00",
+   "debut_ts": 1792950600,
+   "fin": "2026-10-25T21:00:00",
+   "volume": 200,
+   "hausse": 500,
+   "liees": [],
+   "codes": [
+    17,
+    4
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "sports|498046": {
+   "mot": "sports",
+   "mot_norm": "sports",
+   "langue": "fr",
+   "debut": "2026-10-25T23:00:00",
+   "debut_ts": 1792965600,
+   "fin": "2026-10-26T06:20:00",
+   "volume": 200,
+   "hausse": 200,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "bein sport live|498044": {
+   "mot": "bein sport live",
+   "mot_norm": "bein sport live",
+   "langue": "fr",
+   "debut": "2026-10-25T21:30:00",
+   "debut_ts": 1792960200,
+   "fin": "2026-10-25T23:00:00",
+   "volume": 200,
+   "hausse": 700,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "chelsea|498118": {
+   "mot": "chelsea",
+   "mot_norm": "chelsea",
+   "langue": "fr",
+   "debut": "2026-10-28T23:00:00",
+   "debut_ts": 1793224800,
+   "fin": "2026-10-28T23:50:00",
+   "volume": 100,
+   "hausse": 700,
+   "liees": [
+    "league cup"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "classement man utd - bournemouth|498040": {
+   "mot": "classement man utd – bournemouth",
+   "mot_norm": "classement man utd - bournemouth",
+   "langue": "fr",
+   "debut": "2026-10-25T17:40:00",
+   "debut_ts": 1792946400,
+   "fin": "2026-10-25T19:00:00",
+   "volume": 200,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "خصم|498053": {
+   "mot": "خصم",
+   "mot_norm": "خصم",
+   "langue": "ar",
+   "debut": "2026-10-26T06:30:00",
+   "debut_ts": 1792992600,
+   "fin": "2026-10-26T10:00:00",
+   "volume": 100,
+   "hausse": 300,
+   "liees": [],
+   "codes": [
+    11
+   ],
+   "categorie": "autre",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "كره القدم|498091": {
+   "mot": "كرة القدم",
+   "mot_norm": "كره القدم",
+   "langue": "ar",
+   "debut": "2026-10-27T20:00:00",
+   "debut_ts": 1793127600,
+   "fin": "2026-10-28T06:10:00",
+   "volume": 100,
+   "hausse": 200,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "koora goal|498044": {
+   "mot": "koora goal",
+   "mot_norm": "koora goal",
+   "langue": "fr",
+   "debut": "2026-10-25T21:10:00",
+   "debut_ts": 1792959000,
+   "fin": "2026-10-25T22:30:00",
+   "volume": 200,
+   "hausse": 400,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "ريال مدريد ضد برشلونه|498045": {
+   "mot": "ريال مدريد ضد برشلونة",
+   "mot_norm": "ريال مدريد ضد برشلونه",
+   "langue": "ar",
+   "debut": "2026-10-25T22:10:00",
+   "debut_ts": 1792962600,
+   "fin": "2026-10-25T23:50:00",
+   "volume": 100,
+   "hausse": 400,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "udinese - ac milan|498044": {
+   "mot": "udinese – ac milan",
+   "mot_norm": "udinese - ac milan",
+   "langue": "fr",
+   "debut": "2026-10-25T21:10:00",
+   "debut_ts": 1792959000,
+   "fin": "2026-10-25T22:50:00",
+   "volume": 200,
+   "hausse": 600,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "sports|498075": {
+   "mot": "sports",
+   "mot_norm": "sports",
+   "langue": "fr",
+   "debut": "2026-10-27T04:10:00",
+   "debut_ts": 1793070600,
+   "fin": "2026-10-27T06:10:00",
+   "volume": 100,
+   "hausse": 300,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "meteo|498053": {
+   "mot": "meteo",
+   "mot_norm": "meteo",
+   "langue": "fr",
+   "debut": "2026-10-26T06:20:00",
+   "debut_ts": 1792992000,
+   "fin": "2026-10-26T07:20:00",
+   "volume": 200,
+   "hausse": 75,
+   "liees": [],
+   "codes": [
+    20
+   ],
+   "categorie": "meteo",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "ath. bilbao - getafe|498037": {
+   "mot": "ath. bilbao – getafe",
+   "mot_norm": "ath. bilbao - getafe",
+   "langue": "fr",
+   "debut": "2026-10-25T14:50:00",
+   "debut_ts": 1792936200,
+   "fin": "2026-10-25T17:20:00",
+   "volume": 100,
+   "hausse": 800,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "thibaut courtois|498043": {
+   "mot": "thibaut courtois",
+   "mot_norm": "thibaut courtois",
+   "langue": "fr",
+   "debut": "2026-10-25T20:40:00",
+   "debut_ts": 1792957200,
+   "fin": "2026-10-25T21:50:00",
+   "volume": 100,
+   "hausse": 700,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "nouvelair|498109": {
+   "mot": "nouvelair",
+   "mot_norm": "nouvelair",
+   "langue": "fr",
+   "debut": "2026-10-28T14:30:00",
+   "debut_ts": 1793194200,
+   "fin": "2026-10-28T15:00:00",
+   "volume": 200,
+   "hausse": 100,
+   "liees": [],
+   "codes": [
+    19
+   ],
+   "categorie": "tourisme",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "meteo pour demain|498140": {
+   "mot": "météo pour demain",
+   "mot_norm": "meteo pour demain",
+   "langue": "fr",
+   "debut": "2026-10-29T21:00:00",
+   "debut_ts": 1793304000,
+   "fin": "2026-10-29T21:20:00",
+   "volume": 100,
+   "hausse": 75,
+   "liees": [],
+   "codes": [
+    20
+   ],
+   "categorie": "meteo",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "سطو|498068": {
+   "mot": "سطو",
+   "mot_norm": "سطو",
+   "langue": "ar",
+   "debut": "2026-10-26T21:50:00",
+   "debut_ts": 1793047800,
+   "fin": "2026-10-26T22:30:00",
+   "volume": 100,
+   "hausse": 800,
+   "liees": [],
+   "codes": [
+    10
+   ],
+   "categorie": "administration",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "live|498044": {
+   "mot": "live",
+   "mot_norm": "live",
+   "langue": "fr",
+   "debut": "2026-10-25T21:40:00",
+   "debut_ts": 1792960800,
+   "fin": "2026-10-25T22:30:00",
+   "volume": 100,
+   "hausse": 500,
+   "liees": [],
+   "codes": [
+    14
+   ],
+   "categorie": "politique",
+   "vu_premier": "2026-11-01T10:46:10",
+   "vu_dernier": "2026-11-01T10:46:10",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  }
+ },
+ "maj": "2026-11-01T11:04:21"
+}

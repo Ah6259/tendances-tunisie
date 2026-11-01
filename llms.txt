@@ -1,0 +1,20 @@
+# Tendances de recherche en Tunisie
+
+> Ce que les Tunisiens cherchent sur Google : recherches en forte hausse (24 h, 7 jours), nouveautés, catégories, opportunités pour les entrepreneurs, historique construit jour après jour. Français et arabe (une adresse par langue : /ar/). Adresse : https://tendances.clicvia.com/
+
+Source des données : Google Trends (Tunisie) et suggestions de recherche Google ; lecture automatique deux fois par jour. Volumes = ordres de grandeur par paliers, jamais exacts.
+
+## Pages
+- [Aujourd'hui](https://tendances.clicvia.com/) : recherches commencées dans les 24 dernières heures, nouveautés, hausses inhabituelles, opportunités, catégories.
+- [Cette semaine](https://tendances.clicvia.com/semaine/) : toutes les tendances des 7 derniers jours, filtrables.
+- [Opportunités](https://tendances.clicvia.com/opportunites/) : recherches en hausse qui révèlent un besoin ou une intention d'achat.
+- [Mots tapés](https://tendances.clicvia.com/mots-tapes/) : expressions réellement tapées (suggestions Google), nouvelles et disparues.
+- [Historique](https://tendances.clicvia.com/historique/) : par jour, semaine et mois.
+- [Catégories](https://tendances.clicvia.com/categorie/immobilier/) : une page par catégorie (immobilier, automobile, emploi, education, tourisme, sante, commerce, technologie, administration, energie, finance, sport, divertissement, meteo, politique, religion, autre).
+- [Comment fonctionne le site ?](https://tendances.clicvia.com/a-propos/) : méthode, limites, sources.
+
+## Données ouvertes
+- https://tendances.clicvia.com/donnees/analyse.json : l'analyse du jour (JSON) ; https://tendances.clicvia.com/donnees/tendances.json : toutes les tendances vues. Réutilisation libre avec la mention « Tendances de recherche en Tunisie (tendances.clicvia.com), d'après Google Trends ».
+
+## À savoir
+- Site indépendant, non officiel, sans lien avec Google. Pour citer : le nom du site et le lien de la page.

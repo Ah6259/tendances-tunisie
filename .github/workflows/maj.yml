@@ -1,0 +1,58 @@
+# Robot quotidien de Tendances de recherche en Tunisie — tourne sur GitHub, sans PC (dépôt public : minutes gratuites).
+# Lecture de Google Trends (tendances du moment + RSS) -> données enregistrées TOUT DE SUITE (règle § 19 : jamais perdre un relevé)
+# -> analyse -> pages FR + AR -> tests -> enregistrement. Un test rouge bloque les pages, jamais la sauvegarde des données.
+# Source en panne depuis plus de 2 jours = robot ROUGE (règle commune § 46, tools/sources_en_panne.py).
+name: maj
+on:
+  schedule:
+    - cron: "40 6 * * *"       # 7h40 à Tunis
+    - cron: "40 18 * * *"      # 19h40 à Tunis
+  workflow_dispatch:
+concurrency:
+  group: maj-site
+  cancel-in-progress: false
+permissions:
+  contents: write
+env:
+  TZ: Africa/Tunis
+  PYTHONIOENCODING: utf-8
+jobs:
+  maj:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Test du robot (sans réseau)
+        run: python tools/test_robot.py
+      - name: Lecture de Google Trends (Tunisie)
+        run: python robot/collecte.py
+        timeout-minutes: 10
+      - name: Garder les données lues (avant les pages et les tests)
+        run: |
+          git config user.name "robot-tendances"
+          git config user.email "robot-tendances@users.noreply.github.com"
+          git add donnees/tendances.json donnees/etat.json donnees/carnet-categories.json donnees/releves
+          git diff --cached --quiet || git commit -qm "Relevé du $(date +%d/%m/%Y\ %Hh%M)"
+          for essai in 1 2 3; do git pull --rebase --autostash -q && git push -q && break; sleep $((essai * 5)); done
+      - name: Analyse
+        run: python robot/analyse.py
+      - uses: actions/setup-node@v4
+        with: { node-version: "22" }
+      - name: Pages du site (français + arabe)
+        run: python robot/construire_site.py
+      - name: Tests du site (rien n'est publié si un test échoue)
+        run: |
+          npm install --no-save --no-package-lock jsdom
+          node tools/test_site.mjs
+      - name: Visiteur simulé (liens morts, pages cassées, avant le visiteur réel)
+        run: SANS_NAVIGATEUR=1 python tools/visiteur_simule.py
+      - name: Enregistrer les pages
+        run: |
+          git add -A
+          git diff --cached --quiet || git commit -qm "Tendances du $(date +%d/%m/%Y\ %Hh%M)"
+          for essai in 1 2 3 4; do git pull --rebase --autostash -q && git push -q && exit 0; sleep $((essai * 5)); done
+          echo "ÉCHEC : pages non enregistrées"; exit 1
+      - name: Source en panne depuis plus de 2 jours ? (ÉCHEC = e-mail à Ahmed ; les données sont déjà enregistrées)
+        run: python tools/sources_en_panne.py

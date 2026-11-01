@@ -1,0 +1,34 @@
+# Robot hebdomadaire des « mots tapés » (suggestions de recherche Google en Tunisie) : ~170 demandes, une par seconde.
+# Les pages sont refaites par le robot « maj » suivant (les mots sont lus dans donnees/mots.json par l'analyse).
+name: mots
+on:
+  schedule:
+    - cron: "15 3 * * 0"       # dimanche 4h15 à Tunis
+  workflow_dispatch:
+concurrency:
+  group: maj-site
+  cancel-in-progress: false
+permissions:
+  contents: write
+env:
+  TZ: Africa/Tunis
+  PYTHONIOENCODING: utf-8
+jobs:
+  mots:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Suggestions Google (Tunisie)
+        run: python robot/mots.py
+        timeout-minutes: 25
+      - name: Enregistrer
+        run: |
+          git config user.name "robot-tendances"
+          git config user.email "robot-tendances@users.noreply.github.com"
+          git add donnees/mots.json
+          git diff --cached --quiet || git commit -qm "Mots tapés du $(date +%d/%m/%Y)"
+          for essai in 1 2 3 4; do git pull --rebase --autostash -q && git push -q && exit 0; sleep $((essai * 5)); done
+          echo "ÉCHEC : mots non enregistrés"; exit 1

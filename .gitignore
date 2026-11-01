@@ -1,0 +1,4 @@
+node_modules/
+__pycache__/
+*.pyc
+_visiteur_simule_*.html
