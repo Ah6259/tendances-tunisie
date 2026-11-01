@@ -41,7 +41,8 @@ Adresse : https://tendances.clicvia.com/ (sous-domaine Cloudflare d'Ahmed, CNAME
   service worker), app.js (filtres, recherche, « Voir les N autres »), avis.js (Formspree mwlpakqj, e-mail obligatoire), logo.svg, og-image.jpg.
 - Robots : `maj.yml` (7h40 et 19h40 : collecte → données enregistrées tout de suite → analyse → pages → tests → pages enregistrées →
   sources en panne), `mots.yml` (dimanche 4h15), `tests.yml` (à chaque envoi : test_robot, test_site, visiteur simulé), gendarme des tests.
-- Tests : `python tools/test_robot.py` (40), `node tools/test_site.mjs` (jsdom), `python tools/visiteur_simule.py`.
+- Tests : `python tools/test_robot.py` (42), `node tools/test_site.mjs` (jsdom), `node tools/test_navigateur.mjs` (scripts chargés dans
+  <head> comme Chrome : toute erreur JS = rouge ; leçon du 01/11), `python tools/visiteur_simule.py`.
   Construire : `python robot/collecte.py` (réseau) ou `--local`, `python robot/analyse.py`, `python robot/construire_site.py`.
   Envoyer : `bash "../../outils envoi/envoyer_si_vert.sh" "$PWD" "message" "python robot/analyse.py && python robot/construire_site.py" "python tools/test_robot.py" "node tools/test_site.mjs"`.
 

@@ -17,14 +17,15 @@
     return ["football"];
   }
   function garder(liste) { try { localStorage.setItem(CLE, JSON.stringify(liste)); } catch (e) {} }
-  var pageCat = document.body.getAttribute("data-categorie") || "";       // page d'une catégorie : jamais masquée ici
+  // page d'une catégorie : jamais masquée ici (lu à l'emploi : ce script est chargé dans <head>, avant le corps de la page)
+  var pageCat = function () { return (document.body && document.body.getAttribute("data-categorie")) || ""; };
 
   function appliquerMasque() {
     var m = masques();
     document.querySelectorAll("ul.tendances").forEach(function (liste) {
       Array.prototype.forEach.call(liste.children, function (li) {
         var cat = li.getAttribute("data-cat");
-        li.classList.toggle("cachee-masque", !!cat && cat !== pageCat && m.indexOf(cat) >= 0);
+        li.classList.toggle("cachee-masque", !!cat && cat !== pageCat() && m.indexOf(cat) >= 0);
       });
       renumeroter(liste);
     });
@@ -52,7 +53,7 @@
     var bar = document.createElement("div"); bar.className = "masquage";
     var lab = document.createElement("span"); lab.className = "masquage-titre"; lab.textContent = T("Masquer :", "إخفاء:"); bar.appendChild(lab);
     MASQUABLES.forEach(function (c) {
-      if (c[0] === pageCat) return;
+      if (c[0] === pageCat()) return;
       var b = document.createElement("button"); b.type = "button"; b.setAttribute("data-cat", c[0]);
       b.textContent = c[1] + " " + T(c[2], c[3]);
       b.addEventListener("click", function () {
