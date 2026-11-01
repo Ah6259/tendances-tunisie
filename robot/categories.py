@@ -40,7 +40,7 @@ GOOGLE = {1: "automobile", 2: "commerce", 3: "finance", 4: "divertissement", 5: 
 
 # mots-clés : (expression régulière sur le mot normalisé, catégorie). L'ordre compte : la première qui correspond gagne.
 MOTS = [
-    (r"\b(appartement|maison|villa|terrain|studio|loyer|immobili|duplex|s\+[1-4]|promoteur)\b|كراء شق|شقه|شقق|منزل|عقار|ارض للبيع|فيلا|دار للبيع|كراء منازل", "immobilier"),
+    (r"\b(appartement|maison|villa|terrain|studio|loyer|immobili|duplex|s\+[1-4]|promoteur)\b|كراء شق|شقه|شقق|منزل|عقار|بناء|عماره|ارض للبيع|فيلا|دار للبيع|كراء منازل", "immobilier"),
     (r"\b(voiture|auto-?ecole|permis|vignette|visite technique|leasing auto|carburant|essence|gasoil|diesel|pneu|moto|camion)\b|سياره|سيارات|رخصه سياقه|معلوم الجولان|بنزين|كازوال", "automobile"),
     (r"\b(concours|recrutement|emploi|offre d'emploi|stage|aneti|cnss|cnrps|salaire|smig|grève|greve|chomage|travail)\b|مناظره|مناظرات|انتداب|شغل|خدمه|اجر|اضراب|توظيف|عمل", "emploi"),
     (r"\b(bac|baccalaur|universit|faculte|inscription|orientation|resultat|examen|ecole|lycee|master|bourse d'etude|cours|formation|iset|isetcom)\b|باكالوريا|جامعه|كليه|نتائج|امتحان|مدرسه|معهد|توجيه|تسجيل|دروس|تكوين", "education"),
@@ -65,7 +65,7 @@ def _compiler(r):
     i = r.find("\\b|")
     if i < 0:
         return re.compile(r)
-    return re.compile(r[:i + 2] + r"|(?<!\w)(?:ال)?(?:" + r[i + 3:] + ")")
+    return re.compile(r[:i + 2] + r"|(?<!\w)(?:و|ف|ب|ك|ل|لل)?(?:ال)?(?:" + r[i + 3:] + ")")
 
 
 _MOTS = [(_compiler(r), c) for r, c in MOTS]

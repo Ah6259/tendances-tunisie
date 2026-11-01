@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-01T19:26:30",
+ "maj": "2026-11-01T19:27:02",
  "jour": "2026-11-01",
  "totaux": {
   "tendances": 174,
@@ -446,7 +446,7 @@
    "mot": "من فاز بالكرة الذهبية 2026",
    "slug": "من-فاز-بالكره-الذهبيه-2026",
    "langue": "ar",
-   "categorie": "sport",
+   "categorie": "football",
    "volume": 5000,
    "hausse": 1000,
    "debut": "2026-10-26T21:40:00",
@@ -636,7 +636,7 @@
    "mot": "بناء",
    "slug": "بناء",
    "langue": "ar",
-   "categorie": "autre",
+   "categorie": "immobilier",
    "volume": 2000,
    "hausse": 1000,
    "debut": "2026-10-30T19:50:00",
@@ -1271,7 +1271,7 @@
    "mot": "الشركة التونسية للبنك",
    "slug": "الشركه-التونسيه-للبنك",
    "langue": "ar",
-   "categorie": "autre",
+   "categorie": "finance",
    "volume": 500,
    "hausse": 500,
    "debut": "2026-10-27T06:10:00",
@@ -2540,7 +2540,7 @@
    "mot": "من فاز بالكرة الذهبية 2026",
    "slug": "من-فاز-بالكره-الذهبيه-2026",
    "langue": "ar",
-   "categorie": "sport",
+   "categorie": "football",
    "volume": 5000,
    "hausse": 1000,
    "debut": "2026-10-26T21:40:00",
@@ -2603,7 +2603,7 @@
    "mot": "بناء",
    "slug": "بناء",
    "langue": "ar",
-   "categorie": "autre",
+   "categorie": "immobilier",
    "volume": 2000,
    "hausse": 1000,
    "debut": "2026-10-30T19:50:00",
@@ -3455,9 +3455,21 @@
   "immobilier": {
    "fr": "Immobilier",
    "ar": "العقارات",
-   "n_semaine": 1,
-   "n_mois": 1,
+   "n_semaine": 2,
+   "n_mois": 2,
    "top": [
+    {
+     "mot": "بناء",
+     "slug": "بناء",
+     "langue": "ar",
+     "categorie": "immobilier",
+     "volume": 2000,
+     "hausse": 1000,
+     "debut": "2026-10-30T19:50:00",
+     "fin": "2026-10-31T21:00:00",
+     "liees": [],
+     "jour": "2026-10-30"
+    },
     {
      "mot": "bournemouth – aston villa",
      "slug": "bournemouth-aston-villa",
@@ -3774,9 +3786,21 @@
   "finance": {
    "fr": "Argent et banques",
    "ar": "المال والبنوك",
-   "n_semaine": 2,
-   "n_mois": 2,
+   "n_semaine": 3,
+   "n_mois": 3,
    "top": [
+    {
+     "mot": "الشركة التونسية للبنك",
+     "slug": "الشركه-التونسيه-للبنك",
+     "langue": "ar",
+     "categorie": "finance",
+     "volume": 500,
+     "hausse": 500,
+     "debut": "2026-10-27T06:10:00",
+     "fin": "2026-10-28T07:20:00",
+     "liees": [],
+     "jour": "2026-10-27"
+    },
     {
      "mot": "bna",
      "slug": "bna",
@@ -3824,8 +3848,8 @@
   "football": {
    "fr": "Football",
    "ar": "كرة القدم",
-   "n_semaine": 81,
-   "n_mois": 97,
+   "n_semaine": 82,
+   "n_mois": 98,
    "top": [
     {
      "mot": "ballon d'or 2026",
@@ -3995,6 +4019,24 @@
      "liees": [
       "classement paris saint-germain football club – olympique lyonnais",
       "psg vs ol"
+     ],
+     "jour": "2026-10-26"
+    },
+    {
+     "mot": "من فاز بالكرة الذهبية 2026",
+     "slug": "من-فاز-بالكره-الذهبيه-2026",
+     "langue": "ar",
+     "categorie": "football",
+     "volume": 5000,
+     "hausse": 1000,
+     "debut": "2026-10-26T21:40:00",
+     "fin": "2026-10-27T10:50:00",
+     "liees": [
+      "حفل الكرة الذهبية 2026",
+      "yalla kora",
+      "الكرة الذهبية 2026",
+      "من الفائز بالكرة الذهبية 2026",
+      "الكرة الذهبية"
      ],
      "jour": "2026-10-26"
     },
@@ -4630,18 +4672,6 @@
      "fin": "2026-10-31T16:40:00",
      "liees": [],
      "jour": "2026-10-31"
-    },
-    {
-     "mot": "liverpool",
-     "slug": "liverpool",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 200,
-     "hausse": 800,
-     "debut": "2026-10-28T21:50:00",
-     "fin": "2026-10-29T00:40:00",
-     "liees": [],
-     "jour": "2026-10-28"
     }
    ],
    "top24": [
@@ -4793,27 +4823,9 @@
   "sport": {
    "fr": "Autres sports",
    "ar": "رياضات أخرى",
-   "n_semaine": 28,
-   "n_mois": 34,
+   "n_semaine": 27,
+   "n_mois": 33,
    "top": [
-    {
-     "mot": "من فاز بالكرة الذهبية 2026",
-     "slug": "من-فاز-بالكره-الذهبيه-2026",
-     "langue": "ar",
-     "categorie": "sport",
-     "volume": 5000,
-     "hausse": 1000,
-     "debut": "2026-10-26T21:40:00",
-     "fin": "2026-10-27T10:50:00",
-     "liees": [
-      "حفل الكرة الذهبية 2026",
-      "yalla kora",
-      "الكرة الذهبية 2026",
-      "من الفائز بالكرة الذهبية 2026",
-      "الكرة الذهبية"
-     ],
-     "jour": "2026-10-26"
-    },
     {
      "mot": "ياسين مرياح",
      "slug": "ياسين-مرياح",
@@ -5393,21 +5405,9 @@
   "autre": {
    "fr": "Autre",
    "ar": "أخرى",
-   "n_semaine": 7,
-   "n_mois": 7,
+   "n_semaine": 5,
+   "n_mois": 5,
    "top": [
-    {
-     "mot": "بناء",
-     "slug": "بناء",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 2000,
-     "hausse": 1000,
-     "debut": "2026-10-30T19:50:00",
-     "fin": "2026-10-31T21:00:00",
-     "liees": [],
-     "jour": "2026-10-30"
-    },
     {
      "mot": "سرقة",
      "slug": "سرقه",
@@ -5443,18 +5443,6 @@
      "fin": "2026-10-27T07:30:00",
      "liees": [],
      "jour": "2026-10-26"
-    },
-    {
-     "mot": "الشركة التونسية للبنك",
-     "slug": "الشركه-التونسيه-للبنك",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 500,
-     "hausse": 500,
-     "debut": "2026-10-27T06:10:00",
-     "fin": "2026-10-28T07:20:00",
-     "liees": [],
-     "jour": "2026-10-27"
     },
     {
      "mot": "خصم",
@@ -5498,6 +5486,20 @@
   }
  },
  "opportunites": [
+  {
+   "mot": "بناء",
+   "slug": "بناء",
+   "langue": "ar",
+   "categorie": "immobilier",
+   "volume": 2000,
+   "hausse": 1000,
+   "debut": "2026-10-30T19:50:00",
+   "fin": "2026-10-31T21:00:00",
+   "liees": [],
+   "jour": "2026-10-30",
+   "intention": false,
+   "score": 4000.0
+  },
   {
    "mot": "سعر",
    "slug": "سعر",
@@ -5679,19 +5681,15 @@
     "categories": [
      {
       "cle": "football",
-      "n": 61
+      "n": 62
      },
      {
       "cle": "sport",
-      "n": 23
+      "n": 22
      },
      {
       "cle": "administration",
       "n": 9
-     },
-     {
-      "cle": "autre",
-      "n": 7
      },
      {
       "cle": "divertissement",
@@ -5702,11 +5700,19 @@
       "n": 6
      },
      {
+      "cle": "autre",
+      "n": 5
+     },
+     {
       "cle": "commerce",
       "n": 4
      },
      {
       "cle": "finance",
+      "n": 3
+     },
+     {
+      "cle": "immobilier",
       "n": 2
      },
      {
@@ -5719,10 +5725,6 @@
      },
      {
       "cle": "politique",
-      "n": 1
-     },
-     {
-      "cle": "immobilier",
       "n": 1
      }
     ]
@@ -6126,19 +6128,15 @@
     "categories": [
      {
       "cle": "football",
-      "n": 96
+      "n": 97
      },
      {
       "cle": "sport",
-      "n": 33
+      "n": 32
      },
      {
       "cle": "administration",
       "n": 10
-     },
-     {
-      "cle": "autre",
-      "n": 7
      },
      {
       "cle": "divertissement",
@@ -6149,6 +6147,10 @@
       "n": 6
      },
      {
+      "cle": "autre",
+      "n": 5
+     },
+     {
       "cle": "commerce",
       "n": 4
      },
@@ -6157,19 +6159,19 @@
       "n": 3
      },
      {
+      "cle": "finance",
+      "n": 3
+     },
+     {
+      "cle": "immobilier",
+      "n": 2
+     },
+     {
       "cle": "politique",
       "n": 2
      },
      {
-      "cle": "finance",
-      "n": 2
-     },
-     {
       "cle": "technologie",
-      "n": 1
-     },
-     {
-      "cle": "immobilier",
       "n": 1
      }
     ]
@@ -10306,13 +10308,13 @@
    "mot_norm": "من فاز بالكره الذهبيه 2026",
    "slug": "من-فاز-بالكره-الذهبيه-2026",
    "langue": "ar",
-   "categorie": "sport",
+   "categorie": "football",
    "episodes": [
     {
      "mot": "من فاز بالكرة الذهبية 2026",
      "slug": "من-فاز-بالكره-الذهبيه-2026",
      "langue": "ar",
-     "categorie": "sport",
+     "categorie": "football",
      "volume": 5000,
      "hausse": 1000,
      "debut": "2026-10-26T21:40:00",
@@ -10886,13 +10888,13 @@
    "mot_norm": "بناء",
    "slug": "بناء",
    "langue": "ar",
-   "categorie": "autre",
+   "categorie": "immobilier",
    "episodes": [
     {
      "mot": "بناء",
      "slug": "بناء",
      "langue": "ar",
-     "categorie": "autre",
+     "categorie": "immobilier",
      "volume": 2000,
      "hausse": 1000,
      "debut": "2026-10-30T19:50:00",
@@ -12116,13 +12118,13 @@
    "mot_norm": "الشركه التونسيه للبنك",
    "slug": "الشركه-التونسيه-للبنك",
    "langue": "ar",
-   "categorie": "autre",
+   "categorie": "finance",
    "episodes": [
     {
      "mot": "الشركة التونسية للبنك",
      "slug": "الشركه-التونسيه-للبنك",
      "langue": "ar",
-     "categorie": "autre",
+     "categorie": "finance",
      "volume": 500,
      "hausse": 500,
      "debut": "2026-10-27T06:10:00",
