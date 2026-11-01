@@ -7,7 +7,7 @@
    "langue": "fr",
    "debut": "2026-10-31T23:10:00",
    "debut_ts": 1793484600,
-   "fin": null,
+   "fin": "2026-11-01T20:50:00",
    "volume": 5000,
    "hausse": 1000,
    "liees": [
@@ -19,8 +19,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 8,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 10,
    "periodes": [
     24,
     48,
@@ -39,8 +39,8 @@
    "langue": "ar",
    "debut": "2026-10-31T14:00:00",
    "debut_ts": 1793451600,
-   "fin": null,
-   "volume": 1000,
+   "fin": "2026-11-01T23:00:00",
+   "volume": 2000,
    "hausse": 1000,
    "liees": [],
    "codes": [
@@ -48,8 +48,8 @@
    ],
    "categorie": "autre",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 6,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 8,
    "periodes": [
     24,
     48,
@@ -78,8 +78,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 6,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 8,
    "periodes": [
     24,
     48,
@@ -106,8 +106,8 @@
    ],
    "categorie": "commerce",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 6,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 8,
    "periodes": [
     24,
     48,
@@ -128,14 +128,16 @@
    "fin": "2026-11-01T09:30:00",
    "volume": 1000,
    "hausse": 1000,
-   "liees": [],
+   "liees": [
+    "ac milan"
+   ],
    "codes": [
     17
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 6,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 8,
    "periodes": [
     24,
     48,
@@ -159,15 +161,16 @@
    "liees": [
     "lamine yamal",
     "fcb",
-    "barca"
+    "barca",
+    "barca vs"
    ],
    "codes": [
     17
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 8,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 10,
    "periodes": [
     24,
     48,
@@ -199,8 +202,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 6,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 8,
    "periodes": [
     24,
     48,
@@ -232,8 +235,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 6,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 8,
    "periodes": [
     24,
     48,
@@ -263,8 +266,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 6,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 8,
    "periodes": [
     24,
     48,
@@ -293,8 +296,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 6,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 8,
    "periodes": [
     24,
     48,
@@ -350,8 +353,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 6,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 8,
    "periodes": [
     24,
     48,
@@ -378,8 +381,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 8,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 11,
    "periodes": [
     24,
     48,
@@ -410,8 +413,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 8,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 10,
    "periodes": [
     24,
     48,
@@ -439,8 +442,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T10:46:10",
-   "releves": 3,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 5,
    "periodes": [
     24,
     48,
@@ -469,8 +472,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 8,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 11,
    "periodes": [
     24,
     48,
@@ -498,8 +501,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 8,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 10,
    "periodes": [
     24,
     48,
@@ -528,8 +531,8 @@
    ],
    "categorie": "administration",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 6,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 8,
    "periodes": [
     24,
     48,
@@ -556,8 +559,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 6,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 8,
    "periodes": [
     24,
     48,
@@ -584,8 +587,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 8,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 10,
    "periodes": [
     24,
     48,
@@ -613,8 +616,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 6,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 8,
    "periodes": [
     24,
     48,
@@ -670,8 +673,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 6,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 8,
    "periodes": [
     24,
     48,
@@ -698,8 +701,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 6,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 8,
    "periodes": [
     24,
     48,
@@ -726,8 +729,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 8,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 10,
    "periodes": [
     24,
     48,
@@ -756,8 +759,8 @@
    ],
    "categorie": "administration",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 4,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 5,
    "periodes": [
     48,
     168
@@ -782,8 +785,8 @@
    ],
    "categorie": "immobilier",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 4,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 5,
    "periodes": [
     48,
     168
@@ -808,8 +811,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 4,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 5,
    "periodes": [
     48,
     168
@@ -835,8 +838,8 @@
    ],
    "categorie": "divertissement",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 4,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 6,
    "periodes": [
     48,
     168
@@ -863,8 +866,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 4,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 5,
    "periodes": [
     48,
     168
@@ -889,8 +892,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 4,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 5,
    "periodes": [
     48,
     168
@@ -918,8 +921,8 @@
    ],
    "categorie": "administration",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 4,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 5,
    "periodes": [
     48,
     168
@@ -944,8 +947,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 4,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 5,
    "periodes": [
     48,
     168
@@ -970,8 +973,8 @@
    ],
    "categorie": "divertissement",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 4,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 5,
    "periodes": [
     48,
     168
@@ -997,8 +1000,8 @@
    ],
    "categorie": "commerce",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 4,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 5,
    "periodes": [
     48,
     168
@@ -1023,8 +1026,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 4,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 5,
    "periodes": [
     48,
     168
@@ -1049,8 +1052,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 4,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 5,
    "periodes": [
     48,
     168
@@ -1112,15 +1115,16 @@
     "est",
     "esperance",
     "classement stade tunisien – es zarzis",
-    "ligue 1 tunisie"
+    "ligue 1 tunisie",
+    "championnat de tunisie"
    ],
    "codes": [
     17
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -1145,8 +1149,8 @@
    ],
    "categorie": "meteo",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -1194,8 +1198,8 @@
    "langue": "fr",
    "debut": "2026-11-01T09:40:00",
    "debut_ts": 1793522400,
-   "fin": "2026-11-01T10:30:00",
-   "volume": 200,
+   "fin": "2026-11-01T17:10:00",
+   "volume": 500,
    "hausse": 700,
    "liees": [],
    "codes": [
@@ -1203,13 +1207,17 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 5,
    "periodes": [
-    168
+    168,
+    24,
+    48
    ],
    "sources": [
-    "168h"
+    "168h",
+    "24h",
+    "48h"
    ]
   },
   "club africain - ca bizertin|498132": {
@@ -1227,8 +1235,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -1251,8 +1259,8 @@
    ],
    "categorie": "divertissement",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -1275,8 +1283,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -1299,8 +1307,8 @@
    ],
    "categorie": "meteo",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -1323,8 +1331,8 @@
    ],
    "categorie": "autre",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -1376,8 +1384,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -1434,8 +1442,8 @@
    ],
    "categorie": "meteo",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -1495,8 +1503,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -1519,8 +1527,8 @@
    ],
    "categorie": "technologie",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -1543,8 +1551,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -1600,8 +1608,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -1624,8 +1632,8 @@
    ],
    "categorie": "politique",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -1648,8 +1656,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -1672,8 +1680,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -1722,8 +1730,8 @@
    ],
    "categorie": "commerce",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -1749,15 +1757,16 @@
     "حفل الكرة الذهبية",
     "جائزة الكرة الذهبية",
     "الفائز بالكرة الذهبية 2026",
-    "القنوات الناقلة لحفل الكرة الذهبية 2026"
+    "القنوات الناقلة لحفل الكرة الذهبية 2026",
+    "متى حفل الكرة الذهبية 2026"
    ],
    "codes": [
     17
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -1785,8 +1794,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -1833,8 +1842,8 @@
    ],
    "categorie": "administration",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -1859,8 +1868,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -1945,8 +1954,8 @@
    ],
    "categorie": "divertissement",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -1969,8 +1978,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2019,8 +2028,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2101,8 +2110,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2150,8 +2159,8 @@
    ],
    "categorie": "finance",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2198,8 +2207,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2222,8 +2231,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2270,8 +2279,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2294,8 +2303,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2347,8 +2356,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2372,8 +2381,8 @@
    ],
    "categorie": "divertissement",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2427,8 +2436,8 @@
    ],
    "categorie": "finance",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2459,8 +2468,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2483,8 +2492,8 @@
    ],
    "categorie": "administration",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2507,8 +2516,8 @@
    ],
    "categorie": "administration",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2531,8 +2540,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2555,8 +2564,8 @@
    ],
    "categorie": "administration",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2603,8 +2612,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2653,8 +2662,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2677,8 +2686,8 @@
    ],
    "categorie": "finance",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2701,8 +2710,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2725,8 +2734,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2751,8 +2760,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2801,8 +2810,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2825,8 +2834,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2849,8 +2858,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2873,8 +2882,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2897,8 +2906,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2945,8 +2954,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -2993,8 +3002,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -3019,8 +3028,8 @@
    ],
    "categorie": "administration",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -3067,8 +3076,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -3091,8 +3100,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -3116,8 +3125,8 @@
    ],
    "categorie": "tourisme",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -3141,8 +3150,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -3189,8 +3198,8 @@
    ],
    "categorie": "autre",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -3213,8 +3222,8 @@
    ],
    "categorie": "divertissement",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -3237,8 +3246,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -3261,8 +3270,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -3336,8 +3345,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -3384,8 +3393,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -3408,8 +3417,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -3432,8 +3441,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -3480,8 +3489,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -3650,8 +3659,8 @@
    ],
    "categorie": "immobilier",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -3698,8 +3707,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -3746,8 +3755,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -3818,8 +3827,8 @@
    ],
    "categorie": "meteo",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -3842,8 +3851,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -3890,8 +3899,8 @@
    ],
    "categorie": "divertissement",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -3914,8 +3923,8 @@
    ],
    "categorie": "autre",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -3938,8 +3947,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -3986,8 +3995,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -4085,8 +4094,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -4133,8 +4142,8 @@
    ],
    "categorie": "autre",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -4157,8 +4166,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -4253,8 +4262,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -4277,8 +4286,8 @@
    ],
    "categorie": "meteo",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -4349,8 +4358,8 @@
    ],
    "categorie": "tourisme",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -4373,8 +4382,8 @@
    ],
    "categorie": "meteo",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -4397,8 +4406,8 @@
    ],
    "categorie": "administration",
    "vu_premier": "2026-11-01T10:46:10",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 2,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
    "periodes": [
     168
    ],
@@ -4445,8 +4454,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-01T11:10:29",
-   "vu_dernier": "2026-11-01T11:10:29",
-   "releves": 3,
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 4,
    "periodes": [
     24,
     48,
@@ -4514,7 +4523,723 @@
    "sources": [
     "168h"
    ]
+  },
+  "juventus - naples|498211": {
+   "mot": "juventus – naples",
+   "mot_norm": "juventus - naples",
+   "langue": "fr",
+   "debut": "2026-11-01T20:50:00",
+   "debut_ts": 1793562600,
+   "fin": null,
+   "volume": 500,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "football",
+   "vu_premier": "2026-11-01T23:21:11",
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 5,
+   "periodes": [
+    4,
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "4h",
+    "24h",
+    "48h",
+    "168h",
+    "rss"
+   ]
+  },
+  "f1|498212": {
+   "mot": "f1",
+   "mot_norm": "f1",
+   "langue": "fr",
+   "debut": "2026-11-01T21:50:00",
+   "debut_ts": 1793566200,
+   "fin": null,
+   "volume": 200,
+   "hausse": 400,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T23:21:11",
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 5,
+   "periodes": [
+    4,
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "4h",
+    "24h",
+    "48h",
+    "168h",
+    "rss"
+   ]
+  },
+  "marseille - toulouse|498212": {
+   "mot": "marseille – toulouse",
+   "mot_norm": "marseille - toulouse",
+   "langue": "fr",
+   "debut": "2026-11-01T21:10:00",
+   "debut_ts": 1793563800,
+   "fin": null,
+   "volume": 200,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "football",
+   "vu_premier": "2026-11-01T23:21:11",
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 5,
+   "periodes": [
+    4,
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "4h",
+    "24h",
+    "48h",
+    "168h",
+    "rss"
+   ]
+  },
+  "ath. bilbao - real sociedad|498212": {
+   "mot": "ath. bilbao – real sociedad",
+   "mot_norm": "ath. bilbao - real sociedad",
+   "langue": "fr",
+   "debut": "2026-11-01T21:50:00",
+   "debut_ts": 1793566200,
+   "fin": null,
+   "volume": 100,
+   "hausse": 900,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "football",
+   "vu_premier": "2026-11-01T23:21:11",
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 5,
+   "periodes": [
+    4,
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "4h",
+    "24h",
+    "48h",
+    "168h",
+    "rss"
+   ]
+  },
+  "liberation|498213": {
+   "mot": "libération",
+   "mot_norm": "liberation",
+   "langue": "fr",
+   "debut": "2026-11-01T22:10:00",
+   "debut_ts": 1793567400,
+   "fin": null,
+   "volume": 100,
+   "hausse": 600,
+   "liees": [],
+   "codes": [
+    10
+   ],
+   "categorie": "administration",
+   "vu_premier": "2026-11-01T23:21:11",
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 5,
+   "periodes": [
+    4,
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "4h",
+    "24h",
+    "48h",
+    "168h",
+    "rss"
+   ]
+  },
+  "premier league|498211": {
+   "mot": "premier league",
+   "mot_norm": "premier league",
+   "langue": "fr",
+   "debut": "2026-11-01T20:00:00",
+   "debut_ts": 1793559600,
+   "fin": "2026-11-01T20:50:00",
+   "volume": 200,
+   "hausse": 300,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "football",
+   "vu_premier": "2026-11-01T23:21:11",
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 1,
+   "periodes": [
+    4
+   ],
+   "sources": [
+    "4h"
+   ]
+  },
+  "classement racing de santander - real madrid|498209": {
+   "mot": "classement racing de santander – real madrid",
+   "mot_norm": "classement racing de santander - real madrid",
+   "langue": "fr",
+   "debut": "2026-11-01T18:30:00",
+   "debut_ts": 1793554200,
+   "fin": null,
+   "volume": 5000,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "football",
+   "vu_premier": "2026-11-01T23:21:11",
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 4,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h",
+    "rss"
+   ]
+  },
+  "titre de sejour|498209": {
+   "mot": "titre de séjour",
+   "mot_norm": "titre de sejour",
+   "langue": "fr",
+   "debut": "2026-11-01T18:00:00",
+   "debut_ts": 1793552400,
+   "fin": null,
+   "volume": 2000,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    10
+   ],
+   "categorie": "administration",
+   "vu_premier": "2026-11-01T23:21:11",
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 4,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h",
+    "rss"
+   ]
+  },
+  "liverpool - arsenal|498207": {
+   "mot": "liverpool – arsenal",
+   "mot_norm": "liverpool - arsenal",
+   "langue": "fr",
+   "debut": "2026-11-01T16:50:00",
+   "debut_ts": 1793548200,
+   "fin": "2026-11-01T21:10:00",
+   "volume": 2000,
+   "hausse": 1000,
+   "liees": [
+    "liverpool vs arsenal",
+    "liverpool",
+    "arsenal",
+    "premier league"
+   ],
+   "codes": [
+    17,
+    4
+   ],
+   "categorie": "football",
+   "vu_premier": "2026-11-01T23:21:11",
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 4,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h",
+    "rss"
+   ]
+  },
+  "racing santander vs real madrid|498206": {
+   "mot": "racing santander vs real madrid",
+   "mot_norm": "racing santander vs real madrid",
+   "langue": "fr",
+   "debut": "2026-11-01T15:30:00",
+   "debut_ts": 1793543400,
+   "fin": "2026-11-01T20:40:00",
+   "volume": 2000,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "football",
+   "vu_premier": "2026-11-01T23:21:11",
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h"
+   ]
+  },
+  "donald tusk|498205": {
+   "mot": "donald tusk",
+   "mot_norm": "donald tusk",
+   "langue": "fr",
+   "debut": "2026-11-01T14:20:00",
+   "debut_ts": 1793539200,
+   "fin": "2026-11-01T22:50:00",
+   "volume": 200,
+   "hausse": 400,
+   "liees": [],
+   "codes": [
+    3
+   ],
+   "categorie": "finance",
+   "vu_premier": "2026-11-01T23:21:11",
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h"
+   ]
+  },
+  "رسينغ ضد الريال|498207": {
+   "mot": "رسينغ ضد الريال",
+   "mot_norm": "رسينغ ضد الريال",
+   "langue": "ar",
+   "debut": "2026-11-01T16:10:00",
+   "debut_ts": 1793545800,
+   "fin": "2026-11-01T18:50:00",
+   "volume": 500,
+   "hausse": 1000,
+   "liees": [
+    "ريال مدريد"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "football",
+   "vu_premier": "2026-11-01T23:21:11",
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h"
+   ]
+  },
+  "getafe - seville|498205": {
+   "mot": "getafe – séville",
+   "mot_norm": "getafe - seville",
+   "langue": "fr",
+   "debut": "2026-11-01T14:10:00",
+   "debut_ts": 1793538600,
+   "fin": "2026-11-01T17:10:00",
+   "volume": 200,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "football",
+   "vu_premier": "2026-11-01T23:21:11",
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h"
+   ]
+  },
+  "kylian mbappe|498209": {
+   "mot": "kylian mbappé",
+   "mot_norm": "kylian mbappe",
+   "langue": "fr",
+   "debut": "2026-11-01T18:30:00",
+   "debut_ts": 1793554200,
+   "fin": "2026-11-01T19:30:00",
+   "volume": 200,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "football",
+   "vu_premier": "2026-11-01T23:21:11",
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 4,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h",
+    "rss"
+   ]
+  },
+  "البطوله التونسيه|498205": {
+   "mot": "البطولة التونسية",
+   "mot_norm": "البطوله التونسيه",
+   "langue": "ar",
+   "debut": "2026-11-01T14:30:00",
+   "debut_ts": 1793539800,
+   "fin": "2026-11-01T15:40:00",
+   "volume": 1000,
+   "hausse": 400,
+   "liees": [
+    "ترتيب الدوري التونسي",
+    "الدوري التونسي",
+    "بطولة تونس"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "football",
+   "vu_premier": "2026-11-01T23:21:11",
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h"
+   ]
+  },
+  "trabzonspor - gaziantep|498206": {
+   "mot": "trabzonspor – gaziantep",
+   "mot_norm": "trabzonspor - gaziantep",
+   "langue": "fr",
+   "debut": "2026-11-01T15:20:00",
+   "debut_ts": 1793542800,
+   "fin": "2026-11-01T16:30:00",
+   "volume": 100,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T23:21:11",
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h"
+   ]
+  },
+  "real madrid vs|498209": {
+   "mot": "real madrid vs",
+   "mot_norm": "real madrid vs",
+   "langue": "fr",
+   "debut": "2026-11-01T18:10:00",
+   "debut_ts": 1793553000,
+   "fin": "2026-11-01T18:40:00",
+   "volume": 100,
+   "hausse": 600,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "football",
+   "vu_premier": "2026-11-01T23:21:11",
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 4,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h",
+    "rss"
+   ]
+  },
+  "championnat de tunisie|498205": {
+   "mot": "championnat de tunisie",
+   "mot_norm": "championnat de tunisie",
+   "langue": "fr",
+   "debut": "2026-11-01T14:40:00",
+   "debut_ts": 1793540400,
+   "fin": "2026-11-01T15:40:00",
+   "volume": 100,
+   "hausse": 700,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "football",
+   "vu_premier": "2026-11-01T23:21:11",
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 2,
+   "periodes": [
+    24,
+    48
+   ],
+   "sources": [
+    "24h",
+    "48h"
+   ]
+  },
+  "ligue 1 tunisie|498206": {
+   "mot": "ligue 1 tunisie",
+   "mot_norm": "ligue 1 tunisie",
+   "langue": "fr",
+   "debut": "2026-11-01T15:00:00",
+   "debut_ts": 1793541600,
+   "fin": "2026-11-01T15:20:00",
+   "volume": 100,
+   "hausse": 300,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "football",
+   "vu_premier": "2026-11-01T23:21:11",
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 3,
+   "periodes": [
+    24,
+    48,
+    168
+   ],
+   "sources": [
+    "24h",
+    "48h",
+    "168h"
+   ]
+  },
+  "barcelona|498190": {
+   "mot": "barcelona",
+   "mot_norm": "barcelona",
+   "langue": "fr",
+   "debut": "2026-10-31T23:00:00",
+   "debut_ts": 1793484000,
+   "fin": "2026-10-31T23:50:00",
+   "volume": 200,
+   "hausse": 600,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T23:21:11",
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 2,
+   "periodes": [
+    48,
+    168
+   ],
+   "sources": [
+    "48h",
+    "168h"
+   ]
+  },
+  "lamine yamal|498190": {
+   "mot": "lamine yamal",
+   "mot_norm": "lamine yamal",
+   "langue": "fr",
+   "debut": "2026-10-31T23:10:00",
+   "debut_ts": 1793484600,
+   "fin": "2026-11-01T00:20:00",
+   "volume": 100,
+   "hausse": 1000,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "football",
+   "vu_premier": "2026-11-01T23:21:11",
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 2,
+   "periodes": [
+    48,
+    168
+   ],
+   "sources": [
+    "48h",
+    "168h"
+   ]
+  },
+  "harry kane|498069": {
+   "mot": "harry kane",
+   "mot_norm": "harry kane",
+   "langue": "fr",
+   "debut": "2026-10-26T22:00:00",
+   "debut_ts": 1793048400,
+   "fin": "2026-10-28T08:40:00",
+   "volume": 10000,
+   "hausse": 1000,
+   "liees": [
+    "bayern munich",
+    "ballon dor",
+    "dazn live",
+    "who won the ballon d'or 2026",
+    "ballon dor live",
+    "ballon d'or 2026 date",
+    "ballon d'or 2026 winner",
+    "ballon d or 2026",
+    "ballon dor 2026"
+   ],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T23:21:11",
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "ماهر الكنزاري|498062": {
+   "mot": "ماهر الكنزاري",
+   "mot_norm": "ماهر الكنزاري",
+   "langue": "ar",
+   "debut": "2026-10-26T15:50:00",
+   "debut_ts": 1793026200,
+   "fin": "2026-10-27T08:30:00",
+   "volume": 200,
+   "hausse": 500,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "sport",
+   "vu_premier": "2026-11-01T23:21:11",
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "mbappe|498070": {
+   "mot": "mbappe",
+   "mot_norm": "mbappe",
+   "langue": "fr",
+   "debut": "2026-10-26T23:50:00",
+   "debut_ts": 1793055000,
+   "fin": "2026-10-27T08:40:00",
+   "volume": 200,
+   "hausse": 500,
+   "liees": [],
+   "codes": [
+    11
+   ],
+   "categorie": "football",
+   "vu_premier": "2026-11-01T23:21:11",
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
+  },
+  "fc barcelone - real madrid : temps forts|498046": {
+   "mot": "fc barcelone – real madrid : temps forts",
+   "mot_norm": "fc barcelone - real madrid : temps forts",
+   "langue": "fr",
+   "debut": "2026-10-25T23:40:00",
+   "debut_ts": 1792968000,
+   "fin": "2026-10-26T00:00:00",
+   "volume": 100,
+   "hausse": 600,
+   "liees": [],
+   "codes": [
+    17
+   ],
+   "categorie": "football",
+   "vu_premier": "2026-11-01T23:21:11",
+   "vu_dernier": "2026-11-01T23:21:11",
+   "releves": 1,
+   "periodes": [
+    168
+   ],
+   "sources": [
+    "168h"
+   ]
   }
  },
- "maj": "2026-11-01T19:27:02"
+ "maj": "2026-11-01T23:21:11"
 }
