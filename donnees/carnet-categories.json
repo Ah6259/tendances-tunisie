@@ -1,16 +1,11 @@
 {
- "maj": "2026-11-01",
+ "maj": "2026-11-02",
  "explication": "Mots restés sans catégorie (à classer dans robot/categories.py quand ils reviennent).",
  "mots": [
   {
-   "mot": "سرقة",
-   "fois": 1,
-   "volume": 2000
-  },
-  {
    "mot": "ثعبان",
-   "fois": 1,
-   "volume": 1000
+   "fois": 2,
+   "volume": 2000
   },
   {
    "mot": "تهريب",
