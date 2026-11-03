@@ -149,10 +149,11 @@ if (JSDOM) {
   check("jsdom : en-tête avec logo, bouton Partager, bouton de langue, lien Opportunités", d.querySelector("#entete .logo") && d.querySelector("#entete .partager") && d.querySelector("#entete .langue") && d.querySelector('#entete a[href$="opportunites/"]'));
   check("jsdom : pied de page avec les rubriques et « Tous nos services »", d.querySelectorAll("#pied nav a").length >= 7 && d.querySelector('#pied a[href="https://clicvia.com/"]'));
   check("jsdom : liste Aujourd'hui limitée à 10 + bouton « Voir les N autres »", d.querySelectorAll("#aujourdhui > li:not(.cachee-limite)").length <= 10 && (d.querySelector("#aujourdhui + .voir-plus") || d.querySelectorAll("#aujourdhui > li").length <= 10));
+  check("jsdom : les boutons de langue ne portent pas data-l (sinon le style les CACHE : défaut du 03/11/2026, vu en mode téléphone)", [...d.querySelectorAll("#entete .langue")].every(b => !b.hasAttribute("data-l")));
   check("jsdom : deux boutons de langue sur la page française (ع puis En)", [...d.querySelectorAll("#entete .langue")].map(b => b.textContent).join(" ") === "ع En");
   d.querySelector("#entete .langue").click();
   check("jsdom : le bouton « ع » sur la page française OUVRE l'adresse arabe", w.__alle === "/ar/");
-  d.querySelector('#entete .langue[data-l="en"]').click();
+  d.querySelector('#entete .langue[data-langue="en"]').click();
   check("jsdom : le bouton « En » sur la page française OUVRE l'adresse anglaise", w.__alle === "/en/");
   const wa = await ouvrir("ar/index.html");
   check("jsdom : page arabe : lang=ar, en-tête en arabe, bouton « Fr » ouvre la page française", wa.document.documentElement.lang === "ar" && wa.document.querySelector("#entete .logo-nom").textContent.includes("اتجاهات")

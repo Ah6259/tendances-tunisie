@@ -28,7 +28,7 @@
         <div class="entete-boutons">
           <a class="entete-pro" href="${rp}opportunites/">${T("Opportunités", "الفرص", "Opportunities")}</a>
           <button class="partager" type="button" aria-label="${T("Partager cette page", "شارك هذه الصفحة", "Share this page")}" title="${T("Partager", "شارك", "Share")}"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg></button>
-          ${LANGUES.filter(l => l !== html.lang).map(l => `<button class="langue" type="button" data-l="${l}" aria-label="${NOMS[l][1]}" title="${NOMS[l][1]}">${NOMS[l][0]}</button>`).join("")}
+          ${LANGUES.filter(l => l !== html.lang).map(l => `<button class="langue" type="button" data-langue="${l}" aria-label="${NOMS[l][1]}" title="${NOMS[l][1]}">${NOMS[l][0]}</button>`).join("")}
         </div>
       </div>`;
     const p = document.getElementById("pied");
@@ -56,7 +56,7 @@
         <p>© 2026 ${T("Tendances de recherche en Tunisie — tous droits réservés.", "اتجاهات البحث في تونس — جميع الحقوق محفوظة.", "Search trends in Tunisia — all rights reserved.")}</p>
       </div>`;
     document.querySelectorAll(".langue").forEach(b =>
-      b.addEventListener("click", () => appliquer(b.getAttribute("data-l") || "fr", true)));
+      b.addEventListener("click", () => appliquer(b.getAttribute("data-langue") || "fr", true)));
     // bouton Partager (demande d'Ahmed) : menu de partage du téléphone, sinon WhatsApp avec le lien de la page
     document.querySelectorAll(".partager").forEach(b => b.addEventListener("click", async () => {
       const url = location.href.split("#")[0].replace(/[?&]lang=(fr|ar|en)/, ""), titre = document.title.split(" | ")[0];
