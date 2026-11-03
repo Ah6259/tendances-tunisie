@@ -1,15 +1,10 @@
 {
- "maj": "2026-11-03",
+ "maj": "2026-11-04",
  "explication": "Mots restés sans catégorie (à classer dans robot/categories.py quand ils reviennent).",
  "mots": [
   {
    "mot": "ثعبان",
    "fois": 2,
-   "volume": 2000
-  },
-  {
-   "mot": "شتاء",
-   "fois": 1,
    "volume": 2000
   },
   {
@@ -19,6 +14,11 @@
   },
   {
    "mot": "crevette",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "طائر",
    "fois": 1,
    "volume": 200
   },
