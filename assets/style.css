@@ -548,3 +548,5 @@ html[lang="ar"] .tendance .mot[dir="ltr"]{text-align:left}
 .masquage button{font:inherit;font-size:13px;font-weight:700;padding:6px 11px;border-radius:999px;border:1px solid var(--ligne);background:var(--bg);color:var(--texte);cursor:pointer}
 .masquage button.actif{background:var(--rouge-clair);border-color:var(--rouge);color:var(--rouge);text-decoration:line-through}
 .masquage .etat{flex-basis:100%;font-size:12px;color:var(--doux)}
+/* 03/11/2026 : trois langues = deux boutons ; sur téléphone, en-tête resserré pour que le nom du site reste lisible */
+@media (max-width:440px){.entete .wrap{gap:6px}.logo{gap:7px;font-size:15px}.logo-mark{width:28px;height:28px}.entete-boutons{gap:4px}.entete-pro{padding:6px 8px;font-size:12px}.partager{width:32px;height:32px}.langue{padding:5px 8px;font-size:12px}}
