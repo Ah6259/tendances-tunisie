@@ -175,7 +175,6 @@ footer p{margin:6px 0}
 [data-l]{display:none}
 html[lang="fr"] [data-l="fr"],html[lang="ar"] [data-l="ar"],html[lang="en"] [data-l="en"]{display:revert}
 html[lang="fr"] [data-l="ar"],html[lang="fr"] [data-l="en"],html[lang="ar"] [data-l="fr"],html[lang="ar"] [data-l="en"],html[lang="en"] [data-l="fr"],html[lang="en"] [data-l="ar"]{display:none !important}
-.langue+.langue{margin-inline-start:-4px}
 
 .filtres.deux{grid-template-columns:1fr 1fr}
 @media (max-width:560px){
