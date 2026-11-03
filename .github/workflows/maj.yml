@@ -1,6 +1,6 @@
 # Robot quotidien de Tendances de recherche en Tunisie — tourne sur GitHub, sans PC (dépôt public : minutes gratuites).
 # Lecture de Google Trends (tendances du moment + RSS) -> données enregistrées TOUT DE SUITE (règle § 19 : jamais perdre un relevé)
-# -> analyse -> pages FR + AR -> tests -> enregistrement. Un test rouge bloque les pages, jamais la sauvegarde des données.
+# -> analyse -> pages FR + AR + EN -> tests -> enregistrement. Un test rouge bloque les pages, jamais la sauvegarde des données.
 # Source en panne depuis plus de 2 jours = robot ROUGE (règle commune § 46, tools/sources_en_panne.py).
 name: maj
 on:
@@ -40,7 +40,7 @@ jobs:
         run: python robot/analyse.py
       - uses: actions/setup-node@v4
         with: { node-version: "22" }
-      - name: Pages du site (français + arabe)
+      - name: Pages du site (français + arabe + anglais)
         run: python robot/construire_site.py
       - name: Tests du site (rien n'est publié si un test échoue)
         run: |

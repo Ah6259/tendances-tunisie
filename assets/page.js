@@ -1,18 +1,20 @@
 /* Tendances de recherche en Tunisie — repris de Concours (clicvia) : langue, en-tête et pied de page communs, partage, anti-copie, service worker */
-// La mémoire du navigateur est PARTAGÉE par tous les sites d'ah6259.github.io : n'accepter que « fr » ou « ar »
-// (le site des conférences gardait « en » → textes tous cachés)
+// Trois langues depuis le 03/11/2026 (demande d'Ahmed) : fr (adresse d'origine), ar/ et en/ ; n'accepter que ces trois codes.
 (function () {
   const html = document.documentElement;
   const racine = html.dataset.racine || "";
+  const LANGUES = ["fr", "ar", "en"];
+  const valide = l => LANGUES.includes(l || "") ? l : null;
   let langue = "fr";
-  try { langue = (/^(fr|ar)$/.test(localStorage.getItem("langue") || "") ? localStorage.getItem("langue") : "") || (navigator.language || "").startsWith("ar") && "ar" || "fr"; } catch (e) {}
-  const demande = new URLSearchParams(location.search).get("lang");
-  if (demande === "ar" || demande === "fr") langue = demande;
+  try { langue = valide(localStorage.getItem("langue")) || (navigator.language || "").startsWith("ar") && "ar" || "fr"; } catch (e) {}
+  const demande = valide(new URLSearchParams(location.search).get("lang"));
+  if (demande) langue = demande;
 
-  window.T = (fr, ar) => html.lang === "ar" ? ar : fr;
+  window.T = (fr, ar, en) => html.lang === "ar" ? ar : html.lang === "en" ? (en === undefined ? fr : en) : fr;
   // Nombres et dates isolés dans un texte arabe (U+2066 … U+2069)
   window.iso = t => "⁦" + t + "⁩";
 
+  const NOMS = { fr: ["Fr", "Français"], ar: ["ع", "العربية"], en: ["En", "English"] };
   function cadre() {
     const rp = html.dataset.racinePages !== undefined ? html.dataset.racinePages : racine;   // liens vers les pages : dans la langue
     const e = document.getElementById("entete");
@@ -20,50 +22,52 @@
       <div class="wrap">
         <a class="logo" href="${rp || "./"}">
           <img class="logo-mark" src="${racine}assets/logo.svg" alt="" width="34" height="34">
-          <span class="logo-nom">${T("Tendances Tunisie", "اتجاهات تونس")}
-            <small>${T("ce que les Tunisiens cherchent sur Google", "ماذا يبحث التونسيون على غوغل")}</small></span>
+          <span class="logo-nom">${T("Tendances Tunisie", "اتجاهات تونس", "Trends Tunisia")}
+            <small>${T("ce que les Tunisiens cherchent sur Google", "ماذا يبحث التونسيون على غوغل", "what Tunisians search on Google")}</small></span>
         </a>
         <div class="entete-boutons">
-          <a class="entete-pro" href="${rp}opportunites/">${T("Opportunités", "الفرص")}</a>
-          <button class="partager" type="button" aria-label="${T("Partager cette page", "شارك هذه الصفحة")}" title="${T("Partager", "شارك")}"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg></button>
-          <button class="langue" type="button" aria-label="${T("Lire en arabe", "Lire en français")}" title="${T("العربية", "Français")}">${T("ع", "Fr")}</button>
+          <a class="entete-pro" href="${rp}opportunites/">${T("Opportunités", "الفرص", "Opportunities")}</a>
+          <button class="partager" type="button" aria-label="${T("Partager cette page", "شارك هذه الصفحة", "Share this page")}" title="${T("Partager", "شارك", "Share")}"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg></button>
+          ${LANGUES.filter(l => l !== html.lang).map(l => `<button class="langue" type="button" data-l="${l}" aria-label="${NOMS[l][1]}" title="${NOMS[l][1]}">${NOMS[l][0]}</button>`).join("")}
         </div>
       </div>`;
     const p = document.getElementById("pied");
     const maj = document.body.dataset.majTexte || "";
     if (p) p.innerHTML = `
       <div class="wrap">
-        <div class="pied-logo"><img src="${racine}assets/logo.svg" alt="" width="24" height="24"> ${T("Tendances de recherche en Tunisie", "اتجاهات البحث في تونس")}</div>
+        <div class="pied-logo"><img src="${racine}assets/logo.svg" alt="" width="24" height="24"> ${T("Tendances de recherche en Tunisie", "اتجاهات البحث في تونس", "Search trends in Tunisia")}</div>
         <nav>
-          <a href="${rp || "./"}">${T("Aujourd'hui", "اليوم")}</a>
-          <a href="${rp}semaine/">${T("Cette semaine", "هذا الأسبوع")}</a>
-          <a href="${rp}opportunites/">${T("Opportunités", "الفرص")}</a>
-          <a href="${rp}mots-tapes/">${T("Mots tapés", "الكلمات المكتوبة")}</a>
-          <a href="${rp}historique/">${T("Historique", "السجل")}</a>
-          <a href="${rp}a-propos/">${T("Comment fonctionne le site ?", "كيف يعمل الموقع؟")}</a>
-          <a href="${rp}#avis">${T("Votre avis", "رأيك")}</a>
-          <a href="https://clicvia.com/" rel="noopener" target="_blank">${T("Tous nos services", "كل خدماتنا")}</a>
+          <a href="${rp || "./"}">${T("Aujourd'hui", "اليوم", "Today")}</a>
+          <a href="${rp}semaine/">${T("Cette semaine", "هذا الأسبوع", "This week")}</a>
+          <a href="${rp}opportunites/">${T("Opportunités", "الفرص", "Opportunities")}</a>
+          <a href="${rp}mots-tapes/">${T("Mots tapés", "الكلمات المكتوبة", "Typed words")}</a>
+          <a href="${rp}historique/">${T("Historique", "السجل", "History")}</a>
+          <a href="${rp}a-propos/">${T("Comment fonctionne le site ?", "كيف يعمل الموقع؟", "How does the site work?")}</a>
+          <a href="${rp}#avis">${T("Votre avis", "رأيك", "Your feedback")}</a>
+          <a href="https://clicvia.com/" rel="noopener" target="_blank">${T("Tous nos services", "كل خدماتنا", "All our services")}</a>
         </nav>
         <p>${T(`Source des données : <a href="https://trends.google.com/trending?geo=TN" rel="noopener" target="_blank">Google Trends</a> (tendances de recherche en Tunisie) et suggestions de recherche Google. Les volumes sont des ordres de grandeur donnés par Google, pas des nombres exacts.`,
-               `مصدر البيانات: <a href="https://trends.google.com/trending?geo=TN" rel="noopener" target="_blank">Google Trends</a> (اتجاهات البحث في تونس) واقتراحات بحث غوغل. الأحجام تقديرية كما يعطيها غوغل، وليست أرقامًا دقيقة.`)}</p>
-        ${maj ? `<p>${T("Dernière lecture de la source : ", "آخر قراءة للمصدر: ")}${iso(maj)}</p>` : ""}
+               `مصدر البيانات: <a href="https://trends.google.com/trending?geo=TN" rel="noopener" target="_blank">Google Trends</a> (اتجاهات البحث في تونس) واقتراحات بحث غوغل. الأحجام تقديرية كما يعطيها غوغل، وليست أرقامًا دقيقة.`,
+               `Data source: <a href="https://trends.google.com/trending?geo=TN" rel="noopener" target="_blank">Google Trends</a> (search trends in Tunisia) and Google search suggestions. Volumes are orders of magnitude given by Google, not exact numbers.`)}</p>
+        ${maj ? `<p>${T("Dernière lecture de la source : ", "آخر قراءة للمصدر: ", "Last reading of the source: ")}${iso(maj)}</p>` : ""}
         <p>${T("Site indépendant, non officiel, sans lien avec Google. Les marques citées appartiennent à leurs propriétaires.",
-               "موقع مستقل وغير رسمي، لا علاقة له بغوغل. العلامات المذكورة ملك لأصحابها.")}</p>
-        <p>© 2026 ${T("Tendances de recherche en Tunisie — tous droits réservés.", "اتجاهات البحث في تونس — جميع الحقوق محفوظة.")}</p>
+               "موقع مستقل وغير رسمي، لا علاقة له بغوغل. العلامات المذكورة ملك لأصحابها.",
+               "Independent, unofficial site, unrelated to Google. Brands mentioned belong to their owners.")}</p>
+        <p>© 2026 ${T("Tendances de recherche en Tunisie — tous droits réservés.", "اتجاهات البحث في تونس — جميع الحقوق محفوظة.", "Search trends in Tunisia — all rights reserved.")}</p>
       </div>`;
     document.querySelectorAll(".langue").forEach(b =>
-      b.addEventListener("click", () => appliquer(html.lang === "ar" ? "fr" : "ar", true)));
+      b.addEventListener("click", () => appliquer(b.getAttribute("data-l") || "fr", true)));
     // bouton Partager (demande d'Ahmed) : menu de partage du téléphone, sinon WhatsApp avec le lien de la page
     document.querySelectorAll(".partager").forEach(b => b.addEventListener("click", async () => {
-      const url = location.href.split("#")[0].replace(/[?&]lang=(fr|ar)/, ""), titre = document.title.split(" | ")[0];
+      const url = location.href.split("#")[0].replace(/[?&]lang=(fr|ar|en)/, ""), titre = document.title.split(" | ")[0];
       try { if (window.goatcounter && window.goatcounter.count) window.goatcounter.count({ path: "partage" + location.pathname.replace(/^\/tendances-tunisie\//, "/"), title: "Partage", event: true }); } catch (e) {}
       return window.partagerLien();
     }));
   }
 
-  // UNE ADRESSE PAR LANGUE (règle commune § 8, point 9) : la page française (adresse d'origine) contient les deux langues ; la page
-  // arabe (dossier ar/, attribut data-fixe) ne contient que l'arabe. Choisir l'autre langue OUVRE l'autre adresse ; un ancien lien
-  // « ?lang=ar » et un choix déjà fait mènent à la bonne adresse. Jamais de changement d'après la langue du téléphone seule.
+  // UNE ADRESSE PAR LANGUE (règle commune § 8, point 9) : la page française (adresse d'origine) contient les trois langues ; la page
+  // arabe (ar/) et la page anglaise (en/), attribut data-fixe, ne contiennent que la leur. Choisir une autre langue OUVRE son adresse ;
+  // un ancien lien « ?lang=ar » et un choix déjà fait mènent à la bonne adresse. Jamais de changement d'après la langue du téléphone seule.
   const BASE = /\.github\.io$/.test(location.hostname) ? "/tendances-tunisie/" : "/";
   const ici0 = location.pathname.replace(/index\.html$/, "");
   const adresseDe = l => BASE + (l === "fr" ? "" : l + "/") + (html.dataset.chemin || "");
@@ -88,7 +92,7 @@
   document.addEventListener("DOMContentLoaded", () => {
     if (FIXE) {
       let choisie = null; try { choisie = localStorage.getItem("langue"); } catch (e) {}
-      const voulue = (demande === "ar" || demande === "fr") ? demande : ((choisie === "ar" || choisie === "fr") ? choisie : null);
+      const voulue = demande || valide(choisie);
       if (voulue && voulue !== html.lang) return aller(voulue, true);
       return appliquer(html.lang);
     }
@@ -131,7 +135,7 @@ if ("serviceWorker" in navigator && location.protocol === "https:") {
 var BASE_SITE = /\.github\.io$/.test(location.hostname) ? "/tendances-tunisie/" : "/";
 window.goatcounter = window.goatcounter || {};
 window.goatcounter.path = function (p) { return BASE_SITE === "/" ? "/tendances-tunisie" + p : p; };
-window.VIDEO_SITE = {"base": BASE_SITE, "defaut": "fr", "video": false, "nom": {"fr": "Tendances de recherche en Tunisie", "ar": "اتجاهات البحث في تونس"}};
+window.VIDEO_SITE = {"base": BASE_SITE, "defaut": "fr", "video": false, "nom": {"fr": "Tendances de recherche en Tunisie", "ar": "اتجاهات البحث في تونس", "en": "Search trends in Tunisia"}};
 /* « video": false » (25/10/2026) : la page video/ n'existe pas encore -> aucun lien « Vidéo de présentation » et le bouton
    « Partager » partage la page en cours. Le jour où la vidéo est faite : retirer « "video": false » (pas de vidéo = pas de lien). */
 /* Bouton « Partager » (demande d'Ahmed, octobre 2026) : partage un LIEN vers la page vidéo du site (qui montre la vidéo

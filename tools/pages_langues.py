@@ -13,14 +13,17 @@ sont pris à la racine du site. Aucune dépendance : seulement la bibliothèque 
 import html, json, os, posixpath, re
 from html.parser import HTMLParser
 
-LANGUES = ["fr", "ar"]
+LANGUES = ["fr", "ar", "en"]            # 03/11/2026 : + anglais (demande d'Ahmed)
 NOUVELLES = []
 DROITE = ("ar", "ur")
 COMMUNS = ("assets/", "donnees/", "manifest.webmanifest", "sw.js", "favicon.ico")      # fichiers pris à la racine du site
-SITE = {"fr": "Tendances de recherche en Tunisie", "ar": "اتجاهات البحث في تونس"}
+SITE = {"fr": "Tendances de recherche en Tunisie", "ar": "اتجاهات البحث في تونس", "en": "Search trends in Tunisia"}
 ACCUEIL = {"ar": ("اتجاهات البحث في تونس: ماذا يبحث التونسيون على غوغل اليوم؟ (مجاني)",
                   "كل يوم: الكلمات والعبارات الأكثر صعودًا في بحث غوغل في تونس، بالعربية والفرنسية، حسب الفئة، مع تاريخها وفرص الأعمال. بيانات Google Trends، تُحيَّن آليًا.",
-                  "اتجاهات البحث في تونس اليوم")}
+                  "اتجاهات البحث في تونس اليوم"),
+           "en": ("Search trends in Tunisia: what Tunisians are searching on Google today (free)",
+                  "Every day: the words and phrases rising fastest in Google searches in Tunisia, in Arabic and French, by category, with their history and business opportunities. Google Trends data, updated automatically.",
+                  "Search trends in Tunisia today")}
 VIDES = {"area", "base", "br", "col", "embed", "hr", "img", "input", "link", "meta", "source", "track", "wbr"}
 ISOLES = re.compile("[⁦-⁩‎‏]")
 
@@ -30,9 +33,10 @@ def adresse(base, chemin, l):
     return base + ("" if l == "fr" else l + "/") + chemin
 
 
-def liens_hreflang(base, chemin, langues):
-    """Les mêmes lignes sur les 8 versions d'une page ; x-default = anglais (visiteurs d'une autre langue), sinon français."""
-    defaut = "en" if "en" in langues else "fr"
+def liens_hreflang(base, chemin, langues, defaut=None):
+    """Les mêmes lignes sur les 8 versions d'une page ; x-default = anglais (visiteurs d'une autre langue), sinon français.
+    Tendances (03/11/2026) : x-default = français (site pour la Tunisie, adresse d'origine), passé par « defaut »."""
+    defaut = defaut or ("en" if "en" in langues else "fr")
     return ("".join(f'<link rel="alternate" hreflang="{l}" href="{adresse(base, chemin, l)}">\n' for l in LANGUES if l in langues)
             + f'<link rel="alternate" hreflang="x-default" href="{adresse(base, chemin, defaut)}">\n')
 

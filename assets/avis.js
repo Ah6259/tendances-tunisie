@@ -8,14 +8,15 @@
   var ADRESSE = "https://formspree.io/f/mwlpakqj";
   var MAX = 1000;
   var ar = function () { return document.documentElement.lang === "ar"; };
-  var T = function (fr, a) { return ar() ? a : fr; };
+  var en = function () { return document.documentElement.lang === "en"; };
+  var T = function (fr, a, e) { return ar() ? a : (en() && e) ? e : fr; };
 
-  // textes d'aide (placeholder) dans la langue de la page : data-ph-fr / data-ph-ar
+  // textes d'aide (placeholder) dans la langue de la page : data-ph-fr / data-ph-ar / data-ph-en
   function placeholders() {
     var champs = document.querySelectorAll("#avis-form [data-ph-fr]");
     for (var i = 0; i < champs.length; i++) {
       var c = champs[i];
-      c.setAttribute("placeholder", ar() ? (c.getAttribute("data-ph-ar") || "") : (c.getAttribute("data-ph-fr") || ""));
+      c.setAttribute("placeholder", ar() ? (c.getAttribute("data-ph-ar") || "") : en() ? (c.getAttribute("data-ph-en") || c.getAttribute("data-ph-fr") || "") : (c.getAttribute("data-ph-fr") || ""));
     }
   }
 
@@ -27,7 +28,7 @@
     var bouton = form.querySelector("button[type=submit]");
     var message = form.querySelector("[name=message]");
     var compte = document.getElementById("avis-compte");
-    var dire = function (classe, fr, a) { statut.className = classe; statut.textContent = T(fr, a); };
+    var dire = function (classe, fr, a, e) { statut.className = classe; statut.textContent = T(fr, a, e); };
 
     placeholders();
     if (window.MutationObserver)
@@ -38,7 +39,7 @@
 
     // 15/10/2026 (demande d'Ahmed) : e-mail obligatoire ; après l'envoi, le formulaire est remplacé DANS la carte « Votre avis »
     // par une confirmation bien visible (#avis-merci, créée ici si la page ne l'a pas)
-    var M = function (fr, a, e) { return T(fr, a); };
+    var M = T;
     var esc = function (s) { return String(s).replace(/[&<>"]/g, function (c) { return {"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"}[c]; }); };
     var boite = document.getElementById("avis-merci");
     if (!boite) {
@@ -63,7 +64,7 @@
       if (bouton.disabled) return;
       var texte = (message.value || "").trim();
       if (!texte) {
-        dire("err", "Écrivez votre message avant d'envoyer.", "اكتب رسالتك قبل الإرسال.");
+        dire("err", "Écrivez votre message avant d'envoyer.", "اكتب رسالتك قبل الإرسال.", "Write your message before sending.");
         message.focus();
         return;
       }
@@ -74,7 +75,7 @@
         return;
       }
       if (texte.length > MAX) {
-        dire("err", "Message trop long : " + MAX + " caractères au maximum.", "الرسالة طويلة جدًا: " + MAX + " حرف على الأكثر.");
+        dire("err", "Message trop long : " + MAX + " caractères au maximum.", "الرسالة طويلة جدًا: " + MAX + " حرف على الأكثر.", "Message too long: " + MAX + " characters at most.");
         return;
       }
       var piege = form.querySelector("[name=_gotcha]");
@@ -86,14 +87,14 @@
       var donnees = new FormData(form);
       donnees.set("message", texte);
       bouton.disabled = true;
-      dire("", "Envoi…", "جارٍ الإرسال…");
+      dire("", "Envoi…", "جارٍ الإرسال…", "Sending…");
       fetch(ADRESSE, { method: "POST", body: donnees, headers: { "Accept": "application/json" } })
         .then(function (r) {
           if (!r.ok) throw new Error("HTTP " + r.status);
           merci(mail);
         })
         .catch(function () {
-          dire("err", "Échec de l'envoi — vérifiez votre connexion et réessayez plus tard.", "تعذّر الإرسال — تحقّق من الاتصال وأعد المحاولة لاحقًا.");
+          dire("err", "Échec de l'envoi — vérifiez votre connexion et réessayez plus tard.", "تعذّر الإرسال — تحقّق من الاتصال وأعد المحاولة لاحقًا.", "Sending failed — check your connection and try again later.");
         })
         .then(function () { bouton.disabled = false; });
     });

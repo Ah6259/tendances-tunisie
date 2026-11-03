@@ -5,12 +5,12 @@
    Aucun script en ligne (CSP). */
 (function () {
   var html = document.documentElement;
-  var T = function (fr, ar) { return html.lang === "ar" ? ar : fr; };
+  var T = function (fr, ar, en) { return html.lang === "ar" ? ar : html.lang === "en" ? en : fr; };
   var norm = function (s) { return String(s || "").toLowerCase().normalize("NFD").replace(/[̀-ًͯ-ْ]/g, "").replace(/\s+/g, " ").trim(); };
 
   // ---- masquage de catégories (gardé dans le navigateur ; défaut : football)
-  var MASQUABLES = [["football", "⚽", "Football", "كرة القدم"], ["sport", "🏅", "Autres sports", "رياضات أخرى"],
-    ["divertissement", "🎬", "Divertissement", "الترفيه"], ["politique", "🏛️", "Politique", "السياسة"], ["meteo", "🌦️", "Météo", "الطقس"]];
+  var MASQUABLES = [["football", "⚽", "Football", "كرة القدم", "Football"], ["sport", "🏅", "Autres sports", "رياضات أخرى", "Other sports"],
+    ["divertissement", "🎬", "Divertissement", "الترفيه", "Entertainment"], ["politique", "🏛️", "Politique", "السياسة", "Politics"], ["meteo", "🌦️", "Météo", "الطقس", "Weather"]];
   var CLE = "tendances-masquer";
   function masques() {
     try { var v = localStorage.getItem(CLE); if (v !== null) return JSON.parse(v); } catch (e) {}
@@ -36,8 +36,8 @@
     });
     var n = m.length;
     document.querySelectorAll(".masquage .etat").forEach(function (e) {
-      e.textContent = n ? T(n + " catégorie" + (n > 1 ? "s" : "") + " masquée" + (n > 1 ? "s" : "") + " dans les classements", "فئات مخفية من الترتيب: " + n)
-        : T("Rien n’est masqué", "لا شيء مخفي");
+      e.textContent = n ? T(n + " catégorie" + (n > 1 ? "s" : "") + " masquée" + (n > 1 ? "s" : "") + " dans les classements", "فئات مخفية من الترتيب: " + n, n + (n > 1 ? " categories" : " category") + " hidden from the rankings")
+        : T("Rien n’est masqué", "لا شيء مخفي", "Nothing is hidden");
     });
   }
   function renumeroter(liste) {
@@ -51,11 +51,11 @@
   function barreMasquage() {
     if (document.querySelector(".masquage") || !document.querySelector("ul.tendances")) return;
     var bar = document.createElement("div"); bar.className = "masquage";
-    var lab = document.createElement("span"); lab.className = "masquage-titre"; lab.textContent = T("Masquer :", "إخفاء:"); bar.appendChild(lab);
+    var lab = document.createElement("span"); lab.className = "masquage-titre"; lab.textContent = T("Masquer :", "إخفاء:", "Hide:"); bar.appendChild(lab);
     MASQUABLES.forEach(function (c) {
       if (c[0] === pageCat()) return;
       var b = document.createElement("button"); b.type = "button"; b.setAttribute("data-cat", c[0]);
-      b.textContent = c[1] + " " + T(c[2], c[3]);
+      b.textContent = c[1] + " " + T(c[2], c[3], c[4]);
       b.addEventListener("click", function () {
         var m = masques(), k = m.indexOf(c[0]);
         if (k >= 0) m.splice(k, 1); else m.push(c[0]);
@@ -82,7 +82,7 @@
       bouton.addEventListener("click", function () { liste.setAttribute("data-ouverte", "1"); limiter(liste); });
     }
     bouton.hidden = reste === 0;
-    bouton.textContent = T("Voir les " + reste + " autres", "عرض " + reste + " الأخرى");
+    bouton.textContent = T("Voir les " + reste + " autres", "عرض " + reste + " الأخرى", "Show " + reste + " more");
     var vide = liste.parentNode.querySelector(".liste-vide");
     if (vide) vide.hidden = lignes.length > 0;
   }
@@ -91,7 +91,7 @@
     var compte = zone.querySelector("[data-compte]");
     if (compte) {
       var n = zone.querySelectorAll("ul[data-limite] > li:not(.cachee-filtre):not(.cachee-masque)").length;
-      compte.textContent = T(n + " résultat" + (n > 1 ? "s" : ""), n + " نتيجة");
+      compte.textContent = T(n + " résultat" + (n > 1 ? "s" : ""), n + " نتيجة", n + " result" + (n > 1 ? "s" : ""));
     }
   }
   function filtrer(zone) {

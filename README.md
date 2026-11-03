@@ -1,7 +1,7 @@
 # Tendances de recherche en Tunisie
 
 Ce que les Tunisiens cherchent sur Google, chaque jour : recherches en forte hausse, nouveautés, catégories, opportunités pour
-les entrepreneurs, mots réellement tapés, historique construit jour après jour. Français et arabe. https://tendances.clicvia.com/
+les entrepreneurs, mots réellement tapés, historique construit jour après jour. Français, arabe et anglais (une adresse par langue : `/ar/`, `/en/`). https://tendances.clicvia.com/
 
 Source des données : Google Trends (Tunisie) et suggestions de recherche Google. Site indépendant, non officiel, sans lien avec Google.
 

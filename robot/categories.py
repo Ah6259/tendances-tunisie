@@ -31,6 +31,11 @@ CATEGORIES = [
     ("autre", "Autre", "أخرى"),
 ]
 PAR_CLE = {c[0]: c for c in CATEGORIES}
+# noms anglais (03/11/2026, demande d'Ahmed : le site aussi en anglais) ; CATEGORIES garde ses 3 colonnes (analyse.py, tests)
+EN = {"immobilier": "Real estate", "automobile": "Cars", "emploi": "Jobs and exams", "education": "Education", "tourisme": "Tourism and travel",
+      "sante": "Health", "commerce": "Shopping and prices", "technologie": "Technology", "administration": "Government and paperwork",
+      "energie": "Energy", "finance": "Money and banks", "football": "Football", "sport": "Other sports", "divertissement": "Entertainment and media",
+      "meteo": "Weather", "politique": "Politics and news", "religion": "Religion and holidays", "autre": "Other"}
 # catégories « utiles aux entrepreneurs » : seules celles-ci donnent des opportunités commerciales
 COMMERCIALES = {"immobilier", "automobile", "emploi", "education", "tourisme", "sante", "commerce", "technologie", "energie", "finance"}
 

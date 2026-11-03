@@ -25,22 +25,23 @@ check("données : l'analyse a une date, des listes et les 17 catégories", A.maj
 check("données : chaque tendance de la semaine a un volume ou une hausse (jamais vide)", A.semaine.every(x => x.volume || x.hausse));
 check("données : au moins 20 pages de mots", A.pages_mots.length >= 20 && mots.length >= 20);
 
-// ---- 2. toutes les pages : FR + AR, en-tête, sécurité, propre
+// ---- 2. toutes les pages : FR + AR + EN (anglais depuis le 03/11/2026, demande d'Ahmed), en-tête, sécurité, propre
 for (const p of pages) {
-  const fr = p + "index.html", ar = "ar/" + p + "index.html";
-  check(`${p || "accueil"} : existe en français et en arabe`, existsSync(join(root, fr)) && existsSync(join(root, ar)));
-  if (!existsSync(join(root, fr)) || !existsSync(join(root, ar))) continue;
-  const h = lire(fr), ha = lire(ar);
+  const fr = p + "index.html", ar = "ar/" + p + "index.html", en = "en/" + p + "index.html";
+  check(`${p || "accueil"} : existe en français, en arabe et en anglais`, [fr, ar, en].every(f => existsSync(join(root, f))));
+  if (![fr, ar, en].every(f => existsSync(join(root, f)))) continue;
+  const h = lire(fr), ha = lire(ar), he = lire(en);
   const propre = x => /<title>[^<]{10,}<\/title>/.test(x) && /name="description" content="[^"]{30,}"/.test(x) && x.includes('http-equiv="Content-Security-Policy"')
     && /content="(noindex, follow, )?noai, noimageai"/.test(x) && !/undefined|NaN|\[object|None\b/.test(x.replace(/"@type"|lastmod/g, ""))
     && !/<script>(?!\s*$)/.test(x.replace(/<script type="application\/ld\+json">[\s\S]*?<\/script>/g, "")) && (x.match(/<h1[ >]/g) || []).length === 1
     && x.includes("Source des données") && x.includes("google.com/trends");
-  check(`${p || "accueil"} : titre, description, CSP, noai, un seul h1, source Google Trends citée, aucun trou`, propre(h) && propre(ha));
-  check(`${p || "accueil"} : adresse officielle + hreflang fr/ar/x-default identiques sur les 2 versions`,
-    h.includes(`<link rel="canonical" href="${SITE}${p}">`) && ha.includes(`<link rel="canonical" href="${SITE}ar/${p}">`)
-    && [`hreflang="fr" href="${SITE}${p}"`, `hreflang="ar" href="${SITE}ar/${p}"`, `hreflang="x-default" href="${SITE}${p}"`].every(l => h.includes(l) && ha.includes(l)));
-  check(`${p || "accueil"} : page française bilingue (data-l), page arabe lang=ar dir=rtl sans texte français caché`,
-    h.includes('<html lang="fr"') && h.includes('data-l="ar"') && ha.includes('<html lang="ar" dir="rtl"') && !ha.includes('data-l="fr"') && ha.includes('data-fixe'));
+  check(`${p || "accueil"} : titre, description, CSP, noai, un seul h1, source Google Trends citée, aucun trou`, propre(h) && propre(ha) && propre(he));
+  check(`${p || "accueil"} : adresse officielle + hreflang fr/ar/en/x-default identiques sur les 3 versions`,
+    h.includes(`<link rel="canonical" href="${SITE}${p}">`) && ha.includes(`<link rel="canonical" href="${SITE}ar/${p}">`) && he.includes(`<link rel="canonical" href="${SITE}en/${p}">`)
+    && [`hreflang="fr" href="${SITE}${p}"`, `hreflang="ar" href="${SITE}ar/${p}"`, `hreflang="en" href="${SITE}en/${p}"`, `hreflang="x-default" href="${SITE}${p}"`].every(l => h.includes(l) && ha.includes(l) && he.includes(l)));
+  check(`${p || "accueil"} : page française trilingue (data-l), pages arabe (lang=ar dir=rtl) et anglaise (lang=en) sans les textes des autres langues`,
+    h.includes('<html lang="fr"') && h.includes('data-l="ar"') && h.includes('data-l="en"') && ha.includes('<html lang="ar" dir="rtl"') && !ha.includes('data-l="fr"') && !ha.includes('data-l="en"') && ha.includes('data-fixe')
+    && he.includes('<html lang="en" dir="ltr"') && !he.includes('data-l="fr"') && !he.includes('data-l="ar"') && he.includes('data-fixe') && /<title>[^<]*Search trends in Tunisia/.test(he));
   check(`${p || "accueil"} : scripts du site seulement (page.js, app.js, avis.js), ?v= identique`,
     ["page.js", "app.js", "avis.js"].every(s => h.includes(`assets/${s}?v=`)) && new Set([...h.matchAll(/\?v=([0-9a-f]{8})/g)].map(m => m[1])).size === 1);
 }
@@ -49,7 +50,9 @@ check("version ?v= identique sur toutes les pages (règle § 21)", new Set(pages
 // ---- 3. accueil
 const acc = lire("index.html");
 check("accueil : 4 cases de chiffres, toutes CLIQUABLES (01/11/2026, Ahmed) vers aujourd'hui, semaine, nouveautés, historique", (acc.match(/<a class="chiffre" href="/g) || []).length === 4 && ["#aujourdhui", "semaine/", "#nouveautes", "historique/"].every(h => acc.includes(`<a class="chiffre" href="${h}"`)));
-check("barre Masquer : 5 catégories masquables dont la météo", lire("assets/app.js").includes('["meteo", "🌦️", "Météo", "الطقس"]'));
+check("barre Masquer : 5 catégories masquables dont la météo, en 3 langues", lire("assets/app.js").includes('["meteo", "🌦️", "Météo", "الطقس", "Weather"]'));
+check("accueil anglais : titre, h1 et barre de filtres en anglais, sélecteur de catégories en anglais seulement", (() => { const e = lire("en/index.html"), s = lire("en/semaine/index.html");
+  return e.includes("What Tunisians are searching on Google") && s.includes('<select data-l="en"') && !s.includes('<select data-l="fr"') && s.includes("<option value=\"immobilier\">Real estate</option>"); })());
 check("accueil : listes Aujourd'hui, Nouveautés, Hausses, Opportunités (aperçu), Qui redescend / revient", ["aujourdhui", "nouveautes", "hausses", "opportunites-apercu", "retombees", "recurrents"].every(i => acc.includes(`id="${i}"`)));
 check("accueil : grille des 17 catégories, chacune vers sa page", CATS.every(c => acc.includes(`href="categorie/${c}/"`)) && acc.includes('id="categories"'));
 check("accueil : chaque ligne = mot (lien vers sa page), catégorie, nombres ; limite de 10 lignes", /<li class="tendance" data-cat="[a-z]+" data-mot="[^"]+"><span class="rang">1<\/span><span class="mot" dir="(ltr|rtl)"><a href="mot\/[^"]+\/">/.test(acc) && acc.includes('data-limite="10"'));
@@ -82,35 +85,35 @@ for (const pm of A.pages_mots.slice(0, 30)) {
 }
 check("mots : aucune page orpheline (chaque dossier mot/ est dans l'analyse)", mots.every(m => A.pages_mots.some(pm => `mot/${pm.slug}/` === m)));
 
-// ---- 5. « Comment fonctionne le site ? » (règle § 44) : chaque fonction visible est expliquée en FR et en AR
-const ap = lire("a-propos/index.html"), apa = lire("ar/a-propos/index.html");
+// ---- 5. « Comment fonctionne le site ? » (règle § 44) : chaque fonction visible est expliquée en FR, en AR et en EN
+const ap = lire("a-propos/index.html"), apa = lire("ar/a-propos/index.html"), ape = lire("en/a-propos/index.html");
 const FONCTIONS = [
-  ["liste Aujourd'hui", acc.includes('id="aujourdhui"'), /Aujourd’hui.*24 heures/, /اليوم.*24 ساعة/],
-  ["Nouveautés", acc.includes('id="nouveautes"'), /Nouveautés.*jamais vus/, /الجديد.*لم تظهر/],
-  ["Hausses inhabituelles", acc.includes('id="hausses"'), /Hausses inhabituelles.*500/, /ارتفاعات غير معتادة.*500/],
-  ["Opportunités", existsSync(join(root, "opportunites/index.html")), /Opportunités.*intention/, /الفرص.*نية/],
-  ["Catégories", acc.includes('id="categories"'), /catégorie \(immobilier/, /فئة \(عقارات/],
-  ["Mots tapés", existsSync(join(root, "mots-tapes/index.html")), /Mots tapés.*suggestions|Mots tapés.*propose/, /الكلمات المكتوبة.*يقترحها/],
-  ["Historique", existsSync(join(root, "historique/index.html")), /Historique.*par jour, par semaine et par mois/, /السجل.*اليوم والأسبوع والشهر/],
-  ["page de chaque mot", mots.length > 0, /Chaque mot a sa page/, /لكل كلمة صفحتها/],
-  ["Qui redescend / revient", acc.includes('id="retombees"'), /Qui redescend.*3 jours/, /ما يتراجع.*3 أيام/],
-  ["filtres et Voir les N autres", sem.includes("data-filtre-cat"), /filtrent par catégorie.*Voir les N autres/, /تُصفّى حسب الفئة/],
-  ["masquer le football", lire("assets/app.js").includes("tendances-masquer"), /Masquer.*football par défaut.*météo/, /إخفاء.*كرة القدم افتراضيًا.*الطقس/],
-  ["cases de chiffres cliquables", acc.includes('<a class="chiffre"'), /cases de chiffres.*liens/, /خانات الأرقام.*روابط/],
-  ["deux langues", existsSync(join(root, "ar/index.html")), /français et en arabe.*adresse/, /بالفرنسية والعربية.*عنوانها/],
-  ["bouton Partager", lire("assets/page.js").includes("partagerLien"), /bouton rond « Partager »/, /الزر الدائري «شارك»/],
-  ["Votre avis", acc.includes('id="avis-form"'), /Votre avis.*e-mail obligatoire/, /رأيك.*البريد الإلكتروني إجباري/],
-  ["données ouvertes", existsSync(join(root, "donnees/analyse.json")), /données ouvertes.*analyse\.json/, /بيانات مفتوحة.*analyse\.json/],
-  ["mise à jour automatique", existsSync(join(root, ".github/workflows/maj.yml")), /deux lectures par jour.*une par semaine/, /قراءتان في اليوم.*واحدة في الأسبوع/],
+  ["liste Aujourd'hui", acc.includes('id="aujourdhui"'), /Aujourd’hui.*24 heures/, /اليوم.*24 ساعة/, /Today.*24 hours/],
+  ["Nouveautés", acc.includes('id="nouveautes"'), /Nouveautés.*jamais vus/, /الجديد.*لم تظهر/, /New.*never seen/],
+  ["Hausses inhabituelles", acc.includes('id="hausses"'), /Hausses inhabituelles.*500/, /ارتفاعات غير معتادة.*500/, /Unusual rises.*500/],
+  ["Opportunités", existsSync(join(root, "opportunites/index.html")), /Opportunités.*intention/, /الفرص.*نية/, /Opportunities.*intent/],
+  ["Catégories", acc.includes('id="categories"'), /catégorie \(immobilier/, /فئة \(عقارات/, /category \(real estate/],
+  ["Mots tapés", existsSync(join(root, "mots-tapes/index.html")), /Mots tapés.*suggestions|Mots tapés.*propose/, /الكلمات المكتوبة.*يقترحها/, /Typed words.*suggests/],
+  ["Historique", existsSync(join(root, "historique/index.html")), /Historique.*par jour, par semaine et par mois/, /السجل.*اليوم والأسبوع والشهر/, /History.*by day, by week and by month/],
+  ["page de chaque mot", mots.length > 0, /Chaque mot a sa page/, /لكل كلمة صفحتها/, /Every word has its page/],
+  ["Qui redescend / revient", acc.includes('id="retombees"'), /Qui redescend.*3 jours/, /ما يتراجع.*3 أيام/, /Fading.*3 different days/],
+  ["filtres et Voir les N autres", sem.includes("data-filtre-cat"), /filtrent par catégorie.*Voir les N autres/, /تُصفّى حسب الفئة/, /filtered by category.*Show N more/],
+  ["masquer le football", lire("assets/app.js").includes("tendances-masquer"), /Masquer.*football par défaut.*météo/, /إخفاء.*كرة القدم افتراضيًا.*الطقس/, /Hide.*football by default.*weather/],
+  ["cases de chiffres cliquables", acc.includes('<a class="chiffre"'), /cases de chiffres.*liens/, /خانات الأرقام.*روابط/, /number boxes.*links/],
+  ["trois langues", existsSync(join(root, "ar/index.html")) && existsSync(join(root, "en/index.html")), /français, en arabe et en anglais.*adresse/, /بالفرنسية والعربية والإنجليزية.*عنوانها/, /French, Arabic and English.*address/],
+  ["bouton Partager", lire("assets/page.js").includes("partagerLien"), /bouton rond « Partager »/, /الزر الدائري «شارك»/, /round “Share” button/],
+  ["Votre avis", acc.includes('id="avis-form"'), /Votre avis.*e-mail obligatoire/, /رأيك.*البريد الإلكتروني إجباري/, /Your feedback.*e-mail required/],
+  ["données ouvertes", existsSync(join(root, "donnees/analyse.json")), /données ouvertes.*analyse\.json/, /بيانات مفتوحة.*analyse\.json/, /open data.*analyse\.json/],
+  ["mise à jour automatique", existsSync(join(root, ".github/workflows/maj.yml")), /deux lectures par jour.*une par semaine/, /قراءتان في اليوم.*واحدة في الأسبوع/, /two readings a day.*one a week/],
 ];
 const manque = [];
-for (const [nom, sur, fr, ar] of FONCTIONS) if (sur && !(fr.test(ap.replace(/&#39;|&#x27;/g, "’")) && ar.test(apa))) manque.push(nom);
-check(`À propos : chaque fonction du site expliquée en FR et AR (${FONCTIONS.length} fonctions)` + (manque.length ? " — manque : " + manque.join(", ") : ""), manque.length === 0);
+for (const [nom, sur, fr, ar, en] of FONCTIONS) if (sur && !(fr.test(ap.replace(/&#39;|&#x27;/g, "’")) && ar.test(apa) && en.test(ape.replace(/&#39;|&#x27;/g, "'")))) manque.push(nom);
+check(`À propos : chaque fonction du site expliquée en FR, AR et EN (${FONCTIONS.length} fonctions)` + (manque.length ? " — manque : " + manque.join(", ") : ""), manque.length === 0);
 check("À propos : méthode, limites, données ouvertes, FAQ JSON-LD", ap.includes("D’où viennent les chiffres") && ap.includes("ne disent pas") && ap.includes('id="donnees"') && ap.includes('"FAQPage"'));
 
 // ---- 6. fichiers de visibilité et de sécurité (règle § 8, consigne sécurité)
 const plan = lire("sitemap.xml"), robots = lire("robots.txt");
-check("sitemap : toutes les pages FR et AR, avec lastmod, hreflang, aucune adresse étrangère", pages.every(p => plan.includes(`<loc>${SITE}${p}</loc>`) && plan.includes(`<loc>${SITE}ar/${p}</loc>`))
+check("sitemap : toutes les pages FR, AR et EN, avec lastmod, hreflang, aucune adresse étrangère", pages.every(p => plan.includes(`<loc>${SITE}${p}</loc>`) && plan.includes(`<loc>${SITE}ar/${p}</loc>`) && plan.includes(`<loc>${SITE}en/${p}</loc>`))
   && /<lastmod>\d{4}-\d{2}-\d{2}<\/lastmod>/.test(plan) && [...plan.matchAll(/<loc>([^<]+)<\/loc>/g)].every(m => m[1].startsWith(SITE)) && !plan.includes("ah6259.github.io"));
 check("robots.txt : moteurs autorisés, robots d'IA d'entraînement refusés, assistants qui citent autorisés, Sitemap", robots.includes("User-agent: Googlebot\nAllow: /") && robots.includes("User-agent: GPTBot\nDisallow: /")
   && robots.includes("User-agent: ClaudeBot\nDisallow: /") && robots.includes("OAI-SearchBot") && robots.includes(`Sitemap: ${SITE}sitemap.xml`));
@@ -146,11 +149,22 @@ if (JSDOM) {
   check("jsdom : en-tête avec logo, bouton Partager, bouton de langue, lien Opportunités", d.querySelector("#entete .logo") && d.querySelector("#entete .partager") && d.querySelector("#entete .langue") && d.querySelector('#entete a[href$="opportunites/"]'));
   check("jsdom : pied de page avec les rubriques et « Tous nos services »", d.querySelectorAll("#pied nav a").length >= 7 && d.querySelector('#pied a[href="https://clicvia.com/"]'));
   check("jsdom : liste Aujourd'hui limitée à 10 + bouton « Voir les N autres »", d.querySelectorAll("#aujourdhui > li:not(.cachee-limite)").length <= 10 && (d.querySelector("#aujourdhui + .voir-plus") || d.querySelectorAll("#aujourdhui > li").length <= 10));
+  check("jsdom : deux boutons de langue sur la page française (ع puis En)", [...d.querySelectorAll("#entete .langue")].map(b => b.textContent).join(" ") === "ع En");
   d.querySelector("#entete .langue").click();
-  check("jsdom : le bouton de langue sur la page française OUVRE l'adresse arabe", w.__alle === "/ar/");
+  check("jsdom : le bouton « ع » sur la page française OUVRE l'adresse arabe", w.__alle === "/ar/");
+  d.querySelector('#entete .langue[data-l="en"]').click();
+  check("jsdom : le bouton « En » sur la page française OUVRE l'adresse anglaise", w.__alle === "/en/");
   const wa = await ouvrir("ar/index.html");
   check("jsdom : page arabe : lang=ar, en-tête en arabe, bouton « Fr » ouvre la page française", wa.document.documentElement.lang === "ar" && wa.document.querySelector("#entete .logo-nom").textContent.includes("اتجاهات")
     && (wa.document.querySelector("#entete .langue").click(), wa.__alle === "/"));
+  const we = await ouvrir("en/index.html");
+  check("jsdom : page anglaise : lang=en, en-tête et pied en anglais, barre Masquer en anglais, bouton « Fr » ouvre la page française", we.document.documentElement.lang === "en"
+    && we.document.querySelector("#entete .logo-nom").textContent.includes("Trends Tunisia") && we.document.querySelector("#pied nav").textContent.includes("Typed words")
+    && we.document.querySelector(".masquage").textContent.includes("Hide:") && we.document.querySelector(".masquage").textContent.includes("Weather")
+    && (we.document.querySelector("#entete .langue").click(), we.__alle === "/"));
+  const wes = await ouvrir("en/semaine/index.html");
+  check("jsdom : page anglaise de la semaine : le filtre de catégories est celui en anglais, compteur en anglais", wes.document.querySelectorAll("[data-filtre-cat]").length === 1
+    && wes.document.querySelector("[data-filtre-cat] option[value=immobilier]").textContent === "Real estate" && /\d+ results?/.test(wes.document.querySelector("[data-compte]").textContent));
   const ws = await ouvrir("semaine/index.html");
   const sel = ws.document.querySelector("[data-filtre-cat]");
   sel.value = "sport"; sel.dispatchEvent(new ws.window.Event("change"));

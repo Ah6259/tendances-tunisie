@@ -12,7 +12,8 @@ Ahmed travaille depuis le PC ET depuis son téléphone. Toujours `git pull --reb
 Observatoire de ce que les Tunisiens cherchent sur Google : recherches en forte hausse (24 h, 7 j), nouveautés (jamais vues),
 hausses inhabituelles, qui redescend / qui revient, 17 catégories (les 10 demandées par Ahmed + sport, divertissement, météo,
 politique, finance, religion, autre), opportunités commerciales, mots tapés (suggestions Google), historique construit jour après
-jour (Google ne garde que 7 jours), une page par mot. Français + arabe, **une adresse par langue** (`ar/`). Tout automatique.
+jour (Google ne garde que 7 jours), une page par mot. Français + arabe + **anglais** (03/11/2026, demande d'Ahmed, exception à la règle
+« site Tunisie = fr + ar »), **une adresse par langue** (`ar/`, `en/`). Tout automatique.
 Adresse : https://tendances.clicvia.com/ (sous-domaine Cloudflare d'Ahmed, CNAME → ah6259.github.io).
 
 ## Sources (étude de légalité du 01/11/2026 — attribution « Source des données : Google Trends » sur chaque page)
@@ -30,7 +31,9 @@ Adresse : https://tendances.clicvia.com/ (sous-domaine Cloudflare d'Ahmed, CNAME
   `donnees/carnet-categories.json`, règle § 40), `robot/collecte.py` (2×/jour ; mémoire `donnees/tendances.json` = toute tendance vue,
   clé mot normalisé + heure de début ; relevés bruts `donnees/releves/` 60 jours ; `donnees/etat.json` = dernier succès par source),
   `robot/mots.py` (hebdo, `donnees/mots.json` : apparu / vu / meilleur rang), `robot/analyse.py` (→ `donnees/analyse.json`, données
-  ouvertes), `robot/construire_site.py` (pages FR, puis AR par `tools/pages_langues.py` copié de Mosquées en version 2 langues).
+  ouvertes), `robot/construire_site.py` (pages FR, puis AR et EN par `tools/pages_langues.py` copié de Mosquées en version 3 langues) ;
+  `robot/anglais.py` = dictionnaire des textes anglais (clé = texte français EXACT) : un texte français sans anglais ARRÊTE la
+  construction (« texte(s) sans anglais ») — les textes avec des nombres ont leur anglais en 3e argument de `L()`.
 - **Masquage (01/11/2026, Ahmed : « la plupart des recherches sont liées au football »)** : catégorie `football` séparée de `sport`
   (robot/categories.py) ; barre « Masquer » (assets/app.js, clé localStorage `tendances-masquer`, défaut `["football"]`, boutons football /
   sport / divertissement / politique), rangs renumérotés, jamais masqué sur la page de sa catégorie (`body[data-categorie]`) ; tests jsdom.
