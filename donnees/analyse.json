@@ -1,193 +1,182 @@
 {
- "maj": "2026-11-04T15:51:49",
- "jour": "2026-11-04",
+ "maj": "2026-11-05T00:54:07",
+ "jour": "2026-11-05",
  "totaux": {
-  "tendances": 261,
-  "mots_distincts": 228,
-  "aujourdhui": 33,
-  "semaine": 168,
-  "mois": 261,
+  "tendances": 282,
+  "mots_distincts": 245,
+  "aujourdhui": 30,
+  "semaine": 173,
+  "mois": 282,
   "expressions_tapees": 1743,
   "premiere_lecture": "2026-11-01T10:46:10"
  },
  "aujourdhui": [
   {
-   "mot": "classement stade tunisien – club africain",
-   "slug": "classement-stade-tunisien-club-africain",
+   "mot": "aek athènes – real madrid",
+   "slug": "aek-athenes-real-madrid",
    "langue": "fr",
    "categorie": "football",
-   "volume": 20000,
-   "hausse": 1000,
-   "debut": "2026-11-03T17:50:00",
-   "fin": "2026-11-04T14:40:00",
-   "liees": [
-    "stade tunisien – club africain",
-    "stade tunisien",
-    "stade tunisien vs club africain",
-    "club africain",
-    "ligue 1 tunisienne"
-   ],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "barcelone – aston villa",
-   "slug": "barcelone-aston-villa",
-   "langue": "fr",
-   "categorie": "immobilier",
    "volume": 10000,
    "hausse": 1000,
-   "debut": "2026-11-03T20:10:00",
-   "fin": "2026-11-04T12:00:00",
-   "liees": [
-    "barcelone"
-   ],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "villarreal – paris-sg",
-   "slug": "villarreal-paris-sg",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 5000,
-   "hausse": 1000,
-   "debut": "2026-11-03T20:20:00",
-   "fin": "2026-11-04T09:00:00",
-   "liees": [
-    "villarreal vs psg",
-    "psg vs",
-    "champions league"
-   ],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "atlético madrid – bayern",
-   "slug": "atletico-madrid-bayern",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-11-03T20:20:00",
-   "fin": "2026-11-04T09:00:00",
-   "liees": [
-    "bayern munich",
-    "atlético vs bayern"
-   ],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "barcelona vs aston villa",
-   "slug": "barcelona-vs-aston-villa",
-   "langue": "fr",
-   "categorie": "immobilier",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-11-03T20:20:00",
-   "fin": "2026-11-04T08:50:00",
-   "liees": [
-    "barca vs",
-    "aston villa"
-   ],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "man utd – roma",
-   "slug": "man-utd-roma",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-11-03T20:20:00",
-   "fin": "2026-11-04T08:30:00",
-   "liees": [
-    "champions league",
-    "man utd vs roma",
-    "manchester united"
-   ],
-   "jour": "2026-11-03"
+   "debut": "2026-11-04T18:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-04"
   },
   {
    "mot": "babnet",
    "slug": "babnet",
    "langue": "fr",
    "categorie": "politique",
-   "volume": 2000,
-   "hausse": 200,
+   "volume": 5000,
+   "hausse": 300,
    "debut": "2026-11-04T04:40:00",
+   "fin": "2026-11-04T23:30:00",
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "aek vs real madrid",
+   "slug": "aek-vs-real-madrid",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 2000,
+   "hausse": 1000,
+   "debut": "2026-11-04T18:00:00",
+   "fin": "2026-11-04T23:00:00",
+   "liees": [
+    "aek athens f.c. vs real madrid standings",
+    "real vs"
+   ],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "rb leipzig – manchester city",
+   "slug": "rb-leipzig-manchester-city",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 2000,
+   "hausse": 1000,
+   "debut": "2026-11-04T20:20:00",
+   "fin": null,
+   "liees": [
+    "rb leipzig vs man city"
+   ],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "slavia prague – arsenal",
+   "slug": "slavia-prague-arsenal",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 2000,
+   "hausse": 1000,
+   "debut": "2026-11-04T20:30:00",
+   "fin": null,
+   "liees": [
+    "champions league"
+   ],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "salaire",
+   "slug": "salaire",
+   "langue": "fr",
+   "categorie": "emploi",
+   "volume": 1000,
+   "hausse": 1000,
+   "debut": "2026-11-04T15:00:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-04"
   },
   {
-   "mot": "classement villarreal – paris saint-germain football club",
-   "slug": "classement-villarreal-paris-saint-germain-football-club",
-   "langue": "fr",
+   "mot": "أيك ضد الريال",
+   "slug": "ايك-ضد-الريال",
+   "langue": "ar",
    "categorie": "football",
    "volume": 1000,
    "hausse": 1000,
-   "debut": "2026-11-03T23:30:00",
-   "fin": "2026-11-04T08:50:00",
+   "debut": "2026-11-04T18:30:00",
+   "fin": "2026-11-04T21:50:00",
    "liees": [
-    "championnat tunisie",
-    "championnat de tunisie",
-    "championnat de tunisie de football"
+    "ريال مدريد"
    ],
-   "jour": "2026-11-03"
+   "jour": "2026-11-04"
   },
   {
-   "mot": "champions league",
-   "slug": "champions-league",
-   "langue": "fr",
-   "categorie": "football",
+   "mot": "أجر",
+   "slug": "اجر",
+   "langue": "ar",
+   "categorie": "emploi",
    "volume": 1000,
-   "hausse": 600,
-   "debut": "2026-11-03T23:00:00",
-   "fin": null,
+   "hausse": 700,
+   "debut": "2026-11-04T17:50:00",
+   "fin": "2026-11-04T22:10:00",
    "liees": [
-    "man utd vs roma",
-    "manchester united"
+    "تقاعد"
    ],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "villarreal vs psg",
-   "slug": "villarreal-vs-psg",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 500,
-   "hausse": 1000,
-   "debut": "2026-11-03T21:20:00",
-   "fin": "2026-11-04T00:30:00",
-   "liees": [
-    "psg vs"
-   ],
-   "jour": "2026-11-03"
+   "jour": "2026-11-04"
   },
   {
    "mot": "ذهب",
    "slug": "ذهب",
    "langue": "ar",
    "categorie": "finance",
-   "volume": 500,
+   "volume": 1000,
    "hausse": 700,
    "debut": "2026-11-04T11:20:00",
+   "fin": "2026-11-04T21:00:00",
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "2027",
+   "slug": "2027",
+   "langue": "fr",
+   "categorie": "finance",
+   "volume": 500,
+   "hausse": 1000,
+   "debut": "2026-11-04T16:00:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-04"
   },
   {
-   "mot": "البطولة التونسية",
-   "slug": "البطوله-التونسيه",
-   "langue": "ar",
+   "mot": "aek athens f.c. vs real madrid standings",
+   "slug": "aek-athens-f-c-vs-real-madrid-standings",
+   "langue": "fr",
    "categorie": "football",
    "volume": 500,
-   "hausse": 600,
-   "debut": "2026-11-03T16:30:00",
-   "fin": "2026-11-03T18:00:00",
-   "liees": [
-    "الملعب التونسي ضد الإفريقي",
-    "الدوري التونسي"
-   ],
-   "jour": "2026-11-03"
+   "hausse": 1000,
+   "debut": "2026-11-04T21:00:00",
+   "fin": "2026-11-04T23:30:00",
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "gta6",
+   "slug": "gta6",
+   "langue": "fr",
+   "categorie": "divertissement",
+   "volume": 500,
+   "hausse": 800,
+   "debut": "2026-11-04T14:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "عقوبة",
+   "slug": "عقوبه",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": 700,
+   "debut": "2026-11-04T16:50:00",
+   "fin": "2026-11-04T23:40:00",
+   "liees": [],
+   "jour": "2026-11-04"
   },
   {
    "mot": "تقاعد",
@@ -202,28 +191,28 @@
    "jour": "2026-11-04"
   },
   {
-   "mot": "bet365",
-   "slug": "bet365",
-   "langue": "fr",
-   "categorie": "divertissement",
+   "mot": "حرارة",
+   "slug": "حراره",
+   "langue": "ar",
+   "categorie": "meteo",
    "volume": 500,
-   "hausse": 300,
-   "debut": "2026-11-03T22:50:00",
-   "fin": "2026-11-03T23:30:00",
+   "hausse": 500,
+   "debut": "2026-11-04T11:20:00",
+   "fin": "2026-11-05T00:10:00",
    "liees": [],
-   "jour": "2026-11-03"
+   "jour": "2026-11-04"
   },
   {
-   "mot": "طائر",
-   "slug": "طاير",
+   "mot": "ماهر الكنزاري",
+   "slug": "ماهر-الكنزاري",
    "langue": "ar",
-   "categorie": "autre",
+   "categorie": "sport",
    "volume": 500,
    "hausse": 300,
-   "debut": "2026-11-03T18:10:00",
-   "fin": "2026-11-03T21:00:00",
+   "debut": "2026-11-04T05:20:00",
+   "fin": "2026-11-04T14:10:00",
    "liees": [],
-   "jour": "2026-11-03"
+   "jour": "2026-11-04"
   },
   {
    "mot": "abdul el sayed",
@@ -240,186 +229,114 @@
    "jour": "2026-11-04"
   },
   {
-   "mot": "barcelone",
-   "slug": "barcelone",
-   "langue": "fr",
-   "categorie": "sport",
-   "volume": 200,
-   "hausse": 1000,
-   "debut": "2026-11-03T21:40:00",
-   "fin": "2026-11-03T23:50:00",
-   "liees": [],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "bayern",
-   "slug": "bayern",
+   "mot": "classement fenerbahçe – liverpool football club",
+   "slug": "classement-fenerbahce-liverpool-football-club",
    "langue": "fr",
    "categorie": "football",
    "volume": 200,
    "hausse": 1000,
-   "debut": "2026-11-03T21:50:00",
-   "fin": "2026-11-04T00:00:00",
-   "liees": [],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "ca vs",
-   "slug": "ca-vs",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": 1000,
-   "debut": "2026-11-03T16:50:00",
-   "fin": "2026-11-03T17:40:00",
-   "liees": [],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "feyenoord – inter",
-   "slug": "feyenoord-inter",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": 1000,
-   "debut": "2026-11-03T21:00:00",
-   "fin": "2026-11-03T23:00:00",
-   "liees": [],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "salaire",
-   "slug": "salaire",
-   "langue": "fr",
-   "categorie": "emploi",
-   "volume": 200,
-   "hausse": 1000,
-   "debut": "2026-11-04T15:00:00",
-   "fin": null,
+   "debut": "2026-11-04T21:20:00",
+   "fin": "2026-11-04T23:20:00",
    "liees": [],
    "jour": "2026-11-04"
   },
   {
-   "mot": "barca vs",
-   "slug": "barca-vs",
+   "mot": "como",
+   "slug": "como",
    "langue": "fr",
-   "categorie": "football",
+   "categorie": "sport",
    "volume": 200,
-   "hausse": 900,
-   "debut": "2026-11-03T22:10:00",
-   "fin": "2026-11-03T23:30:00",
+   "hausse": 1000,
+   "debut": "2026-11-04T23:10:00",
+   "fin": null,
    "liees": [
-    "aston villa"
+    "lens – côme"
    ],
-   "jour": "2026-11-03"
+   "jour": "2026-11-04"
   },
   {
-   "mot": "fcb",
-   "slug": "fcb",
+   "mot": "real",
+   "slug": "real",
    "langue": "fr",
-   "categorie": "sport",
+   "categorie": "football",
    "volume": 200,
-   "hausse": 900,
-   "debut": "2026-11-03T21:40:00",
-   "fin": "2026-11-03T23:40:00",
-   "liees": [],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "gta6",
-   "slug": "gta6",
-   "langue": "fr",
-   "categorie": "divertissement",
-   "volume": 200,
-   "hausse": 800,
-   "debut": "2026-11-04T14:00:00",
-   "fin": null,
+   "hausse": 1000,
+   "debut": "2026-11-04T20:40:00",
+   "fin": "2026-11-04T21:30:00",
    "liees": [],
    "jour": "2026-11-04"
   },
   {
-   "mot": "برشلونة ضد أستون فيلا",
-   "slug": "برشلونه-ضد-استون-فيلا",
+   "mot": "خطاب الكراهية",
+   "slug": "خطاب-الكراهيه",
    "langue": "ar",
-   "categorie": "immobilier",
+   "categorie": "politique",
    "volume": 200,
-   "hausse": 800,
-   "debut": "2026-11-03T21:10:00",
-   "fin": "2026-11-03T23:40:00",
+   "hausse": 1000,
+   "debut": "2026-11-04T13:00:00",
+   "fin": "2026-11-04T19:00:00",
    "liees": [],
-   "jour": "2026-11-03"
+   "jour": "2026-11-04"
   },
   {
-   "mot": "bayern munich",
-   "slug": "bayern-munich",
+   "mot": "fenerbahçe vs liverpool",
+   "slug": "fenerbahce-vs-liverpool",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": 800,
+   "debut": "2026-11-04T19:30:00",
+   "fin": "2026-11-04T21:20:00",
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "liverpool",
+   "slug": "liverpool",
    "langue": "fr",
    "categorie": "football",
    "volume": 200,
    "hausse": 600,
-   "debut": "2026-11-03T21:50:00",
-   "fin": "2026-11-04T00:10:00",
+   "debut": "2026-11-04T20:20:00",
+   "fin": "2026-11-04T21:50:00",
    "liees": [],
-   "jour": "2026-11-03"
+   "jour": "2026-11-04"
   },
   {
-   "mot": "حرارة",
-   "slug": "حراره",
+   "mot": "rb leipzig vs man city",
+   "slug": "rb-leipzig-vs-man-city",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 100,
+   "hausse": 700,
+   "debut": "2026-11-04T22:00:00",
+   "fin": "2026-11-05T00:00:00",
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "إساءة",
+   "slug": "اساءه",
    "langue": "ar",
-   "categorie": "meteo",
-   "volume": 200,
+   "categorie": "education",
+   "volume": 100,
+   "hausse": 700,
+   "debut": "2026-11-04T18:10:00",
+   "fin": "2026-11-04T21:40:00",
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "real madrid club de fútbol",
+   "slug": "real-madrid-club-de-futbol",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 100,
    "hausse": 500,
-   "debut": "2026-11-04T11:20:00",
-   "fin": "2026-11-04T15:50:00",
+   "debut": "2026-11-04T20:50:00",
+   "fin": "2026-11-04T21:30:00",
    "liees": [],
    "jour": "2026-11-04"
-  },
-  {
-   "mot": "uefa champions league",
-   "slug": "uefa-champions-league",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": 300,
-   "debut": "2026-11-03T23:00:00",
-   "fin": "2026-11-04T00:20:00",
-   "liees": [],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "championnat",
-   "slug": "championnat",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 100,
-   "hausse": 700,
-   "debut": "2026-11-03T16:50:00",
-   "fin": "2026-11-03T17:40:00",
-   "liees": [],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "galatasaray – stuttgart",
-   "slug": "galatasaray-stuttgart",
-   "langue": "fr",
-   "categorie": "sport",
-   "volume": 100,
-   "hausse": 700,
-   "debut": "2026-11-03T19:30:00",
-   "fin": "2026-11-03T20:10:00",
-   "liees": [],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "qpr – burnley",
-   "slug": "qpr-burnley",
-   "langue": "fr",
-   "categorie": "sport",
-   "volume": 100,
-   "hausse": 600,
-   "debut": "2026-11-03T21:40:00",
-   "fin": "2026-11-03T22:30:00",
-   "liees": [],
-   "jour": "2026-11-03"
   },
   {
    "mot": "classement man utd – as roma",
@@ -434,12 +351,36 @@
    "jour": "2026-11-04"
   },
   {
+   "mot": "condoléances",
+   "slug": "condoleances",
+   "langue": "fr",
+   "categorie": "politique",
+   "volume": 100,
+   "hausse": 400,
+   "debut": "2026-11-04T23:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "koh lanta",
+   "slug": "koh-lanta",
+   "langue": "fr",
+   "categorie": "divertissement",
+   "volume": 100,
+   "hausse": 400,
+   "debut": "2026-11-04T13:50:00",
+   "fin": "2026-11-04T16:40:00",
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
    "mot": "classement atlético madrid – bayern munich",
    "slug": "classement-atletico-madrid-bayern-munich",
    "langue": "fr",
    "categorie": "football",
    "volume": 100,
-   "hausse": 200,
+   "hausse": 300,
    "debut": "2026-11-04T06:00:00",
    "fin": "2026-11-04T08:30:00",
    "liees": [],
@@ -473,7 +414,7 @@
    "volume": 20000,
    "hausse": 1000,
    "debut": "2026-11-03T17:50:00",
-   "fin": "2026-11-04T14:40:00",
+   "fin": "2026-11-04T16:50:00",
    "liees": [
     "stade tunisien – club africain",
     "stade tunisien",
@@ -508,6 +449,18 @@
    "jour": "2026-10-29"
   },
   {
+   "mot": "aek athènes – real madrid",
+   "slug": "aek-athenes-real-madrid",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 10000,
+   "hausse": 1000,
+   "debut": "2026-11-04T18:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
    "mot": "barcelone – aston villa",
    "slug": "barcelone-aston-villa",
    "langue": "fr",
@@ -515,7 +468,7 @@
    "volume": 10000,
    "hausse": 1000,
    "debut": "2026-11-03T20:10:00",
-   "fin": "2026-11-04T12:00:00",
+   "fin": "2026-11-04T19:50:00",
    "liees": [
     "barcelone"
    ],
@@ -608,23 +561,6 @@
    "jour": "2026-10-31"
   },
   {
-   "mot": "manchester city – brighton",
-   "slug": "manchester-city-brighton",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 5000,
-   "hausse": 1000,
-   "debut": "2026-10-28T19:40:00",
-   "fin": "2026-10-29T10:00:00",
-   "liees": [
-    "man city vs brighton",
-    "man city",
-    "manchester city",
-    "yasin ayari"
-   ],
-   "jour": "2026-10-28"
-  },
-  {
    "mot": "villarreal – paris-sg",
    "slug": "villarreal-paris-sg",
    "langue": "fr",
@@ -654,6 +590,33 @@
     "مطر"
    ],
    "jour": "2026-10-29"
+  },
+  {
+   "mot": "babnet",
+   "slug": "babnet",
+   "langue": "fr",
+   "categorie": "politique",
+   "volume": 5000,
+   "hausse": 300,
+   "debut": "2026-11-04T04:40:00",
+   "fin": "2026-11-04T23:30:00",
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "aek vs real madrid",
+   "slug": "aek-vs-real-madrid",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 2000,
+   "hausse": 1000,
+   "debut": "2026-11-04T18:00:00",
+   "fin": "2026-11-04T23:00:00",
+   "liees": [
+    "aek athens f.c. vs real madrid standings",
+    "real vs"
+   ],
+   "jour": "2026-11-04"
   },
   {
    "mot": "al-nassr fc – al-kholood club",
@@ -778,7 +741,7 @@
    "volume": 2000,
    "hausse": 1000,
    "debut": "2026-11-03T07:10:00",
-   "fin": "2026-11-04T00:00:00",
+   "fin": "2026-11-04T22:10:00",
    "liees": [],
    "jour": "2026-11-03"
   },
@@ -826,18 +789,6 @@
    "jour": "2026-11-01"
   },
   {
-   "mot": "liverpool – chelsea",
-   "slug": "liverpool-chelsea",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-10-28T20:10:00",
-   "fin": "2026-10-29T10:10:00",
-   "liees": [],
-   "jour": "2026-10-28"
-  },
-  {
    "mot": "man utd – roma",
    "slug": "man-utd-roma",
    "langue": "fr",
@@ -883,6 +834,34 @@
    "jour": "2026-11-01"
   },
   {
+   "mot": "rb leipzig – manchester city",
+   "slug": "rb-leipzig-manchester-city",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 2000,
+   "hausse": 1000,
+   "debut": "2026-11-04T20:20:00",
+   "fin": null,
+   "liees": [
+    "rb leipzig vs man city"
+   ],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "slavia prague – arsenal",
+   "slug": "slavia-prague-arsenal",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 2000,
+   "hausse": 1000,
+   "debut": "2026-11-04T20:30:00",
+   "fin": null,
+   "liees": [
+    "champions league"
+   ],
+   "jour": "2026-11-04"
+  },
+  {
    "mot": "titre de séjour",
    "slug": "titre-de-sejour",
    "langue": "fr",
@@ -905,18 +884,6 @@
    "fin": "2026-10-31T21:00:00",
    "liees": [],
    "jour": "2026-10-30"
-  },
-  {
-   "mot": "درة",
-   "slug": "دره",
-   "langue": "ar",
-   "categorie": "divertissement",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-10-28T20:50:00",
-   "fin": "2026-10-30T08:10:00",
-   "liees": [],
-   "jour": "2026-10-28"
   },
   {
    "mot": "سرقة",
@@ -986,18 +953,6 @@
    "jour": "2026-11-02"
   },
   {
-   "mot": "babnet",
-   "slug": "babnet",
-   "langue": "fr",
-   "categorie": "politique",
-   "volume": 2000,
-   "hausse": 200,
-   "debut": "2026-11-04T04:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-04"
-  },
-  {
    "mot": "ac milan – inter",
    "slug": "ac-milan-inter",
    "langue": "fr",
@@ -1010,18 +965,6 @@
     "ac milan"
    ],
    "jour": "2026-10-31"
-  },
-  {
-   "mot": "bayern – magdebourg",
-   "slug": "bayern-magdebourg",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 1000,
-   "hausse": 1000,
-   "debut": "2026-10-28T20:10:00",
-   "fin": "2026-10-29T10:10:00",
-   "liees": [],
-   "jour": "2026-10-28"
   },
   {
    "mot": "classement bayern munich – borussia dortmund",
@@ -1066,6 +1009,32 @@
    "jour": "2026-10-31"
   },
   {
+   "mot": "salaire",
+   "slug": "salaire",
+   "langue": "fr",
+   "categorie": "emploi",
+   "volume": 1000,
+   "hausse": 1000,
+   "debut": "2026-11-04T15:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "أيك ضد الريال",
+   "slug": "ايك-ضد-الريال",
+   "langue": "ar",
+   "categorie": "football",
+   "volume": 1000,
+   "hausse": 1000,
+   "debut": "2026-11-04T18:30:00",
+   "fin": "2026-11-04T21:50:00",
+   "liees": [
+    "ريال مدريد"
+   ],
+   "jour": "2026-11-04"
+  },
+  {
    "mot": "البطولة التونسية",
    "slug": "البطوله-التونسيه",
    "langue": "ar",
@@ -1080,30 +1049,6 @@
     "بطولة تونس"
    ],
    "jour": "2026-10-29"
-  },
-  {
-   "mot": "télépéage",
-   "slug": "telepeage",
-   "langue": "fr",
-   "categorie": "administration",
-   "volume": 1000,
-   "hausse": 800,
-   "debut": "2026-10-28T19:50:00",
-   "fin": "2026-10-29T09:20:00",
-   "liees": [],
-   "jour": "2026-10-28"
-  },
-  {
-   "mot": "سعر",
-   "slug": "سعر",
-   "langue": "ar",
-   "categorie": "commerce",
-   "volume": 1000,
-   "hausse": 800,
-   "debut": "2026-10-28T16:30:00",
-   "fin": "2026-10-29T09:00:00",
-   "liees": [],
-   "jour": "2026-10-28"
   },
   {
    "mot": "barca",
@@ -1130,6 +1075,32 @@
     "arsenal"
    ],
    "jour": "2026-11-01"
+  },
+  {
+   "mot": "أجر",
+   "slug": "اجر",
+   "langue": "ar",
+   "categorie": "emploi",
+   "volume": 1000,
+   "hausse": 700,
+   "debut": "2026-11-04T17:50:00",
+   "fin": "2026-11-04T22:10:00",
+   "liees": [
+    "تقاعد"
+   ],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "ذهب",
+   "slug": "ذهب",
+   "langue": "ar",
+   "categorie": "finance",
+   "volume": 1000,
+   "hausse": 700,
+   "debut": "2026-11-04T11:20:00",
+   "fin": "2026-11-04T21:00:00",
+   "liees": [],
+   "jour": "2026-11-04"
   },
   {
    "mot": "champions league",
@@ -1211,16 +1182,28 @@
    "jour": "2026-10-30"
   },
   {
-   "mot": "ac milan – bologne",
-   "slug": "ac-milan-bologne",
+   "mot": "2027",
+   "slug": "2027",
+   "langue": "fr",
+   "categorie": "finance",
+   "volume": 500,
+   "hausse": 1000,
+   "debut": "2026-11-04T16:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "aek athens f.c. vs real madrid standings",
+   "slug": "aek-athens-f-c-vs-real-madrid-standings",
    "langue": "fr",
    "categorie": "football",
    "volume": 500,
    "hausse": 1000,
-   "debut": "2026-10-28T18:40:00",
-   "fin": "2026-10-28T21:10:00",
+   "debut": "2026-11-04T21:00:00",
+   "fin": "2026-11-04T23:30:00",
    "liees": [],
-   "jour": "2026-10-28"
+   "jour": "2026-11-04"
   },
   {
    "mot": "alkass",
@@ -1271,18 +1254,6 @@
    "fin": "2026-11-02T08:10:00",
    "liees": [],
    "jour": "2026-11-01"
-  },
-  {
-   "mot": "liverpool vs chelsea",
-   "slug": "liverpool-vs-chelsea",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 500,
-   "hausse": 1000,
-   "debut": "2026-10-28T20:50:00",
-   "fin": "2026-10-29T07:20:00",
-   "liees": [],
-   "jour": "2026-10-28"
   },
   {
    "mot": "modern future football club – al ahly",
@@ -1361,6 +1332,18 @@
    "jour": "2026-11-03"
   },
   {
+   "mot": "gta6",
+   "slug": "gta6",
+   "langue": "fr",
+   "categorie": "divertissement",
+   "volume": 500,
+   "hausse": 800,
+   "debut": "2026-11-04T14:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
    "mot": "newcastle – everton",
    "slug": "newcastle-everton",
    "langue": "fr",
@@ -1413,14 +1396,14 @@
    "jour": "2026-11-01"
   },
   {
-   "mot": "ذهب",
-   "slug": "ذهب",
+   "mot": "عقوبة",
+   "slug": "عقوبه",
    "langue": "ar",
-   "categorie": "finance",
+   "categorie": "autre",
    "volume": 500,
    "hausse": 700,
-   "debut": "2026-11-04T11:20:00",
-   "fin": null,
+   "debut": "2026-11-04T16:50:00",
+   "fin": "2026-11-04T23:40:00",
    "liees": [],
    "jour": "2026-11-04"
   },
@@ -1481,18 +1464,6 @@
    "jour": "2026-11-03"
   },
   {
-   "mot": "الرابطة الوطنية لكرة القدم المحترفة",
-   "slug": "الرابطه-الوطنيه-لكره-القدم-المحترفه",
-   "langue": "ar",
-   "categorie": "football",
-   "volume": 500,
-   "hausse": 600,
-   "debut": "2026-10-28T21:50:00",
-   "fin": "2026-10-29T09:50:00",
-   "liees": [],
-   "jour": "2026-10-28"
-  },
-  {
    "mot": "تقاعد",
    "slug": "تقاعد",
    "langue": "ar",
@@ -1539,6 +1510,18 @@
    "fin": "2026-11-03T11:20:00",
    "liees": [],
    "jour": "2026-11-03"
+  },
+  {
+   "mot": "حرارة",
+   "slug": "حراره",
+   "langue": "ar",
+   "categorie": "meteo",
+   "volume": 500,
+   "hausse": 500,
+   "debut": "2026-11-04T11:20:00",
+   "fin": "2026-11-05T00:10:00",
+   "liees": [],
+   "jour": "2026-11-04"
   },
   {
    "mot": "خالد بن يحيى",
@@ -1608,9 +1591,21 @@
    "volume": 500,
    "hausse": 300,
    "debut": "2026-11-03T18:10:00",
-   "fin": "2026-11-03T21:00:00",
+   "fin": "2026-11-04T19:30:00",
    "liees": [],
    "jour": "2026-11-03"
+  },
+  {
+   "mot": "ماهر الكنزاري",
+   "slug": "ماهر-الكنزاري",
+   "langue": "ar",
+   "categorie": "sport",
+   "volume": 500,
+   "hausse": 300,
+   "debut": "2026-11-04T05:20:00",
+   "fin": "2026-11-04T14:10:00",
+   "liees": [],
+   "jour": "2026-11-04"
   },
   {
    "mot": "abdul el sayed",
@@ -1737,6 +1732,32 @@
    "jour": "2026-10-31"
   },
   {
+   "mot": "classement fenerbahçe – liverpool football club",
+   "slug": "classement-fenerbahce-liverpool-football-club",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": 1000,
+   "debut": "2026-11-04T21:20:00",
+   "fin": "2026-11-04T23:20:00",
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "como",
+   "slug": "como",
+   "langue": "fr",
+   "categorie": "sport",
+   "volume": 200,
+   "hausse": 1000,
+   "debut": "2026-11-04T23:10:00",
+   "fin": null,
+   "liees": [
+    "lens – côme"
+   ],
+   "jour": "2026-11-04"
+  },
+  {
    "mot": "everton – newcastle",
    "slug": "everton-newcastle",
    "langue": "fr",
@@ -1809,26 +1830,14 @@
    "jour": "2026-10-31"
   },
   {
-   "mot": "novak djokovic",
-   "slug": "novak-djokovic",
+   "mot": "real",
+   "slug": "real",
    "langue": "fr",
-   "categorie": "sport",
+   "categorie": "football",
    "volume": 200,
    "hausse": 1000,
-   "debut": "2026-10-28T17:20:00",
-   "fin": "2026-10-28T19:20:00",
-   "liees": [],
-   "jour": "2026-10-28"
-  },
-  {
-   "mot": "salaire",
-   "slug": "salaire",
-   "langue": "fr",
-   "categorie": "emploi",
-   "volume": 200,
-   "hausse": 1000,
-   "debut": "2026-11-04T15:00:00",
-   "fin": null,
+   "debut": "2026-11-04T20:40:00",
+   "fin": "2026-11-04T21:30:00",
    "liees": [],
    "jour": "2026-11-04"
   },
@@ -1843,18 +1852,6 @@
    "fin": "2026-10-31T20:40:00",
    "liees": [],
    "jour": "2026-10-31"
-  },
-  {
-   "mot": "venezia – inter",
-   "slug": "venezia-inter",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": 1000,
-   "debut": "2026-10-28T19:00:00",
-   "fin": "2026-10-28T23:10:00",
-   "liees": [],
-   "jour": "2026-10-28"
   },
   {
    "mot": "villarreal – espanyol",
@@ -1881,16 +1878,16 @@
    "jour": "2026-11-03"
   },
   {
-   "mot": "zamalek – al mokawloon",
-   "slug": "zamalek-al-mokawloon",
-   "langue": "fr",
-   "categorie": "football",
+   "mot": "خطاب الكراهية",
+   "slug": "خطاب-الكراهيه",
+   "langue": "ar",
+   "categorie": "politique",
    "volume": 200,
    "hausse": 1000,
-   "debut": "2026-10-28T19:00:00",
-   "fin": "2026-10-28T20:50:00",
+   "debut": "2026-11-04T13:00:00",
+   "fin": "2026-11-04T19:00:00",
    "liees": [],
-   "jour": "2026-10-28"
+   "jour": "2026-11-04"
   },
   {
    "mot": "barca vs",
@@ -1943,28 +1940,16 @@
    "jour": "2026-10-31"
   },
   {
-   "mot": "gta6",
-   "slug": "gta6",
-   "langue": "fr",
-   "categorie": "divertissement",
-   "volume": 200,
-   "hausse": 800,
-   "debut": "2026-11-04T14:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-04"
-  },
-  {
-   "mot": "liverpool",
-   "slug": "liverpool",
+   "mot": "fenerbahçe vs liverpool",
+   "slug": "fenerbahce-vs-liverpool",
    "langue": "fr",
    "categorie": "football",
    "volume": 200,
    "hausse": 800,
-   "debut": "2026-10-28T21:50:00",
-   "fin": "2026-10-29T00:40:00",
+   "debut": "2026-11-04T19:30:00",
+   "fin": "2026-11-04T21:20:00",
    "liees": [],
-   "jour": "2026-10-28"
+   "jour": "2026-11-04"
   },
   {
    "mot": "man city",
@@ -2078,6 +2063,18 @@
    "jour": "2026-11-01"
   },
   {
+   "mot": "liverpool",
+   "slug": "liverpool",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": 600,
+   "debut": "2026-11-04T20:20:00",
+   "fin": "2026-11-04T21:50:00",
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
    "mot": "ريال مدريد",
    "slug": "ريال-مدريد",
    "langue": "ar",
@@ -2112,18 +2109,6 @@
    "fin": "2026-10-30T15:20:00",
    "liees": [],
    "jour": "2026-10-30"
-  },
-  {
-   "mot": "حرارة",
-   "slug": "حراره",
-   "langue": "ar",
-   "categorie": "meteo",
-   "volume": 200,
-   "hausse": 500,
-   "debut": "2026-11-04T11:20:00",
-   "fin": "2026-11-04T15:50:00",
-   "liees": [],
-   "jour": "2026-11-04"
   },
   {
    "mot": "new england – inter miami",
@@ -2370,18 +2355,6 @@
    "jour": "2026-10-31"
   },
   {
-   "mot": "bournemouth – aston villa",
-   "slug": "bournemouth-aston-villa",
-   "langue": "fr",
-   "categorie": "immobilier",
-   "volume": 100,
-   "hausse": 700,
-   "debut": "2026-10-28T21:40:00",
-   "fin": "2026-10-28T23:10:00",
-   "liees": [],
-   "jour": "2026-10-28"
-  },
-  {
    "mot": "championnat",
    "slug": "championnat",
    "langue": "fr",
@@ -2406,20 +2379,6 @@
    "jour": "2026-11-01"
   },
   {
-   "mot": "chelsea",
-   "slug": "chelsea",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 100,
-   "hausse": 700,
-   "debut": "2026-10-28T23:00:00",
-   "fin": "2026-10-28T23:50:00",
-   "liees": [
-    "league cup"
-   ],
-   "jour": "2026-10-28"
-  },
-  {
    "mot": "galatasaray – stuttgart",
    "slug": "galatasaray-stuttgart",
    "langue": "fr",
@@ -2432,16 +2391,28 @@
    "jour": "2026-11-03"
   },
   {
-   "mot": "genoa – juventus",
-   "slug": "genoa-juventus",
+   "mot": "rb leipzig vs man city",
+   "slug": "rb-leipzig-vs-man-city",
    "langue": "fr",
    "categorie": "football",
    "volume": 100,
-   "hausse": 600,
-   "debut": "2026-10-28T21:20:00",
-   "fin": "2026-10-28T23:10:00",
+   "hausse": 700,
+   "debut": "2026-11-04T22:00:00",
+   "fin": "2026-11-05T00:00:00",
    "liees": [],
-   "jour": "2026-10-28"
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "إساءة",
+   "slug": "اساءه",
+   "langue": "ar",
+   "categorie": "education",
+   "volume": 100,
+   "hausse": 700,
+   "debut": "2026-11-04T18:10:00",
+   "fin": "2026-11-04T21:40:00",
+   "liees": [],
+   "jour": "2026-11-04"
   },
   {
    "mot": "qpr – burnley",
@@ -2480,6 +2451,18 @@
    "jour": "2026-10-30"
   },
   {
+   "mot": "real madrid club de fútbol",
+   "slug": "real-madrid-club-de-futbol",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 100,
+   "hausse": 500,
+   "debut": "2026-11-04T20:50:00",
+   "fin": "2026-11-04T21:30:00",
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
    "mot": "classement man utd – as roma",
    "slug": "classement-man-utd-as-roma",
    "langue": "fr",
@@ -2488,6 +2471,30 @@
    "hausse": 400,
    "debut": "2026-11-04T06:50:00",
    "fin": "2026-11-04T08:30:00",
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "condoléances",
+   "slug": "condoleances",
+   "langue": "fr",
+   "categorie": "politique",
+   "volume": 100,
+   "hausse": 400,
+   "debut": "2026-11-04T23:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "koh lanta",
+   "slug": "koh-lanta",
+   "langue": "fr",
+   "categorie": "divertissement",
+   "volume": 100,
+   "hausse": 400,
+   "debut": "2026-11-04T13:50:00",
+   "fin": "2026-11-04T16:40:00",
    "liees": [],
    "jour": "2026-11-04"
   },
@@ -2514,6 +2521,18 @@
    "fin": "2026-10-31T07:00:00",
    "liees": [],
    "jour": "2026-10-30"
+  },
+  {
+   "mot": "classement atlético madrid – bayern munich",
+   "slug": "classement-atletico-madrid-bayern-munich",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 100,
+   "hausse": 300,
+   "debut": "2026-11-04T06:00:00",
+   "fin": "2026-11-04T08:30:00",
+   "liees": [],
+   "jour": "2026-11-04"
   },
   {
    "mot": "inter miami – cincinnati",
@@ -2564,18 +2583,6 @@
    "jour": "2026-10-29"
   },
   {
-   "mot": "classement atlético madrid – bayern munich",
-   "slug": "classement-atletico-madrid-bayern-munich",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 100,
-   "hausse": 200,
-   "debut": "2026-11-04T06:00:00",
-   "fin": "2026-11-04T08:30:00",
-   "liees": [],
-   "jour": "2026-11-04"
-  },
-  {
    "mot": "tomate",
    "slug": "tomate",
    "langue": "fr",
@@ -2602,165 +2609,169 @@
  ],
  "nouveautes": [
   {
-   "mot": "classement stade tunisien – club africain",
-   "slug": "classement-stade-tunisien-club-africain",
+   "mot": "aek athènes – real madrid",
+   "slug": "aek-athenes-real-madrid",
    "langue": "fr",
    "categorie": "football",
-   "volume": 20000,
-   "hausse": 1000,
-   "debut": "2026-11-03T17:50:00",
-   "fin": "2026-11-04T14:40:00",
-   "liees": [
-    "stade tunisien – club africain",
-    "stade tunisien",
-    "stade tunisien vs club africain",
-    "club africain",
-    "ligue 1 tunisienne"
-   ],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "barcelone – aston villa",
-   "slug": "barcelone-aston-villa",
-   "langue": "fr",
-   "categorie": "immobilier",
    "volume": 10000,
    "hausse": 1000,
-   "debut": "2026-11-03T20:10:00",
-   "fin": "2026-11-04T12:00:00",
-   "liees": [
-    "barcelone"
-   ],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "villarreal – paris-sg",
-   "slug": "villarreal-paris-sg",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 5000,
-   "hausse": 1000,
-   "debut": "2026-11-03T20:20:00",
-   "fin": "2026-11-04T09:00:00",
-   "liees": [
-    "villarreal vs psg",
-    "psg vs",
-    "champions league"
-   ],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "atlético madrid – bayern",
-   "slug": "atletico-madrid-bayern",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-11-03T20:20:00",
-   "fin": "2026-11-04T09:00:00",
-   "liees": [
-    "bayern munich",
-    "atlético vs bayern"
-   ],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "barcelona vs aston villa",
-   "slug": "barcelona-vs-aston-villa",
-   "langue": "fr",
-   "categorie": "immobilier",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-11-03T20:20:00",
-   "fin": "2026-11-04T08:50:00",
-   "liees": [
-    "barca vs",
-    "aston villa"
-   ],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "man utd – roma",
-   "slug": "man-utd-roma",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-11-03T20:20:00",
-   "fin": "2026-11-04T08:30:00",
-   "liees": [
-    "champions league",
-    "man utd vs roma",
-    "manchester united"
-   ],
-   "jour": "2026-11-03"
+   "debut": "2026-11-04T18:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-04"
   },
   {
    "mot": "babnet",
    "slug": "babnet",
    "langue": "fr",
    "categorie": "politique",
-   "volume": 2000,
-   "hausse": 200,
+   "volume": 5000,
+   "hausse": 300,
    "debut": "2026-11-04T04:40:00",
+   "fin": "2026-11-04T23:30:00",
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "aek vs real madrid",
+   "slug": "aek-vs-real-madrid",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 2000,
+   "hausse": 1000,
+   "debut": "2026-11-04T18:00:00",
+   "fin": "2026-11-04T23:00:00",
+   "liees": [
+    "aek athens f.c. vs real madrid standings",
+    "real vs"
+   ],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "rb leipzig – manchester city",
+   "slug": "rb-leipzig-manchester-city",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 2000,
+   "hausse": 1000,
+   "debut": "2026-11-04T20:20:00",
+   "fin": null,
+   "liees": [
+    "rb leipzig vs man city"
+   ],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "slavia prague – arsenal",
+   "slug": "slavia-prague-arsenal",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 2000,
+   "hausse": 1000,
+   "debut": "2026-11-04T20:30:00",
+   "fin": null,
+   "liees": [
+    "champions league"
+   ],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "salaire",
+   "slug": "salaire",
+   "langue": "fr",
+   "categorie": "emploi",
+   "volume": 1000,
+   "hausse": 1000,
+   "debut": "2026-11-04T15:00:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-04"
   },
   {
-   "mot": "classement villarreal – paris saint-germain football club",
-   "slug": "classement-villarreal-paris-saint-germain-football-club",
-   "langue": "fr",
+   "mot": "أيك ضد الريال",
+   "slug": "ايك-ضد-الريال",
+   "langue": "ar",
    "categorie": "football",
    "volume": 1000,
    "hausse": 1000,
-   "debut": "2026-11-03T23:30:00",
-   "fin": "2026-11-04T08:50:00",
+   "debut": "2026-11-04T18:30:00",
+   "fin": "2026-11-04T21:50:00",
    "liees": [
-    "championnat tunisie",
-    "championnat de tunisie",
-    "championnat de tunisie de football"
+    "ريال مدريد"
    ],
-   "jour": "2026-11-03"
+   "jour": "2026-11-04"
   },
   {
-   "mot": "champions league",
-   "slug": "champions-league",
-   "langue": "fr",
-   "categorie": "football",
+   "mot": "أجر",
+   "slug": "اجر",
+   "langue": "ar",
+   "categorie": "emploi",
    "volume": 1000,
-   "hausse": 600,
-   "debut": "2026-11-03T23:00:00",
-   "fin": null,
+   "hausse": 700,
+   "debut": "2026-11-04T17:50:00",
+   "fin": "2026-11-04T22:10:00",
    "liees": [
-    "man utd vs roma",
-    "manchester united"
+    "تقاعد"
    ],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "villarreal vs psg",
-   "slug": "villarreal-vs-psg",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 500,
-   "hausse": 1000,
-   "debut": "2026-11-03T21:20:00",
-   "fin": "2026-11-04T00:30:00",
-   "liees": [
-    "psg vs"
-   ],
-   "jour": "2026-11-03"
+   "jour": "2026-11-04"
   },
   {
    "mot": "ذهب",
    "slug": "ذهب",
    "langue": "ar",
    "categorie": "finance",
-   "volume": 500,
+   "volume": 1000,
    "hausse": 700,
    "debut": "2026-11-04T11:20:00",
+   "fin": "2026-11-04T21:00:00",
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "2027",
+   "slug": "2027",
+   "langue": "fr",
+   "categorie": "finance",
+   "volume": 500,
+   "hausse": 1000,
+   "debut": "2026-11-04T16:00:00",
    "fin": null,
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "aek athens f.c. vs real madrid standings",
+   "slug": "aek-athens-f-c-vs-real-madrid-standings",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 500,
+   "hausse": 1000,
+   "debut": "2026-11-04T21:00:00",
+   "fin": "2026-11-04T23:30:00",
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "gta6",
+   "slug": "gta6",
+   "langue": "fr",
+   "categorie": "divertissement",
+   "volume": 500,
+   "hausse": 800,
+   "debut": "2026-11-04T14:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "عقوبة",
+   "slug": "عقوبه",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": 700,
+   "debut": "2026-11-04T16:50:00",
+   "fin": "2026-11-04T23:40:00",
    "liees": [],
    "jour": "2026-11-04"
   },
@@ -2777,28 +2788,16 @@
    "jour": "2026-11-04"
   },
   {
-   "mot": "bet365",
-   "slug": "bet365",
-   "langue": "fr",
-   "categorie": "divertissement",
-   "volume": 500,
-   "hausse": 300,
-   "debut": "2026-11-03T22:50:00",
-   "fin": "2026-11-03T23:30:00",
-   "liees": [],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "طائر",
-   "slug": "طاير",
+   "mot": "حرارة",
+   "slug": "حراره",
    "langue": "ar",
-   "categorie": "autre",
+   "categorie": "meteo",
    "volume": 500,
-   "hausse": 300,
-   "debut": "2026-11-03T18:10:00",
-   "fin": "2026-11-03T21:00:00",
+   "hausse": 500,
+   "debut": "2026-11-04T11:20:00",
+   "fin": "2026-11-05T00:10:00",
    "liees": [],
-   "jour": "2026-11-03"
+   "jour": "2026-11-04"
   },
   {
    "mot": "abdul el sayed",
@@ -2815,124 +2814,78 @@
    "jour": "2026-11-04"
   },
   {
-   "mot": "barcelone",
-   "slug": "barcelone",
+   "mot": "classement fenerbahçe – liverpool football club",
+   "slug": "classement-fenerbahce-liverpool-football-club",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": 1000,
+   "debut": "2026-11-04T21:20:00",
+   "fin": "2026-11-04T23:20:00",
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "como",
+   "slug": "como",
    "langue": "fr",
    "categorie": "sport",
    "volume": 200,
    "hausse": 1000,
-   "debut": "2026-11-03T21:40:00",
-   "fin": "2026-11-03T23:50:00",
-   "liees": [],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "bayern",
-   "slug": "bayern",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": 1000,
-   "debut": "2026-11-03T21:50:00",
-   "fin": "2026-11-04T00:00:00",
-   "liees": [],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "feyenoord – inter",
-   "slug": "feyenoord-inter",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": 1000,
-   "debut": "2026-11-03T21:00:00",
-   "fin": "2026-11-03T23:00:00",
-   "liees": [],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "salaire",
-   "slug": "salaire",
-   "langue": "fr",
-   "categorie": "emploi",
-   "volume": 200,
-   "hausse": 1000,
-   "debut": "2026-11-04T15:00:00",
+   "debut": "2026-11-04T23:10:00",
    "fin": null,
+   "liees": [
+    "lens – côme"
+   ],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "خطاب الكراهية",
+   "slug": "خطاب-الكراهيه",
+   "langue": "ar",
+   "categorie": "politique",
+   "volume": 200,
+   "hausse": 1000,
+   "debut": "2026-11-04T13:00:00",
+   "fin": "2026-11-04T19:00:00",
    "liees": [],
    "jour": "2026-11-04"
   },
   {
-   "mot": "gta6",
-   "slug": "gta6",
+   "mot": "fenerbahçe vs liverpool",
+   "slug": "fenerbahce-vs-liverpool",
    "langue": "fr",
-   "categorie": "divertissement",
+   "categorie": "football",
    "volume": 200,
    "hausse": 800,
-   "debut": "2026-11-04T14:00:00",
-   "fin": null,
+   "debut": "2026-11-04T19:30:00",
+   "fin": "2026-11-04T21:20:00",
    "liees": [],
    "jour": "2026-11-04"
   },
   {
-   "mot": "برشلونة ضد أستون فيلا",
-   "slug": "برشلونه-ضد-استون-فيلا",
-   "langue": "ar",
-   "categorie": "immobilier",
-   "volume": 200,
-   "hausse": 800,
-   "debut": "2026-11-03T21:10:00",
-   "fin": "2026-11-03T23:40:00",
-   "liees": [],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "حرارة",
-   "slug": "حراره",
-   "langue": "ar",
-   "categorie": "meteo",
-   "volume": 200,
-   "hausse": 500,
-   "debut": "2026-11-04T11:20:00",
-   "fin": "2026-11-04T15:50:00",
-   "liees": [],
-   "jour": "2026-11-04"
-  },
-  {
-   "mot": "uefa champions league",
-   "slug": "uefa-champions-league",
+   "mot": "rb leipzig vs man city",
+   "slug": "rb-leipzig-vs-man-city",
    "langue": "fr",
    "categorie": "football",
-   "volume": 200,
-   "hausse": 300,
-   "debut": "2026-11-03T23:00:00",
-   "fin": "2026-11-04T00:20:00",
-   "liees": [],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "galatasaray – stuttgart",
-   "slug": "galatasaray-stuttgart",
-   "langue": "fr",
-   "categorie": "sport",
    "volume": 100,
    "hausse": 700,
-   "debut": "2026-11-03T19:30:00",
-   "fin": "2026-11-03T20:10:00",
+   "debut": "2026-11-04T22:00:00",
+   "fin": "2026-11-05T00:00:00",
    "liees": [],
-   "jour": "2026-11-03"
+   "jour": "2026-11-04"
   },
   {
-   "mot": "qpr – burnley",
-   "slug": "qpr-burnley",
-   "langue": "fr",
-   "categorie": "sport",
+   "mot": "إساءة",
+   "slug": "اساءه",
+   "langue": "ar",
+   "categorie": "education",
    "volume": 100,
-   "hausse": 600,
-   "debut": "2026-11-03T21:40:00",
-   "fin": "2026-11-03T22:30:00",
+   "hausse": 700,
+   "debut": "2026-11-04T18:10:00",
+   "fin": "2026-11-04T21:40:00",
    "liees": [],
-   "jour": "2026-11-03"
+   "jour": "2026-11-04"
   },
   {
    "mot": "classement man utd – as roma",
@@ -2947,12 +2900,36 @@
    "jour": "2026-11-04"
   },
   {
+   "mot": "condoléances",
+   "slug": "condoleances",
+   "langue": "fr",
+   "categorie": "politique",
+   "volume": 100,
+   "hausse": 400,
+   "debut": "2026-11-04T23:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "koh lanta",
+   "slug": "koh-lanta",
+   "langue": "fr",
+   "categorie": "divertissement",
+   "volume": 100,
+   "hausse": 400,
+   "debut": "2026-11-04T13:50:00",
+   "fin": "2026-11-04T16:40:00",
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
    "mot": "classement atlético madrid – bayern munich",
    "slug": "classement-atletico-madrid-bayern-munich",
    "langue": "fr",
    "categorie": "football",
    "volume": 100,
-   "hausse": 200,
+   "hausse": 300,
    "debut": "2026-11-04T06:00:00",
    "fin": "2026-11-04T08:30:00",
    "liees": [],
@@ -2986,7 +2963,7 @@
    "volume": 20000,
    "hausse": 1000,
    "debut": "2026-11-03T17:50:00",
-   "fin": "2026-11-04T14:40:00",
+   "fin": "2026-11-04T16:50:00",
    "liees": [
     "stade tunisien – club africain",
     "stade tunisien",
@@ -3034,11 +3011,23 @@
    "volume": 10000,
    "hausse": 1000,
    "debut": "2026-11-03T20:10:00",
-   "fin": "2026-11-04T12:00:00",
+   "fin": "2026-11-04T19:50:00",
    "liees": [
     "barcelone"
    ],
    "jour": "2026-11-03"
+  },
+  {
+   "mot": "aek athènes – real madrid",
+   "slug": "aek-athenes-real-madrid",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 10000,
+   "hausse": 1000,
+   "debut": "2026-11-04T18:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-04"
   },
   {
    "mot": "classement fc barcelone – deportivo alavés",
@@ -3110,23 +3099,6 @@
    "fin": "2026-11-02T18:40:00",
    "liees": [],
    "jour": "2026-11-01"
-  },
-  {
-   "mot": "manchester city – brighton",
-   "slug": "manchester-city-brighton",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 5000,
-   "hausse": 1000,
-   "debut": "2026-10-28T19:40:00",
-   "fin": "2026-10-29T10:00:00",
-   "liees": [
-    "man city vs brighton",
-    "man city",
-    "manchester city",
-    "yasin ayari"
-   ],
-   "jour": "2026-10-28"
   },
   {
    "mot": "villarreal – paris-sg",
@@ -3238,30 +3210,6 @@
     "le havre vs psg"
    ],
    "jour": "2026-10-30"
-  },
-  {
-   "mot": "درة",
-   "slug": "دره",
-   "langue": "ar",
-   "categorie": "divertissement",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-10-28T20:50:00",
-   "fin": "2026-10-30T08:10:00",
-   "liees": [],
-   "jour": "2026-10-28"
-  },
-  {
-   "mot": "liverpool – chelsea",
-   "slug": "liverpool-chelsea",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-10-28T20:10:00",
-   "fin": "2026-10-29T10:10:00",
-   "liees": [],
-   "jour": "2026-10-28"
   },
   {
    "mot": "al-nassr fc – al-kholood club",
@@ -3427,9 +3375,52 @@
    "volume": 2000,
    "hausse": 1000,
    "debut": "2026-11-03T07:10:00",
-   "fin": "2026-11-04T00:00:00",
+   "fin": "2026-11-04T22:10:00",
    "liees": [],
    "jour": "2026-11-03"
+  },
+  {
+   "mot": "rb leipzig – manchester city",
+   "slug": "rb-leipzig-manchester-city",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 2000,
+   "hausse": 1000,
+   "debut": "2026-11-04T20:20:00",
+   "fin": null,
+   "liees": [
+    "rb leipzig vs man city"
+   ],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "slavia prague – arsenal",
+   "slug": "slavia-prague-arsenal",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 2000,
+   "hausse": 1000,
+   "debut": "2026-11-04T20:30:00",
+   "fin": null,
+   "liees": [
+    "champions league"
+   ],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "aek vs real madrid",
+   "slug": "aek-vs-real-madrid",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 2000,
+   "hausse": 1000,
+   "debut": "2026-11-04T18:00:00",
+   "fin": "2026-11-04T23:00:00",
+   "liees": [
+    "aek athens f.c. vs real madrid standings",
+    "real vs"
+   ],
+   "jour": "2026-11-04"
   },
   {
    "mot": "ac milan – inter",
@@ -3472,18 +3463,6 @@
    "jour": "2026-10-31"
   },
   {
-   "mot": "bayern – magdebourg",
-   "slug": "bayern-magdebourg",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 1000,
-   "hausse": 1000,
-   "debut": "2026-10-28T20:10:00",
-   "fin": "2026-10-29T10:10:00",
-   "liees": [],
-   "jour": "2026-10-28"
-  },
-  {
    "mot": "classement villarreal – paris saint-germain football club",
    "slug": "classement-villarreal-paris-saint-germain-football-club",
    "langue": "fr",
@@ -3500,16 +3479,30 @@
    "jour": "2026-11-03"
   },
   {
-   "mot": "liverpool vs chelsea",
-   "slug": "liverpool-vs-chelsea",
+   "mot": "salaire",
+   "slug": "salaire",
    "langue": "fr",
-   "categorie": "football",
-   "volume": 500,
+   "categorie": "emploi",
+   "volume": 1000,
    "hausse": 1000,
-   "debut": "2026-10-28T20:50:00",
-   "fin": "2026-10-29T07:20:00",
+   "debut": "2026-11-04T15:00:00",
+   "fin": null,
    "liees": [],
-   "jour": "2026-10-28"
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "أيك ضد الريال",
+   "slug": "ايك-ضد-الريال",
+   "langue": "ar",
+   "categorie": "football",
+   "volume": 1000,
+   "hausse": 1000,
+   "debut": "2026-11-04T18:30:00",
+   "fin": "2026-11-04T21:50:00",
+   "liees": [
+    "ريال مدريد"
+   ],
+   "jour": "2026-11-04"
   },
   {
    "mot": "ca vs",
@@ -3546,18 +3539,6 @@
    "fin": "2026-10-29T17:40:00",
    "liees": [],
    "jour": "2026-10-29"
-  },
-  {
-   "mot": "ac milan – bologne",
-   "slug": "ac-milan-bologne",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 500,
-   "hausse": 1000,
-   "debut": "2026-10-28T18:40:00",
-   "fin": "2026-10-28T21:10:00",
-   "liees": [],
-   "jour": "2026-10-28"
   },
   {
    "mot": "yalla kora",
@@ -3636,6 +3617,30 @@
     "al kass"
    ],
    "jour": "2026-11-03"
+  },
+  {
+   "mot": "aek athens f.c. vs real madrid standings",
+   "slug": "aek-athens-f-c-vs-real-madrid-standings",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 500,
+   "hausse": 1000,
+   "debut": "2026-11-04T21:00:00",
+   "fin": "2026-11-04T23:30:00",
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "2027",
+   "slug": "2027",
+   "langue": "fr",
+   "categorie": "finance",
+   "volume": 500,
+   "hausse": 1000,
+   "debut": "2026-11-04T16:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-04"
   },
   {
    "mot": "milan vs inter",
@@ -3736,40 +3741,16 @@
    "jour": "2026-10-29"
   },
   {
-   "mot": "venezia – inter",
-   "slug": "venezia-inter",
+   "mot": "marseille – toulouse",
+   "slug": "marseille-toulouse",
    "langue": "fr",
    "categorie": "football",
    "volume": 200,
    "hausse": 1000,
-   "debut": "2026-10-28T19:00:00",
-   "fin": "2026-10-28T23:10:00",
+   "debut": "2026-11-01T21:10:00",
+   "fin": "2026-11-01T23:30:00",
    "liees": [],
-   "jour": "2026-10-28"
-  },
-  {
-   "mot": "novak djokovic",
-   "slug": "novak-djokovic",
-   "langue": "fr",
-   "categorie": "sport",
-   "volume": 200,
-   "hausse": 1000,
-   "debut": "2026-10-28T17:20:00",
-   "fin": "2026-10-28T19:20:00",
-   "liees": [],
-   "jour": "2026-10-28"
-  },
-  {
-   "mot": "zamalek – al mokawloon",
-   "slug": "zamalek-al-mokawloon",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": 1000,
-   "debut": "2026-10-28T19:00:00",
-   "fin": "2026-10-28T20:50:00",
-   "liees": [],
-   "jour": "2026-10-28"
+   "jour": "2026-11-01"
   }
  ],
  "retombees": [
@@ -4044,6 +4025,18 @@
    "jour": "2026-10-25"
   },
   {
+   "mot": "liverpool – chelsea",
+   "slug": "liverpool-chelsea",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 2000,
+   "hausse": 1000,
+   "debut": "2026-10-28T20:10:00",
+   "fin": "2026-10-29T10:10:00",
+   "liees": [],
+   "jour": "2026-10-28"
+  },
+  {
    "mot": "man utd – bournemouth",
    "slug": "man-utd-bournemouth",
    "langue": "fr",
@@ -4071,6 +4064,18 @@
    "fin": "2026-10-26T09:00:00",
    "liees": [],
    "jour": "2026-10-25"
+  },
+  {
+   "mot": "درة",
+   "slug": "دره",
+   "langue": "ar",
+   "categorie": "divertissement",
+   "volume": 2000,
+   "hausse": 1000,
+   "debut": "2026-10-28T20:50:00",
+   "fin": "2026-10-30T08:10:00",
+   "liees": [],
+   "jour": "2026-10-28"
   },
   {
    "mot": "قرعة دوري ابطال افريقيا",
@@ -4112,6 +4117,18 @@
    "fin": "2026-10-27T18:30:00",
    "liees": [],
    "jour": "2026-10-26"
+  },
+  {
+   "mot": "bayern – magdebourg",
+   "slug": "bayern-magdebourg",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 1000,
+   "hausse": 1000,
+   "debut": "2026-10-28T20:10:00",
+   "fin": "2026-10-29T10:10:00",
+   "liees": [],
+   "jour": "2026-10-28"
   },
   {
    "mot": "fribourg – bayern",
@@ -4191,6 +4208,30 @@
    "jour": "2026-10-26"
   },
   {
+   "mot": "télépéage",
+   "slug": "telepeage",
+   "langue": "fr",
+   "categorie": "administration",
+   "volume": 1000,
+   "hausse": 800,
+   "debut": "2026-10-28T19:50:00",
+   "fin": "2026-10-29T09:20:00",
+   "liees": [],
+   "jour": "2026-10-28"
+  },
+  {
+   "mot": "سعر",
+   "slug": "سعر",
+   "langue": "ar",
+   "categorie": "commerce",
+   "volume": 1000,
+   "hausse": 800,
+   "debut": "2026-10-28T16:30:00",
+   "fin": "2026-10-29T09:00:00",
+   "liees": [],
+   "jour": "2026-10-28"
+  },
+  {
    "mot": "caf",
    "slug": "caf",
    "langue": "fr",
@@ -4231,6 +4272,18 @@
    "jour": "2026-10-25"
   },
   {
+   "mot": "ac milan – bologne",
+   "slug": "ac-milan-bologne",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 500,
+   "hausse": 1000,
+   "debut": "2026-10-28T18:40:00",
+   "fin": "2026-10-28T21:10:00",
+   "liees": [],
+   "jour": "2026-10-28"
+  },
+  {
    "mot": "al-nassr fc – al wasl",
    "slug": "al-nassr-fc-al-wasl",
    "langue": "fr",
@@ -4269,28 +4322,16 @@
    "jour": "2026-10-25"
   },
   {
-   "mot": "real",
-   "slug": "real",
+   "mot": "liverpool vs chelsea",
+   "slug": "liverpool-vs-chelsea",
    "langue": "fr",
    "categorie": "football",
    "volume": 500,
    "hausse": 1000,
-   "debut": "2026-10-25T21:20:00",
-   "fin": "2026-10-26T00:20:00",
+   "debut": "2026-10-28T20:50:00",
+   "fin": "2026-10-29T07:20:00",
    "liees": [],
-   "jour": "2026-10-25"
-  },
-  {
-   "mot": "real madrid club de fútbol",
-   "slug": "real-madrid-club-de-futbol",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 500,
-   "hausse": 1000,
-   "debut": "2026-10-25T21:20:00",
-   "fin": "2026-10-26T00:10:00",
-   "liees": [],
-   "jour": "2026-10-25"
+   "jour": "2026-10-28"
   },
   {
    "mot": "roma – cagliari",
@@ -4327,6 +4368,18 @@
    "fin": "2026-10-27T07:30:00",
    "liees": [],
    "jour": "2026-10-26"
+  },
+  {
+   "mot": "الرابطة الوطنية لكرة القدم المحترفة",
+   "slug": "الرابطه-الوطنيه-لكره-القدم-المحترفه",
+   "langue": "ar",
+   "categorie": "football",
+   "volume": 500,
+   "hausse": 600,
+   "debut": "2026-10-28T21:50:00",
+   "fin": "2026-10-29T09:50:00",
+   "liees": [],
+   "jour": "2026-10-28"
   },
   {
    "mot": "الشركة التونسية للبنك",
@@ -4461,6 +4514,18 @@
    "jour": "2026-10-26"
   },
   {
+   "mot": "venezia – inter",
+   "slug": "venezia-inter",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": 1000,
+   "debut": "2026-10-28T19:00:00",
+   "fin": "2026-10-28T23:10:00",
+   "liees": [],
+   "jour": "2026-10-28"
+  },
+  {
    "mot": "vicky lopez",
    "slug": "vicky-lopez",
    "langue": "fr",
@@ -4485,100 +4550,16 @@
    "jour": "2026-10-28"
   },
   {
-   "mot": "balon de oro 2026",
-   "slug": "balon-de-oro-2026",
-   "langue": "fr",
-   "categorie": "sport",
-   "volume": 200,
-   "hausse": 700,
-   "debut": "2026-10-26T21:10:00",
-   "fin": "2026-10-27T02:00:00",
-   "liees": [],
-   "jour": "2026-10-26"
-  },
-  {
-   "mot": "bein sport live",
-   "slug": "bein-sport-live",
+   "mot": "zamalek – al mokawloon",
+   "slug": "zamalek-al-mokawloon",
    "langue": "fr",
    "categorie": "football",
    "volume": 200,
-   "hausse": 700,
-   "debut": "2026-10-26T21:00:00",
-   "fin": "2026-10-27T00:50:00",
+   "hausse": 1000,
+   "debut": "2026-10-28T19:00:00",
+   "fin": "2026-10-28T20:50:00",
    "liees": [],
-   "jour": "2026-10-26"
-  },
-  {
-   "mot": "club african",
-   "slug": "club-african",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": 700,
-   "debut": "2026-10-25T18:40:00",
-   "fin": "2026-10-25T20:40:00",
-   "liees": [],
-   "jour": "2026-10-25"
-  },
-  {
-   "mot": "marseille – le havre",
-   "slug": "marseille-le-havre",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": 700,
-   "debut": "2026-10-25T17:50:00",
-   "fin": "2026-10-25T20:20:00",
-   "liees": [],
-   "jour": "2026-10-25"
-  },
-  {
-   "mot": "yallakora",
-   "slug": "yallakora",
-   "langue": "fr",
-   "categorie": "sport",
-   "volume": 200,
-   "hausse": 700,
-   "debut": "2026-10-25T21:10:00",
-   "fin": "2026-10-25T22:50:00",
-   "liees": [],
-   "jour": "2026-10-25"
-  },
-  {
-   "mot": "lecce – juventus",
-   "slug": "lecce-juventus",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": 600,
-   "debut": "2026-10-25T18:20:00",
-   "fin": "2026-10-25T21:10:00",
-   "liees": [],
-   "jour": "2026-10-25"
-  },
-  {
-   "mot": "real madrid vs barca",
-   "slug": "real-madrid-vs-barca",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": 600,
-   "debut": "2026-10-25T21:10:00",
-   "fin": "2026-10-26T00:00:00",
-   "liees": [],
-   "jour": "2026-10-25"
-  },
-  {
-   "mot": "udinese – ac milan",
-   "slug": "udinese-ac-milan",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": 600,
-   "debut": "2026-10-25T21:10:00",
-   "fin": "2026-10-25T22:50:00",
-   "liees": [],
-   "jour": "2026-10-25"
+   "jour": "2026-10-28"
   }
  ],
  "recurrents": [
@@ -4626,6 +4607,21 @@
    "jours": 3
   },
   {
+   "mot": "liverpool",
+   "slug": "liverpool",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 1000,
+   "hausse": 700,
+   "debut": "2026-11-01T17:40:00",
+   "fin": "2026-11-01T20:50:00",
+   "liees": [
+    "arsenal"
+   ],
+   "jour": "2026-11-01",
+   "jours": 3
+  },
+  {
    "mot": "barca vs",
    "slug": "barca-vs",
    "langue": "fr",
@@ -4636,6 +4632,19 @@
    "fin": "2026-10-25T23:50:00",
    "liees": [],
    "jour": "2026-10-25",
+   "jours": 3
+  },
+  {
+   "mot": "ماهر الكنزاري",
+   "slug": "ماهر-الكنزاري",
+   "langue": "ar",
+   "categorie": "sport",
+   "volume": 500,
+   "hausse": 300,
+   "debut": "2026-11-04T05:20:00",
+   "fin": "2026-11-04T14:10:00",
+   "liees": [],
+   "jour": "2026-11-04",
    "jours": 3
   },
   {
@@ -4656,7 +4665,7 @@
   "immobilier": {
    "fr": "Immobilier",
    "ar": "العقارات",
-   "n_semaine": 5,
+   "n_semaine": 4,
    "n_mois": 5,
    "top": [
     {
@@ -4667,7 +4676,7 @@
      "volume": 10000,
      "hausse": 1000,
      "debut": "2026-11-03T20:10:00",
-     "fin": "2026-11-04T12:00:00",
+     "fin": "2026-11-04T19:50:00",
      "liees": [
       "barcelone"
      ],
@@ -4711,63 +4720,9 @@
      "fin": "2026-11-03T23:40:00",
      "liees": [],
      "jour": "2026-11-03"
-    },
-    {
-     "mot": "bournemouth – aston villa",
-     "slug": "bournemouth-aston-villa",
-     "langue": "fr",
-     "categorie": "immobilier",
-     "volume": 100,
-     "hausse": 700,
-     "debut": "2026-10-28T21:40:00",
-     "fin": "2026-10-28T23:10:00",
-     "liees": [],
-     "jour": "2026-10-28"
     }
    ],
-   "top24": [
-    {
-     "mot": "barcelone – aston villa",
-     "slug": "barcelone-aston-villa",
-     "langue": "fr",
-     "categorie": "immobilier",
-     "volume": 10000,
-     "hausse": 1000,
-     "debut": "2026-11-03T20:10:00",
-     "fin": "2026-11-04T12:00:00",
-     "liees": [
-      "barcelone"
-     ],
-     "jour": "2026-11-03"
-    },
-    {
-     "mot": "barcelona vs aston villa",
-     "slug": "barcelona-vs-aston-villa",
-     "langue": "fr",
-     "categorie": "immobilier",
-     "volume": 2000,
-     "hausse": 1000,
-     "debut": "2026-11-03T20:20:00",
-     "fin": "2026-11-04T08:50:00",
-     "liees": [
-      "barca vs",
-      "aston villa"
-     ],
-     "jour": "2026-11-03"
-    },
-    {
-     "mot": "برشلونة ضد أستون فيلا",
-     "slug": "برشلونه-ضد-استون-فيلا",
-     "langue": "ar",
-     "categorie": "immobilier",
-     "volume": 200,
-     "hausse": 800,
-     "debut": "2026-11-03T21:10:00",
-     "fin": "2026-11-03T23:40:00",
-     "liees": [],
-     "jour": "2026-11-03"
-    }
-   ]
+   "top24": []
   },
   "automobile": {
    "fr": "Automobile",
@@ -4780,8 +4735,8 @@
   "emploi": {
    "fr": "Emploi et concours",
    "ar": "الشغل والمناظرات",
-   "n_semaine": 3,
-   "n_mois": 3,
+   "n_semaine": 4,
+   "n_mois": 4,
    "top": [
     {
      "mot": "examens concours education tn",
@@ -4791,7 +4746,7 @@
      "volume": 2000,
      "hausse": 1000,
      "debut": "2026-11-03T07:10:00",
-     "fin": "2026-11-04T00:00:00",
+     "fin": "2026-11-04T22:10:00",
      "liees": [],
      "jour": "2026-11-03"
     },
@@ -4812,37 +4767,53 @@
      "slug": "salaire",
      "langue": "fr",
      "categorie": "emploi",
-     "volume": 200,
+     "volume": 1000,
      "hausse": 1000,
      "debut": "2026-11-04T15:00:00",
      "fin": null,
      "liees": [],
      "jour": "2026-11-04"
+    },
+    {
+     "mot": "أجر",
+     "slug": "اجر",
+     "langue": "ar",
+     "categorie": "emploi",
+     "volume": 1000,
+     "hausse": 700,
+     "debut": "2026-11-04T17:50:00",
+     "fin": "2026-11-04T22:10:00",
+     "liees": [
+      "تقاعد"
+     ],
+     "jour": "2026-11-04"
     }
    ],
    "top24": [
-    {
-     "mot": "examens concours education tn",
-     "slug": "examens-concours-education-tn",
-     "langue": "fr",
-     "categorie": "emploi",
-     "volume": 2000,
-     "hausse": 1000,
-     "debut": "2026-11-03T07:10:00",
-     "fin": "2026-11-04T00:00:00",
-     "liees": [],
-     "jour": "2026-11-03"
-    },
     {
      "mot": "salaire",
      "slug": "salaire",
      "langue": "fr",
      "categorie": "emploi",
-     "volume": 200,
+     "volume": 1000,
      "hausse": 1000,
      "debut": "2026-11-04T15:00:00",
      "fin": null,
      "liees": [],
+     "jour": "2026-11-04"
+    },
+    {
+     "mot": "أجر",
+     "slug": "اجر",
+     "langue": "ar",
+     "categorie": "emploi",
+     "volume": 1000,
+     "hausse": 700,
+     "debut": "2026-11-04T17:50:00",
+     "fin": "2026-11-04T22:10:00",
+     "liees": [
+      "تقاعد"
+     ],
      "jour": "2026-11-04"
     }
    ]
@@ -4850,10 +4821,36 @@
   "education": {
    "fr": "Éducation",
    "ar": "التعليم",
-   "n_semaine": 0,
-   "n_mois": 0,
-   "top": [],
-   "top24": []
+   "n_semaine": 1,
+   "n_mois": 1,
+   "top": [
+    {
+     "mot": "إساءة",
+     "slug": "اساءه",
+     "langue": "ar",
+     "categorie": "education",
+     "volume": 100,
+     "hausse": 700,
+     "debut": "2026-11-04T18:10:00",
+     "fin": "2026-11-04T21:40:00",
+     "liees": [],
+     "jour": "2026-11-04"
+    }
+   ],
+   "top24": [
+    {
+     "mot": "إساءة",
+     "slug": "اساءه",
+     "langue": "ar",
+     "categorie": "education",
+     "volume": 100,
+     "hausse": 700,
+     "debut": "2026-11-04T18:10:00",
+     "fin": "2026-11-04T21:40:00",
+     "liees": [],
+     "jour": "2026-11-04"
+    }
+   ]
   },
   "tourisme": {
    "fr": "Tourisme et voyages",
@@ -4882,39 +4879,14 @@
      "jour": "2026-11-03"
     }
    ],
-   "top24": [
-    {
-     "mot": "شتاء",
-     "slug": "شتاء",
-     "langue": "ar",
-     "categorie": "sante",
-     "volume": 2000,
-     "hausse": 1000,
-     "debut": "2026-11-03T05:20:00",
-     "fin": "2026-11-04T06:10:00",
-     "liees": [],
-     "jour": "2026-11-03"
-    }
-   ]
+   "top24": []
   },
   "commerce": {
    "fr": "Commerce et consommation",
    "ar": "التجارة والاستهلاك",
-   "n_semaine": 5,
+   "n_semaine": 4,
    "n_mois": 5,
    "top": [
-    {
-     "mot": "سعر",
-     "slug": "سعر",
-     "langue": "ar",
-     "categorie": "commerce",
-     "volume": 1000,
-     "hausse": 800,
-     "debut": "2026-10-28T16:30:00",
-     "fin": "2026-10-29T09:00:00",
-     "liees": [],
-     "jour": "2026-10-28"
-    },
     {
      "mot": "huile",
      "slug": "huile",
@@ -4964,20 +4936,7 @@
      "jour": "2026-11-03"
     }
    ],
-   "top24": [
-    {
-     "mot": "tomate",
-     "slug": "tomate",
-     "langue": "fr",
-     "categorie": "commerce",
-     "volume": 100,
-     "hausse": 100,
-     "debut": "2026-11-03T03:00:00",
-     "fin": "2026-11-03T09:00:00",
-     "liees": [],
-     "jour": "2026-11-03"
-    }
-   ]
+   "top24": []
   },
   "technologie": {
    "fr": "Technologie",
@@ -5003,7 +4962,7 @@
   "administration": {
    "fr": "Administration et démarches",
    "ar": "الإدارة والإجراءات",
-   "n_semaine": 8,
+   "n_semaine": 7,
    "n_mois": 13,
    "top": [
     {
@@ -5041,18 +5000,6 @@
      "fin": "2026-11-02T07:10:00",
      "liees": [],
      "jour": "2026-10-31"
-    },
-    {
-     "mot": "télépéage",
-     "slug": "telepeage",
-     "langue": "fr",
-     "categorie": "administration",
-     "volume": 1000,
-     "hausse": 800,
-     "debut": "2026-10-28T19:50:00",
-     "fin": "2026-10-29T09:20:00",
-     "liees": [],
-     "jour": "2026-10-28"
     },
     {
      "mot": "cab",
@@ -5118,9 +5065,21 @@
   "finance": {
    "fr": "Argent et banques",
    "ar": "المال والبنوك",
-   "n_semaine": 3,
-   "n_mois": 5,
+   "n_semaine": 4,
+   "n_mois": 6,
    "top": [
+    {
+     "mot": "ذهب",
+     "slug": "ذهب",
+     "langue": "ar",
+     "categorie": "finance",
+     "volume": 1000,
+     "hausse": 700,
+     "debut": "2026-11-04T11:20:00",
+     "fin": "2026-11-04T21:00:00",
+     "liees": [],
+     "jour": "2026-11-04"
+    },
     {
      "mot": "donald tusk",
      "slug": "donald-tusk",
@@ -5134,13 +5093,13 @@
      "jour": "2026-11-01"
     },
     {
-     "mot": "ذهب",
-     "slug": "ذهب",
-     "langue": "ar",
+     "mot": "2027",
+     "slug": "2027",
+     "langue": "fr",
      "categorie": "finance",
      "volume": 500,
-     "hausse": 700,
-     "debut": "2026-11-04T11:20:00",
+     "hausse": 1000,
+     "debut": "2026-11-04T16:00:00",
      "fin": null,
      "liees": [],
      "jour": "2026-11-04"
@@ -5166,9 +5125,21 @@
      "slug": "ذهب",
      "langue": "ar",
      "categorie": "finance",
-     "volume": 500,
+     "volume": 1000,
      "hausse": 700,
      "debut": "2026-11-04T11:20:00",
+     "fin": "2026-11-04T21:00:00",
+     "liees": [],
+     "jour": "2026-11-04"
+    },
+    {
+     "mot": "2027",
+     "slug": "2027",
+     "langue": "fr",
+     "categorie": "finance",
+     "volume": 500,
+     "hausse": 1000,
+     "debut": "2026-11-04T16:00:00",
      "fin": null,
      "liees": [],
      "jour": "2026-11-04"
@@ -5178,8 +5149,8 @@
   "football": {
    "fr": "Football",
    "ar": "كرة القدم",
-   "n_semaine": 93,
-   "n_mois": 146,
+   "n_semaine": 94,
+   "n_mois": 158,
    "top": [
     {
      "mot": "classement cs sfaxien – es tunis",
@@ -5207,7 +5178,7 @@
      "volume": 20000,
      "hausse": 1000,
      "debut": "2026-11-03T17:50:00",
-     "fin": "2026-11-04T14:40:00",
+     "fin": "2026-11-04T16:50:00",
      "liees": [
       "stade tunisien – club africain",
       "stade tunisien",
@@ -5216,6 +5187,18 @@
       "ligue 1 tunisienne"
      ],
      "jour": "2026-11-03"
+    },
+    {
+     "mot": "aek athènes – real madrid",
+     "slug": "aek-athenes-real-madrid",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 10000,
+     "hausse": 1000,
+     "debut": "2026-11-04T18:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-04"
     },
     {
      "mot": "club africain – ca bizertin",
@@ -5292,23 +5275,6 @@
      "jour": "2026-10-31"
     },
     {
-     "mot": "manchester city – brighton",
-     "slug": "manchester-city-brighton",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 5000,
-     "hausse": 1000,
-     "debut": "2026-10-28T19:40:00",
-     "fin": "2026-10-29T10:00:00",
-     "liees": [
-      "man city vs brighton",
-      "man city",
-      "manchester city",
-      "yasin ayari"
-     ],
-     "jour": "2026-10-28"
-    },
-    {
      "mot": "villarreal – paris-sg",
      "slug": "villarreal-paris-sg",
      "langue": "fr",
@@ -5323,6 +5289,21 @@
       "champions league"
      ],
      "jour": "2026-11-03"
+    },
+    {
+     "mot": "aek vs real madrid",
+     "slug": "aek-vs-real-madrid",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 2000,
+     "hausse": 1000,
+     "debut": "2026-11-04T18:00:00",
+     "fin": "2026-11-04T23:00:00",
+     "liees": [
+      "aek athens f.c. vs real madrid standings",
+      "real vs"
+     ],
+     "jour": "2026-11-04"
     },
     {
      "mot": "al-nassr fc – al-kholood club",
@@ -5442,18 +5423,6 @@
      "jour": "2026-11-01"
     },
     {
-     "mot": "liverpool – chelsea",
-     "slug": "liverpool-chelsea",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 2000,
-     "hausse": 1000,
-     "debut": "2026-10-28T20:10:00",
-     "fin": "2026-10-29T10:10:00",
-     "liees": [],
-     "jour": "2026-10-28"
-    },
-    {
      "mot": "man utd – roma",
      "slug": "man-utd-roma",
      "langue": "fr",
@@ -5497,6 +5466,34 @@
       "real madrid vs"
      ],
      "jour": "2026-11-01"
+    },
+    {
+     "mot": "rb leipzig – manchester city",
+     "slug": "rb-leipzig-manchester-city",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 2000,
+     "hausse": 1000,
+     "debut": "2026-11-04T20:20:00",
+     "fin": null,
+     "liees": [
+      "rb leipzig vs man city"
+     ],
+     "jour": "2026-11-04"
+    },
+    {
+     "mot": "slavia prague – arsenal",
+     "slug": "slavia-prague-arsenal",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 2000,
+     "hausse": 1000,
+     "debut": "2026-11-04T20:30:00",
+     "fin": null,
+     "liees": [
+      "champions league"
+     ],
+     "jour": "2026-11-04"
     },
     {
      "mot": "espérance sportive de tunis",
@@ -5544,18 +5541,6 @@
      "jour": "2026-10-31"
     },
     {
-     "mot": "bayern – magdebourg",
-     "slug": "bayern-magdebourg",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 1000,
-     "hausse": 1000,
-     "debut": "2026-10-28T20:10:00",
-     "fin": "2026-10-29T10:10:00",
-     "liees": [],
-     "jour": "2026-10-28"
-    },
-    {
      "mot": "classement bayern munich – borussia dortmund",
      "slug": "classement-bayern-munich-borussia-dortmund",
      "langue": "fr",
@@ -5596,6 +5581,20 @@
      "fin": "2026-10-31T17:50:00",
      "liees": [],
      "jour": "2026-10-31"
+    },
+    {
+     "mot": "أيك ضد الريال",
+     "slug": "ايك-ضد-الريال",
+     "langue": "ar",
+     "categorie": "football",
+     "volume": 1000,
+     "hausse": 1000,
+     "debut": "2026-11-04T18:30:00",
+     "fin": "2026-11-04T21:50:00",
+     "liees": [
+      "ريال مدريد"
+     ],
+     "jour": "2026-11-04"
     },
     {
      "mot": "البطولة التونسية",
@@ -5671,16 +5670,16 @@
      "jour": "2026-11-01"
     },
     {
-     "mot": "ac milan – bologne",
-     "slug": "ac-milan-bologne",
+     "mot": "aek athens f.c. vs real madrid standings",
+     "slug": "aek-athens-f-c-vs-real-madrid-standings",
      "langue": "fr",
      "categorie": "football",
      "volume": 500,
      "hausse": 1000,
-     "debut": "2026-10-28T18:40:00",
-     "fin": "2026-10-28T21:10:00",
+     "debut": "2026-11-04T21:00:00",
+     "fin": "2026-11-04T23:30:00",
      "liees": [],
-     "jour": "2026-10-28"
+     "jour": "2026-11-04"
     },
     {
      "mot": "ca vs",
@@ -5705,18 +5704,6 @@
      "fin": "2026-11-02T08:10:00",
      "liees": [],
      "jour": "2026-11-01"
-    },
-    {
-     "mot": "liverpool vs chelsea",
-     "slug": "liverpool-vs-chelsea",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 500,
-     "hausse": 1000,
-     "debut": "2026-10-28T20:50:00",
-     "fin": "2026-10-29T07:20:00",
-     "liees": [],
-     "jour": "2026-10-28"
     },
     {
      "mot": "modern future football club – al ahly",
@@ -5827,18 +5814,6 @@
      "jour": "2026-11-03"
     },
     {
-     "mot": "الرابطة الوطنية لكرة القدم المحترفة",
-     "slug": "الرابطه-الوطنيه-لكره-القدم-المحترفه",
-     "langue": "ar",
-     "categorie": "football",
-     "volume": 500,
-     "hausse": 600,
-     "debut": "2026-10-28T21:50:00",
-     "fin": "2026-10-29T09:50:00",
-     "liees": [],
-     "jour": "2026-10-28"
-    },
-    {
      "mot": "النجم الرياضي الساحلي",
      "slug": "النجم-الرياضي-الساحلي",
      "langue": "ar",
@@ -5901,6 +5876,18 @@
      "jour": "2026-10-31"
     },
     {
+     "mot": "classement fenerbahçe – liverpool football club",
+     "slug": "classement-fenerbahce-liverpool-football-club",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": 1000,
+     "debut": "2026-11-04T21:20:00",
+     "fin": "2026-11-04T23:20:00",
+     "liees": [],
+     "jour": "2026-11-04"
+    },
+    {
      "mot": "feyenoord – inter",
      "slug": "feyenoord-inter",
      "langue": "fr",
@@ -5961,6 +5948,18 @@
      "jour": "2026-10-31"
     },
     {
+     "mot": "real",
+     "slug": "real",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": 1000,
+     "debut": "2026-11-04T20:40:00",
+     "fin": "2026-11-04T21:30:00",
+     "liees": [],
+     "jour": "2026-11-04"
+    },
+    {
      "mot": "udinese – roma",
      "slug": "udinese-roma",
      "langue": "fr",
@@ -5973,18 +5972,6 @@
      "jour": "2026-10-31"
     },
     {
-     "mot": "venezia – inter",
-     "slug": "venezia-inter",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 200,
-     "hausse": 1000,
-     "debut": "2026-10-28T19:00:00",
-     "fin": "2026-10-28T23:10:00",
-     "liees": [],
-     "jour": "2026-10-28"
-    },
-    {
      "mot": "villarreal – espanyol",
      "slug": "villarreal-espanyol",
      "langue": "fr",
@@ -5995,183 +5982,145 @@
      "fin": "2026-10-31T07:00:00",
      "liees": [],
      "jour": "2026-10-30"
-    },
-    {
-     "mot": "yalla kora",
-     "slug": "yalla-kora",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 200,
-     "hausse": 1000,
-     "debut": "2026-11-03T15:00:00",
-     "fin": "2026-11-03T15:40:00",
-     "liees": [],
-     "jour": "2026-11-03"
     }
    ],
    "top24": [
     {
-     "mot": "classement stade tunisien – club africain",
-     "slug": "classement-stade-tunisien-club-africain",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 20000,
-     "hausse": 1000,
-     "debut": "2026-11-03T17:50:00",
-     "fin": "2026-11-04T14:40:00",
-     "liees": [
-      "stade tunisien – club africain",
-      "stade tunisien",
-      "stade tunisien vs club africain",
-      "club africain",
-      "ligue 1 tunisienne"
-     ],
-     "jour": "2026-11-03"
-    },
-    {
-     "mot": "stade tunisien – club africain",
-     "slug": "stade-tunisien-club-africain",
+     "mot": "aek athènes – real madrid",
+     "slug": "aek-athenes-real-madrid",
      "langue": "fr",
      "categorie": "football",
      "volume": 10000,
      "hausse": 1000,
-     "debut": "2026-11-03T13:50:00",
+     "debut": "2026-11-04T18:00:00",
      "fin": null,
-     "liees": [
-      "stade tunisien vs club africain",
-      "ligue 1 tunisienne",
-      "club africain vs stade tunisien",
-      "championnat tunisie",
-      "stade tunisien"
-     ],
-     "jour": "2026-11-03"
+     "liees": [],
+     "jour": "2026-11-04"
     },
     {
-     "mot": "villarreal – paris-sg",
-     "slug": "villarreal-paris-sg",
+     "mot": "aek vs real madrid",
+     "slug": "aek-vs-real-madrid",
      "langue": "fr",
      "categorie": "football",
-     "volume": 5000,
+     "volume": 2000,
      "hausse": 1000,
-     "debut": "2026-11-03T20:20:00",
-     "fin": "2026-11-04T09:00:00",
+     "debut": "2026-11-04T18:00:00",
+     "fin": "2026-11-04T23:00:00",
      "liees": [
-      "villarreal vs psg",
-      "psg vs",
+      "aek athens f.c. vs real madrid standings",
+      "real vs"
+     ],
+     "jour": "2026-11-04"
+    },
+    {
+     "mot": "rb leipzig – manchester city",
+     "slug": "rb-leipzig-manchester-city",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 2000,
+     "hausse": 1000,
+     "debut": "2026-11-04T20:20:00",
+     "fin": null,
+     "liees": [
+      "rb leipzig vs man city"
+     ],
+     "jour": "2026-11-04"
+    },
+    {
+     "mot": "slavia prague – arsenal",
+     "slug": "slavia-prague-arsenal",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 2000,
+     "hausse": 1000,
+     "debut": "2026-11-04T20:30:00",
+     "fin": null,
+     "liees": [
       "champions league"
      ],
-     "jour": "2026-11-03"
+     "jour": "2026-11-04"
     },
     {
-     "mot": "atlético madrid – bayern",
-     "slug": "atletico-madrid-bayern",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 2000,
-     "hausse": 1000,
-     "debut": "2026-11-03T20:20:00",
-     "fin": "2026-11-04T09:00:00",
-     "liees": [
-      "bayern munich",
-      "atlético vs bayern"
-     ],
-     "jour": "2026-11-03"
-    },
-    {
-     "mot": "man utd – roma",
-     "slug": "man-utd-roma",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 2000,
-     "hausse": 1000,
-     "debut": "2026-11-03T20:20:00",
-     "fin": "2026-11-04T08:30:00",
-     "liees": [
-      "champions league",
-      "man utd vs roma",
-      "manchester united"
-     ],
-     "jour": "2026-11-03"
-    },
-    {
-     "mot": "classement villarreal – paris saint-germain football club",
-     "slug": "classement-villarreal-paris-saint-germain-football-club",
-     "langue": "fr",
+     "mot": "أيك ضد الريال",
+     "slug": "ايك-ضد-الريال",
+     "langue": "ar",
      "categorie": "football",
      "volume": 1000,
      "hausse": 1000,
-     "debut": "2026-11-03T23:30:00",
-     "fin": "2026-11-04T08:50:00",
+     "debut": "2026-11-04T18:30:00",
+     "fin": "2026-11-04T21:50:00",
      "liees": [
-      "championnat tunisie",
-      "championnat de tunisie",
-      "championnat de tunisie de football"
+      "ريال مدريد"
      ],
-     "jour": "2026-11-03"
+     "jour": "2026-11-04"
     },
     {
-     "mot": "champions league",
-     "slug": "champions-league",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 1000,
-     "hausse": 600,
-     "debut": "2026-11-03T23:00:00",
-     "fin": null,
-     "liees": [
-      "man utd vs roma",
-      "manchester united"
-     ],
-     "jour": "2026-11-03"
-    },
-    {
-     "mot": "villarreal vs psg",
-     "slug": "villarreal-vs-psg",
+     "mot": "aek athens f.c. vs real madrid standings",
+     "slug": "aek-athens-f-c-vs-real-madrid-standings",
      "langue": "fr",
      "categorie": "football",
      "volume": 500,
      "hausse": 1000,
-     "debut": "2026-11-03T21:20:00",
-     "fin": "2026-11-04T00:30:00",
-     "liees": [
-      "psg vs"
-     ],
-     "jour": "2026-11-03"
-    },
-    {
-     "mot": "البطولة التونسية",
-     "slug": "البطوله-التونسيه",
-     "langue": "ar",
-     "categorie": "football",
-     "volume": 500,
-     "hausse": 600,
-     "debut": "2026-11-03T16:30:00",
-     "fin": "2026-11-03T18:00:00",
-     "liees": [
-      "الملعب التونسي ضد الإفريقي",
-      "الدوري التونسي"
-     ],
-     "jour": "2026-11-03"
-    },
-    {
-     "mot": "النجم الرياضي الساحلي",
-     "slug": "النجم-الرياضي-الساحلي",
-     "langue": "ar",
-     "categorie": "football",
-     "volume": 500,
-     "hausse": 500,
-     "debut": "2026-11-03T05:10:00",
-     "fin": "2026-11-03T11:20:00",
+     "debut": "2026-11-04T21:00:00",
+     "fin": "2026-11-04T23:30:00",
      "liees": [],
-     "jour": "2026-11-03"
+     "jour": "2026-11-04"
+    },
+    {
+     "mot": "classement fenerbahçe – liverpool football club",
+     "slug": "classement-fenerbahce-liverpool-football-club",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": 1000,
+     "debut": "2026-11-04T21:20:00",
+     "fin": "2026-11-04T23:20:00",
+     "liees": [],
+     "jour": "2026-11-04"
+    },
+    {
+     "mot": "real",
+     "slug": "real",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": 1000,
+     "debut": "2026-11-04T20:40:00",
+     "fin": "2026-11-04T21:30:00",
+     "liees": [],
+     "jour": "2026-11-04"
+    },
+    {
+     "mot": "fenerbahçe vs liverpool",
+     "slug": "fenerbahce-vs-liverpool",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": 800,
+     "debut": "2026-11-04T19:30:00",
+     "fin": "2026-11-04T21:20:00",
+     "liees": [],
+     "jour": "2026-11-04"
+    },
+    {
+     "mot": "liverpool",
+     "slug": "liverpool",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": 600,
+     "debut": "2026-11-04T20:20:00",
+     "fin": "2026-11-04T21:50:00",
+     "liees": [],
+     "jour": "2026-11-04"
     }
    ]
   },
   "sport": {
    "fr": "Autres sports",
    "ar": "رياضات أخرى",
-   "n_semaine": 24,
-   "n_mois": 47,
+   "n_semaine": 25,
+   "n_mois": 49,
    "top": [
     {
      "mot": "le havre – paris-sg",
@@ -6276,6 +6225,18 @@
      "jour": "2026-11-03"
     },
     {
+     "mot": "ماهر الكنزاري",
+     "slug": "ماهر-الكنزاري",
+     "langue": "ar",
+     "categorie": "sport",
+     "volume": 500,
+     "hausse": 300,
+     "debut": "2026-11-04T05:20:00",
+     "fin": "2026-11-04T14:10:00",
+     "liees": [],
+     "jour": "2026-11-04"
+    },
+    {
      "mot": "al-nassr vs al kholood",
      "slug": "al-nassr-vs-al-kholood",
      "langue": "fr",
@@ -6312,6 +6273,20 @@
      "jour": "2026-11-03"
     },
     {
+     "mot": "como",
+     "slug": "como",
+     "langue": "fr",
+     "categorie": "sport",
+     "volume": 200,
+     "hausse": 1000,
+     "debut": "2026-11-04T23:10:00",
+     "fin": null,
+     "liees": [
+      "lens – côme"
+     ],
+     "jour": "2026-11-04"
+    },
+    {
      "mot": "everton – newcastle",
      "slug": "everton-newcastle",
      "langue": "fr",
@@ -6322,18 +6297,6 @@
      "fin": "2026-10-29T23:30:00",
      "liees": [],
      "jour": "2026-10-29"
-    },
-    {
-     "mot": "novak djokovic",
-     "slug": "novak-djokovic",
-     "langue": "fr",
-     "categorie": "sport",
-     "volume": 200,
-     "hausse": 1000,
-     "debut": "2026-10-28T17:20:00",
-     "fin": "2026-10-28T19:20:00",
-     "liees": [],
-     "jour": "2026-10-28"
     },
     {
      "mot": "fcb",
@@ -6470,102 +6433,30 @@
    ],
    "top24": [
     {
-     "mot": "alkass",
-     "slug": "alkass",
-     "langue": "fr",
-     "categorie": "sport",
-     "volume": 500,
-     "hausse": 1000,
-     "debut": "2026-11-03T14:40:00",
-     "fin": "2026-11-03T16:50:00",
-     "liees": [
-      "al kass"
-     ],
-     "jour": "2026-11-03"
-    },
-    {
-     "mot": "jesus de miguel",
-     "slug": "jesus-de-miguel",
-     "langue": "fr",
-     "categorie": "sport",
-     "volume": 500,
-     "hausse": 900,
-     "debut": "2026-11-03T12:00:00",
-     "fin": "2026-11-04T01:50:00",
-     "liees": [],
-     "jour": "2026-11-03"
-    },
-    {
-     "mot": "معين شعباني",
-     "slug": "معين-شعباني",
+     "mot": "ماهر الكنزاري",
+     "slug": "ماهر-الكنزاري",
      "langue": "ar",
      "categorie": "sport",
      "volume": 500,
-     "hausse": 400,
-     "debut": "2026-11-03T06:20:00",
-     "fin": "2026-11-04T06:50:00",
+     "hausse": 300,
+     "debut": "2026-11-04T05:20:00",
+     "fin": "2026-11-04T14:10:00",
      "liees": [],
-     "jour": "2026-11-03"
+     "jour": "2026-11-04"
     },
     {
-     "mot": "barcelone",
-     "slug": "barcelone",
+     "mot": "como",
+     "slug": "como",
      "langue": "fr",
      "categorie": "sport",
      "volume": 200,
      "hausse": 1000,
-     "debut": "2026-11-03T21:40:00",
-     "fin": "2026-11-03T23:50:00",
-     "liees": [],
-     "jour": "2026-11-03"
-    },
-    {
-     "mot": "fcb",
-     "slug": "fcb",
-     "langue": "fr",
-     "categorie": "sport",
-     "volume": 200,
-     "hausse": 900,
-     "debut": "2026-11-03T21:40:00",
-     "fin": "2026-11-03T23:40:00",
-     "liees": [],
-     "jour": "2026-11-03"
-    },
-    {
-     "mot": "sports",
-     "slug": "sports",
-     "langue": "fr",
-     "categorie": "sport",
-     "volume": 200,
-     "hausse": 300,
-     "debut": "2026-11-03T02:50:00",
-     "fin": "2026-11-03T06:50:00",
-     "liees": [],
-     "jour": "2026-11-03"
-    },
-    {
-     "mot": "galatasaray – stuttgart",
-     "slug": "galatasaray-stuttgart",
-     "langue": "fr",
-     "categorie": "sport",
-     "volume": 100,
-     "hausse": 700,
-     "debut": "2026-11-03T19:30:00",
-     "fin": "2026-11-03T20:10:00",
-     "liees": [],
-     "jour": "2026-11-03"
-    },
-    {
-     "mot": "qpr – burnley",
-     "slug": "qpr-burnley",
-     "langue": "fr",
-     "categorie": "sport",
-     "volume": 100,
-     "hausse": 600,
-     "debut": "2026-11-03T21:40:00",
-     "fin": "2026-11-03T22:30:00",
-     "liees": [],
-     "jour": "2026-11-03"
+     "debut": "2026-11-04T23:10:00",
+     "fin": null,
+     "liees": [
+      "lens – côme"
+     ],
+     "jour": "2026-11-04"
     }
    ]
   },
@@ -6573,20 +6464,8 @@
    "fr": "Divertissement et médias",
    "ar": "الترفيه والإعلام",
    "n_semaine": 8,
-   "n_mois": 10,
+   "n_mois": 11,
    "top": [
-    {
-     "mot": "درة",
-     "slug": "دره",
-     "langue": "ar",
-     "categorie": "divertissement",
-     "volume": 2000,
-     "hausse": 1000,
-     "debut": "2026-10-28T20:50:00",
-     "fin": "2026-10-30T08:10:00",
-     "liees": [],
-     "jour": "2026-10-28"
-    },
     {
      "mot": "آثار الحكيم",
      "slug": "اثار-الحكيم",
@@ -6610,6 +6489,18 @@
      "fin": "2026-10-29T16:20:00",
      "liees": [],
      "jour": "2026-10-29"
+    },
+    {
+     "mot": "gta6",
+     "slug": "gta6",
+     "langue": "fr",
+     "categorie": "divertissement",
+     "volume": 500,
+     "hausse": 800,
+     "debut": "2026-11-04T14:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-04"
     },
     {
      "mot": "patrick stewart",
@@ -6648,18 +6539,6 @@
      "jour": "2026-10-31"
     },
     {
-     "mot": "gta6",
-     "slug": "gta6",
-     "langue": "fr",
-     "categorie": "divertissement",
-     "volume": 200,
-     "hausse": 800,
-     "debut": "2026-11-04T14:00:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-04"
-    },
-    {
      "mot": "didier fraisse",
      "slug": "didier-fraisse",
      "langue": "fr",
@@ -6670,30 +6549,42 @@
      "fin": "2026-10-30T15:20:00",
      "liees": [],
      "jour": "2026-10-30"
+    },
+    {
+     "mot": "koh lanta",
+     "slug": "koh-lanta",
+     "langue": "fr",
+     "categorie": "divertissement",
+     "volume": 100,
+     "hausse": 400,
+     "debut": "2026-11-04T13:50:00",
+     "fin": "2026-11-04T16:40:00",
+     "liees": [],
+     "jour": "2026-11-04"
     }
    ],
    "top24": [
-    {
-     "mot": "bet365",
-     "slug": "bet365",
-     "langue": "fr",
-     "categorie": "divertissement",
-     "volume": 500,
-     "hausse": 300,
-     "debut": "2026-11-03T22:50:00",
-     "fin": "2026-11-03T23:30:00",
-     "liees": [],
-     "jour": "2026-11-03"
-    },
     {
      "mot": "gta6",
      "slug": "gta6",
      "langue": "fr",
      "categorie": "divertissement",
-     "volume": 200,
+     "volume": 500,
      "hausse": 800,
      "debut": "2026-11-04T14:00:00",
      "fin": null,
+     "liees": [],
+     "jour": "2026-11-04"
+    },
+    {
+     "mot": "koh lanta",
+     "slug": "koh-lanta",
+     "langue": "fr",
+     "categorie": "divertissement",
+     "volume": 100,
+     "hausse": 400,
+     "debut": "2026-11-04T13:50:00",
+     "fin": "2026-11-04T16:40:00",
      "liees": [],
      "jour": "2026-11-04"
     }
@@ -6745,6 +6636,18 @@
      "jour": "2026-10-29"
     },
     {
+     "mot": "حرارة",
+     "slug": "حراره",
+     "langue": "ar",
+     "categorie": "meteo",
+     "volume": 500,
+     "hausse": 500,
+     "debut": "2026-11-04T11:20:00",
+     "fin": "2026-11-05T00:10:00",
+     "liees": [],
+     "jour": "2026-11-04"
+    },
+    {
      "mot": "meteo",
      "slug": "meteo",
      "langue": "fr",
@@ -6755,18 +6658,6 @@
      "fin": "2026-11-02T07:40:00",
      "liees": [],
      "jour": "2026-11-02"
-    },
-    {
-     "mot": "حرارة",
-     "slug": "حراره",
-     "langue": "ar",
-     "categorie": "meteo",
-     "volume": 200,
-     "hausse": 500,
-     "debut": "2026-11-04T11:20:00",
-     "fin": "2026-11-04T15:50:00",
-     "liees": [],
-     "jour": "2026-11-04"
     },
     {
      "mot": "طقس اليوم",
@@ -6825,10 +6716,10 @@
      "slug": "حراره",
      "langue": "ar",
      "categorie": "meteo",
-     "volume": 200,
+     "volume": 500,
      "hausse": 500,
      "debut": "2026-11-04T11:20:00",
-     "fin": "2026-11-04T15:50:00",
+     "fin": "2026-11-05T00:10:00",
      "liees": [],
      "jour": "2026-11-04"
     }
@@ -6837,18 +6728,18 @@
   "politique": {
    "fr": "Politique et actualité",
    "ar": "السياسة والأخبار",
-   "n_semaine": 3,
-   "n_mois": 4,
+   "n_semaine": 5,
+   "n_mois": 6,
    "top": [
     {
      "mot": "babnet",
      "slug": "babnet",
      "langue": "fr",
      "categorie": "politique",
-     "volume": 2000,
-     "hausse": 200,
+     "volume": 5000,
+     "hausse": 300,
      "debut": "2026-11-04T04:40:00",
-     "fin": null,
+     "fin": "2026-11-04T23:30:00",
      "liees": [],
      "jour": "2026-11-04"
     },
@@ -6877,6 +6768,30 @@
       "abdul el-sayed"
      ],
      "jour": "2026-11-04"
+    },
+    {
+     "mot": "خطاب الكراهية",
+     "slug": "خطاب-الكراهيه",
+     "langue": "ar",
+     "categorie": "politique",
+     "volume": 200,
+     "hausse": 1000,
+     "debut": "2026-11-04T13:00:00",
+     "fin": "2026-11-04T19:00:00",
+     "liees": [],
+     "jour": "2026-11-04"
+    },
+    {
+     "mot": "condoléances",
+     "slug": "condoleances",
+     "langue": "fr",
+     "categorie": "politique",
+     "volume": 100,
+     "hausse": 400,
+     "debut": "2026-11-04T23:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-04"
     }
    ],
    "top24": [
@@ -6885,10 +6800,10 @@
      "slug": "babnet",
      "langue": "fr",
      "categorie": "politique",
-     "volume": 2000,
-     "hausse": 200,
+     "volume": 5000,
+     "hausse": 300,
      "debut": "2026-11-04T04:40:00",
-     "fin": null,
+     "fin": "2026-11-04T23:30:00",
      "liees": [],
      "jour": "2026-11-04"
     },
@@ -6905,6 +6820,30 @@
       "abdul el-sayed"
      ],
      "jour": "2026-11-04"
+    },
+    {
+     "mot": "خطاب الكراهية",
+     "slug": "خطاب-الكراهيه",
+     "langue": "ar",
+     "categorie": "politique",
+     "volume": 200,
+     "hausse": 1000,
+     "debut": "2026-11-04T13:00:00",
+     "fin": "2026-11-04T19:00:00",
+     "liees": [],
+     "jour": "2026-11-04"
+    },
+    {
+     "mot": "condoléances",
+     "slug": "condoleances",
+     "langue": "fr",
+     "categorie": "politique",
+     "volume": 100,
+     "hausse": 400,
+     "debut": "2026-11-04T23:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-04"
     }
    ]
   },
@@ -6919,8 +6858,8 @@
   "autre": {
    "fr": "Autre",
    "ar": "أخرى",
-   "n_semaine": 5,
-   "n_mois": 8,
+   "n_semaine": 6,
+   "n_mois": 9,
    "top": [
     {
      "mot": "ثعبان",
@@ -6947,6 +6886,18 @@
      "jour": "2026-10-30"
     },
     {
+     "mot": "عقوبة",
+     "slug": "عقوبه",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": 700,
+     "debut": "2026-11-04T16:50:00",
+     "fin": "2026-11-04T23:40:00",
+     "liees": [],
+     "jour": "2026-11-04"
+    },
+    {
      "mot": "تقاعد",
      "slug": "تقاعد",
      "langue": "ar",
@@ -6966,7 +6917,7 @@
      "volume": 500,
      "hausse": 300,
      "debut": "2026-11-03T18:10:00",
-     "fin": "2026-11-03T21:00:00",
+     "fin": "2026-11-04T19:30:00",
      "liees": [],
      "jour": "2026-11-03"
     },
@@ -6985,6 +6936,18 @@
    ],
    "top24": [
     {
+     "mot": "عقوبة",
+     "slug": "عقوبه",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": 700,
+     "debut": "2026-11-04T16:50:00",
+     "fin": "2026-11-04T23:40:00",
+     "liees": [],
+     "jour": "2026-11-04"
+    },
+    {
      "mot": "تقاعد",
      "slug": "تقاعد",
      "langue": "ar",
@@ -6995,18 +6958,6 @@
      "fin": "2026-11-04T14:00:00",
      "liees": [],
      "jour": "2026-11-04"
-    },
-    {
-     "mot": "طائر",
-     "slug": "طاير",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 500,
-     "hausse": 300,
-     "debut": "2026-11-03T18:10:00",
-     "fin": "2026-11-03T21:00:00",
-     "liees": [],
-     "jour": "2026-11-03"
     }
    ]
   }
@@ -7020,7 +6971,7 @@
    "volume": 10000,
    "hausse": 1000,
    "debut": "2026-11-03T20:10:00",
-   "fin": "2026-11-04T12:00:00",
+   "fin": "2026-11-04T19:50:00",
    "liees": [
     "barcelone"
    ],
@@ -7095,25 +7046,11 @@
    "volume": 2000,
    "hausse": 1000,
    "debut": "2026-11-03T07:10:00",
-   "fin": "2026-11-04T00:00:00",
+   "fin": "2026-11-04T22:10:00",
    "liees": [],
    "jour": "2026-11-03",
    "intention": false,
    "score": 4000.0
-  },
-  {
-   "mot": "سعر",
-   "slug": "سعر",
-   "langue": "ar",
-   "categorie": "commerce",
-   "volume": 1000,
-   "hausse": 800,
-   "debut": "2026-10-28T16:30:00",
-   "fin": "2026-10-29T09:00:00",
-   "liees": [],
-   "jour": "2026-10-28",
-   "intention": true,
-   "score": 3600.0
   },
   {
    "mot": "prix",
@@ -7133,7 +7070,7 @@
  "historique": {
   "semaines": {
    "2026-11-02": {
-    "n": 53,
+    "n": 74,
     "top": [
      {
       "mot": "classement stade tunisien – club africain",
@@ -7143,7 +7080,7 @@
       "volume": 20000,
       "hausse": 1000,
       "debut": "2026-11-03T17:50:00",
-      "fin": "2026-11-04T14:40:00",
+      "fin": "2026-11-04T16:50:00",
       "liees": [
        "stade tunisien – club africain",
        "stade tunisien",
@@ -7154,6 +7091,18 @@
       "jour": "2026-11-03"
      },
      {
+      "mot": "aek athènes – real madrid",
+      "slug": "aek-athenes-real-madrid",
+      "langue": "fr",
+      "categorie": "football",
+      "volume": 10000,
+      "hausse": 1000,
+      "debut": "2026-11-04T18:00:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-04"
+     },
+     {
       "mot": "barcelone – aston villa",
       "slug": "barcelone-aston-villa",
       "langue": "fr",
@@ -7161,7 +7110,7 @@
       "volume": 10000,
       "hausse": 1000,
       "debut": "2026-11-03T20:10:00",
-      "fin": "2026-11-04T12:00:00",
+      "fin": "2026-11-04T19:50:00",
       "liees": [
        "barcelone"
       ],
@@ -7200,6 +7149,33 @@
        "champions league"
       ],
       "jour": "2026-11-03"
+     },
+     {
+      "mot": "babnet",
+      "slug": "babnet",
+      "langue": "fr",
+      "categorie": "politique",
+      "volume": 5000,
+      "hausse": 300,
+      "debut": "2026-11-04T04:40:00",
+      "fin": "2026-11-04T23:30:00",
+      "liees": [],
+      "jour": "2026-11-04"
+     },
+     {
+      "mot": "aek vs real madrid",
+      "slug": "aek-vs-real-madrid",
+      "langue": "fr",
+      "categorie": "football",
+      "volume": 2000,
+      "hausse": 1000,
+      "debut": "2026-11-04T18:00:00",
+      "fin": "2026-11-04T23:00:00",
+      "liees": [
+       "aek athens f.c. vs real madrid standings",
+       "real vs"
+      ],
+      "jour": "2026-11-04"
      },
      {
       "mot": "atlético madrid – bayern",
@@ -7246,68 +7222,32 @@
        "pakhtakor fc vs al-nassr standings"
       ],
       "jour": "2026-11-02"
-     },
-     {
-      "mot": "examens concours education tn",
-      "slug": "examens-concours-education-tn",
-      "langue": "fr",
-      "categorie": "emploi",
-      "volume": 2000,
-      "hausse": 1000,
-      "debut": "2026-11-03T07:10:00",
-      "fin": "2026-11-04T00:00:00",
-      "liees": [],
-      "jour": "2026-11-03"
-     },
-     {
-      "mot": "grève",
-      "slug": "greve",
-      "langue": "fr",
-      "categorie": "emploi",
-      "volume": 2000,
-      "hausse": 1000,
-      "debut": "2026-11-02T13:40:00",
-      "fin": "2026-11-04T07:40:00",
-      "liees": [],
-      "jour": "2026-11-02"
-     },
-     {
-      "mot": "man utd – roma",
-      "slug": "man-utd-roma",
-      "langue": "fr",
-      "categorie": "football",
-      "volume": 2000,
-      "hausse": 1000,
-      "debut": "2026-11-03T20:20:00",
-      "fin": "2026-11-04T08:30:00",
-      "liees": [
-       "champions league",
-       "man utd vs roma",
-       "manchester united"
-      ],
-      "jour": "2026-11-03"
      }
     ],
     "categories": [
      {
       "cle": "football",
-      "n": 24
+      "n": 36
      },
      {
       "cle": "sport",
-      "n": 9
+      "n": 11
+     },
+     {
+      "cle": "emploi",
+      "n": 4
+     },
+     {
+      "cle": "autre",
+      "n": 4
      },
      {
       "cle": "meteo",
       "n": 4
      },
      {
-      "cle": "emploi",
-      "n": 3
-     },
-     {
-      "cle": "autre",
-      "n": 3
+      "cle": "politique",
+      "n": 4
      },
      {
       "cle": "immobilier",
@@ -7315,10 +7255,10 @@
      },
      {
       "cle": "divertissement",
-      "n": 2
+      "n": 3
      },
      {
-      "cle": "politique",
+      "cle": "finance",
       "n": 2
      },
      {
@@ -7330,7 +7270,7 @@
       "n": 1
      },
      {
-      "cle": "finance",
+      "cle": "education",
       "n": 1
      }
     ]
@@ -7726,7 +7666,7 @@
   },
   "mois": {
    "2026-11": {
-    "n": 77,
+    "n": 98,
     "top": [
      {
       "mot": "classement stade tunisien – club africain",
@@ -7736,7 +7676,7 @@
       "volume": 20000,
       "hausse": 1000,
       "debut": "2026-11-03T17:50:00",
-      "fin": "2026-11-04T14:40:00",
+      "fin": "2026-11-04T16:50:00",
       "liees": [
        "stade tunisien – club africain",
        "stade tunisien",
@@ -7747,6 +7687,18 @@
       "jour": "2026-11-03"
      },
      {
+      "mot": "aek athènes – real madrid",
+      "slug": "aek-athenes-real-madrid",
+      "langue": "fr",
+      "categorie": "football",
+      "volume": 10000,
+      "hausse": 1000,
+      "debut": "2026-11-04T18:00:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-04"
+     },
+     {
       "mot": "barcelone – aston villa",
       "slug": "barcelone-aston-villa",
       "langue": "fr",
@@ -7754,7 +7706,7 @@
       "volume": 10000,
       "hausse": 1000,
       "debut": "2026-11-03T20:10:00",
-      "fin": "2026-11-04T12:00:00",
+      "fin": "2026-11-04T19:50:00",
       "liees": [
        "barcelone"
       ],
@@ -7807,6 +7759,33 @@
       "jour": "2026-11-03"
      },
      {
+      "mot": "babnet",
+      "slug": "babnet",
+      "langue": "fr",
+      "categorie": "politique",
+      "volume": 5000,
+      "hausse": 300,
+      "debut": "2026-11-04T04:40:00",
+      "fin": "2026-11-04T23:30:00",
+      "liees": [],
+      "jour": "2026-11-04"
+     },
+     {
+      "mot": "aek vs real madrid",
+      "slug": "aek-vs-real-madrid",
+      "langue": "fr",
+      "categorie": "football",
+      "volume": 2000,
+      "hausse": 1000,
+      "debut": "2026-11-04T18:00:00",
+      "fin": "2026-11-04T23:00:00",
+      "liees": [
+       "aek athens f.c. vs real madrid standings",
+       "real vs"
+      ],
+      "jour": "2026-11-04"
+     },
+     {
       "mot": "atlético madrid – bayern",
       "slug": "atletico-madrid-bayern",
       "langue": "fr",
@@ -7835,71 +7814,39 @@
        "aston villa"
       ],
       "jour": "2026-11-03"
-     },
-     {
-      "mot": "classement pakhtakor – al-nassr fc",
-      "slug": "classement-pakhtakor-al-nassr-fc",
-      "langue": "fr",
-      "categorie": "football",
-      "volume": 2000,
-      "hausse": 1000,
-      "debut": "2026-11-02T17:00:00",
-      "fin": "2026-11-02T22:10:00",
-      "liees": [
-       "pakhtakor – al-nassr fc",
-       "pakhtakor vs al-nassr",
-       "pakhtakor fc vs al-nassr standings"
-      ],
-      "jour": "2026-11-02"
-     },
-     {
-      "mot": "examens concours education tn",
-      "slug": "examens-concours-education-tn",
-      "langue": "fr",
-      "categorie": "emploi",
-      "volume": 2000,
-      "hausse": 1000,
-      "debut": "2026-11-03T07:10:00",
-      "fin": "2026-11-04T00:00:00",
-      "liees": [],
-      "jour": "2026-11-03"
-     },
-     {
-      "mot": "grève",
-      "slug": "greve",
-      "langue": "fr",
-      "categorie": "emploi",
-      "volume": 2000,
-      "hausse": 1000,
-      "debut": "2026-11-02T13:40:00",
-      "fin": "2026-11-04T07:40:00",
-      "liees": [],
-      "jour": "2026-11-02"
      }
     ],
     "categories": [
      {
       "cle": "football",
-      "n": 41
+      "n": 53
      },
      {
       "cle": "sport",
-      "n": 12
+      "n": 14
+     },
+     {
+      "cle": "emploi",
+      "n": 4
+     },
+     {
+      "cle": "autre",
+      "n": 4
+     },
+     {
+      "cle": "divertissement",
+      "n": 4
      },
      {
       "cle": "meteo",
       "n": 4
      },
      {
-      "cle": "emploi",
-      "n": 3
+      "cle": "politique",
+      "n": 4
      },
      {
-      "cle": "autre",
-      "n": 3
-     },
-     {
-      "cle": "divertissement",
+      "cle": "finance",
       "n": 3
      },
      {
@@ -7911,19 +7858,15 @@
       "n": 2
      },
      {
-      "cle": "finance",
-      "n": 2
-     },
-     {
-      "cle": "politique",
-      "n": 2
-     },
-     {
       "cle": "sante",
       "n": 1
      },
      {
       "cle": "commerce",
+      "n": 1
+     },
+     {
+      "cle": "education",
       "n": 1
      }
     ]
@@ -11745,7 +11688,7 @@
      "volume": 20000,
      "hausse": 1000,
      "debut": "2026-11-03T17:50:00",
-     "fin": "2026-11-04T14:40:00",
+     "fin": "2026-11-04T16:50:00",
      "liees": [
       "stade tunisien – club africain",
       "stade tunisien",
@@ -11926,6 +11869,30 @@
    ]
   },
   {
+   "mot": "aek athènes – real madrid",
+   "mot_norm": "aek athenes - real madrid",
+   "slug": "aek-athenes-real-madrid",
+   "langue": "fr",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "aek athènes – real madrid",
+     "slug": "aek-athenes-real-madrid",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 10000,
+     "hausse": 1000,
+     "debut": "2026-11-04T18:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-04"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 10000,
+   "liees": []
+  },
+  {
    "mot": "barcelone – aston villa",
    "mot_norm": "barcelone - aston villa",
    "slug": "barcelone-aston-villa",
@@ -11940,7 +11907,7 @@
      "volume": 10000,
      "hausse": 1000,
      "debut": "2026-11-03T20:10:00",
-     "fin": "2026-11-04T12:00:00",
+     "fin": "2026-11-04T19:50:00",
      "liees": [
       "barcelone"
      ],
@@ -12120,6 +12087,30 @@
     "stade tunisien",
     "stade tunisien vs club africain"
    ]
+  },
+  {
+   "mot": "babnet",
+   "mot_norm": "babnet",
+   "slug": "babnet",
+   "langue": "fr",
+   "categorie": "politique",
+   "episodes": [
+    {
+     "mot": "babnet",
+     "slug": "babnet",
+     "langue": "fr",
+     "categorie": "politique",
+     "volume": 5000,
+     "hausse": 300,
+     "debut": "2026-11-04T04:40:00",
+     "fin": "2026-11-04T23:30:00",
+     "liees": [],
+     "jour": "2026-11-04"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 5000,
+   "liees": []
   },
   {
    "mot": "ballon d'or live",
@@ -12585,6 +12576,36 @@
    "liees": []
   },
   {
+   "mot": "aek vs real madrid",
+   "mot_norm": "aek vs real madrid",
+   "slug": "aek-vs-real-madrid",
+   "langue": "fr",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "aek vs real madrid",
+     "slug": "aek-vs-real-madrid",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 2000,
+     "hausse": 1000,
+     "debut": "2026-11-04T18:00:00",
+     "fin": "2026-11-04T23:00:00",
+     "liees": [
+      "aek athens f.c. vs real madrid standings",
+      "real vs"
+     ],
+     "jour": "2026-11-04"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 2000,
+   "liees": [
+    "aek athens f.c. vs real madrid standings",
+    "real vs"
+   ]
+  },
+  {
    "mot": "al-nassr fc – al-kholood club",
    "mot_norm": "al-nassr fc - al-kholood club",
    "slug": "al-nassr-fc-al-kholood-club",
@@ -12637,30 +12658,6 @@
     "atlético vs bayern",
     "bayern munich"
    ]
-  },
-  {
-   "mot": "babnet",
-   "mot_norm": "babnet",
-   "slug": "babnet",
-   "langue": "fr",
-   "categorie": "politique",
-   "episodes": [
-    {
-     "mot": "babnet",
-     "slug": "babnet",
-     "langue": "fr",
-     "categorie": "politique",
-     "volume": 2000,
-     "hausse": 200,
-     "debut": "2026-11-04T04:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-04"
-    }
-   ],
-   "jours": 1,
-   "volume_max": 2000,
-   "liees": []
   },
   {
    "mot": "ballon d'or 2026 heure",
@@ -12991,7 +12988,7 @@
      "volume": 2000,
      "hausse": 1000,
      "debut": "2026-11-03T07:10:00",
-     "fin": "2026-11-04T00:00:00",
+     "fin": "2026-11-04T22:10:00",
      "liees": [],
      "jour": "2026-11-03"
     }
@@ -13357,6 +13354,34 @@
    ]
   },
   {
+   "mot": "rb leipzig – manchester city",
+   "mot_norm": "rb leipzig - manchester city",
+   "slug": "rb-leipzig-manchester-city",
+   "langue": "fr",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "rb leipzig – manchester city",
+     "slug": "rb-leipzig-manchester-city",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 2000,
+     "hausse": 1000,
+     "debut": "2026-11-04T20:20:00",
+     "fin": null,
+     "liees": [
+      "rb leipzig vs man city"
+     ],
+     "jour": "2026-11-04"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 2000,
+   "liees": [
+    "rb leipzig vs man city"
+   ]
+  },
+  {
    "mot": "real madrid vs",
    "mot_norm": "real madrid vs",
    "slug": "real-madrid-vs",
@@ -13400,6 +13425,34 @@
     "clasico real vs barça",
     "fc barcelona",
     "fcb vs real madrid"
+   ]
+  },
+  {
+   "mot": "slavia prague – arsenal",
+   "mot_norm": "slavia prague - arsenal",
+   "slug": "slavia-prague-arsenal",
+   "langue": "fr",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "slavia prague – arsenal",
+     "slug": "slavia-prague-arsenal",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 2000,
+     "hausse": 1000,
+     "debut": "2026-11-04T20:30:00",
+     "fin": null,
+     "liees": [
+      "champions league"
+     ],
+     "jour": "2026-11-04"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 2000,
+   "liees": [
+    "champions league"
    ]
   },
   {
@@ -14050,6 +14103,18 @@
      "slug": "liverpool",
      "langue": "fr",
      "categorie": "football",
+     "volume": 200,
+     "hausse": 600,
+     "debut": "2026-11-04T20:20:00",
+     "fin": "2026-11-04T21:50:00",
+     "liees": [],
+     "jour": "2026-11-04"
+    },
+    {
+     "mot": "liverpool",
+     "slug": "liverpool",
+     "langue": "fr",
+     "categorie": "football",
      "volume": 1000,
      "hausse": 700,
      "debut": "2026-11-01T17:40:00",
@@ -14072,7 +14137,7 @@
      "jour": "2026-10-28"
     }
    ],
-   "jours": 2,
+   "jours": 3,
    "volume_max": 1000,
    "liees": [
     "arsenal"
@@ -14161,6 +14226,30 @@
    "liees": []
   },
   {
+   "mot": "salaire",
+   "mot_norm": "salaire",
+   "slug": "salaire",
+   "langue": "fr",
+   "categorie": "emploi",
+   "episodes": [
+    {
+     "mot": "salaire",
+     "slug": "salaire",
+     "langue": "fr",
+     "categorie": "emploi",
+     "volume": 1000,
+     "hausse": 1000,
+     "debut": "2026-11-04T15:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-04"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 1000,
+   "liees": []
+  },
+  {
    "mot": "télépéage",
    "mot_norm": "telepeage",
    "slug": "telepeage",
@@ -14207,6 +14296,62 @@
    "jours": 1,
    "volume_max": 1000,
    "liees": []
+  },
+  {
+   "mot": "أجر",
+   "mot_norm": "اجر",
+   "slug": "اجر",
+   "langue": "ar",
+   "categorie": "emploi",
+   "episodes": [
+    {
+     "mot": "أجر",
+     "slug": "اجر",
+     "langue": "ar",
+     "categorie": "emploi",
+     "volume": 1000,
+     "hausse": 700,
+     "debut": "2026-11-04T17:50:00",
+     "fin": "2026-11-04T22:10:00",
+     "liees": [
+      "تقاعد"
+     ],
+     "jour": "2026-11-04"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 1000,
+   "liees": [
+    "تقاعد"
+   ]
+  },
+  {
+   "mot": "أيك ضد الريال",
+   "mot_norm": "ايك ضد الريال",
+   "slug": "ايك-ضد-الريال",
+   "langue": "ar",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "أيك ضد الريال",
+     "slug": "ايك-ضد-الريال",
+     "langue": "ar",
+     "categorie": "football",
+     "volume": 1000,
+     "hausse": 1000,
+     "debut": "2026-11-04T18:30:00",
+     "fin": "2026-11-04T21:50:00",
+     "liees": [
+      "ريال مدريد"
+     ],
+     "jour": "2026-11-04"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 1000,
+   "liees": [
+    "ريال مدريد"
+   ]
   },
   {
    "mot": "البطولة التونسية",
@@ -14297,6 +14442,30 @@
    "liees": []
   },
   {
+   "mot": "ذهب",
+   "mot_norm": "ذهب",
+   "slug": "ذهب",
+   "langue": "ar",
+   "categorie": "finance",
+   "episodes": [
+    {
+     "mot": "ذهب",
+     "slug": "ذهب",
+     "langue": "ar",
+     "categorie": "finance",
+     "volume": 1000,
+     "hausse": 700,
+     "debut": "2026-11-04T11:20:00",
+     "fin": "2026-11-04T21:00:00",
+     "liees": [],
+     "jour": "2026-11-04"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 1000,
+   "liees": []
+  },
+  {
    "mot": "سعر",
    "mot_norm": "سعر",
    "slug": "سعر",
@@ -14349,6 +14518,30 @@
    ]
   },
   {
+   "mot": "2027",
+   "mot_norm": "2027",
+   "slug": "2027",
+   "langue": "fr",
+   "categorie": "finance",
+   "episodes": [
+    {
+     "mot": "2027",
+     "slug": "2027",
+     "langue": "fr",
+     "categorie": "finance",
+     "volume": 500,
+     "hausse": 1000,
+     "debut": "2026-11-04T16:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-04"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 500,
+   "liees": []
+  },
+  {
    "mot": "abdul el sayed",
    "mot_norm": "abdul el sayed",
    "slug": "abdul-el-sayed",
@@ -14394,6 +14587,30 @@
      "fin": "2026-10-28T21:10:00",
      "liees": [],
      "jour": "2026-10-28"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 500,
+   "liees": []
+  },
+  {
+   "mot": "aek athens f.c. vs real madrid standings",
+   "mot_norm": "aek athens f.c. vs real madrid standings",
+   "slug": "aek-athens-f-c-vs-real-madrid-standings",
+   "langue": "fr",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "aek athens f.c. vs real madrid standings",
+     "slug": "aek-athens-f-c-vs-real-madrid-standings",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 500,
+     "hausse": 1000,
+     "debut": "2026-11-04T21:00:00",
+     "fin": "2026-11-04T23:30:00",
+     "liees": [],
+     "jour": "2026-11-04"
     }
    ],
    "jours": 1,
@@ -14757,6 +14974,30 @@
    ]
   },
   {
+   "mot": "gta6",
+   "mot_norm": "gta6",
+   "slug": "gta6",
+   "langue": "fr",
+   "categorie": "divertissement",
+   "episodes": [
+    {
+     "mot": "gta6",
+     "slug": "gta6",
+     "langue": "fr",
+     "categorie": "divertissement",
+     "volume": 500,
+     "hausse": 800,
+     "debut": "2026-11-04T14:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-04"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 500,
+   "liees": []
+  },
+  {
    "mot": "halloween",
    "mot_norm": "halloween",
    "slug": "halloween",
@@ -15018,6 +15259,18 @@
      "slug": "real",
      "langue": "fr",
      "categorie": "football",
+     "volume": 200,
+     "hausse": 1000,
+     "debut": "2026-11-04T20:40:00",
+     "fin": "2026-11-04T21:30:00",
+     "liees": [],
+     "jour": "2026-11-04"
+    },
+    {
+     "mot": "real",
+     "slug": "real",
+     "langue": "fr",
+     "categorie": "football",
      "volume": 500,
      "hausse": 1000,
      "debut": "2026-10-25T21:20:00",
@@ -15026,7 +15279,7 @@
      "jour": "2026-10-25"
     }
    ],
-   "jours": 1,
+   "jours": 2,
    "volume_max": 500,
    "liees": []
   },
@@ -15042,6 +15295,18 @@
      "slug": "real-madrid-club-de-futbol",
      "langue": "fr",
      "categorie": "football",
+     "volume": 100,
+     "hausse": 500,
+     "debut": "2026-11-04T20:50:00",
+     "fin": "2026-11-04T21:30:00",
+     "liees": [],
+     "jour": "2026-11-04"
+    },
+    {
+     "mot": "real madrid club de fútbol",
+     "slug": "real-madrid-club-de-futbol",
+     "langue": "fr",
+     "categorie": "football",
      "volume": 500,
      "hausse": 1000,
      "debut": "2026-10-25T21:20:00",
@@ -15050,7 +15315,7 @@
      "jour": "2026-10-25"
     }
    ],
-   "jours": 1,
+   "jours": 2,
    "volume_max": 500,
    "liees": []
   },
@@ -15347,6 +15612,30 @@
    "liees": []
   },
   {
+   "mot": "حرارة",
+   "mot_norm": "حراره",
+   "slug": "حراره",
+   "langue": "ar",
+   "categorie": "meteo",
+   "episodes": [
+    {
+     "mot": "حرارة",
+     "slug": "حراره",
+     "langue": "ar",
+     "categorie": "meteo",
+     "volume": 500,
+     "hausse": 500,
+     "debut": "2026-11-04T11:20:00",
+     "fin": "2026-11-05T00:10:00",
+     "liees": [],
+     "jour": "2026-11-04"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 500,
+   "liees": []
+  },
+  {
    "mot": "خالد بن يحيى",
    "mot_norm": "خالد بن يحيي",
    "slug": "خالد-بن-يحيي",
@@ -15364,30 +15653,6 @@
      "fin": "2026-10-30T08:20:00",
      "liees": [],
      "jour": "2026-10-29"
-    }
-   ],
-   "jours": 1,
-   "volume_max": 500,
-   "liees": []
-  },
-  {
-   "mot": "ذهب",
-   "mot_norm": "ذهب",
-   "slug": "ذهب",
-   "langue": "ar",
-   "categorie": "finance",
-   "episodes": [
-    {
-     "mot": "ذهب",
-     "slug": "ذهب",
-     "langue": "ar",
-     "categorie": "finance",
-     "volume": 500,
-     "hausse": 700,
-     "debut": "2026-11-04T11:20:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-04"
     }
    ],
    "jours": 1,
@@ -15437,9 +15702,33 @@
      "volume": 500,
      "hausse": 300,
      "debut": "2026-11-03T18:10:00",
-     "fin": "2026-11-03T21:00:00",
+     "fin": "2026-11-04T19:30:00",
      "liees": [],
      "jour": "2026-11-03"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 500,
+   "liees": []
+  },
+  {
+   "mot": "عقوبة",
+   "mot_norm": "عقوبه",
+   "slug": "عقوبه",
+   "langue": "ar",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "عقوبة",
+     "slug": "عقوبه",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": 700,
+     "debut": "2026-11-04T16:50:00",
+     "fin": "2026-11-04T23:40:00",
+     "liees": [],
+     "jour": "2026-11-04"
     }
    ],
    "jours": 1,
@@ -15491,6 +15780,54 @@
     }
    ],
    "jours": 1,
+   "volume_max": 500,
+   "liees": []
+  },
+  {
+   "mot": "ماهر الكنزاري",
+   "mot_norm": "ماهر الكنزاري",
+   "slug": "ماهر-الكنزاري",
+   "langue": "ar",
+   "categorie": "sport",
+   "episodes": [
+    {
+     "mot": "ماهر الكنزاري",
+     "slug": "ماهر-الكنزاري",
+     "langue": "ar",
+     "categorie": "sport",
+     "volume": 500,
+     "hausse": 300,
+     "debut": "2026-11-04T05:20:00",
+     "fin": "2026-11-04T14:10:00",
+     "liees": [],
+     "jour": "2026-11-04"
+    },
+    {
+     "mot": "ماهر الكنزاري",
+     "slug": "ماهر-الكنزاري",
+     "langue": "ar",
+     "categorie": "sport",
+     "volume": 100,
+     "hausse": 400,
+     "debut": "2026-10-30T20:20:00",
+     "fin": "2026-10-31T07:00:00",
+     "liees": [],
+     "jour": "2026-10-30"
+    },
+    {
+     "mot": "ماهر الكنزاري",
+     "slug": "ماهر-الكنزاري",
+     "langue": "ar",
+     "categorie": "sport",
+     "volume": 200,
+     "hausse": 500,
+     "debut": "2026-10-26T15:50:00",
+     "fin": "2026-10-27T08:30:00",
+     "liees": [],
+     "jour": "2026-10-26"
+    }
+   ],
+   "jours": 3,
    "volume_max": 500,
    "liees": []
   },
@@ -15951,6 +16288,30 @@
    ]
   },
   {
+   "mot": "classement fenerbahçe – liverpool football club",
+   "mot_norm": "classement fenerbahce - liverpool football club",
+   "slug": "classement-fenerbahce-liverpool-football-club",
+   "langue": "fr",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "classement fenerbahçe – liverpool football club",
+     "slug": "classement-fenerbahce-liverpool-football-club",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": 1000,
+     "debut": "2026-11-04T21:20:00",
+     "fin": "2026-11-04T23:20:00",
+     "liees": [],
+     "jour": "2026-11-04"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
    "mot": "classement man utd – bournemouth",
    "mot_norm": "classement man utd - bournemouth",
    "slug": "classement-man-utd-bournemouth",
@@ -16021,6 +16382,34 @@
    "jours": 1,
    "volume_max": 200,
    "liees": []
+  },
+  {
+   "mot": "como",
+   "mot_norm": "como",
+   "slug": "como",
+   "langue": "fr",
+   "categorie": "sport",
+   "episodes": [
+    {
+     "mot": "como",
+     "slug": "como",
+     "langue": "fr",
+     "categorie": "sport",
+     "volume": 200,
+     "hausse": 1000,
+     "debut": "2026-11-04T23:10:00",
+     "fin": null,
+     "liees": [
+      "lens – côme"
+     ],
+     "jour": "2026-11-04"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": [
+    "lens – côme"
+   ]
   },
   {
    "mot": "crevette",
@@ -16147,6 +16536,30 @@
    "liees": []
   },
   {
+   "mot": "fenerbahçe vs liverpool",
+   "mot_norm": "fenerbahce vs liverpool",
+   "slug": "fenerbahce-vs-liverpool",
+   "langue": "fr",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "fenerbahçe vs liverpool",
+     "slug": "fenerbahce-vs-liverpool",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": 800,
+     "debut": "2026-11-04T19:30:00",
+     "fin": "2026-11-04T21:20:00",
+     "liees": [],
+     "jour": "2026-11-04"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
    "mot": "feyenoord – inter",
    "mot_norm": "feyenoord - inter",
    "slug": "feyenoord-inter",
@@ -16188,30 +16601,6 @@
      "fin": "2026-11-01T17:10:00",
      "liees": [],
      "jour": "2026-11-01"
-    }
-   ],
-   "jours": 1,
-   "volume_max": 200,
-   "liees": []
-  },
-  {
-   "mot": "gta6",
-   "mot_norm": "gta6",
-   "slug": "gta6",
-   "langue": "fr",
-   "categorie": "divertissement",
-   "episodes": [
-    {
-     "mot": "gta6",
-     "slug": "gta6",
-     "langue": "fr",
-     "categorie": "divertissement",
-     "volume": 200,
-     "hausse": 800,
-     "debut": "2026-11-04T14:00:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-04"
     }
    ],
    "jours": 1,
@@ -16713,30 +17102,6 @@
    "liees": []
   },
   {
-   "mot": "salaire",
-   "mot_norm": "salaire",
-   "slug": "salaire",
-   "langue": "fr",
-   "categorie": "emploi",
-   "episodes": [
-    {
-     "mot": "salaire",
-     "slug": "salaire",
-     "langue": "fr",
-     "categorie": "emploi",
-     "volume": 200,
-     "hausse": 1000,
-     "debut": "2026-11-04T15:00:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-04"
-    }
-   ],
-   "jours": 1,
-   "volume_max": 200,
-   "liees": []
-  },
-  {
    "mot": "serie a",
    "mot_norm": "serie a",
    "slug": "serie-a",
@@ -17205,21 +17570,21 @@
    "liees": []
   },
   {
-   "mot": "حرارة",
-   "mot_norm": "حراره",
-   "slug": "حراره",
+   "mot": "خطاب الكراهية",
+   "mot_norm": "خطاب الكراهيه",
+   "slug": "خطاب-الكراهيه",
    "langue": "ar",
-   "categorie": "meteo",
+   "categorie": "politique",
    "episodes": [
     {
-     "mot": "حرارة",
-     "slug": "حراره",
+     "mot": "خطاب الكراهية",
+     "slug": "خطاب-الكراهيه",
      "langue": "ar",
-     "categorie": "meteo",
+     "categorie": "politique",
      "volume": 200,
-     "hausse": 500,
-     "debut": "2026-11-04T11:20:00",
-     "fin": "2026-11-04T15:50:00",
+     "hausse": 1000,
+     "debut": "2026-11-04T13:00:00",
+     "fin": "2026-11-04T19:00:00",
      "liees": [],
      "jour": "2026-11-04"
     }
@@ -17286,42 +17651,6 @@
      "fin": "2026-10-28T06:10:00",
      "liees": [],
      "jour": "2026-10-27"
-    }
-   ],
-   "jours": 2,
-   "volume_max": 200,
-   "liees": []
-  },
-  {
-   "mot": "ماهر الكنزاري",
-   "mot_norm": "ماهر الكنزاري",
-   "slug": "ماهر-الكنزاري",
-   "langue": "ar",
-   "categorie": "sport",
-   "episodes": [
-    {
-     "mot": "ماهر الكنزاري",
-     "slug": "ماهر-الكنزاري",
-     "langue": "ar",
-     "categorie": "sport",
-     "volume": 100,
-     "hausse": 400,
-     "debut": "2026-10-30T20:20:00",
-     "fin": "2026-10-31T07:00:00",
-     "liees": [],
-     "jour": "2026-10-30"
-    },
-    {
-     "mot": "ماهر الكنزاري",
-     "slug": "ماهر-الكنزاري",
-     "langue": "ar",
-     "categorie": "sport",
-     "volume": 200,
-     "hausse": 500,
-     "debut": "2026-10-26T15:50:00",
-     "fin": "2026-10-27T08:30:00",
-     "liees": [],
-     "jour": "2026-10-26"
     }
    ],
    "jours": 2,
@@ -17485,7 +17814,7 @@
      "langue": "fr",
      "categorie": "football",
      "volume": 100,
-     "hausse": 200,
+     "hausse": 300,
      "debut": "2026-11-04T06:00:00",
      "fin": "2026-11-04T08:30:00",
      "liees": [],
@@ -17512,6 +17841,30 @@
      "hausse": 400,
      "debut": "2026-11-04T06:50:00",
      "fin": "2026-11-04T08:30:00",
+     "liees": [],
+     "jour": "2026-11-04"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 100,
+   "liees": []
+  },
+  {
+   "mot": "condoléances",
+   "mot_norm": "condoleances",
+   "slug": "condoleances",
+   "langue": "fr",
+   "categorie": "politique",
+   "episodes": [
+    {
+     "mot": "condoléances",
+     "slug": "condoleances",
+     "langue": "fr",
+     "categorie": "politique",
+     "volume": 100,
+     "hausse": 400,
+     "debut": "2026-11-04T23:10:00",
+     "fin": null,
      "liees": [],
      "jour": "2026-11-04"
     }
@@ -17610,6 +17963,30 @@
      "fin": "2026-10-29T08:50:00",
      "liees": [],
      "jour": "2026-10-29"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 100,
+   "liees": []
+  },
+  {
+   "mot": "koh lanta",
+   "mot_norm": "koh lanta",
+   "slug": "koh-lanta",
+   "langue": "fr",
+   "categorie": "divertissement",
+   "episodes": [
+    {
+     "mot": "koh lanta",
+     "slug": "koh-lanta",
+     "langue": "fr",
+     "categorie": "divertissement",
+     "volume": 100,
+     "hausse": 400,
+     "debut": "2026-11-04T13:50:00",
+     "fin": "2026-11-04T16:40:00",
+     "liees": [],
+     "jour": "2026-11-04"
     }
    ],
    "jours": 1,
@@ -17785,6 +18162,30 @@
    "liees": []
   },
   {
+   "mot": "rb leipzig vs man city",
+   "mot_norm": "rb leipzig vs man city",
+   "slug": "rb-leipzig-vs-man-city",
+   "langue": "fr",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "rb leipzig vs man city",
+     "slug": "rb-leipzig-vs-man-city",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 100,
+     "hausse": 700,
+     "debut": "2026-11-04T22:00:00",
+     "fin": "2026-11-05T00:00:00",
+     "liees": [],
+     "jour": "2026-11-04"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 100,
+   "liees": []
+  },
+  {
    "mot": "thibaut courtois",
    "mot_norm": "thibaut courtois",
    "slug": "thibaut-courtois",
@@ -17874,6 +18275,30 @@
      "fin": "2026-11-01T16:30:00",
      "liees": [],
      "jour": "2026-11-01"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 100,
+   "liees": []
+  },
+  {
+   "mot": "إساءة",
+   "mot_norm": "اساءه",
+   "slug": "اساءه",
+   "langue": "ar",
+   "categorie": "education",
+   "episodes": [
+    {
+     "mot": "إساءة",
+     "slug": "اساءه",
+     "langue": "ar",
+     "categorie": "education",
+     "volume": 100,
+     "hausse": 700,
+     "debut": "2026-11-04T18:10:00",
+     "fin": "2026-11-04T21:40:00",
+     "liees": [],
+     "jour": "2026-11-04"
     }
    ],
    "jours": 1,
