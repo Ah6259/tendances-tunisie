@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-04",
+ "maj": "2026-11-05",
  "explication": "Mots restés sans catégorie (à classer dans robot/categories.py quand ils reviennent).",
  "mots": [
   {
@@ -19,6 +19,11 @@
   },
   {
    "mot": "تقاعد",
+   "fois": 1,
+   "volume": 500
+  },
+  {
+   "mot": "عقوبة",
    "fois": 1,
    "volume": 500
   },

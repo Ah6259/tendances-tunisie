@@ -1,26 +1,26 @@
 {
  "sources": {
   "4h": {
-   "dernier_succes": "2026-11-04T15:51:42",
-   "n": 2
+   "dernier_succes": "2026-11-05T00:54:00",
+   "n": 5
   },
   "24h": {
-   "dernier_succes": "2026-11-04T15:51:42",
-   "n": 29
+   "dernier_succes": "2026-11-05T00:54:00",
+   "n": 27
   },
   "48h": {
-   "dernier_succes": "2026-11-04T15:51:42",
-   "n": 41
+   "dernier_succes": "2026-11-05T00:54:00",
+   "n": 56
   },
   "168h": {
-   "dernier_succes": "2026-11-04T15:51:42",
-   "n": 146
+   "dernier_succes": "2026-11-05T00:54:00",
+   "n": 149
   },
   "rss": {
-   "dernier_succes": "2026-11-04T15:51:42",
+   "dernier_succes": "2026-11-05T00:54:00",
    "n": 10
   }
  },
- "derniere_tentative": "2026-11-04T15:51:42",
+ "derniere_tentative": "2026-11-05T00:54:00",
  "erreurs": []
 }
