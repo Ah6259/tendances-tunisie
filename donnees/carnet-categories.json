@@ -13,12 +13,17 @@
    "volume": 500
   },
   {
-   "mot": "crevette",
+   "mot": "طائر",
    "fois": 1,
-   "volume": 200
+   "volume": 500
   },
   {
-   "mot": "طائر",
+   "mot": "تقاعد",
+   "fois": 1,
+   "volume": 500
+  },
+  {
+   "mot": "crevette",
    "fois": 1,
    "volume": 200
   },
