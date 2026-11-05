@@ -7109,7 +7109,7 @@
    "debut": "2026-11-04T23:10:00",
    "debut_ts": 1793830200,
    "fin": null,
-   "volume": 200,
+   "volume": 500,
    "hausse": 1000,
    "liees": [
     "lens – côme"
@@ -7119,8 +7119,8 @@
    ],
    "categorie": "sport",
    "vu_premier": "2026-11-05T00:54:00",
-   "vu_dernier": "2026-11-05T00:54:00",
-   "releves": 5,
+   "vu_dernier": "2026-11-05T15:56:43",
+   "releves": 6,
    "periodes": [
     4,
     24,
@@ -7142,7 +7142,7 @@
    "debut": "2026-11-04T23:10:00",
    "debut_ts": 1793830200,
    "fin": null,
-   "volume": 100,
+   "volume": 1000,
    "hausse": 400,
    "liees": [],
    "codes": [
@@ -7151,8 +7151,8 @@
    ],
    "categorie": "politique",
    "vu_premier": "2026-11-05T00:54:00",
-   "vu_dernier": "2026-11-05T00:54:00",
-   "releves": 5,
+   "vu_dernier": "2026-11-05T15:56:43",
+   "releves": 6,
    "periodes": [
     4,
     24,
@@ -7207,8 +7207,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-05T00:54:00",
-   "vu_dernier": "2026-11-05T00:54:00",
-   "releves": 5,
+   "vu_dernier": "2026-11-05T15:56:43",
+   "releves": 6,
    "periodes": [
     4,
     24,
@@ -7643,8 +7643,8 @@
    ],
    "categorie": "football",
    "vu_premier": "2026-11-05T00:54:00",
-   "vu_dernier": "2026-11-05T00:54:00",
-   "releves": 4,
+   "vu_dernier": "2026-11-05T15:56:43",
+   "releves": 5,
    "periodes": [
     24,
     48,
@@ -7712,7 +7712,127 @@
     "48h",
     "168h"
    ]
+  },
+  "وزاره الدفاع|498296": {
+   "mot": "وزارة الدفاع",
+   "mot_norm": "وزاره الدفاع",
+   "langue": "ar",
+   "debut": "2026-11-05T09:20:00",
+   "debut_ts": 1793866800,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "administration",
+   "vu_premier": "2026-11-05T15:56:43",
+   "vu_dernier": "2026-11-05T15:56:43",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "نهايه العالم|498295": {
+   "mot": "نهاية العالم",
+   "mot_norm": "نهايه العالم",
+   "langue": "ar",
+   "debut": "2026-11-05T08:40:00",
+   "debut_ts": 1793864400,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-05T15:56:43",
+   "vu_dernier": "2026-11-05T15:56:43",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "بريد|498293": {
+   "mot": "بريد",
+   "mot_norm": "بريد",
+   "langue": "ar",
+   "debut": "2026-11-05T06:00:00",
+   "debut_ts": 1793854800,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-05T15:56:43",
+   "vu_dernier": "2026-11-05T15:56:43",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "منتخب تونس لكره القدم|498292": {
+   "mot": "منتخب تونس لكرة القدم",
+   "mot_norm": "منتخب تونس لكره القدم",
+   "langue": "ar",
+   "debut": "2026-11-05T05:50:00",
+   "debut_ts": 1793854200,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-05T15:56:43",
+   "vu_dernier": "2026-11-05T15:56:43",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "visa|498292": {
+   "mot": "visa",
+   "mot_norm": "visa",
+   "langue": "fr",
+   "debut": "2026-11-05T05:40:00",
+   "debut_ts": 1793853600,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "tourisme",
+   "vu_premier": "2026-11-05T15:56:43",
+   "vu_dernier": "2026-11-05T15:56:43",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "فرنسا|498290": {
+   "mot": "فرنسا",
+   "mot_norm": "فرنسا",
+   "langue": "ar",
+   "debut": "2026-11-05T03:50:00",
+   "debut_ts": 1793847000,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "politique",
+   "vu_premier": "2026-11-05T15:56:43",
+   "vu_dernier": "2026-11-05T15:56:43",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-05T00:54:00"
+ "maj": "2026-11-05T15:56:43"
 }
