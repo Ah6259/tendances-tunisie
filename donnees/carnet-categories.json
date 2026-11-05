@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-05",
+ "maj": "2026-11-06",
  "explication": "Mots restés sans catégorie (à classer dans robot/categories.py quand ils reviennent).",
  "mots": [
   {
@@ -33,6 +33,16 @@
    "volume": 200
   },
   {
+   "mot": "بريد",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "consommation",
+   "fois": 1,
+   "volume": 200
+  },
+  {
    "mot": "قطار",
    "fois": 1,
    "volume": 100
@@ -48,7 +58,7 @@
    "volume": 100
   },
   {
-   "mot": "بريد",
+   "mot": "tomate",
    "fois": 1,
    "volume": 100
   }

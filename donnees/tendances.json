@@ -7726,8 +7726,8 @@
    "codes": [],
    "categorie": "administration",
    "vu_premier": "2026-11-05T15:56:43",
-   "vu_dernier": "2026-11-05T15:56:43",
-   "releves": 1,
+   "vu_dernier": "2026-11-06T00:49:35",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -7746,8 +7746,8 @@
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-05T15:56:43",
-   "vu_dernier": "2026-11-05T15:56:43",
-   "releves": 1,
+   "vu_dernier": "2026-11-06T00:49:35",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -7760,14 +7760,14 @@
    "debut": "2026-11-05T06:00:00",
    "debut_ts": 1793854800,
    "fin": null,
-   "volume": 100,
+   "volume": 200,
    "hausse": null,
    "liees": [],
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-05T15:56:43",
-   "vu_dernier": "2026-11-05T15:56:43",
-   "releves": 1,
+   "vu_dernier": "2026-11-06T00:49:35",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -7786,8 +7786,8 @@
    "codes": [],
    "categorie": "football",
    "vu_premier": "2026-11-05T15:56:43",
-   "vu_dernier": "2026-11-05T15:56:43",
-   "releves": 1,
+   "vu_dernier": "2026-11-06T00:49:35",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -7832,7 +7832,127 @@
    "sources": [
     "rss"
    ]
+  },
+  "getafe - brighton|498308": {
+   "mot": "getafe – brighton",
+   "mot_norm": "getafe - brighton",
+   "langue": "fr",
+   "debut": "2026-11-05T21:40:00",
+   "debut_ts": 1793911200,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-06T00:49:35",
+   "vu_dernier": "2026-11-06T00:49:35",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "leverkusen - marseille|498308": {
+   "mot": "leverkusen – marseille",
+   "mot_norm": "leverkusen - marseille",
+   "langue": "fr",
+   "debut": "2026-11-05T21:30:00",
+   "debut_ts": 1793910600,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-06T00:49:35",
+   "vu_dernier": "2026-11-06T00:49:35",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "consommation|498308": {
+   "mot": "consommation",
+   "mot_norm": "consommation",
+   "langue": "fr",
+   "debut": "2026-11-05T21:20:00",
+   "debut_ts": 1793910000,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-06T00:49:35",
+   "vu_dernier": "2026-11-06T00:49:35",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "az - juventus|498308": {
+   "mot": "az – juventus",
+   "mot_norm": "az - juventus",
+   "langue": "fr",
+   "debut": "2026-11-05T21:10:00",
+   "debut_ts": 1793909400,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-06T00:49:35",
+   "vu_dernier": "2026-11-06T00:49:35",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "tomate|498305": {
+   "mot": "tomate",
+   "mot_norm": "tomate",
+   "langue": "fr",
+   "debut": "2026-11-05T18:40:00",
+   "debut_ts": 1793900400,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-06T00:49:35",
+   "vu_dernier": "2026-11-06T00:49:35",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "cristiano ronaldo|498304": {
+   "mot": "cristiano ronaldo",
+   "mot_norm": "cristiano ronaldo",
+   "langue": "fr",
+   "debut": "2026-11-05T17:40:00",
+   "debut_ts": 1793896800,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-06T00:49:35",
+   "vu_dernier": "2026-11-06T00:49:35",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-05T15:56:43"
+ "maj": "2026-11-06T00:49:35"
 }
