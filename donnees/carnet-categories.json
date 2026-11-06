@@ -8,6 +8,11 @@
    "volume": 2000
   },
   {
+   "mot": "خصم",
+   "fois": 2,
+   "volume": 1000
+  },
+  {
    "mot": "تهريب",
    "fois": 1,
    "volume": 500
@@ -28,6 +33,11 @@
    "volume": 500
   },
   {
+   "mot": "إصابة",
+   "fois": 1,
+   "volume": 500
+  },
+  {
    "mot": "crevette",
    "fois": 1,
    "volume": 200
@@ -43,12 +53,12 @@
    "volume": 200
   },
   {
-   "mot": "قطار",
+   "mot": "tomate",
    "fois": 1,
-   "volume": 100
+   "volume": 200
   },
   {
-   "mot": "خصم",
+   "mot": "قطار",
    "fois": 1,
    "volume": 100
   },
@@ -58,7 +68,7 @@
    "volume": 100
   },
   {
-   "mot": "tomate",
+   "mot": "تصدير",
    "fois": 1,
    "volume": 100
   }

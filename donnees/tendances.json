@@ -7846,8 +7846,8 @@
    "codes": [],
    "categorie": "football",
    "vu_premier": "2026-11-06T00:49:35",
-   "vu_dernier": "2026-11-06T00:49:35",
-   "releves": 1,
+   "vu_dernier": "2026-11-06T15:36:07",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -7866,8 +7866,8 @@
    "codes": [],
    "categorie": "football",
    "vu_premier": "2026-11-06T00:49:35",
-   "vu_dernier": "2026-11-06T00:49:35",
-   "releves": 1,
+   "vu_dernier": "2026-11-06T15:36:07",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -7886,8 +7886,8 @@
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-06T00:49:35",
-   "vu_dernier": "2026-11-06T00:49:35",
-   "releves": 1,
+   "vu_dernier": "2026-11-06T15:36:07",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -7906,8 +7906,8 @@
    "codes": [],
    "categorie": "football",
    "vu_premier": "2026-11-06T00:49:35",
-   "vu_dernier": "2026-11-06T00:49:35",
-   "releves": 1,
+   "vu_dernier": "2026-11-06T15:36:07",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -7920,14 +7920,14 @@
    "debut": "2026-11-05T18:40:00",
    "debut_ts": 1793900400,
    "fin": null,
-   "volume": 100,
+   "volume": 200,
    "hausse": null,
    "liees": [],
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-06T00:49:35",
-   "vu_dernier": "2026-11-06T00:49:35",
-   "releves": 1,
+   "vu_dernier": "2026-11-06T15:36:07",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -7946,7 +7946,87 @@
    "codes": [],
    "categorie": "football",
    "vu_premier": "2026-11-06T00:49:35",
-   "vu_dernier": "2026-11-06T00:49:35",
+   "vu_dernier": "2026-11-06T15:36:07",
+   "releves": 2,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "aeroport de tunis-carthage|498319": {
+   "mot": "aéroport de tunis-carthage",
+   "mot_norm": "aeroport de tunis-carthage",
+   "langue": "fr",
+   "debut": "2026-11-06T08:50:00",
+   "debut_ts": 1793951400,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "tourisme",
+   "vu_premier": "2026-11-06T15:36:07",
+   "vu_dernier": "2026-11-06T15:36:07",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "اصابه|498319": {
+   "mot": "إصابة",
+   "mot_norm": "اصابه",
+   "langue": "ar",
+   "debut": "2026-11-06T08:00:00",
+   "debut_ts": 1793948400,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-06T15:36:07",
+   "vu_dernier": "2026-11-06T15:36:07",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "تصدير|498317": {
+   "mot": "تصدير",
+   "mot_norm": "تصدير",
+   "langue": "ar",
+   "debut": "2026-11-06T06:40:00",
+   "debut_ts": 1793943600,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-06T15:36:07",
+   "vu_dernier": "2026-11-06T15:36:07",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "خصم|498316": {
+   "mot": "خصم",
+   "mot_norm": "خصم",
+   "langue": "ar",
+   "debut": "2026-11-06T05:20:00",
+   "debut_ts": 1793938800,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-06T15:36:07",
+   "vu_dernier": "2026-11-06T15:36:07",
    "releves": 1,
    "periodes": [],
    "sources": [
@@ -7954,5 +8034,5 @@
    ]
   }
  },
- "maj": "2026-11-06T00:49:35"
+ "maj": "2026-11-06T15:36:07"
 }
