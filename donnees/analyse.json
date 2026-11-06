@@ -1,51 +1,51 @@
 {
- "maj": "2026-11-06T00:49:42",
+ "maj": "2026-11-06T15:36:14",
  "jour": "2026-11-06",
  "totaux": {
-  "tendances": 294,
-  "mots_distincts": 253,
-  "aujourdhui": 12,
-  "semaine": 157,
-  "mois": 294,
+  "tendances": 298,
+  "mots_distincts": 256,
+  "aujourdhui": 10,
+  "semaine": 155,
+  "mois": 298,
   "expressions_tapees": 1743,
   "premiere_lecture": "2026-11-01T10:46:10"
  },
  "aujourdhui": [
   {
-   "mot": "visa",
-   "slug": "visa",
+   "mot": "خصم",
+   "slug": "خصم",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-06T05:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-06"
+  },
+  {
+   "mot": "aéroport de tunis-carthage",
+   "slug": "aeroport-de-tunis-carthage",
    "langue": "fr",
    "categorie": "tourisme",
    "volume": 500,
    "hausse": null,
-   "debut": "2026-11-05T05:40:00",
+   "debut": "2026-11-06T08:50:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-05"
+   "jour": "2026-11-06"
   },
   {
-   "mot": "فرنسا",
-   "slug": "فرنسا",
+   "mot": "إصابة",
+   "slug": "اصابه",
    "langue": "ar",
-   "categorie": "politique",
+   "categorie": "autre",
    "volume": 500,
    "hausse": null,
-   "debut": "2026-11-05T03:50:00",
+   "debut": "2026-11-06T08:00:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-05"
-  },
-  {
-   "mot": "منتخب تونس لكرة القدم",
-   "slug": "منتخب-تونس-لكره-القدم",
-   "langue": "ar",
-   "categorie": "football",
-   "volume": 500,
-   "hausse": null,
-   "debut": "2026-11-05T05:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-05"
+   "jour": "2026-11-06"
   },
   {
    "mot": "az – juventus",
@@ -84,25 +84,13 @@
    "jour": "2026-11-05"
   },
   {
-   "mot": "بريد",
-   "slug": "بريد",
-   "langue": "ar",
+   "mot": "tomate",
+   "slug": "tomate",
+   "langue": "fr",
    "categorie": "autre",
    "volume": 200,
    "hausse": null,
-   "debut": "2026-11-05T06:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-05"
-  },
-  {
-   "mot": "وزارة الدفاع",
-   "slug": "وزاره-الدفاع",
-   "langue": "ar",
-   "categorie": "administration",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-05T09:20:00",
+   "debut": "2026-11-05T18:40:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-05"
@@ -132,28 +120,16 @@
    "jour": "2026-11-05"
   },
   {
-   "mot": "tomate",
-   "slug": "tomate",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-05T18:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-05"
-  },
-  {
-   "mot": "نهاية العالم",
-   "slug": "نهايه-العالم",
+   "mot": "تصدير",
+   "slug": "تصدير",
    "langue": "ar",
    "categorie": "autre",
    "volume": 100,
    "hausse": null,
-   "debut": "2026-11-05T08:40:00",
+   "debut": "2026-11-06T06:40:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-05"
+   "jour": "2026-11-06"
   }
  ],
  "semaine": [
@@ -174,18 +150,6 @@
     "ligue 1 tunisienne"
    ],
    "jour": "2026-11-03"
-  },
-  {
-   "mot": "météo",
-   "slug": "meteo",
-   "langue": "fr",
-   "categorie": "meteo",
-   "volume": 20000,
-   "hausse": 100,
-   "debut": "2026-10-30T06:30:00",
-   "fin": "2026-10-30T08:50:00",
-   "liees": [],
-   "jour": "2026-10-30"
   },
   {
    "mot": "aek athènes – real madrid",
@@ -257,18 +221,6 @@
    "fin": "2026-11-02T18:40:00",
    "liees": [],
    "jour": "2026-11-01"
-  },
-  {
-   "mot": "journal officiel de la république tunisienne",
-   "slug": "journal-officiel-de-la-republique-tunisienne",
-   "langue": "fr",
-   "categorie": "administration",
-   "volume": 5000,
-   "hausse": 1000,
-   "debut": "2026-10-30T13:30:00",
-   "fin": "2026-11-01T08:10:00",
-   "liees": [],
-   "jour": "2026-10-30"
   },
   {
    "mot": "manchester city – brighton",
@@ -852,16 +804,16 @@
    "jour": "2026-11-01"
   },
   {
-   "mot": "ثعبان",
-   "slug": "ثعبان",
+   "mot": "خصم",
+   "slug": "خصم",
    "langue": "ar",
    "categorie": "autre",
    "volume": 1000,
-   "hausse": 400,
-   "debut": "2026-10-30T05:40:00",
-   "fin": "2026-10-31T09:10:00",
+   "hausse": null,
+   "debut": "2026-11-06T05:20:00",
+   "fin": null,
    "liees": [],
-   "jour": "2026-10-30"
+   "jour": "2026-11-06"
   },
   {
    "mot": "2027",
@@ -1088,18 +1040,6 @@
    "jour": "2026-11-04"
   },
   {
-   "mot": "فرنسا",
-   "slug": "فرنسا",
-   "langue": "ar",
-   "categorie": "politique",
-   "volume": 500,
-   "hausse": 600,
-   "debut": "2026-10-30T07:20:00",
-   "fin": "2026-10-31T07:10:00",
-   "liees": [],
-   "jour": "2026-10-30"
-  },
-  {
    "mot": "يوسف بلايلي",
    "slug": "يوسف-بلايلي",
    "langue": "ar",
@@ -1172,18 +1112,6 @@
    "jour": "2026-11-03"
   },
   {
-   "mot": "binance",
-   "slug": "binance",
-   "langue": "fr",
-   "categorie": "technologie",
-   "volume": 500,
-   "hausse": 300,
-   "debut": "2026-10-30T06:40:00",
-   "fin": "2026-10-31T05:10:00",
-   "liees": [],
-   "jour": "2026-10-30"
-  },
-  {
    "mot": "طائر",
    "slug": "طاير",
    "langue": "ar",
@@ -1246,6 +1174,18 @@
    "jour": "2026-11-02"
   },
   {
+   "mot": "aéroport de tunis-carthage",
+   "slug": "aeroport-de-tunis-carthage",
+   "langue": "fr",
+   "categorie": "tourisme",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-06T08:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-06"
+  },
+  {
    "mot": "visa",
    "slug": "visa",
    "langue": "fr",
@@ -1256,6 +1196,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-05"
+  },
+  {
+   "mot": "إصابة",
+   "slug": "اصابه",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-06T08:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-06"
   },
   {
    "mot": "فرنسا",
@@ -1637,18 +1589,6 @@
    "jour": "2026-10-31"
   },
   {
-   "mot": "didier fraisse",
-   "slug": "didier-fraisse",
-   "langue": "fr",
-   "categorie": "divertissement",
-   "volume": 200,
-   "hausse": 500,
-   "debut": "2026-10-30T12:00:00",
-   "fin": "2026-10-30T15:20:00",
-   "liees": [],
-   "jour": "2026-10-30"
-  },
-  {
    "mot": "new england – inter miami",
    "slug": "new-england-inter-miami",
    "langue": "fr",
@@ -1804,6 +1744,18 @@
    "volume": 200,
    "hausse": null,
    "debut": "2026-11-05T21:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-05"
+  },
+  {
+   "mot": "tomate",
+   "slug": "tomate",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-05T18:40:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-05"
@@ -2145,16 +2097,16 @@
    "jour": "2026-11-05"
   },
   {
-   "mot": "tomate",
-   "slug": "tomate",
-   "langue": "fr",
+   "mot": "تصدير",
+   "slug": "تصدير",
+   "langue": "ar",
    "categorie": "autre",
    "volume": 100,
    "hausse": null,
-   "debut": "2026-11-05T18:40:00",
+   "debut": "2026-11-06T06:40:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-05"
+   "jour": "2026-11-06"
   },
   {
    "mot": "نهاية العالم",
@@ -2171,16 +2123,28 @@
  ],
  "nouveautes": [
   {
-   "mot": "منتخب تونس لكرة القدم",
-   "slug": "منتخب-تونس-لكره-القدم",
-   "langue": "ar",
-   "categorie": "football",
+   "mot": "aéroport de tunis-carthage",
+   "slug": "aeroport-de-tunis-carthage",
+   "langue": "fr",
+   "categorie": "tourisme",
    "volume": 500,
    "hausse": null,
-   "debut": "2026-11-05T05:50:00",
+   "debut": "2026-11-06T08:50:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-05"
+   "jour": "2026-11-06"
+  },
+  {
+   "mot": "إصابة",
+   "slug": "اصابه",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-06T08:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-06"
   },
   {
    "mot": "az – juventus",
@@ -2219,30 +2183,6 @@
    "jour": "2026-11-05"
   },
   {
-   "mot": "بريد",
-   "slug": "بريد",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-05T06:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-05"
-  },
-  {
-   "mot": "وزارة الدفاع",
-   "slug": "وزاره-الدفاع",
-   "langue": "ar",
-   "categorie": "administration",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-05T09:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-05"
-  },
-  {
    "mot": "getafe – brighton",
    "slug": "getafe-brighton",
    "langue": "fr",
@@ -2255,16 +2195,16 @@
    "jour": "2026-11-05"
   },
   {
-   "mot": "نهاية العالم",
-   "slug": "نهايه-العالم",
+   "mot": "تصدير",
+   "slug": "تصدير",
    "langue": "ar",
    "categorie": "autre",
    "volume": 100,
    "hausse": null,
-   "debut": "2026-11-05T08:40:00",
+   "debut": "2026-11-06T06:40:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-05"
+   "jour": "2026-11-06"
   }
  ],
  "hausses": [
@@ -2361,18 +2301,6 @@
     "yasin ayari"
    ],
    "jour": "2026-10-31"
-  },
-  {
-   "mot": "journal officiel de la république tunisienne",
-   "slug": "journal-officiel-de-la-republique-tunisienne",
-   "langue": "fr",
-   "categorie": "administration",
-   "volume": 5000,
-   "hausse": 1000,
-   "debut": "2026-10-30T13:30:00",
-   "fin": "2026-11-01T08:10:00",
-   "liees": [],
-   "jour": "2026-10-30"
   },
   {
    "mot": "classement racing de santander – real madrid",
@@ -3075,6 +3003,18 @@
    "fin": "2026-10-31T20:20:00",
    "liees": [],
    "jour": "2026-10-31"
+  },
+  {
+   "mot": "trabzonspor – gaziantep",
+   "slug": "trabzonspor-gaziantep",
+   "langue": "fr",
+   "categorie": "sport",
+   "volume": 100,
+   "hausse": 1000,
+   "debut": "2026-11-01T15:20:00",
+   "fin": "2026-11-01T16:30:00",
+   "liees": [],
+   "jour": "2026-11-01"
   }
  ],
  "retombees": [
@@ -3284,6 +3224,18 @@
    "fin": "2026-10-27T01:00:00",
    "liees": [],
    "jour": "2026-10-26"
+  },
+  {
+   "mot": "journal officiel de la république tunisienne",
+   "slug": "journal-officiel-de-la-republique-tunisienne",
+   "langue": "fr",
+   "categorie": "administration",
+   "volume": 5000,
+   "hausse": 1000,
+   "debut": "2026-10-30T13:30:00",
+   "fin": "2026-11-01T08:10:00",
+   "liees": [],
+   "jour": "2026-10-30"
   },
   {
    "mot": "paris-sg – ol",
@@ -3883,18 +3835,6 @@
    "fin": "2026-10-27T16:50:00",
    "liees": [],
    "jour": "2026-10-27"
-  },
-  {
-   "mot": "match",
-   "slug": "match",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 500,
-   "hausse": 400,
-   "debut": "2026-10-25T18:50:00",
-   "fin": "2026-10-26T00:10:00",
-   "liees": [],
-   "jour": "2026-10-25"
   }
  ],
  "recurrents": [
@@ -4150,9 +4090,21 @@
   "tourisme": {
    "fr": "Tourisme et voyages",
    "ar": "السياحة والسفر",
-   "n_semaine": 1,
-   "n_mois": 4,
+   "n_semaine": 2,
+   "n_mois": 5,
    "top": [
+    {
+     "mot": "aéroport de tunis-carthage",
+     "slug": "aeroport-de-tunis-carthage",
+     "langue": "fr",
+     "categorie": "tourisme",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-06T08:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
+    },
     {
      "mot": "visa",
      "slug": "visa",
@@ -4167,6 +4119,18 @@
     }
    ],
    "top24": [
+    {
+     "mot": "aéroport de tunis-carthage",
+     "slug": "aeroport-de-tunis-carthage",
+     "langue": "fr",
+     "categorie": "tourisme",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-06T08:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
+    },
     {
      "mot": "visa",
      "slug": "visa",
@@ -4250,42 +4214,17 @@
   "technologie": {
    "fr": "Technologie",
    "ar": "التكنولوجيا",
-   "n_semaine": 1,
+   "n_semaine": 0,
    "n_mois": 1,
-   "top": [
-    {
-     "mot": "binance",
-     "slug": "binance",
-     "langue": "fr",
-     "categorie": "technologie",
-     "volume": 500,
-     "hausse": 300,
-     "debut": "2026-10-30T06:40:00",
-     "fin": "2026-10-31T05:10:00",
-     "liees": [],
-     "jour": "2026-10-30"
-    }
-   ],
+   "top": [],
    "top24": []
   },
   "administration": {
    "fr": "Administration et démarches",
    "ar": "الإدارة والإجراءات",
-   "n_semaine": 7,
+   "n_semaine": 6,
    "n_mois": 14,
    "top": [
-    {
-     "mot": "journal officiel de la république tunisienne",
-     "slug": "journal-officiel-de-la-republique-tunisienne",
-     "langue": "fr",
-     "categorie": "administration",
-     "volume": 5000,
-     "hausse": 1000,
-     "debut": "2026-10-30T13:30:00",
-     "fin": "2026-11-01T08:10:00",
-     "liees": [],
-     "jour": "2026-10-30"
-    },
     {
      "mot": "titre de séjour",
      "slug": "titre-de-sejour",
@@ -5585,7 +5524,7 @@
   "divertissement": {
    "fr": "Divertissement et médias",
    "ar": "الترفيه والإعلام",
-   "n_semaine": 6,
+   "n_semaine": 5,
    "n_mois": 11,
    "top": [
     {
@@ -5637,18 +5576,6 @@
      "jour": "2026-10-31"
     },
     {
-     "mot": "didier fraisse",
-     "slug": "didier-fraisse",
-     "langue": "fr",
-     "categorie": "divertissement",
-     "volume": 200,
-     "hausse": 500,
-     "debut": "2026-10-30T12:00:00",
-     "fin": "2026-10-30T15:20:00",
-     "liees": [],
-     "jour": "2026-10-30"
-    },
-    {
      "mot": "koh lanta",
      "slug": "koh-lanta",
      "langue": "fr",
@@ -5666,21 +5593,9 @@
   "meteo": {
    "fr": "Météo",
    "ar": "الطقس",
-   "n_semaine": 5,
+   "n_semaine": 4,
    "n_mois": 10,
    "top": [
-    {
-     "mot": "météo",
-     "slug": "meteo",
-     "langue": "fr",
-     "categorie": "meteo",
-     "volume": 20000,
-     "hausse": 100,
-     "debut": "2026-10-30T06:30:00",
-     "fin": "2026-10-30T08:50:00",
-     "liees": [],
-     "jour": "2026-10-30"
-    },
     {
      "mot": "حرارة",
      "slug": "حراره",
@@ -5737,7 +5652,7 @@
   "politique": {
    "fr": "Politique et actualité",
    "ar": "السياسة والأخبار",
-   "n_semaine": 6,
+   "n_semaine": 5,
    "n_mois": 7,
    "top": [
     {
@@ -5763,18 +5678,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-04"
-    },
-    {
-     "mot": "فرنسا",
-     "slug": "فرنسا",
-     "langue": "ar",
-     "categorie": "politique",
-     "volume": 500,
-     "hausse": 600,
-     "debut": "2026-10-30T07:20:00",
-     "fin": "2026-10-31T07:10:00",
-     "liees": [],
-     "jour": "2026-10-30"
     },
     {
      "mot": "abdul el sayed",
@@ -5841,8 +5744,8 @@
   "autre": {
    "fr": "Autre",
    "ar": "أخرى",
-   "n_semaine": 9,
-   "n_mois": 13,
+   "n_semaine": 11,
+   "n_mois": 16,
    "top": [
     {
      "mot": "ثعبان",
@@ -5857,16 +5760,16 @@
      "jour": "2026-11-02"
     },
     {
-     "mot": "ثعبان",
-     "slug": "ثعبان",
+     "mot": "خصم",
+     "slug": "خصم",
      "langue": "ar",
      "categorie": "autre",
      "volume": 1000,
-     "hausse": 400,
-     "debut": "2026-10-30T05:40:00",
-     "fin": "2026-10-31T09:10:00",
+     "hausse": null,
+     "debut": "2026-11-06T05:20:00",
+     "fin": null,
      "liees": [],
-     "jour": "2026-10-30"
+     "jour": "2026-11-06"
     },
     {
      "mot": "عقوبة",
@@ -5905,6 +5808,18 @@
      "jour": "2026-11-03"
     },
     {
+     "mot": "إصابة",
+     "slug": "اصابه",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-06T08:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
+    },
+    {
      "mot": "consommation",
      "slug": "consommation",
      "langue": "fr",
@@ -5912,6 +5827,18 @@
      "volume": 200,
      "hausse": null,
      "debut": "2026-11-05T21:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-05"
+    },
+    {
+     "mot": "tomate",
+     "slug": "tomate",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-05T18:40:00",
      "fin": null,
      "liees": [],
      "jour": "2026-11-05"
@@ -5929,16 +5856,16 @@
      "jour": "2026-11-05"
     },
     {
-     "mot": "tomate",
-     "slug": "tomate",
-     "langue": "fr",
+     "mot": "تصدير",
+     "slug": "تصدير",
+     "langue": "ar",
      "categorie": "autre",
      "volume": 100,
      "hausse": null,
-     "debut": "2026-11-05T18:40:00",
+     "debut": "2026-11-06T06:40:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-05"
+     "jour": "2026-11-06"
     },
     {
      "mot": "نهاية العالم",
@@ -5955,6 +5882,30 @@
    ],
    "top24": [
     {
+     "mot": "خصم",
+     "slug": "خصم",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-06T05:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
+    },
+    {
+     "mot": "إصابة",
+     "slug": "اصابه",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-06T08:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
+    },
+    {
      "mot": "consommation",
      "slug": "consommation",
      "langue": "fr",
@@ -5962,6 +5913,18 @@
      "volume": 200,
      "hausse": null,
      "debut": "2026-11-05T21:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-05"
+    },
+    {
+     "mot": "tomate",
+     "slug": "tomate",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-05T18:40:00",
      "fin": null,
      "liees": [],
      "jour": "2026-11-05"
@@ -5979,16 +5942,16 @@
      "jour": "2026-11-05"
     },
     {
-     "mot": "tomate",
-     "slug": "tomate",
-     "langue": "fr",
+     "mot": "تصدير",
+     "slug": "تصدير",
+     "langue": "ar",
      "categorie": "autre",
      "volume": 100,
      "hausse": null,
-     "debut": "2026-11-05T18:40:00",
+     "debut": "2026-11-06T06:40:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-05"
+     "jour": "2026-11-06"
     },
     {
      "mot": "نهاية العالم",
@@ -6113,7 +6076,7 @@
  "historique": {
   "semaines": {
    "2026-11-02": {
-    "n": 86,
+    "n": 90,
     "top": [
      {
       "mot": "classement stade tunisien – club africain",
@@ -6273,12 +6236,12 @@
       "n": 41
      },
      {
-      "cle": "sport",
+      "cle": "autre",
       "n": 11
      },
      {
-      "cle": "autre",
-      "n": 8
+      "cle": "sport",
+      "n": 11
      },
      {
       "cle": "politique",
@@ -6305,6 +6268,10 @@
       "n": 2
      },
      {
+      "cle": "tourisme",
+      "n": 2
+     },
+     {
       "cle": "sante",
       "n": 1
      },
@@ -6318,10 +6285,6 @@
      },
      {
       "cle": "administration",
-      "n": 1
-     },
-     {
-      "cle": "tourisme",
       "n": 1
      }
     ]
@@ -6717,7 +6680,7 @@
   },
   "mois": {
    "2026-11": {
-    "n": 110,
+    "n": 114,
     "top": [
      {
       "mot": "classement stade tunisien – club africain",
@@ -6878,7 +6841,7 @@
      },
      {
       "cle": "autre",
-      "n": 8
+      "n": 11
      },
      {
       "cle": "politique",
@@ -6909,6 +6872,10 @@
       "n": 3
      },
      {
+      "cle": "tourisme",
+      "n": 2
+     },
+     {
       "cle": "sante",
       "n": 1
      },
@@ -6918,10 +6885,6 @@
      },
      {
       "cle": "education",
-      "n": 1
-     },
-     {
-      "cle": "tourisme",
       "n": 1
      }
     ]
@@ -13533,6 +13496,42 @@
    "liees": []
   },
   {
+   "mot": "خصم",
+   "mot_norm": "خصم",
+   "slug": "خصم",
+   "langue": "ar",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "خصم",
+     "slug": "خصم",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-06T05:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
+    },
+    {
+     "mot": "خصم",
+     "slug": "خصم",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": 300,
+     "debut": "2026-10-26T06:30:00",
+     "fin": "2026-10-26T10:00:00",
+     "liees": [],
+     "jour": "2026-10-26"
+    }
+   ],
+   "jours": 2,
+   "volume_max": 1000,
+   "liees": []
+  },
+  {
    "mot": "ذهب",
    "mot_norm": "ذهب",
    "slug": "ذهب",
@@ -13771,6 +13770,30 @@
    "liees": [
     "al kass"
    ]
+  },
+  {
+   "mot": "aéroport de tunis-carthage",
+   "mot_norm": "aeroport de tunis-carthage",
+   "slug": "aeroport-de-tunis-carthage",
+   "langue": "fr",
+   "categorie": "tourisme",
+   "episodes": [
+    {
+     "mot": "aéroport de tunis-carthage",
+     "slug": "aeroport-de-tunis-carthage",
+     "langue": "fr",
+     "categorie": "tourisme",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-06T08:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 500,
+   "liees": []
   },
   {
    "mot": "barca vs",
@@ -14571,6 +14594,30 @@
     }
    ],
    "jours": 2,
+   "volume_max": 500,
+   "liees": []
+  },
+  {
+   "mot": "إصابة",
+   "mot_norm": "اصابه",
+   "slug": "اصابه",
+   "langue": "ar",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "إصابة",
+     "slug": "اصابه",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-06T08:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
+    }
+   ],
+   "jours": 1,
    "volume_max": 500,
    "liees": []
   },
@@ -16445,6 +16492,42 @@
    "liees": []
   },
   {
+   "mot": "tomate",
+   "mot_norm": "tomate",
+   "slug": "tomate",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "tomate",
+     "slug": "tomate",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-05T18:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-05"
+    },
+    {
+     "mot": "tomate",
+     "slug": "tomate",
+     "langue": "fr",
+     "categorie": "commerce",
+     "volume": 100,
+     "hausse": 100,
+     "debut": "2026-11-03T03:00:00",
+     "fin": "2026-11-03T09:00:00",
+     "liees": [],
+     "jour": "2026-11-03"
+    }
+   ],
+   "jours": 2,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
    "mot": "udinese – ac milan",
    "mot_norm": "udinese - ac milan",
    "slug": "udinese-ac-milan",
@@ -17469,42 +17552,6 @@
    "liees": []
   },
   {
-   "mot": "tomate",
-   "mot_norm": "tomate",
-   "slug": "tomate",
-   "langue": "fr",
-   "categorie": "autre",
-   "episodes": [
-    {
-     "mot": "tomate",
-     "slug": "tomate",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-05T18:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-05"
-    },
-    {
-     "mot": "tomate",
-     "slug": "tomate",
-     "langue": "fr",
-     "categorie": "commerce",
-     "volume": 100,
-     "hausse": 100,
-     "debut": "2026-11-03T03:00:00",
-     "fin": "2026-11-03T09:00:00",
-     "liees": [],
-     "jour": "2026-11-03"
-    }
-   ],
-   "jours": 2,
-   "volume_max": 100,
-   "liees": []
-  },
-  {
    "mot": "tottenham – crystal palace",
    "mot_norm": "tottenham - crystal palace",
    "slug": "tottenham-crystal-palace",
@@ -17601,23 +17648,23 @@
    "liees": []
   },
   {
-   "mot": "خصم",
-   "mot_norm": "خصم",
-   "slug": "خصم",
+   "mot": "تصدير",
+   "mot_norm": "تصدير",
+   "slug": "تصدير",
    "langue": "ar",
    "categorie": "autre",
    "episodes": [
     {
-     "mot": "خصم",
-     "slug": "خصم",
+     "mot": "تصدير",
+     "slug": "تصدير",
      "langue": "ar",
      "categorie": "autre",
      "volume": 100,
-     "hausse": 300,
-     "debut": "2026-10-26T06:30:00",
-     "fin": "2026-10-26T10:00:00",
+     "hausse": null,
+     "debut": "2026-11-06T06:40:00",
+     "fin": null,
      "liees": [],
-     "jour": "2026-10-26"
+     "jour": "2026-11-06"
     }
    ],
    "jours": 1,
