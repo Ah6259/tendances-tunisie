@@ -1,16 +1,64 @@
 {
- "maj": "2026-11-06T15:36:14",
- "jour": "2026-11-06",
+ "maj": "2026-11-07T00:29:13",
+ "jour": "2026-11-07",
  "totaux": {
-  "tendances": 298,
-  "mots_distincts": 256,
-  "aujourdhui": 10,
-  "semaine": 155,
-  "mois": 298,
+  "tendances": 303,
+  "mots_distincts": 261,
+  "aujourdhui": 9,
+  "semaine": 151,
+  "mois": 303,
   "expressions_tapees": 1743,
   "premiere_lecture": "2026-11-01T10:46:10"
  },
  "aujourdhui": [
+  {
+   "mot": "cnam",
+   "slug": "cnam",
+   "langue": "fr",
+   "categorie": "sante",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-06T11:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-06"
+  },
+  {
+   "mot": "eau potable",
+   "slug": "eau-potable",
+   "langue": "fr",
+   "categorie": "energie",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-06T14:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-06"
+  },
+  {
+   "mot": "sonia mabrouk",
+   "slug": "sonia-mabrouk",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-06T14:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-06"
+  },
+  {
+   "mot": "إصابة",
+   "slug": "اصابه",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-06T08:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-06"
+  },
   {
    "mot": "خصم",
    "slug": "خصم",
@@ -36,88 +84,28 @@
    "jour": "2026-11-06"
   },
   {
-   "mot": "إصابة",
-   "slug": "اصابه",
-   "langue": "ar",
+   "mot": "jj gabriel",
+   "slug": "jj-gabriel",
+   "langue": "fr",
    "categorie": "autre",
-   "volume": 500,
+   "volume": 200,
    "hausse": null,
-   "debut": "2026-11-06T08:00:00",
+   "debut": "2026-11-06T20:00:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-06"
   },
   {
-   "mot": "az – juventus",
-   "slug": "az-juventus",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-05T21:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-05"
-  },
-  {
-   "mot": "consommation",
-   "slug": "consommation",
+   "mot": "office des céréales",
+   "slug": "office-des-cereales",
    "langue": "fr",
    "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-05T21:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-05"
-  },
-  {
-   "mot": "leverkusen – marseille",
-   "slug": "leverkusen-marseille",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-05T21:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-05"
-  },
-  {
-   "mot": "tomate",
-   "slug": "tomate",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-05T18:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-05"
-  },
-  {
-   "mot": "cristiano ronaldo",
-   "slug": "cristiano-ronaldo",
-   "langue": "fr",
-   "categorie": "football",
    "volume": 100,
    "hausse": null,
-   "debut": "2026-11-05T17:40:00",
+   "debut": "2026-11-06T21:30:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-05"
-  },
-  {
-   "mot": "getafe – brighton",
-   "slug": "getafe-brighton",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-05T21:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-05"
+   "jour": "2026-11-06"
   },
   {
    "mot": "تصدير",
@@ -358,18 +346,6 @@
    "jour": "2026-10-31"
   },
   {
-   "mot": "classement le havre athletic club – paris saint-germain football club",
-   "slug": "classement-le-havre-athletic-club-paris-saint-germain-football-club",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-10-30T21:10:00",
-   "fin": "2026-10-31T15:20:00",
-   "liees": [],
-   "jour": "2026-10-30"
-  },
-  {
    "mot": "classement pakhtakor – al-nassr fc",
    "slug": "classement-pakhtakor-al-nassr-fc",
    "langue": "fr",
@@ -408,20 +384,6 @@
    "fin": "2026-11-04T07:40:00",
    "liees": [],
    "jour": "2026-11-02"
-  },
-  {
-   "mot": "le havre – paris-sg",
-   "slug": "le-havre-paris-sg",
-   "langue": "fr",
-   "categorie": "sport",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-10-30T18:30:00",
-   "fin": "2026-10-30T22:30:00",
-   "liees": [
-    "le havre vs psg"
-   ],
-   "jour": "2026-10-30"
   },
   {
    "mot": "liverpool – arsenal",
@@ -526,18 +488,6 @@
    "jour": "2026-11-01"
   },
   {
-   "mot": "بناء",
-   "slug": "بناء",
-   "langue": "ar",
-   "categorie": "immobilier",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-10-30T19:50:00",
-   "fin": "2026-10-31T21:00:00",
-   "liees": [],
-   "jour": "2026-10-30"
-  },
-  {
    "mot": "سرقة",
    "slug": "سرقه",
    "langue": "ar",
@@ -589,6 +539,18 @@
    "fin": "2026-11-03T07:50:00",
    "liees": [],
    "jour": "2026-11-02"
+  },
+  {
+   "mot": "cnam",
+   "slug": "cnam",
+   "langue": "fr",
+   "categorie": "sante",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-06T11:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-06"
   },
   {
    "mot": "ac milan – inter",
@@ -804,6 +766,42 @@
    "jour": "2026-11-01"
   },
   {
+   "mot": "eau potable",
+   "slug": "eau-potable",
+   "langue": "fr",
+   "categorie": "energie",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-06T14:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-06"
+  },
+  {
+   "mot": "sonia mabrouk",
+   "slug": "sonia-mabrouk",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-06T14:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-06"
+  },
+  {
+   "mot": "إصابة",
+   "slug": "اصابه",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-06T08:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-06"
+  },
+  {
    "mot": "خصم",
    "slug": "خصم",
    "langue": "ar",
@@ -946,20 +944,6 @@
    "jour": "2026-11-02"
   },
   {
-   "mot": "وزارة الدفاع الوطني",
-   "slug": "وزاره-الدفاع-الوطني",
-   "langue": "ar",
-   "categorie": "administration",
-   "volume": 500,
-   "hausse": 800,
-   "debut": "2026-10-30T18:00:00",
-   "fin": "2026-10-31T07:10:00",
-   "liees": [
-    "وزارة الدفاع"
-   ],
-   "jour": "2026-10-30"
-  },
-  {
    "mot": "vincent kompany",
    "slug": "vincent-kompany",
    "langue": "fr",
@@ -1038,18 +1022,6 @@
    "fin": "2026-11-04T14:00:00",
    "liees": [],
    "jour": "2026-11-04"
-  },
-  {
-   "mot": "يوسف بلايلي",
-   "slug": "يوسف-بلايلي",
-   "langue": "ar",
-   "categorie": "sport",
-   "volume": 500,
-   "hausse": 600,
-   "debut": "2026-10-30T21:40:00",
-   "fin": "2026-10-31T18:00:00",
-   "liees": [],
-   "jour": "2026-10-30"
   },
   {
    "mot": "النجم الرياضي الساحلي",
@@ -1196,18 +1168,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-05"
-  },
-  {
-   "mot": "إصابة",
-   "slug": "اصابه",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 500,
-   "hausse": null,
-   "debut": "2026-11-06T08:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-06"
   },
   {
    "mot": "فرنسا",
@@ -1380,18 +1340,6 @@
    "jour": "2026-10-31"
   },
   {
-   "mot": "villarreal – espanyol",
-   "slug": "villarreal-espanyol",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": 1000,
-   "debut": "2026-10-30T21:00:00",
-   "fin": "2026-10-31T07:00:00",
-   "liees": [],
-   "jour": "2026-10-30"
-  },
-  {
    "mot": "yalla kora",
    "slug": "yalla-kora",
    "langue": "fr",
@@ -1503,18 +1451,6 @@
    "fin": "2026-11-03T23:40:00",
    "liees": [],
    "jour": "2026-11-03"
-  },
-  {
-   "mot": "prix",
-   "slug": "prix",
-   "langue": "fr",
-   "categorie": "commerce",
-   "volume": 200,
-   "hausse": 700,
-   "debut": "2026-10-30T19:10:00",
-   "fin": "2026-10-31T07:20:00",
-   "liees": [],
-   "jour": "2026-10-30"
   },
   {
    "mot": "barcelona",
@@ -1737,6 +1673,18 @@
    "jour": "2026-11-05"
   },
   {
+   "mot": "jj gabriel",
+   "slug": "jj-gabriel",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-06T20:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-06"
+  },
+  {
    "mot": "leverkusen – marseille",
    "slug": "leverkusen-marseille",
    "langue": "fr",
@@ -1953,18 +1901,6 @@
    "jour": "2026-11-01"
   },
   {
-   "mot": "carlos alcaraz",
-   "slug": "carlos-alcaraz",
-   "langue": "fr",
-   "categorie": "sport",
-   "volume": 100,
-   "hausse": 500,
-   "debut": "2026-10-30T16:40:00",
-   "fin": "2026-10-30T18:20:00",
-   "liees": [],
-   "jour": "2026-10-30"
-  },
-  {
    "mot": "real madrid club de fútbol",
    "slug": "real-madrid-club-de-futbol",
    "langue": "fr",
@@ -2011,18 +1947,6 @@
    "fin": "2026-10-31T22:40:00",
    "liees": [],
    "jour": "2026-10-31"
-  },
-  {
-   "mot": "ماهر الكنزاري",
-   "slug": "ماهر-الكنزاري",
-   "langue": "ar",
-   "categorie": "sport",
-   "volume": 100,
-   "hausse": 400,
-   "debut": "2026-10-30T20:20:00",
-   "fin": "2026-10-31T07:00:00",
-   "liees": [],
-   "jour": "2026-10-30"
   },
   {
    "mot": "classement atlético madrid – bayern munich",
@@ -2097,6 +2021,18 @@
    "jour": "2026-11-05"
   },
   {
+   "mot": "office des céréales",
+   "slug": "office-des-cereales",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-06T21:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-06"
+  },
+  {
    "mot": "تصدير",
    "slug": "تصدير",
    "langue": "ar",
@@ -2123,6 +2059,54 @@
  ],
  "nouveautes": [
   {
+   "mot": "cnam",
+   "slug": "cnam",
+   "langue": "fr",
+   "categorie": "sante",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-06T11:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-06"
+  },
+  {
+   "mot": "eau potable",
+   "slug": "eau-potable",
+   "langue": "fr",
+   "categorie": "energie",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-06T14:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-06"
+  },
+  {
+   "mot": "sonia mabrouk",
+   "slug": "sonia-mabrouk",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-06T14:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-06"
+  },
+  {
+   "mot": "إصابة",
+   "slug": "اصابه",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-06T08:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-06"
+  },
+  {
    "mot": "aéroport de tunis-carthage",
    "slug": "aeroport-de-tunis-carthage",
    "langue": "fr",
@@ -2135,64 +2119,28 @@
    "jour": "2026-11-06"
   },
   {
-   "mot": "إصابة",
-   "slug": "اصابه",
-   "langue": "ar",
+   "mot": "jj gabriel",
+   "slug": "jj-gabriel",
+   "langue": "fr",
    "categorie": "autre",
-   "volume": 500,
+   "volume": 200,
    "hausse": null,
-   "debut": "2026-11-06T08:00:00",
+   "debut": "2026-11-06T20:00:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-06"
   },
   {
-   "mot": "az – juventus",
-   "slug": "az-juventus",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-05T21:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-05"
-  },
-  {
-   "mot": "consommation",
-   "slug": "consommation",
+   "mot": "office des céréales",
+   "slug": "office-des-cereales",
    "langue": "fr",
    "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-05T21:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-05"
-  },
-  {
-   "mot": "leverkusen – marseille",
-   "slug": "leverkusen-marseille",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-05T21:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-05"
-  },
-  {
-   "mot": "getafe – brighton",
-   "slug": "getafe-brighton",
-   "langue": "fr",
-   "categorie": "football",
    "volume": 100,
    "hausse": null,
-   "debut": "2026-11-05T21:40:00",
+   "debut": "2026-11-06T21:30:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-05"
+   "jour": "2026-11-06"
   },
   {
    "mot": "تصدير",
@@ -2386,44 +2334,6 @@
     "premier league"
    ],
    "jour": "2026-10-31"
-  },
-  {
-   "mot": "بناء",
-   "slug": "بناء",
-   "langue": "ar",
-   "categorie": "immobilier",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-10-30T19:50:00",
-   "fin": "2026-10-31T21:00:00",
-   "liees": [],
-   "jour": "2026-10-30"
-  },
-  {
-   "mot": "classement le havre athletic club – paris saint-germain football club",
-   "slug": "classement-le-havre-athletic-club-paris-saint-germain-football-club",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-10-30T21:10:00",
-   "fin": "2026-10-31T15:20:00",
-   "liees": [],
-   "jour": "2026-10-30"
-  },
-  {
-   "mot": "le havre – paris-sg",
-   "slug": "le-havre-paris-sg",
-   "langue": "fr",
-   "categorie": "sport",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-10-30T18:30:00",
-   "fin": "2026-10-30T22:30:00",
-   "liees": [
-    "le havre vs psg"
-   ],
-   "jour": "2026-10-30"
   },
   {
    "mot": "titre de séjour",
@@ -2837,18 +2747,6 @@
    "jour": "2026-10-31"
   },
   {
-   "mot": "villarreal – espanyol",
-   "slug": "villarreal-espanyol",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": 1000,
-   "debut": "2026-10-30T21:00:00",
-   "fin": "2026-10-31T07:00:00",
-   "liees": [],
-   "jour": "2026-10-30"
-  },
-  {
    "mot": "marseille – toulouse",
    "slug": "marseille-toulouse",
    "langue": "fr",
@@ -3015,6 +2913,54 @@
    "fin": "2026-11-01T16:30:00",
    "liees": [],
    "jour": "2026-11-01"
+  },
+  {
+   "mot": "lamine yamal",
+   "slug": "lamine-yamal",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 100,
+   "hausse": 1000,
+   "debut": "2026-10-31T23:10:00",
+   "fin": "2026-11-01T00:20:00",
+   "liees": [],
+   "jour": "2026-10-31"
+  },
+  {
+   "mot": "jesus de miguel",
+   "slug": "jesus-de-miguel",
+   "langue": "fr",
+   "categorie": "sport",
+   "volume": 500,
+   "hausse": 900,
+   "debut": "2026-11-03T12:00:00",
+   "fin": "2026-11-04T01:50:00",
+   "liees": [],
+   "jour": "2026-11-03"
+  },
+  {
+   "mot": "برشلونة ضد ألافيس",
+   "slug": "برشلونه-ضد-الافيس",
+   "langue": "ar",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": 900,
+   "debut": "2026-10-31T21:20:00",
+   "fin": "2026-10-31T23:30:00",
+   "liees": [],
+   "jour": "2026-10-31"
+  },
+  {
+   "mot": "fcb",
+   "slug": "fcb",
+   "langue": "fr",
+   "categorie": "sport",
+   "volume": 200,
+   "hausse": 900,
+   "debut": "2026-11-03T21:40:00",
+   "fin": "2026-11-03T23:40:00",
+   "liees": [],
+   "jour": "2026-11-03"
   }
  ],
  "retombees": [
@@ -3358,6 +3304,18 @@
    "jour": "2026-10-25"
   },
   {
+   "mot": "classement le havre athletic club – paris saint-germain football club",
+   "slug": "classement-le-havre-athletic-club-paris-saint-germain-football-club",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 2000,
+   "hausse": 1000,
+   "debut": "2026-10-30T21:10:00",
+   "fin": "2026-10-31T15:20:00",
+   "liees": [],
+   "jour": "2026-10-30"
+  },
+  {
    "mot": "la liga",
    "slug": "la-liga",
    "langue": "fr",
@@ -3368,6 +3326,20 @@
    "fin": "2026-10-26T08:40:00",
    "liees": [],
    "jour": "2026-10-25"
+  },
+  {
+   "mot": "le havre – paris-sg",
+   "slug": "le-havre-paris-sg",
+   "langue": "fr",
+   "categorie": "sport",
+   "volume": 2000,
+   "hausse": 1000,
+   "debut": "2026-10-30T18:30:00",
+   "fin": "2026-10-30T22:30:00",
+   "liees": [
+    "le havre vs psg"
+   ],
+   "jour": "2026-10-30"
   },
   {
    "mot": "liverpool – chelsea",
@@ -3397,6 +3369,18 @@
     "manchester united"
    ],
    "jour": "2026-10-25"
+  },
+  {
+   "mot": "بناء",
+   "slug": "بناء",
+   "langue": "ar",
+   "categorie": "immobilier",
+   "volume": 2000,
+   "hausse": 1000,
+   "debut": "2026-10-30T19:50:00",
+   "fin": "2026-10-31T21:00:00",
+   "liees": [],
+   "jour": "2026-10-30"
   },
   {
    "mot": "درة",
@@ -3765,6 +3749,20 @@
    "jour": "2026-10-29"
   },
   {
+   "mot": "وزارة الدفاع الوطني",
+   "slug": "وزاره-الدفاع-الوطني",
+   "langue": "ar",
+   "categorie": "administration",
+   "volume": 500,
+   "hausse": 800,
+   "debut": "2026-10-30T18:00:00",
+   "fin": "2026-10-31T07:10:00",
+   "liees": [
+    "وزارة الدفاع"
+   ],
+   "jour": "2026-10-30"
+  },
+  {
    "mot": "الرابطة الوطنية لكرة القدم المحترفة",
    "slug": "الرابطه-الوطنيه-لكره-القدم-المحترفه",
    "langue": "ar",
@@ -3777,64 +3775,16 @@
    "jour": "2026-10-28"
   },
   {
-   "mot": "الشركة التونسية للبنك",
-   "slug": "الشركه-التونسيه-للبنك",
-   "langue": "ar",
-   "categorie": "finance",
-   "volume": 500,
-   "hausse": 500,
-   "debut": "2026-10-27T06:10:00",
-   "fin": "2026-10-28T07:20:00",
-   "liees": [],
-   "jour": "2026-10-27"
-  },
-  {
-   "mot": "تسوية",
-   "slug": "تسويه",
-   "langue": "ar",
-   "categorie": "administration",
-   "volume": 500,
-   "hausse": 500,
-   "debut": "2026-10-27T22:10:00",
-   "fin": "2026-10-28T09:20:00",
-   "liees": [],
-   "jour": "2026-10-27"
-  },
-  {
-   "mot": "خالد بن يحيى",
-   "slug": "خالد-بن-يحيي",
+   "mot": "يوسف بلايلي",
+   "slug": "يوسف-بلايلي",
    "langue": "ar",
    "categorie": "sport",
    "volume": 500,
-   "hausse": 500,
-   "debut": "2026-10-29T19:40:00",
-   "fin": "2026-10-30T08:20:00",
+   "hausse": 600,
+   "debut": "2026-10-30T21:40:00",
+   "fin": "2026-10-31T18:00:00",
    "liees": [],
-   "jour": "2026-10-29"
-  },
-  {
-   "mot": "مباريات اليوم مباشر",
-   "slug": "مباريات-اليوم-مباشر",
-   "langue": "ar",
-   "categorie": "sport",
-   "volume": 500,
-   "hausse": 500,
-   "debut": "2026-10-25T18:20:00",
-   "fin": "2026-10-25T23:30:00",
-   "liees": [],
-   "jour": "2026-10-25"
-  },
-  {
-   "mot": "bna",
-   "slug": "bna",
-   "langue": "fr",
-   "categorie": "finance",
-   "volume": 500,
-   "hausse": 400,
-   "debut": "2026-10-27T07:30:00",
-   "fin": "2026-10-27T16:50:00",
-   "liees": [],
-   "jour": "2026-10-27"
+   "jour": "2026-10-30"
   }
  ],
  "recurrents": [
@@ -3940,7 +3890,7 @@
   "immobilier": {
    "fr": "Immobilier",
    "ar": "العقارات",
-   "n_semaine": 4,
+   "n_semaine": 3,
    "n_mois": 5,
    "top": [
     {
@@ -3971,18 +3921,6 @@
       "aston villa"
      ],
      "jour": "2026-11-03"
-    },
-    {
-     "mot": "بناء",
-     "slug": "بناء",
-     "langue": "ar",
-     "categorie": "immobilier",
-     "volume": 2000,
-     "hausse": 1000,
-     "debut": "2026-10-30T19:50:00",
-     "fin": "2026-10-31T21:00:00",
-     "liees": [],
-     "jour": "2026-10-30"
     },
     {
      "mot": "برشلونة ضد أستون فيلا",
@@ -4130,26 +4068,14 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-06"
-    },
-    {
-     "mot": "visa",
-     "slug": "visa",
-     "langue": "fr",
-     "categorie": "tourisme",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-05T05:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-05"
     }
    ]
   },
   "sante": {
    "fr": "Santé",
    "ar": "الصحة",
-   "n_semaine": 1,
-   "n_mois": 1,
+   "n_semaine": 2,
+   "n_mois": 2,
    "top": [
     {
      "mot": "شتاء",
@@ -4162,14 +4088,39 @@
      "fin": "2026-11-04T06:10:00",
      "liees": [],
      "jour": "2026-11-03"
+    },
+    {
+     "mot": "cnam",
+     "slug": "cnam",
+     "langue": "fr",
+     "categorie": "sante",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-06T11:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
     }
    ],
-   "top24": []
+   "top24": [
+    {
+     "mot": "cnam",
+     "slug": "cnam",
+     "langue": "fr",
+     "categorie": "sante",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-06T11:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
+    }
+   ]
   },
   "commerce": {
    "fr": "Commerce et consommation",
    "ar": "التجارة والاستهلاك",
-   "n_semaine": 3,
+   "n_semaine": 2,
    "n_mois": 5,
    "top": [
     {
@@ -4183,18 +4134,6 @@
      "fin": "2026-11-01T08:40:00",
      "liees": [],
      "jour": "2026-10-31"
-    },
-    {
-     "mot": "prix",
-     "slug": "prix",
-     "langue": "fr",
-     "categorie": "commerce",
-     "volume": 200,
-     "hausse": 700,
-     "debut": "2026-10-30T19:10:00",
-     "fin": "2026-10-31T07:20:00",
-     "liees": [],
-     "jour": "2026-10-30"
     },
     {
      "mot": "tomate",
@@ -4222,7 +4161,7 @@
   "administration": {
    "fr": "Administration et démarches",
    "ar": "الإدارة والإجراءات",
-   "n_semaine": 6,
+   "n_semaine": 5,
    "n_mois": 14,
    "top": [
     {
@@ -4248,20 +4187,6 @@
      "fin": "2026-11-02T07:10:00",
      "liees": [],
      "jour": "2026-10-31"
-    },
-    {
-     "mot": "وزارة الدفاع الوطني",
-     "slug": "وزاره-الدفاع-الوطني",
-     "langue": "ar",
-     "categorie": "administration",
-     "volume": 500,
-     "hausse": 800,
-     "debut": "2026-10-30T18:00:00",
-     "fin": "2026-10-31T07:10:00",
-     "liees": [
-      "وزارة الدفاع"
-     ],
-     "jour": "2026-10-30"
     },
     {
      "mot": "libération",
@@ -4300,28 +4225,41 @@
      "jour": "2026-11-05"
     }
    ],
-   "top24": [
-    {
-     "mot": "وزارة الدفاع",
-     "slug": "وزاره-الدفاع",
-     "langue": "ar",
-     "categorie": "administration",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-05T09:20:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-05"
-    }
-   ]
+   "top24": []
   },
   "energie": {
    "fr": "Énergie",
    "ar": "الطاقة",
-   "n_semaine": 0,
-   "n_mois": 0,
-   "top": [],
-   "top24": []
+   "n_semaine": 1,
+   "n_mois": 1,
+   "top": [
+    {
+     "mot": "eau potable",
+     "slug": "eau-potable",
+     "langue": "fr",
+     "categorie": "energie",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-06T14:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
+    }
+   ],
+   "top24": [
+    {
+     "mot": "eau potable",
+     "slug": "eau-potable",
+     "langue": "fr",
+     "categorie": "energie",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-06T14:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
+    }
+   ]
   },
   "finance": {
    "fr": "Argent et banques",
@@ -4385,7 +4323,7 @@
   "football": {
    "fr": "Football",
    "ar": "كرة القدم",
-   "n_semaine": 86,
+   "n_semaine": 84,
    "n_mois": 163,
    "top": [
     {
@@ -4570,18 +4508,6 @@
       "premier league"
      ],
      "jour": "2026-10-31"
-    },
-    {
-     "mot": "classement le havre athletic club – paris saint-germain football club",
-     "slug": "classement-le-havre-athletic-club-paris-saint-germain-football-club",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 2000,
-     "hausse": 1000,
-     "debut": "2026-10-30T21:10:00",
-     "fin": "2026-10-31T15:20:00",
-     "liees": [],
-     "jour": "2026-10-30"
     },
     {
      "mot": "classement pakhtakor – al-nassr fc",
@@ -5100,18 +5026,6 @@
      "jour": "2026-10-31"
     },
     {
-     "mot": "villarreal – espanyol",
-     "slug": "villarreal-espanyol",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 200,
-     "hausse": 1000,
-     "debut": "2026-10-30T21:00:00",
-     "fin": "2026-10-31T07:00:00",
-     "liees": [],
-     "jour": "2026-10-30"
-    },
-    {
      "mot": "yalla kora",
      "slug": "yalla-kora",
      "langue": "fr",
@@ -5211,91 +5125,40 @@
      "fin": "2026-11-04T21:50:00",
      "liees": [],
      "jour": "2026-11-04"
-    }
-   ],
-   "top24": [
+    },
     {
-     "mot": "منتخب تونس لكرة القدم",
-     "slug": "منتخب-تونس-لكره-القدم",
+     "mot": "ريال مدريد",
+     "slug": "ريال-مدريد",
      "langue": "ar",
      "categorie": "football",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-05T05:50:00",
-     "fin": null,
+     "volume": 200,
+     "hausse": 600,
+     "debut": "2026-11-01T17:50:00",
+     "fin": "2026-11-01T18:50:00",
      "liees": [],
-     "jour": "2026-11-05"
+     "jour": "2026-11-01"
     },
     {
-     "mot": "az – juventus",
-     "slug": "az-juventus",
+     "mot": "ac milan",
+     "slug": "ac-milan",
      "langue": "fr",
      "categorie": "football",
      "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-05T21:10:00",
-     "fin": null,
+     "hausse": 500,
+     "debut": "2026-10-31T21:40:00",
+     "fin": "2026-11-01T00:00:00",
      "liees": [],
-     "jour": "2026-11-05"
-    },
-    {
-     "mot": "leverkusen – marseille",
-     "slug": "leverkusen-marseille",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-05T21:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-05"
-    },
-    {
-     "mot": "cristiano ronaldo",
-     "slug": "cristiano-ronaldo",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-05T17:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-05"
-    },
-    {
-     "mot": "getafe – brighton",
-     "slug": "getafe-brighton",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-05T21:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-05"
+     "jour": "2026-10-31"
     }
-   ]
+   ],
+   "top24": []
   },
   "sport": {
    "fr": "Autres sports",
    "ar": "رياضات أخرى",
-   "n_semaine": 19,
+   "n_semaine": 15,
    "n_mois": 49,
    "top": [
-    {
-     "mot": "le havre – paris-sg",
-     "slug": "le-havre-paris-sg",
-     "langue": "fr",
-     "categorie": "sport",
-     "volume": 2000,
-     "hausse": 1000,
-     "debut": "2026-10-30T18:30:00",
-     "fin": "2026-10-30T22:30:00",
-     "liees": [
-      "le havre vs psg"
-     ],
-     "jour": "2026-10-30"
-    },
     {
      "mot": "alkass",
      "slug": "alkass",
@@ -5349,18 +5212,6 @@
       "everton – newcastle"
      ],
      "jour": "2026-11-02"
-    },
-    {
-     "mot": "يوسف بلايلي",
-     "slug": "يوسف-بلايلي",
-     "langue": "ar",
-     "categorie": "sport",
-     "volume": 500,
-     "hausse": 600,
-     "debut": "2026-10-30T21:40:00",
-     "fin": "2026-10-31T18:00:00",
-     "liees": [],
-     "jour": "2026-10-30"
     },
     {
      "mot": "f1",
@@ -5493,30 +5344,6 @@
      "fin": "2026-11-03T22:30:00",
      "liees": [],
      "jour": "2026-11-03"
-    },
-    {
-     "mot": "carlos alcaraz",
-     "slug": "carlos-alcaraz",
-     "langue": "fr",
-     "categorie": "sport",
-     "volume": 100,
-     "hausse": 500,
-     "debut": "2026-10-30T16:40:00",
-     "fin": "2026-10-30T18:20:00",
-     "liees": [],
-     "jour": "2026-10-30"
-    },
-    {
-     "mot": "ماهر الكنزاري",
-     "slug": "ماهر-الكنزاري",
-     "langue": "ar",
-     "categorie": "sport",
-     "volume": 100,
-     "hausse": 400,
-     "debut": "2026-10-30T20:20:00",
-     "fin": "2026-10-31T07:00:00",
-     "liees": [],
-     "jour": "2026-10-30"
     }
    ],
    "top24": []
@@ -5718,20 +5545,7 @@
      "jour": "2026-11-04"
     }
    ],
-   "top24": [
-    {
-     "mot": "فرنسا",
-     "slug": "فرنسا",
-     "langue": "ar",
-     "categorie": "politique",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-05T03:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-05"
-    }
-   ]
+   "top24": []
   },
   "religion": {
    "fr": "Religion et fêtes",
@@ -5744,8 +5558,8 @@
   "autre": {
    "fr": "Autre",
    "ar": "أخرى",
-   "n_semaine": 11,
-   "n_mois": 16,
+   "n_semaine": 14,
+   "n_mois": 19,
    "top": [
     {
      "mot": "ثعبان",
@@ -5758,6 +5572,30 @@
      "fin": "2026-11-03T07:50:00",
      "liees": [],
      "jour": "2026-11-02"
+    },
+    {
+     "mot": "sonia mabrouk",
+     "slug": "sonia-mabrouk",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-06T14:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
+    },
+    {
+     "mot": "إصابة",
+     "slug": "اصابه",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-06T08:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
     },
     {
      "mot": "خصم",
@@ -5808,18 +5646,6 @@
      "jour": "2026-11-03"
     },
     {
-     "mot": "إصابة",
-     "slug": "اصابه",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-06T08:00:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-06"
-    },
-    {
      "mot": "consommation",
      "slug": "consommation",
      "langue": "fr",
@@ -5830,6 +5656,18 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-05"
+    },
+    {
+     "mot": "jj gabriel",
+     "slug": "jj-gabriel",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-06T20:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
     },
     {
      "mot": "tomate",
@@ -5854,6 +5692,18 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-05"
+    },
+    {
+     "mot": "office des céréales",
+     "slug": "office-des-cereales",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-06T21:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
     },
     {
      "mot": "تصدير",
@@ -5882,6 +5732,30 @@
    ],
    "top24": [
     {
+     "mot": "sonia mabrouk",
+     "slug": "sonia-mabrouk",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-06T14:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
+    },
+    {
+     "mot": "إصابة",
+     "slug": "اصابه",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-06T08:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
+    },
+    {
      "mot": "خصم",
      "slug": "خصم",
      "langue": "ar",
@@ -5894,52 +5768,28 @@
      "jour": "2026-11-06"
     },
     {
-     "mot": "إصابة",
-     "slug": "اصابه",
-     "langue": "ar",
+     "mot": "jj gabriel",
+     "slug": "jj-gabriel",
+     "langue": "fr",
      "categorie": "autre",
-     "volume": 500,
+     "volume": 200,
      "hausse": null,
-     "debut": "2026-11-06T08:00:00",
+     "debut": "2026-11-06T20:00:00",
      "fin": null,
      "liees": [],
      "jour": "2026-11-06"
     },
     {
-     "mot": "consommation",
-     "slug": "consommation",
+     "mot": "office des céréales",
+     "slug": "office-des-cereales",
      "langue": "fr",
      "categorie": "autre",
-     "volume": 200,
+     "volume": 100,
      "hausse": null,
-     "debut": "2026-11-05T21:20:00",
+     "debut": "2026-11-06T21:30:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-05"
-    },
-    {
-     "mot": "tomate",
-     "slug": "tomate",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-05T18:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-05"
-    },
-    {
-     "mot": "بريد",
-     "slug": "بريد",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-05T06:00:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-05"
+     "jour": "2026-11-06"
     },
     {
      "mot": "تصدير",
@@ -5952,18 +5802,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-06"
-    },
-    {
-     "mot": "نهاية العالم",
-     "slug": "نهايه-العالم",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-05T08:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-05"
     }
    ]
   }
@@ -5984,20 +5822,6 @@
    "jour": "2026-11-03",
    "intention": false,
    "score": 20000.0
-  },
-  {
-   "mot": "بناء",
-   "slug": "بناء",
-   "langue": "ar",
-   "categorie": "immobilier",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-10-30T19:50:00",
-   "fin": "2026-10-31T21:00:00",
-   "liees": [],
-   "jour": "2026-10-30",
-   "intention": false,
-   "score": 4000.0
   },
   {
    "mot": "grève",
@@ -6059,24 +5883,24 @@
    "score": 4000.0
   },
   {
-   "mot": "prix",
-   "slug": "prix",
+   "mot": "cnam",
+   "slug": "cnam",
    "langue": "fr",
-   "categorie": "commerce",
-   "volume": 200,
-   "hausse": 700,
-   "debut": "2026-10-30T19:10:00",
-   "fin": "2026-10-31T07:20:00",
+   "categorie": "sante",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-06T11:10:00",
+   "fin": null,
    "liees": [],
-   "jour": "2026-10-30",
-   "intention": true,
-   "score": 680.0
+   "jour": "2026-11-06",
+   "intention": false,
+   "score": 2000.0
   }
  ],
  "historique": {
   "semaines": {
    "2026-11-02": {
-    "n": 90,
+    "n": 95,
     "top": [
      {
       "mot": "classement stade tunisien – club africain",
@@ -6237,7 +6061,7 @@
      },
      {
       "cle": "autre",
-      "n": 11
+      "n": 14
      },
      {
       "cle": "sport",
@@ -6264,16 +6088,16 @@
       "n": 3
      },
      {
+      "cle": "sante",
+      "n": 2
+     },
+     {
       "cle": "finance",
       "n": 2
      },
      {
       "cle": "tourisme",
       "n": 2
-     },
-     {
-      "cle": "sante",
-      "n": 1
      },
      {
       "cle": "commerce",
@@ -6285,6 +6109,10 @@
      },
      {
       "cle": "administration",
+      "n": 1
+     },
+     {
+      "cle": "energie",
       "n": 1
      }
     ]
@@ -6680,7 +6508,7 @@
   },
   "mois": {
    "2026-11": {
-    "n": 114,
+    "n": 119,
     "top": [
      {
       "mot": "classement stade tunisien – club africain",
@@ -6841,7 +6669,7 @@
      },
      {
       "cle": "autre",
-      "n": 11
+      "n": 14
      },
      {
       "cle": "politique",
@@ -6872,12 +6700,12 @@
       "n": 3
      },
      {
-      "cle": "tourisme",
+      "cle": "sante",
       "n": 2
      },
      {
-      "cle": "sante",
-      "n": 1
+      "cle": "tourisme",
+      "n": 2
      },
      {
       "cle": "commerce",
@@ -6885,6 +6713,10 @@
      },
      {
       "cle": "education",
+      "n": 1
+     },
+     {
+      "cle": "energie",
       "n": 1
      }
     ]
@@ -11964,6 +11796,30 @@
    ]
   },
   {
+   "mot": "cnam",
+   "mot_norm": "cnam",
+   "slug": "cnam",
+   "langue": "fr",
+   "categorie": "sante",
+   "episodes": [
+    {
+     "mot": "cnam",
+     "slug": "cnam",
+     "langue": "fr",
+     "categorie": "sante",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-06T11:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 2000,
+   "liees": []
+  },
+  {
    "mot": "espérance sportive de tunis",
    "mot_norm": "esperance sportive de tunis",
    "slug": "esperance-sportive-de-tunis",
@@ -13002,6 +12858,30 @@
    "liees": []
   },
   {
+   "mot": "eau potable",
+   "mot_norm": "eau potable",
+   "slug": "eau-potable",
+   "langue": "fr",
+   "categorie": "energie",
+   "episodes": [
+    {
+     "mot": "eau potable",
+     "slug": "eau-potable",
+     "langue": "fr",
+     "categorie": "energie",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-06T14:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 1000,
+   "liees": []
+  },
+  {
    "mot": "fribourg – bayern",
    "mot_norm": "fribourg - bayern",
    "slug": "fribourg-bayern",
@@ -13304,6 +13184,30 @@
    "liees": []
   },
   {
+   "mot": "sonia mabrouk",
+   "mot_norm": "sonia mabrouk",
+   "slug": "sonia-mabrouk",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "sonia mabrouk",
+     "slug": "sonia-mabrouk",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-06T14:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 1000,
+   "liees": []
+  },
+  {
    "mot": "télépéage",
    "mot_norm": "telepeage",
    "slug": "telepeage",
@@ -13406,6 +13310,30 @@
    "liees": [
     "ريال مدريد"
    ]
+  },
+  {
+   "mot": "إصابة",
+   "mot_norm": "اصابه",
+   "slug": "اصابه",
+   "langue": "ar",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "إصابة",
+     "slug": "اصابه",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-06T08:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 1000,
+   "liees": []
   },
   {
    "mot": "البطولة التونسية",
@@ -14594,30 +14522,6 @@
     }
    ],
    "jours": 2,
-   "volume_max": 500,
-   "liees": []
-  },
-  {
-   "mot": "إصابة",
-   "mot_norm": "اصابه",
-   "slug": "اصابه",
-   "langue": "ar",
-   "categorie": "autre",
-   "episodes": [
-    {
-     "mot": "إصابة",
-     "slug": "اصابه",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-06T08:00:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-06"
-    }
-   ],
-   "jours": 1,
    "volume_max": 500,
    "liees": []
   },
@@ -15868,6 +15772,30 @@
    "liees": [
     "election israel"
    ]
+  },
+  {
+   "mot": "jj gabriel",
+   "mot_norm": "jj gabriel",
+   "slug": "jj-gabriel",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "jj gabriel",
+     "slug": "jj-gabriel",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-06T20:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
   },
   {
    "mot": "koora goal",
@@ -17425,6 +17353,30 @@
      "fin": "2026-10-29T21:20:00",
      "liees": [],
      "jour": "2026-10-29"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 100,
+   "liees": []
+  },
+  {
+   "mot": "office des céréales",
+   "mot_norm": "office des cereales",
+   "slug": "office-des-cereales",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "office des céréales",
+     "slug": "office-des-cereales",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-06T21:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
     }
    ],
    "jours": 1,
