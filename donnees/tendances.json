@@ -7966,8 +7966,8 @@
    "codes": [],
    "categorie": "tourisme",
    "vu_premier": "2026-11-06T15:36:07",
-   "vu_dernier": "2026-11-06T15:36:07",
-   "releves": 1,
+   "vu_dernier": "2026-11-07T00:29:06",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -7980,14 +7980,14 @@
    "debut": "2026-11-06T08:00:00",
    "debut_ts": 1793948400,
    "fin": null,
-   "volume": 500,
+   "volume": 1000,
    "hausse": null,
    "liees": [],
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-06T15:36:07",
-   "vu_dernier": "2026-11-06T15:36:07",
-   "releves": 1,
+   "vu_dernier": "2026-11-07T00:29:06",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -8006,8 +8006,8 @@
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-06T15:36:07",
-   "vu_dernier": "2026-11-06T15:36:07",
-   "releves": 1,
+   "vu_dernier": "2026-11-07T00:29:06",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -8026,7 +8026,107 @@
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-06T15:36:07",
-   "vu_dernier": "2026-11-06T15:36:07",
+   "vu_dernier": "2026-11-07T00:29:06",
+   "releves": 2,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "office des cereales|498332": {
+   "mot": "office des céréales",
+   "mot_norm": "office des cereales",
+   "langue": "fr",
+   "debut": "2026-11-06T21:30:00",
+   "debut_ts": 1793997000,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-07T00:29:06",
+   "vu_dernier": "2026-11-07T00:29:06",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "jj gabriel|498331": {
+   "mot": "jj gabriel",
+   "mot_norm": "jj gabriel",
+   "langue": "fr",
+   "debut": "2026-11-06T20:00:00",
+   "debut_ts": 1793991600,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-07T00:29:06",
+   "vu_dernier": "2026-11-07T00:29:06",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "sonia mabrouk|498325": {
+   "mot": "sonia mabrouk",
+   "mot_norm": "sonia mabrouk",
+   "langue": "fr",
+   "debut": "2026-11-06T14:30:00",
+   "debut_ts": 1793971800,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-07T00:29:06",
+   "vu_dernier": "2026-11-07T00:29:06",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "eau potable|498325": {
+   "mot": "eau potable",
+   "mot_norm": "eau potable",
+   "langue": "fr",
+   "debut": "2026-11-06T14:20:00",
+   "debut_ts": 1793971200,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "energie",
+   "vu_premier": "2026-11-07T00:29:06",
+   "vu_dernier": "2026-11-07T00:29:06",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "cnam|498322": {
+   "mot": "cnam",
+   "mot_norm": "cnam",
+   "langue": "fr",
+   "debut": "2026-11-06T11:10:00",
+   "debut_ts": 1793959800,
+   "fin": null,
+   "volume": 2000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "sante",
+   "vu_premier": "2026-11-07T00:29:06",
+   "vu_dernier": "2026-11-07T00:29:06",
    "releves": 1,
    "periodes": [],
    "sources": [
@@ -8034,5 +8134,5 @@
    ]
   }
  },
- "maj": "2026-11-06T15:36:07"
+ "maj": "2026-11-07T00:29:06"
 }

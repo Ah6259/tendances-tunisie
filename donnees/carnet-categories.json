@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-06",
+ "maj": "2026-11-07",
  "explication": "Mots restés sans catégorie (à classer dans robot/categories.py quand ils reviennent).",
  "mots": [
   {
@@ -10,6 +10,16 @@
   {
    "mot": "خصم",
    "fois": 2,
+   "volume": 1000
+  },
+  {
+   "mot": "إصابة",
+   "fois": 1,
+   "volume": 1000
+  },
+  {
+   "mot": "sonia mabrouk",
+   "fois": 1,
    "volume": 1000
   },
   {
@@ -29,11 +39,6 @@
   },
   {
    "mot": "عقوبة",
-   "fois": 1,
-   "volume": 500
-  },
-  {
-   "mot": "إصابة",
    "fois": 1,
    "volume": 500
   },
@@ -58,6 +63,11 @@
    "volume": 200
   },
   {
+   "mot": "jj gabriel",
+   "fois": 1,
+   "volume": 200
+  },
+  {
    "mot": "قطار",
    "fois": 1,
    "volume": 100
@@ -69,6 +79,11 @@
   },
   {
    "mot": "تصدير",
+   "fois": 1,
+   "volume": 100
+  },
+  {
+   "mot": "office des céréales",
    "fois": 1,
    "volume": 100
   }
