@@ -8040,14 +8040,14 @@
    "debut": "2026-11-06T21:30:00",
    "debut_ts": 1793997000,
    "fin": null,
-   "volume": 100,
+   "volume": 500,
    "hausse": null,
    "liees": [],
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-07T00:29:06",
-   "vu_dernier": "2026-11-07T00:29:06",
-   "releves": 1,
+   "vu_dernier": "2026-11-07T14:31:34",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -8132,7 +8132,187 @@
    "sources": [
     "rss"
    ]
+  },
+  "es tunis vs monastir|498349": {
+   "mot": "es tunis vs monastir",
+   "mot_norm": "es tunis vs monastir",
+   "langue": "fr",
+   "debut": "2026-11-07T14:20:00",
+   "debut_ts": 1794057600,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-07T14:31:34",
+   "vu_dernier": "2026-11-07T14:31:34",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "leeds united - tottenham|498348": {
+   "mot": "leeds united – tottenham",
+   "mot_norm": "leeds united - tottenham",
+   "langue": "fr",
+   "debut": "2026-11-07T13:20:00",
+   "debut_ts": 1794054000,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-07T14:31:34",
+   "vu_dernier": "2026-11-07T14:31:34",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "مطر|498347": {
+   "mot": "مطر",
+   "mot_norm": "مطر",
+   "langue": "ar",
+   "debut": "2026-11-07T12:00:00",
+   "debut_ts": 1794049200,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "meteo",
+   "vu_premier": "2026-11-07T14:31:34",
+   "vu_dernier": "2026-11-07T14:31:34",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "weather|498342": {
+   "mot": "weather",
+   "mot_norm": "weather",
+   "langue": "fr",
+   "debut": "2026-11-07T07:40:00",
+   "debut_ts": 1794033600,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-07T14:31:34",
+   "vu_dernier": "2026-11-07T14:31:34",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "الخبر|498342": {
+   "mot": "الخبر",
+   "mot_norm": "الخبر",
+   "langue": "ar",
+   "debut": "2026-11-07T07:20:00",
+   "debut_ts": 1794032400,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-07T14:31:34",
+   "vu_dernier": "2026-11-07T14:31:34",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "طماطم|498340": {
+   "mot": "طماطم",
+   "mot_norm": "طماطم",
+   "langue": "ar",
+   "debut": "2026-11-07T05:30:00",
+   "debut_ts": 1794025800,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-07T14:31:34",
+   "vu_dernier": "2026-11-07T14:31:34",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "تونس|498340": {
+   "mot": "تونس",
+   "mot_norm": "تونس",
+   "langue": "ar",
+   "debut": "2026-11-07T05:10:00",
+   "debut_ts": 1794024600,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-07T14:31:34",
+   "vu_dernier": "2026-11-07T14:31:34",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "twitch|498334": {
+   "mot": "twitch",
+   "mot_norm": "twitch",
+   "langue": "fr",
+   "debut": "2026-11-06T23:50:00",
+   "debut_ts": 1794005400,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-07T14:31:34",
+   "vu_dernier": "2026-11-07T14:31:34",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "campus drivers|498334": {
+   "mot": "campus drivers",
+   "mot_norm": "campus drivers",
+   "langue": "fr",
+   "debut": "2026-11-06T23:40:00",
+   "debut_ts": 1794004800,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-07T14:31:34",
+   "vu_dernier": "2026-11-07T14:31:34",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-07T00:29:06"
+ "maj": "2026-11-07T14:31:34"
 }

@@ -43,6 +43,21 @@
    "volume": 500
   },
   {
+   "mot": "office des céréales",
+   "fois": 1,
+   "volume": 500
+  },
+  {
+   "mot": "weather",
+   "fois": 1,
+   "volume": 500
+  },
+  {
+   "mot": "تونس",
+   "fois": 1,
+   "volume": 500
+  },
+  {
    "mot": "crevette",
    "fois": 1,
    "volume": 200
@@ -68,6 +83,21 @@
    "volume": 200
   },
   {
+   "mot": "es tunis vs monastir",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "الخبر",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "طماطم",
+   "fois": 1,
+   "volume": 200
+  },
+  {
    "mot": "قطار",
    "fois": 1,
    "volume": 100
@@ -83,7 +113,12 @@
    "volume": 100
   },
   {
-   "mot": "office des céréales",
+   "mot": "twitch",
+   "fois": 1,
+   "volume": 100
+  },
+  {
+   "mot": "campus drivers",
    "fois": 1,
    "volume": 100
   }
