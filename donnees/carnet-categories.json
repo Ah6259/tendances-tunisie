@@ -13,6 +13,11 @@
    "volume": 1000
   },
   {
+   "mot": "paris-sg – troyes",
+   "fois": 1,
+   "volume": 2000
+  },
+  {
    "mot": "إصابة",
    "fois": 1,
    "volume": 1000
@@ -54,6 +59,11 @@
   },
   {
    "mot": "تونس",
+   "fois": 1,
+   "volume": 500
+  },
+  {
+   "mot": "weather tomorrow",
    "fois": 1,
    "volume": 500
   },

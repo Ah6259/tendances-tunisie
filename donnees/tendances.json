@@ -8312,7 +8312,207 @@
    "sources": [
     "rss"
    ]
+  },
+  "inter miami - charlotte fc|498357": {
+   "mot": "inter miami – charlotte fc",
+   "mot_norm": "inter miami - charlotte fc",
+   "langue": "fr",
+   "debut": "2026-11-07T22:30:00",
+   "debut_ts": 1794087000,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-07T23:15:09",
+   "vu_dernier": "2026-11-07T23:15:09",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "roma - sassuolo|498356": {
+   "mot": "roma – sassuolo",
+   "mot_norm": "roma - sassuolo",
+   "langue": "fr",
+   "debut": "2026-11-07T21:50:00",
+   "debut_ts": 1794084600,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-07T23:15:09",
+   "vu_dernier": "2026-11-07T23:15:09",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "real madrid club de futbol|498356": {
+   "mot": "real madrid club de fútbol",
+   "mot_norm": "real madrid club de futbol",
+   "langue": "fr",
+   "debut": "2026-11-07T21:40:00",
+   "debut_ts": 1794084000,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-07T23:15:09",
+   "vu_dernier": "2026-11-07T23:15:09",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "فالنسيا ضد الريال|498356": {
+   "mot": "فالنسيا ضد الريال",
+   "mot_norm": "فالنسيا ضد الريال",
+   "langue": "ar",
+   "debut": "2026-11-07T21:10:00",
+   "debut_ts": 1794082200,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-07T23:15:09",
+   "vu_dernier": "2026-11-07T23:15:09",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "منتخب تونس لكره القدم|498355": {
+   "mot": "منتخب تونس لكرة القدم",
+   "mot_norm": "منتخب تونس لكره القدم",
+   "langue": "ar",
+   "debut": "2026-11-07T20:50:00",
+   "debut_ts": 1794081000,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-07T23:15:09",
+   "vu_dernier": "2026-11-07T23:15:09",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "classement nottingham forest - manchester city|498355": {
+   "mot": "classement nottingham forest – manchester city",
+   "mot_norm": "classement nottingham forest - manchester city",
+   "langue": "fr",
+   "debut": "2026-11-07T20:50:00",
+   "debut_ts": 1794081000,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-07T23:15:09",
+   "vu_dernier": "2026-11-07T23:15:09",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "weather tomorrow|498355": {
+   "mot": "weather tomorrow",
+   "mot_norm": "weather tomorrow",
+   "langue": "fr",
+   "debut": "2026-11-07T20:40:00",
+   "debut_ts": 1794080400,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-07T23:15:09",
+   "vu_dernier": "2026-11-07T23:15:09",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "valencia vs real madrid|498355": {
+   "mot": "valencia vs real madrid",
+   "mot_norm": "valencia vs real madrid",
+   "langue": "fr",
+   "debut": "2026-11-07T20:20:00",
+   "debut_ts": 1794079200,
+   "fin": null,
+   "volume": 2000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-07T23:15:09",
+   "vu_dernier": "2026-11-07T23:15:09",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "paris-sg - troyes|498355": {
+   "mot": "paris-sg – troyes",
+   "mot_norm": "paris-sg - troyes",
+   "langue": "fr",
+   "debut": "2026-11-07T20:20:00",
+   "debut_ts": 1794079200,
+   "fin": null,
+   "volume": 2000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-07T23:15:09",
+   "vu_dernier": "2026-11-07T23:15:09",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "valence - real madrid|498355": {
+   "mot": "valence – real madrid",
+   "mot_norm": "valence - real madrid",
+   "langue": "fr",
+   "debut": "2026-11-07T20:10:00",
+   "debut_ts": 1794078600,
+   "fin": null,
+   "volume": 10000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-07T23:15:09",
+   "vu_dernier": "2026-11-07T23:15:09",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-07T14:31:34"
+ "maj": "2026-11-07T23:15:09"
 }
