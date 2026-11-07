@@ -1,87 +1,75 @@
 {
- "maj": "2026-11-07T00:29:13",
+ "maj": "2026-11-07T14:31:41",
  "jour": "2026-11-07",
  "totaux": {
-  "tendances": 303,
-  "mots_distincts": 261,
-  "aujourdhui": 9,
-  "semaine": 151,
-  "mois": 303,
+  "tendances": 312,
+  "mots_distincts": 269,
+  "aujourdhui": 11,
+  "semaine": 155,
+  "mois": 312,
   "expressions_tapees": 1743,
   "premiere_lecture": "2026-11-01T10:46:10"
  },
  "aujourdhui": [
   {
-   "mot": "cnam",
-   "slug": "cnam",
-   "langue": "fr",
-   "categorie": "sante",
-   "volume": 2000,
-   "hausse": null,
-   "debut": "2026-11-06T11:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-06"
-  },
-  {
-   "mot": "eau potable",
-   "slug": "eau-potable",
-   "langue": "fr",
-   "categorie": "energie",
-   "volume": 1000,
-   "hausse": null,
-   "debut": "2026-11-06T14:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-06"
-  },
-  {
-   "mot": "sonia mabrouk",
-   "slug": "sonia-mabrouk",
+   "mot": "office des céréales",
+   "slug": "office-des-cereales",
    "langue": "fr",
    "categorie": "autre",
-   "volume": 1000,
-   "hausse": null,
-   "debut": "2026-11-06T14:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-06"
-  },
-  {
-   "mot": "إصابة",
-   "slug": "اصابه",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 1000,
-   "hausse": null,
-   "debut": "2026-11-06T08:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-06"
-  },
-  {
-   "mot": "خصم",
-   "slug": "خصم",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 1000,
-   "hausse": null,
-   "debut": "2026-11-06T05:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-06"
-  },
-  {
-   "mot": "aéroport de tunis-carthage",
-   "slug": "aeroport-de-tunis-carthage",
-   "langue": "fr",
-   "categorie": "tourisme",
    "volume": 500,
    "hausse": null,
-   "debut": "2026-11-06T08:50:00",
+   "debut": "2026-11-06T21:30:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-06"
+  },
+  {
+   "mot": "weather",
+   "slug": "weather",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-07T07:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-07"
+  },
+  {
+   "mot": "تونس",
+   "slug": "تونس",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-07T05:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-07"
+  },
+  {
+   "mot": "مطر",
+   "slug": "مطر",
+   "langue": "ar",
+   "categorie": "meteo",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-07T12:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-07"
+  },
+  {
+   "mot": "es tunis vs monastir",
+   "slug": "es-tunis-vs-monastir",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-07T14:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-07"
   },
   {
    "mot": "jj gabriel",
@@ -96,25 +84,61 @@
    "jour": "2026-11-06"
   },
   {
-   "mot": "office des céréales",
-   "slug": "office-des-cereales",
+   "mot": "leeds united – tottenham",
+   "slug": "leeds-united-tottenham",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-07T13:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-07"
+  },
+  {
+   "mot": "الخبر",
+   "slug": "الخبر",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-07T07:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-07"
+  },
+  {
+   "mot": "طماطم",
+   "slug": "طماطم",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-07T05:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-07"
+  },
+  {
+   "mot": "campus drivers",
+   "slug": "campus-drivers",
    "langue": "fr",
    "categorie": "autre",
    "volume": 100,
    "hausse": null,
-   "debut": "2026-11-06T21:30:00",
+   "debut": "2026-11-06T23:40:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-06"
   },
   {
-   "mot": "تصدير",
-   "slug": "تصدير",
-   "langue": "ar",
+   "mot": "twitch",
+   "slug": "twitch",
+   "langue": "fr",
    "categorie": "autre",
    "volume": 100,
    "hausse": null,
-   "debut": "2026-11-06T06:40:00",
+   "debut": "2026-11-06T23:50:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-06"
@@ -331,21 +355,6 @@
    "jour": "2026-10-31"
   },
   {
-   "mot": "chelsea – man utd",
-   "slug": "chelsea-man-utd",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-10-31T12:50:00",
-   "fin": "2026-10-31T17:20:00",
-   "liees": [
-    "chelsea vs man utd",
-    "premier league"
-   ],
-   "jour": "2026-10-31"
-  },
-  {
    "mot": "classement pakhtakor – al-nassr fc",
    "slug": "classement-pakhtakor-al-nassr-fc",
    "langue": "fr",
@@ -488,18 +497,6 @@
    "jour": "2026-11-01"
   },
   {
-   "mot": "سرقة",
-   "slug": "سرقه",
-   "langue": "ar",
-   "categorie": "administration",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-10-31T14:00:00",
-   "fin": "2026-11-02T07:10:00",
-   "liees": [],
-   "jour": "2026-10-31"
-  },
-  {
    "mot": "شتاء",
    "slug": "شتاء",
    "langue": "ar",
@@ -595,18 +592,6 @@
     "championnat de tunisie de football"
    ],
    "jour": "2026-11-03"
-  },
-  {
-   "mot": "levante – atlético madrid",
-   "slug": "levante-atletico-madrid",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 1000,
-   "hausse": 1000,
-   "debut": "2026-10-31T13:20:00",
-   "fin": "2026-10-31T17:50:00",
-   "liees": [],
-   "jour": "2026-10-31"
   },
   {
    "mot": "salaire",
@@ -1122,18 +1107,6 @@
    "jour": "2026-11-04"
   },
   {
-   "mot": "halloween",
-   "slug": "halloween",
-   "langue": "fr",
-   "categorie": "divertissement",
-   "volume": 500,
-   "hausse": 200,
-   "debut": "2026-10-31T04:50:00",
-   "fin": "2026-11-01T01:00:00",
-   "liees": [],
-   "jour": "2026-10-31"
-  },
-  {
    "mot": "meteo",
    "slug": "meteo",
    "langue": "fr",
@@ -1158,6 +1131,18 @@
    "jour": "2026-11-06"
   },
   {
+   "mot": "office des céréales",
+   "slug": "office-des-cereales",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-06T21:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-06"
+  },
+  {
    "mot": "visa",
    "slug": "visa",
    "langue": "fr",
@@ -1170,6 +1155,30 @@
    "jour": "2026-11-05"
   },
   {
+   "mot": "weather",
+   "slug": "weather",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-07T07:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-07"
+  },
+  {
+   "mot": "تونس",
+   "slug": "تونس",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-07T05:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-07"
+  },
+  {
    "mot": "فرنسا",
    "slug": "فرنسا",
    "langue": "ar",
@@ -1180,6 +1189,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-05"
+  },
+  {
+   "mot": "مطر",
+   "slug": "مطر",
+   "langue": "ar",
+   "categorie": "meteo",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-07T12:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-07"
   },
   {
    "mot": "منتخب تونس لكرة القدم",
@@ -1551,18 +1572,6 @@
    "jour": "2026-10-31"
   },
   {
-   "mot": "pologne",
-   "slug": "pologne",
-   "langue": "fr",
-   "categorie": "administration",
-   "volume": 200,
-   "hausse": 300,
-   "debut": "2026-10-31T11:40:00",
-   "fin": "2026-11-01T08:00:00",
-   "liees": [],
-   "jour": "2026-10-31"
-  },
-  {
    "mot": "premier league",
    "slug": "premier-league",
    "langue": "fr",
@@ -1673,6 +1682,18 @@
    "jour": "2026-11-05"
   },
   {
+   "mot": "es tunis vs monastir",
+   "slug": "es-tunis-vs-monastir",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-07T14:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-07"
+  },
+  {
    "mot": "jj gabriel",
    "slug": "jj-gabriel",
    "langue": "fr",
@@ -1683,6 +1704,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-06"
+  },
+  {
+   "mot": "leeds united – tottenham",
+   "slug": "leeds-united-tottenham",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-07T13:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-07"
   },
   {
    "mot": "leverkusen – marseille",
@@ -1709,6 +1742,18 @@
    "jour": "2026-11-05"
   },
   {
+   "mot": "الخبر",
+   "slug": "الخبر",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-07T07:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-07"
+  },
+  {
    "mot": "بريد",
    "slug": "بريد",
    "langue": "ar",
@@ -1719,6 +1764,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-05"
+  },
+  {
+   "mot": "طماطم",
+   "slug": "طماطم",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-07T05:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-07"
   },
   {
    "mot": "وزارة الدفاع",
@@ -1997,6 +2054,18 @@
    "jour": "2026-11-03"
   },
   {
+   "mot": "campus drivers",
+   "slug": "campus-drivers",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-06T23:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-06"
+  },
+  {
    "mot": "cristiano ronaldo",
    "slug": "cristiano-ronaldo",
    "langue": "fr",
@@ -2021,13 +2090,13 @@
    "jour": "2026-11-05"
   },
   {
-   "mot": "office des céréales",
-   "slug": "office-des-cereales",
+   "mot": "twitch",
+   "slug": "twitch",
    "langue": "fr",
    "categorie": "autre",
    "volume": 100,
    "hausse": null,
-   "debut": "2026-11-06T21:30:00",
+   "debut": "2026-11-06T23:50:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-06"
@@ -2059,64 +2128,52 @@
  ],
  "nouveautes": [
   {
-   "mot": "cnam",
-   "slug": "cnam",
-   "langue": "fr",
-   "categorie": "sante",
-   "volume": 2000,
-   "hausse": null,
-   "debut": "2026-11-06T11:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-06"
-  },
-  {
-   "mot": "eau potable",
-   "slug": "eau-potable",
-   "langue": "fr",
-   "categorie": "energie",
-   "volume": 1000,
-   "hausse": null,
-   "debut": "2026-11-06T14:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-06"
-  },
-  {
-   "mot": "sonia mabrouk",
-   "slug": "sonia-mabrouk",
+   "mot": "office des céréales",
+   "slug": "office-des-cereales",
    "langue": "fr",
    "categorie": "autre",
-   "volume": 1000,
-   "hausse": null,
-   "debut": "2026-11-06T14:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-06"
-  },
-  {
-   "mot": "إصابة",
-   "slug": "اصابه",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 1000,
-   "hausse": null,
-   "debut": "2026-11-06T08:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-06"
-  },
-  {
-   "mot": "aéroport de tunis-carthage",
-   "slug": "aeroport-de-tunis-carthage",
-   "langue": "fr",
-   "categorie": "tourisme",
    "volume": 500,
    "hausse": null,
-   "debut": "2026-11-06T08:50:00",
+   "debut": "2026-11-06T21:30:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-06"
+  },
+  {
+   "mot": "weather",
+   "slug": "weather",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-07T07:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-07"
+  },
+  {
+   "mot": "مطر",
+   "slug": "مطر",
+   "langue": "ar",
+   "categorie": "meteo",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-07T12:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-07"
+  },
+  {
+   "mot": "es tunis vs monastir",
+   "slug": "es-tunis-vs-monastir",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-07T14:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-07"
   },
   {
    "mot": "jj gabriel",
@@ -2131,25 +2188,61 @@
    "jour": "2026-11-06"
   },
   {
-   "mot": "office des céréales",
-   "slug": "office-des-cereales",
+   "mot": "leeds united – tottenham",
+   "slug": "leeds-united-tottenham",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-07T13:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-07"
+  },
+  {
+   "mot": "الخبر",
+   "slug": "الخبر",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-07T07:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-07"
+  },
+  {
+   "mot": "طماطم",
+   "slug": "طماطم",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-07T05:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-07"
+  },
+  {
+   "mot": "campus drivers",
+   "slug": "campus-drivers",
    "langue": "fr",
    "categorie": "autre",
    "volume": 100,
    "hausse": null,
-   "debut": "2026-11-06T21:30:00",
+   "debut": "2026-11-06T23:40:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-06"
   },
   {
-   "mot": "تصدير",
-   "slug": "تصدير",
-   "langue": "ar",
+   "mot": "twitch",
+   "slug": "twitch",
+   "langue": "fr",
    "categorie": "autre",
    "volume": 100,
    "hausse": null,
-   "debut": "2026-11-06T06:40:00",
+   "debut": "2026-11-06T23:50:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-06"
@@ -2279,18 +2372,6 @@
    "jour": "2026-11-03"
   },
   {
-   "mot": "سرقة",
-   "slug": "سرقه",
-   "langue": "ar",
-   "categorie": "administration",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-10-31T14:00:00",
-   "fin": "2026-11-02T07:10:00",
-   "liees": [],
-   "jour": "2026-10-31"
-  },
-  {
    "mot": "barcelona vs alavés",
    "slug": "barcelona-vs-alaves",
    "langue": "fr",
@@ -2317,21 +2398,6 @@
     "bayern vs dortmund",
     "bundesliga",
     "bayern"
-   ],
-   "jour": "2026-10-31"
-  },
-  {
-   "mot": "chelsea – man utd",
-   "slug": "chelsea-man-utd",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-10-31T12:50:00",
-   "fin": "2026-10-31T17:20:00",
-   "liees": [
-    "chelsea vs man utd",
-    "premier league"
    ],
    "jour": "2026-10-31"
   },
@@ -2560,18 +2626,6 @@
    "liees": [
     "bayern munich"
    ],
-   "jour": "2026-10-31"
-  },
-  {
-   "mot": "levante – atlético madrid",
-   "slug": "levante-atletico-madrid",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 1000,
-   "hausse": 1000,
-   "debut": "2026-10-31T13:20:00",
-   "fin": "2026-10-31T17:50:00",
-   "liees": [],
    "jour": "2026-10-31"
   },
   {
@@ -2961,6 +3015,44 @@
    "fin": "2026-11-03T23:40:00",
    "liees": [],
    "jour": "2026-11-03"
+  },
+  {
+   "mot": "barca vs",
+   "slug": "barca-vs",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": 900,
+   "debut": "2026-11-03T22:10:00",
+   "fin": "2026-11-03T23:30:00",
+   "liees": [
+    "aston villa"
+   ],
+   "jour": "2026-11-03"
+  },
+  {
+   "mot": "ath. bilbao – real sociedad",
+   "slug": "ath-bilbao-real-sociedad",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 100,
+   "hausse": 900,
+   "debut": "2026-11-01T21:50:00",
+   "fin": "2026-11-01T23:30:00",
+   "liees": [],
+   "jour": "2026-11-01"
+  },
+  {
+   "mot": "pakhtakor fc vs al-nassr standings",
+   "slug": "pakhtakor-fc-vs-al-nassr-standings",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 100,
+   "hausse": 900,
+   "debut": "2026-11-02T18:20:00",
+   "fin": "2026-11-02T19:10:00",
+   "liees": [],
+   "jour": "2026-11-02"
   }
  ],
  "retombees": [
@@ -3304,6 +3396,21 @@
    "jour": "2026-10-25"
   },
   {
+   "mot": "chelsea – man utd",
+   "slug": "chelsea-man-utd",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 2000,
+   "hausse": 1000,
+   "debut": "2026-10-31T12:50:00",
+   "fin": "2026-10-31T17:20:00",
+   "liees": [
+    "chelsea vs man utd",
+    "premier league"
+   ],
+   "jour": "2026-10-31"
+  },
+  {
    "mot": "classement le havre athletic club – paris saint-germain football club",
    "slug": "classement-le-havre-athletic-club-paris-saint-germain-football-club",
    "langue": "fr",
@@ -3395,6 +3502,18 @@
    "jour": "2026-10-28"
   },
   {
+   "mot": "سرقة",
+   "slug": "سرقه",
+   "langue": "ar",
+   "categorie": "administration",
+   "volume": 2000,
+   "hausse": 1000,
+   "debut": "2026-10-31T14:00:00",
+   "fin": "2026-11-02T07:10:00",
+   "liees": [],
+   "jour": "2026-10-31"
+  },
+  {
    "mot": "قرعة دوري ابطال افريقيا",
    "slug": "قرعه-دوري-ابطال-افريقيا",
    "langue": "ar",
@@ -3474,6 +3593,18 @@
    "jour": "2026-10-25"
   },
   {
+   "mot": "levante – atlético madrid",
+   "slug": "levante-atletico-madrid",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 1000,
+   "hausse": 1000,
+   "debut": "2026-10-31T13:20:00",
+   "fin": "2026-10-31T17:50:00",
+   "liees": [],
+   "jour": "2026-10-31"
+  },
+  {
    "mot": "liverpool – brighton",
    "slug": "liverpool-brighton",
    "langue": "fr",
@@ -3498,18 +3629,6 @@
    "fin": "2026-10-25T21:50:00",
    "liees": [],
    "jour": "2026-10-25"
-  },
-  {
-   "mot": "تونس",
-   "slug": "تونس",
-   "langue": "ar",
-   "categorie": "administration",
-   "volume": 1000,
-   "hausse": 1000,
-   "debut": "2026-10-26T20:00:00",
-   "fin": "2026-10-27T06:30:00",
-   "liees": [],
-   "jour": "2026-10-26"
   },
   {
    "mot": "match barca",
@@ -3760,30 +3879,6 @@
    "liees": [
     "وزارة الدفاع"
    ],
-   "jour": "2026-10-30"
-  },
-  {
-   "mot": "الرابطة الوطنية لكرة القدم المحترفة",
-   "slug": "الرابطه-الوطنيه-لكره-القدم-المحترفه",
-   "langue": "ar",
-   "categorie": "football",
-   "volume": 500,
-   "hausse": 600,
-   "debut": "2026-10-28T21:50:00",
-   "fin": "2026-10-29T09:50:00",
-   "liees": [],
-   "jour": "2026-10-28"
-  },
-  {
-   "mot": "يوسف بلايلي",
-   "slug": "يوسف-بلايلي",
-   "langue": "ar",
-   "categorie": "sport",
-   "volume": 500,
-   "hausse": 600,
-   "debut": "2026-10-30T21:40:00",
-   "fin": "2026-10-31T18:00:00",
-   "liees": [],
    "jour": "2026-10-30"
   }
  ],
@@ -4161,7 +4256,7 @@
   "administration": {
    "fr": "Administration et démarches",
    "ar": "الإدارة والإجراءات",
-   "n_semaine": 5,
+   "n_semaine": 3,
    "n_mois": 14,
    "top": [
     {
@@ -4177,18 +4272,6 @@
      "jour": "2026-11-01"
     },
     {
-     "mot": "سرقة",
-     "slug": "سرقه",
-     "langue": "ar",
-     "categorie": "administration",
-     "volume": 2000,
-     "hausse": 1000,
-     "debut": "2026-10-31T14:00:00",
-     "fin": "2026-11-02T07:10:00",
-     "liees": [],
-     "jour": "2026-10-31"
-    },
-    {
      "mot": "libération",
      "slug": "liberation",
      "langue": "fr",
@@ -4199,18 +4282,6 @@
      "fin": "2026-11-02T09:40:00",
      "liees": [],
      "jour": "2026-11-01"
-    },
-    {
-     "mot": "pologne",
-     "slug": "pologne",
-     "langue": "fr",
-     "categorie": "administration",
-     "volume": 200,
-     "hausse": 300,
-     "debut": "2026-10-31T11:40:00",
-     "fin": "2026-11-01T08:00:00",
-     "liees": [],
-     "jour": "2026-10-31"
     },
     {
      "mot": "وزارة الدفاع",
@@ -4323,8 +4394,8 @@
   "football": {
    "fr": "Football",
    "ar": "كرة القدم",
-   "n_semaine": 84,
-   "n_mois": 163,
+   "n_semaine": 83,
+   "n_mois": 164,
    "top": [
     {
      "mot": "classement stade tunisien – club africain",
@@ -4495,21 +4566,6 @@
      "jour": "2026-10-31"
     },
     {
-     "mot": "chelsea – man utd",
-     "slug": "chelsea-man-utd",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 2000,
-     "hausse": 1000,
-     "debut": "2026-10-31T12:50:00",
-     "fin": "2026-10-31T17:20:00",
-     "liees": [
-      "chelsea vs man utd",
-      "premier league"
-     ],
-     "jour": "2026-10-31"
-    },
-    {
      "mot": "classement pakhtakor – al-nassr fc",
      "slug": "classement-pakhtakor-al-nassr-fc",
      "langue": "fr",
@@ -4675,18 +4731,6 @@
       "championnat de tunisie de football"
      ],
      "jour": "2026-11-03"
-    },
-    {
-     "mot": "levante – atlético madrid",
-     "slug": "levante-atletico-madrid",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 1000,
-     "hausse": 1000,
-     "debut": "2026-10-31T13:20:00",
-     "fin": "2026-10-31T17:50:00",
-     "liees": [],
-     "jour": "2026-10-31"
     },
     {
      "mot": "أيك ضد الريال",
@@ -5149,9 +5193,46 @@
      "fin": "2026-11-01T00:00:00",
      "liees": [],
      "jour": "2026-10-31"
+    },
+    {
+     "mot": "new england – inter miami",
+     "slug": "new-england-inter-miami",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": 400,
+     "debut": "2026-11-02T05:20:00",
+     "fin": "2026-11-02T08:20:00",
+     "liees": [],
+     "jour": "2026-11-02"
+    },
+    {
+     "mot": "premier league",
+     "slug": "premier-league",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": 300,
+     "debut": "2026-11-01T20:00:00",
+     "fin": "2026-11-01T20:50:00",
+     "liees": [],
+     "jour": "2026-11-01"
     }
    ],
-   "top24": []
+   "top24": [
+    {
+     "mot": "leeds united – tottenham",
+     "slug": "leeds-united-tottenham",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-07T13:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-07"
+    }
+   ]
   },
   "sport": {
    "fr": "Autres sports",
@@ -5351,7 +5432,7 @@
   "divertissement": {
    "fr": "Divertissement et médias",
    "ar": "الترفيه والإعلام",
-   "n_semaine": 5,
+   "n_semaine": 4,
    "n_mois": 11,
    "top": [
     {
@@ -5391,18 +5472,6 @@
      "jour": "2026-11-03"
     },
     {
-     "mot": "halloween",
-     "slug": "halloween",
-     "langue": "fr",
-     "categorie": "divertissement",
-     "volume": 500,
-     "hausse": 200,
-     "debut": "2026-10-31T04:50:00",
-     "fin": "2026-11-01T01:00:00",
-     "liees": [],
-     "jour": "2026-10-31"
-    },
-    {
      "mot": "koh lanta",
      "slug": "koh-lanta",
      "langue": "fr",
@@ -5420,8 +5489,8 @@
   "meteo": {
    "fr": "Météo",
    "ar": "الطقس",
-   "n_semaine": 4,
-   "n_mois": 10,
+   "n_semaine": 5,
+   "n_mois": 11,
    "top": [
     {
      "mot": "حرارة",
@@ -5446,6 +5515,18 @@
      "fin": "2026-11-02T07:40:00",
      "liees": [],
      "jour": "2026-11-02"
+    },
+    {
+     "mot": "مطر",
+     "slug": "مطر",
+     "langue": "ar",
+     "categorie": "meteo",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-07T12:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-07"
     },
     {
      "mot": "طقس اليوم",
@@ -5474,7 +5555,20 @@
      "jour": "2026-11-02"
     }
    ],
-   "top24": []
+   "top24": [
+    {
+     "mot": "مطر",
+     "slug": "مطر",
+     "langue": "ar",
+     "categorie": "meteo",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-07T12:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-07"
+    }
+   ]
   },
   "politique": {
    "fr": "Politique et actualité",
@@ -5558,8 +5652,8 @@
   "autre": {
    "fr": "Autre",
    "ar": "أخرى",
-   "n_semaine": 14,
-   "n_mois": 19,
+   "n_semaine": 21,
+   "n_mois": 26,
    "top": [
     {
      "mot": "ثعبان",
@@ -5646,6 +5740,42 @@
      "jour": "2026-11-03"
     },
     {
+     "mot": "office des céréales",
+     "slug": "office-des-cereales",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-06T21:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
+    },
+    {
+     "mot": "weather",
+     "slug": "weather",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-07T07:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-07"
+    },
+    {
+     "mot": "تونس",
+     "slug": "تونس",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-07T05:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-07"
+    },
+    {
      "mot": "consommation",
      "slug": "consommation",
      "langue": "fr",
@@ -5656,6 +5786,18 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-05"
+    },
+    {
+     "mot": "es tunis vs monastir",
+     "slug": "es-tunis-vs-monastir",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-07T14:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-07"
     },
     {
      "mot": "jj gabriel",
@@ -5682,6 +5824,18 @@
      "jour": "2026-11-05"
     },
     {
+     "mot": "الخبر",
+     "slug": "الخبر",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-07T07:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-07"
+    },
+    {
      "mot": "بريد",
      "slug": "بريد",
      "langue": "ar",
@@ -5694,13 +5848,37 @@
      "jour": "2026-11-05"
     },
     {
-     "mot": "office des céréales",
-     "slug": "office-des-cereales",
+     "mot": "طماطم",
+     "slug": "طماطم",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-07T05:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-07"
+    },
+    {
+     "mot": "campus drivers",
+     "slug": "campus-drivers",
      "langue": "fr",
      "categorie": "autre",
      "volume": 100,
      "hausse": null,
-     "debut": "2026-11-06T21:30:00",
+     "debut": "2026-11-06T23:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
+    },
+    {
+     "mot": "twitch",
+     "slug": "twitch",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-06T23:50:00",
      "fin": null,
      "liees": [],
      "jour": "2026-11-06"
@@ -5768,6 +5946,54 @@
      "jour": "2026-11-06"
     },
     {
+     "mot": "office des céréales",
+     "slug": "office-des-cereales",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-06T21:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
+    },
+    {
+     "mot": "weather",
+     "slug": "weather",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-07T07:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-07"
+    },
+    {
+     "mot": "تونس",
+     "slug": "تونس",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-07T05:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-07"
+    },
+    {
+     "mot": "es tunis vs monastir",
+     "slug": "es-tunis-vs-monastir",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-07T14:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-07"
+    },
+    {
      "mot": "jj gabriel",
      "slug": "jj-gabriel",
      "langue": "fr",
@@ -5780,28 +6006,28 @@
      "jour": "2026-11-06"
     },
     {
-     "mot": "office des céréales",
-     "slug": "office-des-cereales",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-06T21:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-06"
-    },
-    {
-     "mot": "تصدير",
-     "slug": "تصدير",
+     "mot": "الخبر",
+     "slug": "الخبر",
      "langue": "ar",
      "categorie": "autre",
-     "volume": 100,
+     "volume": 200,
      "hausse": null,
-     "debut": "2026-11-06T06:40:00",
+     "debut": "2026-11-07T07:20:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-06"
+     "jour": "2026-11-07"
+    },
+    {
+     "mot": "طماطم",
+     "slug": "طماطم",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-07T05:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-07"
     }
    ]
   }
@@ -5900,7 +6126,7 @@
  "historique": {
   "semaines": {
    "2026-11-02": {
-    "n": 95,
+    "n": 104,
     "top": [
      {
       "mot": "classement stade tunisien – club africain",
@@ -6057,15 +6283,19 @@
     "categories": [
      {
       "cle": "football",
-      "n": 41
+      "n": 42
      },
      {
       "cle": "autre",
-      "n": 14
+      "n": 21
      },
      {
       "cle": "sport",
       "n": 11
+     },
+     {
+      "cle": "meteo",
+      "n": 5
      },
      {
       "cle": "politique",
@@ -6073,10 +6303,6 @@
      },
      {
       "cle": "emploi",
-      "n": 4
-     },
-     {
-      "cle": "meteo",
       "n": 4
      },
      {
@@ -6508,7 +6734,7 @@
   },
   "mois": {
    "2026-11": {
-    "n": 119,
+    "n": 128,
     "top": [
      {
       "mot": "classement stade tunisien – club africain",
@@ -6661,15 +6887,19 @@
     "categories": [
      {
       "cle": "football",
-      "n": 58
+      "n": 59
+     },
+     {
+      "cle": "autre",
+      "n": 21
      },
      {
       "cle": "sport",
       "n": 14
      },
      {
-      "cle": "autre",
-      "n": 14
+      "cle": "meteo",
+      "n": 5
      },
      {
       "cle": "politique",
@@ -6681,10 +6911,6 @@
      },
      {
       "cle": "divertissement",
-      "n": 4
-     },
-     {
-      "cle": "meteo",
       "n": 4
      },
      {
@@ -13404,8 +13630,20 @@
    "mot_norm": "تونس",
    "slug": "تونس",
    "langue": "ar",
-   "categorie": "administration",
+   "categorie": "autre",
    "episodes": [
+    {
+     "mot": "تونس",
+     "slug": "تونس",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-07T05:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-07"
+    },
     {
      "mot": "تونس",
      "slug": "تونس",
@@ -13419,7 +13657,7 @@
      "jour": "2026-10-26"
     }
    ],
-   "jours": 1,
+   "jours": 2,
    "volume_max": 1000,
    "liees": []
   },
@@ -14294,6 +14532,30 @@
    ]
   },
   {
+   "mot": "office des céréales",
+   "mot_norm": "office des cereales",
+   "slug": "office-des-cereales",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "office des céréales",
+     "slug": "office-des-cereales",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-06T21:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 500,
+   "liees": []
+  },
+  {
    "mot": "patrick stewart",
    "mot_norm": "patrick stewart",
    "slug": "patrick-stewart",
@@ -14483,6 +14745,30 @@
      "fin": "2026-11-01T17:10:00",
      "liees": [],
      "jour": "2026-11-01"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 500,
+   "liees": []
+  },
+  {
+   "mot": "weather",
+   "mot_norm": "weather",
+   "slug": "weather",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "weather",
+     "slug": "weather",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-07T07:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-07"
     }
    ],
    "jours": 1,
@@ -14931,6 +15217,30 @@
      "fin": "2026-10-25T23:30:00",
      "liees": [],
      "jour": "2026-10-25"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 500,
+   "liees": []
+  },
+  {
+   "mot": "مطر",
+   "mot_norm": "مطر",
+   "slug": "مطر",
+   "langue": "ar",
+   "categorie": "meteo",
+   "episodes": [
+    {
+     "mot": "مطر",
+     "slug": "مطر",
+     "langue": "ar",
+     "categorie": "meteo",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-07T12:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-07"
     }
    ],
    "jours": 1,
@@ -15626,6 +15936,30 @@
    "liees": []
   },
   {
+   "mot": "es tunis vs monastir",
+   "mot_norm": "es tunis vs monastir",
+   "slug": "es-tunis-vs-monastir",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "es tunis vs monastir",
+     "slug": "es-tunis-vs-monastir",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-07T14:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-07"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
    "mot": "espérance sportive de zarzis",
    "mot_norm": "esperance sportive de zarzis",
    "slug": "esperance-sportive-de-zarzis",
@@ -15839,6 +16173,30 @@
      "fin": "2026-10-25T21:10:00",
      "liees": [],
      "jour": "2026-10-25"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
+   "mot": "leeds united – tottenham",
+   "mot_norm": "leeds united - tottenham",
+   "slug": "leeds-united-tottenham",
+   "langue": "fr",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "leeds united – tottenham",
+     "slug": "leeds-united-tottenham",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-07T13:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-07"
     }
    ],
    "jours": 1,
@@ -16696,6 +17054,30 @@
    "liees": []
   },
   {
+   "mot": "الخبر",
+   "mot_norm": "الخبر",
+   "slug": "الخبر",
+   "langue": "ar",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "الخبر",
+     "slug": "الخبر",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-07T07:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-07"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
    "mot": "الشروق",
    "mot_norm": "الشروق",
    "slug": "الشروق",
@@ -16868,6 +17250,30 @@
    ]
   },
   {
+   "mot": "طماطم",
+   "mot_norm": "طماطم",
+   "slug": "طماطم",
+   "langue": "ar",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "طماطم",
+     "slug": "طماطم",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-07T05:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-07"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
    "mot": "كرة القدم",
    "mot_norm": "كره القدم",
    "slug": "كره-القدم",
@@ -17017,6 +17423,30 @@
      "fin": "2026-10-28T23:10:00",
      "liees": [],
      "jour": "2026-10-28"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 100,
+   "liees": []
+  },
+  {
+   "mot": "campus drivers",
+   "mot_norm": "campus drivers",
+   "slug": "campus-drivers",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "campus drivers",
+     "slug": "campus-drivers",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-06T23:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
     }
    ],
    "jours": 1,
@@ -17360,30 +17790,6 @@
    "liees": []
   },
   {
-   "mot": "office des céréales",
-   "mot_norm": "office des cereales",
-   "slug": "office-des-cereales",
-   "langue": "fr",
-   "categorie": "autre",
-   "episodes": [
-    {
-     "mot": "office des céréales",
-     "slug": "office-des-cereales",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-06T21:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-06"
-    }
-   ],
-   "jours": 1,
-   "volume_max": 100,
-   "liees": []
-  },
-  {
    "mot": "pakhtakor fc vs al-nassr standings",
    "mot_norm": "pakhtakor fc vs al-nassr standings",
    "slug": "pakhtakor-fc-vs-al-nassr-standings",
@@ -17545,6 +17951,30 @@
      "fin": "2026-11-01T16:30:00",
      "liees": [],
      "jour": "2026-11-01"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 100,
+   "liees": []
+  },
+  {
+   "mot": "twitch",
+   "mot_norm": "twitch",
+   "slug": "twitch",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "twitch",
+     "slug": "twitch",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-06T23:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
     }
    ],
    "jours": 1,
