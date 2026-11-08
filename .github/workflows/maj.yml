@@ -35,7 +35,7 @@ jobs:
           git config user.email "robot-tendances@users.noreply.github.com"
           git add donnees/tendances.json donnees/etat.json donnees/carnet-categories.json donnees/releves
           git diff --cached --quiet || git commit -qm "Relevé du $(date +%d/%m/%Y\ %Hh%M)"
-          for essai in 1 2 3; do git pull --rebase --autostash -q && git push -q && break; sleep $((essai * 5)); done
+          for essai in 1 2 3; do git pull --rebase -X theirs --autostash -q && git push -q && break; sleep $((essai * 5)); done
       - name: Analyse
         run: python robot/analyse.py
       - uses: actions/setup-node@v4
@@ -53,7 +53,7 @@ jobs:
         run: |
           git add -A
           git diff --cached --quiet || git commit -qm "Tendances du $(date +%d/%m/%Y\ %Hh%M)"
-          for essai in 1 2 3 4; do git pull --rebase --autostash -q && git push -q && exit 0; sleep $((essai * 5)); done
+          for essai in 1 2 3 4; do git pull --rebase -X theirs --autostash -q && git push -q && exit 0; sleep $((essai * 5)); done
           echo "ÉCHEC : pages non enregistrées"; exit 1
       - name: Source en panne depuis plus de 2 jours ? (ÉCHEC = e-mail à Ahmed ; les données sont déjà enregistrées)
         run: python tools/sources_en_panne.py
