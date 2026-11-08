@@ -8320,14 +8320,14 @@
    "debut": "2026-11-07T22:30:00",
    "debut_ts": 1794087000,
    "fin": null,
-   "volume": 200,
+   "volume": 500,
    "hausse": null,
    "liees": [],
    "codes": [],
    "categorie": "football",
    "vu_premier": "2026-11-07T23:15:09",
-   "vu_dernier": "2026-11-07T23:15:09",
-   "releves": 1,
+   "vu_dernier": "2026-11-08T14:50:40",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -8512,7 +8512,187 @@
    "sources": [
     "rss"
    ]
+  },
+  "crystal palace - liverpool|498373": {
+   "mot": "crystal palace – liverpool",
+   "mot_norm": "crystal palace - liverpool",
+   "langue": "fr",
+   "debut": "2026-11-08T14:40:00",
+   "debut_ts": 1794145200,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-08T14:50:40",
+   "vu_dernier": "2026-11-08T14:50:40",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "naples - lazio|498373": {
+   "mot": "naples – lazio",
+   "mot_norm": "naples - lazio",
+   "langue": "fr",
+   "debut": "2026-11-08T14:00:00",
+   "debut_ts": 1794142800,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-08T14:50:40",
+   "vu_dernier": "2026-11-08T14:50:40",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "elche - betis|498372": {
+   "mot": "elche – betis",
+   "mot_norm": "elche - betis",
+   "langue": "fr",
+   "debut": "2026-11-08T13:50:00",
+   "debut_ts": 1794142200,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-08T14:50:40",
+   "vu_dernier": "2026-11-08T14:50:40",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "benjamin netanyahu|498371": {
+   "mot": "benjamin netanyahu",
+   "mot_norm": "benjamin netanyahu",
+   "langue": "fr",
+   "debut": "2026-11-08T12:10:00",
+   "debut_ts": 1794136200,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-08T14:50:40",
+   "vu_dernier": "2026-11-08T14:50:40",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "inter miami|498370": {
+   "mot": "inter miami",
+   "mot_norm": "inter miami",
+   "langue": "fr",
+   "debut": "2026-11-08T11:10:00",
+   "debut_ts": 1794132600,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-08T14:50:40",
+   "vu_dernier": "2026-11-08T14:50:40",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "الترجي الرياضي التونسي|498369": {
+   "mot": "الترجي الرياضي التونسي",
+   "mot_norm": "الترجي الرياضي التونسي",
+   "langue": "ar",
+   "debut": "2026-11-08T10:00:00",
+   "debut_ts": 1794128400,
+   "fin": null,
+   "volume": 2000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-08T14:50:40",
+   "vu_dernier": "2026-11-08T14:50:40",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "climat|498364": {
+   "mot": "climat",
+   "mot_norm": "climat",
+   "langue": "fr",
+   "debut": "2026-11-08T05:40:00",
+   "debut_ts": 1794112800,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-08T14:50:40",
+   "vu_dernier": "2026-11-08T14:50:40",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "classement paris saint-germain football club - estac|498358": {
+   "mot": "classement paris saint-germain football club – estac",
+   "mot_norm": "classement paris saint-germain football club - estac",
+   "langue": "fr",
+   "debut": "2026-11-07T23:30:00",
+   "debut_ts": 1794090600,
+   "fin": null,
+   "volume": 2000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-08T14:50:40",
+   "vu_dernier": "2026-11-08T14:50:40",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "classement valencia club de futbol - real madrid|498358": {
+   "mot": "classement valencia club de fútbol – real madrid",
+   "mot_norm": "classement valencia club de futbol - real madrid",
+   "langue": "fr",
+   "debut": "2026-11-07T23:10:00",
+   "debut_ts": 1794089400,
+   "fin": null,
+   "volume": 5000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-08T14:50:40",
+   "vu_dernier": "2026-11-08T14:50:40",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-07T23:15:09"
+ "maj": "2026-11-08T14:50:40"
 }
