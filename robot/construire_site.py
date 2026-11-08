@@ -17,6 +17,37 @@ import categories as K      # noqa: E402
 import pages_langues as PL  # noqa: E402
 import anglais as AN        # noqa: E402
 
+
+def titre_seo(t, maxi=70):
+    """SEO (08/11/2026, plan d'Ahmed pour tous les sites) : Google coupe les titres vers 60-70 caractères : le suffixe « | nom du site »
+    (qui dit la langue) est gardé, la partie qui précède est coupée à un séparateur, sinon au dernier mot entier avec « … »."""
+    if len(t) <= maxi:
+        return t
+    base, _, suffixe = t.rpartition(" | ")
+    if not suffixe or len(suffixe) > 45:
+        base, suffixe = t, ""
+    place = maxi - (len(suffixe) + 3 if suffixe else 0)
+    if len(base) > place:
+        coupe = None
+        for sep in (" : ", ": ", " — ", " (", " – "):
+            i = base.rfind(sep, 0, place)
+            if i >= 25:
+                coupe = base[:i].rstrip(" ,;:—-")
+                break
+        base = coupe if coupe else base[:place - 1].rsplit(" ", 1)[0].rstrip(" ,;:—-(") + "…"
+    return base + (" | " + suffixe if suffixe else "")
+
+
+def desc_seo(d, maxi=165):
+    """Description <= 165 caractères : fin de la dernière phrase entière si possible, sinon dernier mot entier + « … »."""
+    if len(d) <= maxi:
+        return d
+    coupe = d[:maxi]
+    i = max(coupe.rfind(". "), coupe.rfind("۔ "))
+    if i >= 60:
+        return coupe[:i + 1]
+    return coupe[:maxi - 1].rsplit(" ", 1)[0].rstrip(" ,;:—-(،") + "…"
+
 URL_SITE = "https://tendances.clicvia.com/"
 NOM = {"fr": "Tendances de recherche en Tunisie", "ar": "اتجاهات البحث في تونس", "en": "Search trends in Tunisia"}
 LANGUES = ["fr", "ar", "en"]      # 03/11/2026 : + anglais (demande d'Ahmed « tendance tunisie met le aussi en anglais »)
@@ -76,8 +107,8 @@ def page(chemin, titre, description, hero, contenu, v, maj, titre_ar="", desc_ar
 <meta http-equiv="Content-Security-Policy" content="{CSP}">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="robots" content="{'noai, noimageai' if indexer else 'noindex, follow, noai, noimageai'}">
-<title>{E(titre)}</title>
-<meta name="description" content="{E(description)}">
+<title>{E(titre_seo(titre))}</title>
+<meta name="description" content="{E(desc_seo(description))}">
 <link rel="canonical" href="{canon}">
 {hreflang}<link rel="icon" href="{racine}assets/logo.svg" type="image/svg+xml">
 <link rel="icon" href="{racine}favicon.ico" sizes="32x32">

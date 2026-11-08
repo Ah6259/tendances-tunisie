@@ -54,3 +54,8 @@ Adresse : https://tendances.clicvia.com/ (sous-domaine Cloudflare d'Ahmed, CNAME
 - Partie payante (règle commune § 11 : gratuit + payant dès le départ) : rien de payant en v1 ; idées : rapport mensuel par
   catégorie, alertes « nouveau mot dans ma catégorie » par e-mail/Telegram, accès aux données détaillées. À décider.
 - Régions (gouvernorats) : impossible avec Google Trends pour la Tunisie ; seule l'API officielle (sous-régions) pourrait l'ouvrir.
+
+- **08/11/2026 — plan SEO d'Ahmed appliqué à ce site (phase 2 ; contrôle commun `outils visibilite/controle_seo.mjs` de projets-ahmed ;
+  plan : `consignes des taches/seo-tendances.md`)** : `titre_seo()` / `desc_seo()` dans `robot/construire_site.py` (gabarit) et
+  `tools/pages_langues.py` (ar/, en/) : titre <= 70 caractères (suffixe « | nom du site » gardé, coupe à un séparateur), description
+  <= 165 coupée en fin de phrase (avant : `[:200]`). Avant : titres de 77 à 99 caractères, descriptions jusqu'à 250.
