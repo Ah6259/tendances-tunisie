@@ -113,6 +113,11 @@
    "volume": 200
   },
   {
+   "mot": "fcb",
+   "fois": 1,
+   "volume": 200
+  },
+  {
    "mot": "قطار",
    "fois": 1,
    "volume": 100
@@ -139,6 +144,11 @@
   },
   {
    "mot": "benjamin netanyahu",
+   "fois": 1,
+   "volume": 100
+  },
+  {
+   "mot": "dana white",
    "fois": 1,
    "volume": 100
   }

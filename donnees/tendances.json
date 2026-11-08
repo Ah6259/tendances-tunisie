@@ -8692,7 +8692,207 @@
    "sources": [
     "rss"
    ]
+  },
+  "liga|498382": {
+   "mot": "liga",
+   "mot_norm": "liga",
+   "langue": "fr",
+   "debut": "2026-11-08T23:00:00",
+   "debut_ts": 1794175200,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-08T23:25:45",
+   "vu_dernier": "2026-11-08T23:25:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "fcb|498380": {
+   "mot": "fcb",
+   "mot_norm": "fcb",
+   "langue": "fr",
+   "debut": "2026-11-08T21:50:00",
+   "debut_ts": 1794171000,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-08T23:25:45",
+   "vu_dernier": "2026-11-08T23:25:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "fc barcelone|498380": {
+   "mot": "fc barcelone",
+   "mot_norm": "fc barcelone",
+   "langue": "fr",
+   "debut": "2026-11-08T21:30:00",
+   "debut_ts": 1794169800,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-08T23:25:45",
+   "vu_dernier": "2026-11-08T23:25:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "برشلونه|498380": {
+   "mot": "برشلونة",
+   "mot_norm": "برشلونه",
+   "langue": "ar",
+   "debut": "2026-11-08T21:30:00",
+   "debut_ts": 1794169800,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-08T23:25:45",
+   "vu_dernier": "2026-11-08T23:25:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "barca|498380": {
+   "mot": "barca",
+   "mot_norm": "barca",
+   "langue": "fr",
+   "debut": "2026-11-08T21:20:00",
+   "debut_ts": 1794169200,
+   "fin": null,
+   "volume": 2000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-08T23:25:45",
+   "vu_dernier": "2026-11-08T23:25:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "barca vs|498380": {
+   "mot": "barca vs",
+   "mot_norm": "barca vs",
+   "langue": "fr",
+   "debut": "2026-11-08T21:20:00",
+   "debut_ts": 1794169200,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-08T23:25:45",
+   "vu_dernier": "2026-11-08T23:25:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "lens - marseille|498380": {
+   "mot": "lens – marseille",
+   "mot_norm": "lens - marseille",
+   "langue": "fr",
+   "debut": "2026-11-08T21:10:00",
+   "debut_ts": 1794168600,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-08T23:25:45",
+   "vu_dernier": "2026-11-08T23:25:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "fiorentina - juventus|498380": {
+   "mot": "fiorentina – juventus",
+   "mot_norm": "fiorentina - juventus",
+   "langue": "fr",
+   "debut": "2026-11-08T21:00:00",
+   "debut_ts": 1794168000,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-08T23:25:45",
+   "vu_dernier": "2026-11-08T23:25:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "classement inter milan - como 1907|498379": {
+   "mot": "classement inter milan – como 1907",
+   "mot_norm": "classement inter milan - como 1907",
+   "langue": "fr",
+   "debut": "2026-11-08T20:40:00",
+   "debut_ts": 1794166800,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-08T23:25:45",
+   "vu_dernier": "2026-11-08T23:25:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "dana white|498379": {
+   "mot": "dana white",
+   "mot_norm": "dana white",
+   "langue": "fr",
+   "debut": "2026-11-08T20:30:00",
+   "debut_ts": 1794166200,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-08T23:25:45",
+   "vu_dernier": "2026-11-08T23:25:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-08T14:50:40"
+ "maj": "2026-11-08T23:25:45"
 }
