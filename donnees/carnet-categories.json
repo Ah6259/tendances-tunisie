@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-08",
+ "maj": "2026-11-09",
  "explication": "Mots restés sans catégorie (à classer dans robot/categories.py quand ils reviennent).",
  "mots": [
   {
@@ -13,7 +13,17 @@
    "volume": 1000
   },
   {
+   "mot": "طماطم",
+   "fois": 2,
+   "volume": 200
+  },
+  {
    "mot": "paris-sg – troyes",
+   "fois": 1,
+   "volume": 2000
+  },
+  {
+   "mot": "قيس عبد الفتاح",
    "fois": 1,
    "volume": 2000
   },
@@ -103,11 +113,6 @@
    "volume": 200
   },
   {
-   "mot": "طماطم",
-   "fois": 1,
-   "volume": 200
-  },
-  {
    "mot": "climat",
    "fois": 1,
    "volume": 200
@@ -149,6 +154,16 @@
   },
   {
    "mot": "dana white",
+   "fois": 1,
+   "volume": 100
+  },
+  {
+   "mot": "teddy riner",
+   "fois": 1,
+   "volume": 100
+  },
+  {
+   "mot": "gta 6",
    "fois": 1,
    "volume": 100
   }
