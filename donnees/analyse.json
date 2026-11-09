@@ -1,16 +1,28 @@
 {
- "maj": "2026-11-08T23:25:52",
- "jour": "2026-11-08",
+ "maj": "2026-11-09T17:50:34",
+ "jour": "2026-11-09",
  "totaux": {
-  "tendances": 341,
-  "mots_distincts": 293,
+  "tendances": 349,
+  "mots_distincts": 300,
   "aujourdhui": 18,
   "semaine": 133,
-  "mois": 341,
+  "mois": 349,
   "expressions_tapees": 2049,
   "premiere_lecture": "2026-11-01T10:46:10"
  },
  "aujourdhui": [
+  {
+   "mot": "classement atlético madrid – fc barcelone",
+   "slug": "classement-atletico-madrid-fc-barcelone",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 5000,
+   "hausse": null,
+   "debut": "2026-11-08T23:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-08"
+  },
   {
    "mot": "barca",
    "slug": "barca",
@@ -24,28 +36,16 @@
    "jour": "2026-11-08"
   },
   {
-   "mot": "classement paris saint-germain football club – estac",
-   "slug": "classement-paris-saint-germain-football-club-estac",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 2000,
-   "hausse": null,
-   "debut": "2026-11-07T23:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-07"
-  },
-  {
-   "mot": "الترجي الرياضي التونسي",
-   "slug": "الترجي-الرياضي-التونسي",
+   "mot": "قيس عبد الفتاح",
+   "slug": "قيس-عبد-الفتاح",
    "langue": "ar",
-   "categorie": "football",
+   "categorie": "autre",
    "volume": 2000,
    "hausse": null,
-   "debut": "2026-11-08T10:00:00",
+   "debut": "2026-11-09T02:30:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-08"
+   "jour": "2026-11-09"
   },
   {
    "mot": "fc barcelone",
@@ -96,37 +96,13 @@
    "jour": "2026-11-08"
   },
   {
-   "mot": "climat",
-   "slug": "climat",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-08T05:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "crystal palace – liverpool",
-   "slug": "crystal-palace-liverpool",
+   "mot": "fc barcelona",
+   "slug": "fc-barcelona",
    "langue": "fr",
    "categorie": "football",
    "volume": 200,
    "hausse": null,
-   "debut": "2026-11-08T14:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "elche – betis",
-   "slug": "elche-betis",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-08T13:50:00",
+   "debut": "2026-11-08T21:50:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-08"
@@ -156,18 +132,6 @@
    "jour": "2026-11-08"
   },
   {
-   "mot": "inter miami",
-   "slug": "inter-miami",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-08T11:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
    "mot": "lens – marseille",
    "slug": "lens-marseille",
    "langue": "fr",
@@ -180,13 +144,13 @@
    "jour": "2026-11-08"
   },
   {
-   "mot": "benjamin netanyahu",
-   "slug": "benjamin-netanyahu",
+   "mot": "barca match",
+   "slug": "barca-match",
    "langue": "fr",
-   "categorie": "autre",
+   "categorie": "football",
    "volume": 100,
    "hausse": null,
-   "debut": "2026-11-08T12:10:00",
+   "debut": "2026-11-08T22:30:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-08"
@@ -204,6 +168,30 @@
    "jour": "2026-11-08"
   },
   {
+   "mot": "gta 6",
+   "slug": "gta-6",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-09T13:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-09"
+  },
+  {
+   "mot": "huile d'olive",
+   "slug": "huile-d-olive",
+   "langue": "fr",
+   "categorie": "commerce",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-09T06:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-09"
+  },
+  {
    "mot": "liga",
    "slug": "liga",
    "langue": "fr",
@@ -216,16 +204,28 @@
    "jour": "2026-11-08"
   },
   {
-   "mot": "naples – lazio",
-   "slug": "naples-lazio",
+   "mot": "teddy riner",
+   "slug": "teddy-riner",
    "langue": "fr",
-   "categorie": "football",
+   "categorie": "autre",
    "volume": 100,
    "hausse": null,
-   "debut": "2026-11-08T14:00:00",
+   "debut": "2026-11-09T16:50:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-08"
+   "jour": "2026-11-09"
+  },
+  {
+   "mot": "طماطم",
+   "slug": "طماطم",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-09T17:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-09"
   }
  ],
  "semaine": [
@@ -332,6 +332,18 @@
    "jour": "2026-11-04"
   },
   {
+   "mot": "classement atlético madrid – fc barcelone",
+   "slug": "classement-atletico-madrid-fc-barcelone",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 5000,
+   "hausse": null,
+   "debut": "2026-11-08T23:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-08"
+  },
+  {
    "mot": "classement valencia club de fútbol – real madrid",
    "slug": "classement-valencia-club-de-futbol-real-madrid",
    "langue": "fr",
@@ -389,22 +401,6 @@
    "jour": "2026-11-03"
   },
   {
-   "mot": "classement pakhtakor – al-nassr fc",
-   "slug": "classement-pakhtakor-al-nassr-fc",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-11-02T17:00:00",
-   "fin": "2026-11-02T22:10:00",
-   "liees": [
-    "pakhtakor – al-nassr fc",
-    "pakhtakor vs al-nassr",
-    "pakhtakor fc vs al-nassr standings"
-   ],
-   "jour": "2026-11-02"
-  },
-  {
    "mot": "examens concours education tn",
    "slug": "examens-concours-education-tn",
    "langue": "fr",
@@ -415,18 +411,6 @@
    "fin": "2026-11-04T22:10:00",
    "liees": [],
    "jour": "2026-11-03"
-  },
-  {
-   "mot": "grève",
-   "slug": "greve",
-   "langue": "fr",
-   "categorie": "emploi",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-11-02T13:40:00",
-   "fin": "2026-11-04T07:40:00",
-   "liees": [],
-   "jour": "2026-11-02"
   },
   {
    "mot": "man utd – roma",
@@ -443,21 +427,6 @@
     "manchester united"
    ],
    "jour": "2026-11-03"
-  },
-  {
-   "mot": "pakhtakor – al-nassr fc",
-   "slug": "pakhtakor-al-nassr-fc",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-11-02T14:20:00",
-   "fin": "2026-11-02T18:30:00",
-   "liees": [
-    "pakhtakor vs al-nassr",
-    "pakhtakor fc vs al-nassr standings"
-   ],
-   "jour": "2026-11-02"
   },
   {
    "mot": "rb leipzig – manchester city",
@@ -498,18 +467,6 @@
    "fin": "2026-11-04T06:10:00",
    "liees": [],
    "jour": "2026-11-03"
-  },
-  {
-   "mot": "ثعبان",
-   "slug": "ثعبان",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 2000,
-   "hausse": 400,
-   "debut": "2026-11-02T05:40:00",
-   "fin": "2026-11-03T07:50:00",
-   "liees": [],
-   "jour": "2026-11-02"
   },
   {
    "mot": "barca",
@@ -582,6 +539,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-08"
+  },
+  {
+   "mot": "قيس عبد الفتاح",
+   "slug": "قيس-عبد-الفتاح",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-09T02:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-09"
   },
   {
    "mot": "classement villarreal – paris saint-germain football club",
@@ -980,18 +949,6 @@
    "jour": "2026-11-04"
   },
   {
-   "mot": "meteo",
-   "slug": "meteo",
-   "langue": "fr",
-   "categorie": "meteo",
-   "volume": 500,
-   "hausse": 50,
-   "debut": "2026-11-02T07:00:00",
-   "fin": "2026-11-02T07:40:00",
-   "liees": [],
-   "jour": "2026-11-02"
-  },
-  {
    "mot": "aéroport de tunis-carthage",
    "slug": "aeroport-de-tunis-carthage",
    "langue": "fr",
@@ -1318,18 +1275,6 @@
    "jour": "2026-11-04"
   },
   {
-   "mot": "new england – inter miami",
-   "slug": "new-england-inter-miami",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": 400,
-   "debut": "2026-11-02T05:20:00",
-   "fin": "2026-11-02T08:20:00",
-   "liees": [],
-   "jour": "2026-11-02"
-  },
-  {
    "mot": "sports",
    "slug": "sports",
    "langue": "fr",
@@ -1352,20 +1297,6 @@
    "fin": "2026-11-04T00:20:00",
    "liees": [],
    "jour": "2026-11-03"
-  },
-  {
-   "mot": "طقس اليوم",
-   "slug": "طقس-اليوم",
-   "langue": "ar",
-   "categorie": "meteo",
-   "volume": 200,
-   "hausse": 100,
-   "debut": "2026-11-02T06:40:00",
-   "fin": "2026-11-02T07:30:00",
-   "liees": [
-    "الطقس غدًا"
-   ],
-   "jour": "2026-11-02"
   },
   {
    "mot": "az – juventus",
@@ -1450,6 +1381,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-07"
+  },
+  {
+   "mot": "fc barcelona",
+   "slug": "fc-barcelona",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-08T21:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-08"
   },
   {
    "mot": "fcb",
@@ -1728,18 +1671,6 @@
    "jour": "2026-11-04"
   },
   {
-   "mot": "pluie",
-   "slug": "pluie",
-   "langue": "fr",
-   "categorie": "meteo",
-   "volume": 100,
-   "hausse": 300,
-   "debut": "2026-11-02T05:50:00",
-   "fin": "2026-11-02T07:20:00",
-   "liees": [],
-   "jour": "2026-11-02"
-  },
-  {
    "mot": "tomate",
    "slug": "tomate",
    "langue": "fr",
@@ -1750,6 +1681,18 @@
    "fin": "2026-11-03T09:00:00",
    "liees": [],
    "jour": "2026-11-03"
+  },
+  {
+   "mot": "barca match",
+   "slug": "barca-match",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-08T22:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-08"
   },
   {
    "mot": "benjamin netanyahu",
@@ -1812,6 +1755,30 @@
    "jour": "2026-11-05"
   },
   {
+   "mot": "gta 6",
+   "slug": "gta-6",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-09T13:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-09"
+  },
+  {
+   "mot": "huile d'olive",
+   "slug": "huile-d-olive",
+   "langue": "fr",
+   "categorie": "commerce",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-09T06:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-09"
+  },
+  {
    "mot": "liga",
    "slug": "liga",
    "langue": "fr",
@@ -1860,6 +1827,18 @@
    "jour": "2026-11-07"
   },
   {
+   "mot": "teddy riner",
+   "slug": "teddy-riner",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-09T16:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-09"
+  },
+  {
    "mot": "twitch",
    "slug": "twitch",
    "langue": "fr",
@@ -1884,6 +1863,18 @@
    "jour": "2026-11-06"
   },
   {
+   "mot": "طماطم",
+   "slug": "طماطم",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-09T17:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-09"
+  },
+  {
    "mot": "نهاية العالم",
    "slug": "نهايه-العالم",
    "langue": "ar",
@@ -1898,28 +1889,28 @@
  ],
  "nouveautes": [
   {
-   "mot": "classement paris saint-germain football club – estac",
-   "slug": "classement-paris-saint-germain-football-club-estac",
+   "mot": "classement atlético madrid – fc barcelone",
+   "slug": "classement-atletico-madrid-fc-barcelone",
    "langue": "fr",
    "categorie": "football",
-   "volume": 2000,
+   "volume": 5000,
    "hausse": null,
-   "debut": "2026-11-07T23:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-07"
-  },
-  {
-   "mot": "الترجي الرياضي التونسي",
-   "slug": "الترجي-الرياضي-التونسي",
-   "langue": "ar",
-   "categorie": "football",
-   "volume": 2000,
-   "hausse": null,
-   "debut": "2026-11-08T10:00:00",
+   "debut": "2026-11-08T23:10:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-08"
+  },
+  {
+   "mot": "قيس عبد الفتاح",
+   "slug": "قيس-عبد-الفتاح",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-09T02:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-09"
   },
   {
    "mot": "fc barcelone",
@@ -1958,37 +1949,13 @@
    "jour": "2026-11-08"
   },
   {
-   "mot": "climat",
-   "slug": "climat",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-08T05:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "crystal palace – liverpool",
-   "slug": "crystal-palace-liverpool",
+   "mot": "fc barcelona",
+   "slug": "fc-barcelona",
    "langue": "fr",
    "categorie": "football",
    "volume": 200,
    "hausse": null,
-   "debut": "2026-11-08T14:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "elche – betis",
-   "slug": "elche-betis",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-08T13:50:00",
+   "debut": "2026-11-08T21:50:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-08"
@@ -2006,18 +1973,6 @@
    "jour": "2026-11-08"
   },
   {
-   "mot": "inter miami",
-   "slug": "inter-miami",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-08T11:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
    "mot": "lens – marseille",
    "slug": "lens-marseille",
    "langue": "fr",
@@ -2030,13 +1985,13 @@
    "jour": "2026-11-08"
   },
   {
-   "mot": "benjamin netanyahu",
-   "slug": "benjamin-netanyahu",
+   "mot": "barca match",
+   "slug": "barca-match",
    "langue": "fr",
-   "categorie": "autre",
+   "categorie": "football",
    "volume": 100,
    "hausse": null,
-   "debut": "2026-11-08T12:10:00",
+   "debut": "2026-11-08T22:30:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-08"
@@ -2054,6 +2009,30 @@
    "jour": "2026-11-08"
   },
   {
+   "mot": "gta 6",
+   "slug": "gta-6",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-09T13:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-09"
+  },
+  {
+   "mot": "huile d'olive",
+   "slug": "huile-d-olive",
+   "langue": "fr",
+   "categorie": "commerce",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-09T06:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-09"
+  },
+  {
    "mot": "liga",
    "slug": "liga",
    "langue": "fr",
@@ -2066,16 +2045,16 @@
    "jour": "2026-11-08"
   },
   {
-   "mot": "naples – lazio",
-   "slug": "naples-lazio",
+   "mot": "teddy riner",
+   "slug": "teddy-riner",
    "langue": "fr",
-   "categorie": "football",
+   "categorie": "autre",
    "volume": 100,
    "hausse": null,
-   "debut": "2026-11-08T14:00:00",
+   "debut": "2026-11-09T16:50:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-08"
+   "jour": "2026-11-09"
   }
  ],
  "hausses": [
@@ -2156,49 +2135,6 @@
     "champions league"
    ],
    "jour": "2026-11-03"
-  },
-  {
-   "mot": "pakhtakor – al-nassr fc",
-   "slug": "pakhtakor-al-nassr-fc",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-11-02T14:20:00",
-   "fin": "2026-11-02T18:30:00",
-   "liees": [
-    "pakhtakor vs al-nassr",
-    "pakhtakor fc vs al-nassr standings"
-   ],
-   "jour": "2026-11-02"
-  },
-  {
-   "mot": "grève",
-   "slug": "greve",
-   "langue": "fr",
-   "categorie": "emploi",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-11-02T13:40:00",
-   "fin": "2026-11-04T07:40:00",
-   "liees": [],
-   "jour": "2026-11-02"
-  },
-  {
-   "mot": "classement pakhtakor – al-nassr fc",
-   "slug": "classement-pakhtakor-al-nassr-fc",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-11-02T17:00:00",
-   "fin": "2026-11-02T22:10:00",
-   "liees": [
-    "pakhtakor – al-nassr fc",
-    "pakhtakor vs al-nassr",
-    "pakhtakor fc vs al-nassr standings"
-   ],
-   "jour": "2026-11-02"
   },
   {
    "mot": "شتاء",
@@ -2852,6 +2788,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-07"
+  },
+  {
+   "mot": "classement atlético madrid – fc barcelone",
+   "slug": "classement-atletico-madrid-fc-barcelone",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 5000,
+   "hausse": null,
+   "debut": "2026-11-08T23:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-08"
   }
  ],
  "retombees": [
@@ -2872,6 +2820,18 @@
     "championnat tunisie"
    ],
    "jour": "2026-10-29"
+  },
+  {
+   "mot": "météo",
+   "slug": "meteo",
+   "langue": "fr",
+   "categorie": "meteo",
+   "volume": 20000,
+   "hausse": 100,
+   "debut": "2026-10-30T06:30:00",
+   "fin": "2026-10-30T08:50:00",
+   "liees": [],
+   "jour": "2026-10-30"
   },
   {
    "mot": "météo demain",
@@ -3149,6 +3109,34 @@
    "jour": "2026-10-30"
   },
   {
+   "mot": "classement pakhtakor – al-nassr fc",
+   "slug": "classement-pakhtakor-al-nassr-fc",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 2000,
+   "hausse": 1000,
+   "debut": "2026-11-02T17:00:00",
+   "fin": "2026-11-02T22:10:00",
+   "liees": [
+    "pakhtakor – al-nassr fc",
+    "pakhtakor vs al-nassr",
+    "pakhtakor fc vs al-nassr standings"
+   ],
+   "jour": "2026-11-02"
+  },
+  {
+   "mot": "grève",
+   "slug": "greve",
+   "langue": "fr",
+   "categorie": "emploi",
+   "volume": 2000,
+   "hausse": 1000,
+   "debut": "2026-11-02T13:40:00",
+   "fin": "2026-11-04T07:40:00",
+   "liees": [],
+   "jour": "2026-11-02"
+  },
+  {
    "mot": "le havre – paris-sg",
    "slug": "le-havre-paris-sg",
    "langue": "fr",
@@ -3190,6 +3178,21 @@
    "fin": "2026-10-29T10:10:00",
    "liees": [],
    "jour": "2026-10-28"
+  },
+  {
+   "mot": "pakhtakor – al-nassr fc",
+   "slug": "pakhtakor-al-nassr-fc",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 2000,
+   "hausse": 1000,
+   "debut": "2026-11-02T14:20:00",
+   "fin": "2026-11-02T18:30:00",
+   "liees": [
+    "pakhtakor vs al-nassr",
+    "pakhtakor fc vs al-nassr standings"
+   ],
+   "jour": "2026-11-02"
   },
   {
    "mot": "racing santander vs real madrid",
@@ -3478,6 +3481,18 @@
    "jour": "2026-10-31"
   },
   {
+   "mot": "ثعبان",
+   "slug": "ثعبان",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": 400,
+   "debut": "2026-10-30T05:40:00",
+   "fin": "2026-10-31T09:10:00",
+   "liees": [],
+   "jour": "2026-10-30"
+  },
+  {
    "mot": "ac milan – bologne",
    "slug": "ac-milan-bologne",
    "langue": "fr",
@@ -3600,71 +3615,6 @@
     "ريال مدريد"
    ],
    "jour": "2026-11-01"
-  },
-  {
-   "mot": "تهريب",
-   "slug": "تهريب",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 500,
-   "hausse": 900,
-   "debut": "2026-10-26T19:50:00",
-   "fin": "2026-10-27T07:30:00",
-   "liees": [],
-   "jour": "2026-10-26"
-  },
-  {
-   "mot": "patrick stewart",
-   "slug": "patrick-stewart",
-   "langue": "fr",
-   "categorie": "divertissement",
-   "volume": 500,
-   "hausse": 800,
-   "debut": "2026-10-29T21:40:00",
-   "fin": "2026-10-30T09:50:00",
-   "liees": [],
-   "jour": "2026-10-29"
-  },
-  {
-   "mot": "وزارة الدفاع الوطني",
-   "slug": "وزاره-الدفاع-الوطني",
-   "langue": "ar",
-   "categorie": "administration",
-   "volume": 500,
-   "hausse": 800,
-   "debut": "2026-10-30T18:00:00",
-   "fin": "2026-10-31T07:10:00",
-   "liees": [
-    "وزارة الدفاع"
-   ],
-   "jour": "2026-10-30"
-  },
-  {
-   "mot": "vincent kompany",
-   "slug": "vincent-kompany",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 500,
-   "hausse": 700,
-   "debut": "2026-11-01T09:40:00",
-   "fin": "2026-11-01T17:10:00",
-   "liees": [],
-   "jour": "2026-11-01"
-  },
-  {
-   "mot": "inter milan",
-   "slug": "inter-milan",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 500,
-   "hausse": 600,
-   "debut": "2026-10-31T21:30:00",
-   "fin": "2026-11-01T07:50:00",
-   "liees": [
-    "ac milan",
-    "milan vs inter"
-   ],
-   "jour": "2026-10-31"
   }
  ],
  "recurrents": [
@@ -3856,7 +3806,7 @@
   "emploi": {
    "fr": "Emploi et concours",
    "ar": "الشغل والمناظرات",
-   "n_semaine": 4,
+   "n_semaine": 3,
    "n_mois": 4,
    "top": [
     {
@@ -3870,18 +3820,6 @@
      "fin": "2026-11-04T22:10:00",
      "liees": [],
      "jour": "2026-11-03"
-    },
-    {
-     "mot": "grève",
-     "slug": "greve",
-     "langue": "fr",
-     "categorie": "emploi",
-     "volume": 2000,
-     "hausse": 1000,
-     "debut": "2026-11-02T13:40:00",
-     "fin": "2026-11-04T07:40:00",
-     "liees": [],
-     "jour": "2026-11-02"
     },
     {
      "mot": "salaire",
@@ -4002,8 +3940,8 @@
   "commerce": {
    "fr": "Commerce et consommation",
    "ar": "التجارة والاستهلاك",
-   "n_semaine": 1,
-   "n_mois": 5,
+   "n_semaine": 2,
+   "n_mois": 6,
    "top": [
     {
      "mot": "tomate",
@@ -4016,9 +3954,34 @@
      "fin": "2026-11-03T09:00:00",
      "liees": [],
      "jour": "2026-11-03"
+    },
+    {
+     "mot": "huile d'olive",
+     "slug": "huile-d-olive",
+     "langue": "fr",
+     "categorie": "commerce",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-09T06:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
     }
    ],
-   "top24": []
+   "top24": [
+    {
+     "mot": "huile d'olive",
+     "slug": "huile-d-olive",
+     "langue": "fr",
+     "categorie": "commerce",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-09T06:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
+    }
+   ]
   },
   "technologie": {
    "fr": "Technologie",
@@ -4107,7 +4070,7 @@
    "fr": "Football",
    "ar": "كرة القدم",
    "n_semaine": 65,
-   "n_mois": 187,
+   "n_mois": 190,
    "top": [
     {
      "mot": "classement stade tunisien – club africain",
@@ -4186,6 +4149,18 @@
      "jour": "2026-11-03"
     },
     {
+     "mot": "classement atlético madrid – fc barcelone",
+     "slug": "classement-atletico-madrid-fc-barcelone",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 5000,
+     "hausse": null,
+     "debut": "2026-11-08T23:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-08"
+    },
+    {
      "mot": "classement valencia club de fútbol – real madrid",
      "slug": "classement-valencia-club-de-futbol-real-madrid",
      "langue": "fr",
@@ -4228,22 +4203,6 @@
      "jour": "2026-11-03"
     },
     {
-     "mot": "classement pakhtakor – al-nassr fc",
-     "slug": "classement-pakhtakor-al-nassr-fc",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 2000,
-     "hausse": 1000,
-     "debut": "2026-11-02T17:00:00",
-     "fin": "2026-11-02T22:10:00",
-     "liees": [
-      "pakhtakor – al-nassr fc",
-      "pakhtakor vs al-nassr",
-      "pakhtakor fc vs al-nassr standings"
-     ],
-     "jour": "2026-11-02"
-    },
-    {
      "mot": "man utd – roma",
      "slug": "man-utd-roma",
      "langue": "fr",
@@ -4258,21 +4217,6 @@
       "manchester united"
      ],
      "jour": "2026-11-03"
-    },
-    {
-     "mot": "pakhtakor – al-nassr fc",
-     "slug": "pakhtakor-al-nassr-fc",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 2000,
-     "hausse": 1000,
-     "debut": "2026-11-02T14:20:00",
-     "fin": "2026-11-02T18:30:00",
-     "liees": [
-      "pakhtakor vs al-nassr",
-      "pakhtakor fc vs al-nassr standings"
-     ],
-     "jour": "2026-11-02"
     },
     {
      "mot": "rb leipzig – manchester city",
@@ -4655,18 +4599,6 @@
      "jour": "2026-11-04"
     },
     {
-     "mot": "new england – inter miami",
-     "slug": "new-england-inter-miami",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 200,
-     "hausse": 400,
-     "debut": "2026-11-02T05:20:00",
-     "fin": "2026-11-02T08:20:00",
-     "liees": [],
-     "jour": "2026-11-02"
-    },
-    {
      "mot": "uefa champions league",
      "slug": "uefa-champions-league",
      "langue": "fr",
@@ -4722,6 +4654,18 @@
      "volume": 200,
      "hausse": null,
      "debut": "2026-11-08T13:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-08"
+    },
+    {
+     "mot": "fc barcelona",
+     "slug": "fc-barcelona",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-08T21:50:00",
      "fin": null,
      "liees": [],
      "jour": "2026-11-08"
@@ -4871,6 +4815,18 @@
      "jour": "2026-11-04"
     },
     {
+     "mot": "barca match",
+     "slug": "barca-match",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-08T22:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-08"
+    },
+    {
      "mot": "cristiano ronaldo",
      "slug": "cristiano-ronaldo",
      "langue": "fr",
@@ -4885,28 +4841,16 @@
    ],
    "top24": [
     {
-     "mot": "valence – real madrid",
-     "slug": "valence-real-madrid",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 10000,
-     "hausse": null,
-     "debut": "2026-11-07T20:10:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-07"
-    },
-    {
-     "mot": "classement valencia club de fútbol – real madrid",
-     "slug": "classement-valencia-club-de-futbol-real-madrid",
+     "mot": "classement atlético madrid – fc barcelone",
+     "slug": "classement-atletico-madrid-fc-barcelone",
      "langue": "fr",
      "categorie": "football",
      "volume": 5000,
      "hausse": null,
-     "debut": "2026-11-07T23:10:00",
+     "debut": "2026-11-08T23:10:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-07"
+     "jour": "2026-11-08"
     },
     {
      "mot": "barca",
@@ -4919,30 +4863,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-08"
-    },
-    {
-     "mot": "classement paris saint-germain football club – estac",
-     "slug": "classement-paris-saint-germain-football-club-estac",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 2000,
-     "hausse": null,
-     "debut": "2026-11-07T23:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-07"
-    },
-    {
-     "mot": "valencia vs real madrid",
-     "slug": "valencia-vs-real-madrid",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 2000,
-     "hausse": null,
-     "debut": "2026-11-07T20:20:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-07"
     },
     {
      "mot": "الترجي الرياضي التونسي",
@@ -4993,16 +4913,52 @@
      "jour": "2026-11-08"
     },
     {
-     "mot": "classement nottingham forest – manchester city",
-     "slug": "classement-nottingham-forest-manchester-city",
+     "mot": "classement inter milan – como 1907",
+     "slug": "classement-inter-milan-como-1907",
      "langue": "fr",
      "categorie": "football",
-     "volume": 500,
+     "volume": 200,
      "hausse": null,
-     "debut": "2026-11-07T20:50:00",
+     "debut": "2026-11-08T20:40:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-07"
+     "jour": "2026-11-08"
+    },
+    {
+     "mot": "crystal palace – liverpool",
+     "slug": "crystal-palace-liverpool",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-08T14:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-08"
+    },
+    {
+     "mot": "elche – betis",
+     "slug": "elche-betis",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-08T13:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-08"
+    },
+    {
+     "mot": "fc barcelona",
+     "slug": "fc-barcelona",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-08T21:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-08"
     }
    ]
   },
@@ -5201,7 +5157,7 @@
   "meteo": {
    "fr": "Météo",
    "ar": "الطقس",
-   "n_semaine": 5,
+   "n_semaine": 2,
    "n_mois": 11,
    "top": [
     {
@@ -5217,18 +5173,6 @@
      "jour": "2026-11-04"
     },
     {
-     "mot": "meteo",
-     "slug": "meteo",
-     "langue": "fr",
-     "categorie": "meteo",
-     "volume": 500,
-     "hausse": 50,
-     "debut": "2026-11-02T07:00:00",
-     "fin": "2026-11-02T07:40:00",
-     "liees": [],
-     "jour": "2026-11-02"
-    },
-    {
      "mot": "مطر",
      "slug": "مطر",
      "langue": "ar",
@@ -5239,48 +5183,9 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-07"
-    },
-    {
-     "mot": "طقس اليوم",
-     "slug": "طقس-اليوم",
-     "langue": "ar",
-     "categorie": "meteo",
-     "volume": 200,
-     "hausse": 100,
-     "debut": "2026-11-02T06:40:00",
-     "fin": "2026-11-02T07:30:00",
-     "liees": [
-      "الطقس غدًا"
-     ],
-     "jour": "2026-11-02"
-    },
-    {
-     "mot": "pluie",
-     "slug": "pluie",
-     "langue": "fr",
-     "categorie": "meteo",
-     "volume": 100,
-     "hausse": 300,
-     "debut": "2026-11-02T05:50:00",
-     "fin": "2026-11-02T07:20:00",
-     "liees": [],
-     "jour": "2026-11-02"
     }
    ],
-   "top24": [
-    {
-     "mot": "مطر",
-     "slug": "مطر",
-     "langue": "ar",
-     "categorie": "meteo",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-07T12:00:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-07"
-    }
-   ]
+   "top24": []
   },
   "politique": {
    "fr": "Politique et actualité",
@@ -5364,21 +5269,9 @@
   "autre": {
    "fr": "Autre",
    "ar": "أخرى",
-   "n_semaine": 27,
-   "n_mois": 32,
+   "n_semaine": 30,
+   "n_mois": 36,
    "top": [
-    {
-     "mot": "ثعبان",
-     "slug": "ثعبان",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 2000,
-     "hausse": 400,
-     "debut": "2026-11-02T05:40:00",
-     "fin": "2026-11-03T07:50:00",
-     "liees": [],
-     "jour": "2026-11-02"
-    },
     {
      "mot": "paris-sg – troyes",
      "slug": "paris-sg-troyes",
@@ -5390,6 +5283,18 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-07"
+    },
+    {
+     "mot": "قيس عبد الفتاح",
+     "slug": "قيس-عبد-الفتاح",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-09T02:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
     },
     {
      "mot": "sonia mabrouk",
@@ -5656,6 +5561,30 @@
      "jour": "2026-11-08"
     },
     {
+     "mot": "gta 6",
+     "slug": "gta-6",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-09T13:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
+    },
+    {
+     "mot": "teddy riner",
+     "slug": "teddy-riner",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-09T16:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
+    },
+    {
      "mot": "twitch",
      "slug": "twitch",
      "langue": "fr",
@@ -5680,6 +5609,18 @@
      "jour": "2026-11-06"
     },
     {
+     "mot": "طماطم",
+     "slug": "طماطم",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-09T17:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
+    },
+    {
      "mot": "نهاية العالم",
      "slug": "نهايه-العالم",
      "langue": "ar",
@@ -5694,52 +5635,16 @@
    ],
    "top24": [
     {
-     "mot": "paris-sg – troyes",
-     "slug": "paris-sg-troyes",
-     "langue": "fr",
+     "mot": "قيس عبد الفتاح",
+     "slug": "قيس-عبد-الفتاح",
+     "langue": "ar",
      "categorie": "autre",
      "volume": 2000,
      "hausse": null,
-     "debut": "2026-11-07T20:20:00",
+     "debut": "2026-11-09T02:30:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-07"
-    },
-    {
-     "mot": "weather",
-     "slug": "weather",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-07T07:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-07"
-    },
-    {
-     "mot": "weather tomorrow",
-     "slug": "weather-tomorrow",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-07T20:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-07"
-    },
-    {
-     "mot": "تونس",
-     "slug": "تونس",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-07T05:10:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-07"
+     "jour": "2026-11-09"
     },
     {
      "mot": "climat",
@@ -5754,18 +5659,6 @@
      "jour": "2026-11-08"
     },
     {
-     "mot": "es tunis vs monastir",
-     "slug": "es-tunis-vs-monastir",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-07T14:20:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-07"
-    },
-    {
      "mot": "fcb",
      "slug": "fcb",
      "langue": "fr",
@@ -5778,30 +5671,6 @@
      "jour": "2026-11-08"
     },
     {
-     "mot": "الخبر",
-     "slug": "الخبر",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-07T07:20:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-07"
-    },
-    {
-     "mot": "طماطم",
-     "slug": "طماطم",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-07T05:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-07"
-    },
-    {
      "mot": "benjamin netanyahu",
      "slug": "benjamin-netanyahu",
      "langue": "fr",
@@ -5812,6 +5681,54 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-08"
+    },
+    {
+     "mot": "dana white",
+     "slug": "dana-white",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-08T20:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-08"
+    },
+    {
+     "mot": "gta 6",
+     "slug": "gta-6",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-09T13:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
+    },
+    {
+     "mot": "teddy riner",
+     "slug": "teddy-riner",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-09T16:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
+    },
+    {
+     "mot": "طماطم",
+     "slug": "طماطم",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-09T17:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
     }
    ]
   }
@@ -5832,20 +5749,6 @@
    "jour": "2026-11-03",
    "intention": false,
    "score": 20000.0
-  },
-  {
-   "mot": "grève",
-   "slug": "greve",
-   "langue": "fr",
-   "categorie": "emploi",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-11-02T13:40:00",
-   "fin": "2026-11-04T07:40:00",
-   "liees": [],
-   "jour": "2026-11-02",
-   "intention": false,
-   "score": 4000.0
   },
   {
    "mot": "شتاء",
@@ -5909,8 +5812,83 @@
  ],
  "historique": {
   "semaines": {
+   "2026-11-09": {
+    "n": 5,
+    "top": [
+     {
+      "mot": "قيس عبد الفتاح",
+      "slug": "قيس-عبد-الفتاح",
+      "langue": "ar",
+      "categorie": "autre",
+      "volume": 2000,
+      "hausse": null,
+      "debut": "2026-11-09T02:30:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-09"
+     },
+     {
+      "mot": "gta 6",
+      "slug": "gta-6",
+      "langue": "fr",
+      "categorie": "autre",
+      "volume": 100,
+      "hausse": null,
+      "debut": "2026-11-09T13:50:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-09"
+     },
+     {
+      "mot": "huile d'olive",
+      "slug": "huile-d-olive",
+      "langue": "fr",
+      "categorie": "commerce",
+      "volume": 100,
+      "hausse": null,
+      "debut": "2026-11-09T06:20:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-09"
+     },
+     {
+      "mot": "teddy riner",
+      "slug": "teddy-riner",
+      "langue": "fr",
+      "categorie": "autre",
+      "volume": 100,
+      "hausse": null,
+      "debut": "2026-11-09T16:50:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-09"
+     },
+     {
+      "mot": "طماطم",
+      "slug": "طماطم",
+      "langue": "ar",
+      "categorie": "autre",
+      "volume": 100,
+      "hausse": null,
+      "debut": "2026-11-09T17:20:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-09"
+     }
+    ],
+    "categories": [
+     {
+      "cle": "autre",
+      "n": 4
+     },
+     {
+      "cle": "commerce",
+      "n": 1
+     }
+    ]
+   },
    "2026-11-02": {
-    "n": 133,
+    "n": 136,
     "top": [
      {
       "mot": "classement stade tunisien – club africain",
@@ -6015,6 +5993,18 @@
       "jour": "2026-11-04"
      },
      {
+      "mot": "classement atlético madrid – fc barcelone",
+      "slug": "classement-atletico-madrid-fc-barcelone",
+      "langue": "fr",
+      "categorie": "football",
+      "volume": 5000,
+      "hausse": null,
+      "debut": "2026-11-08T23:10:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-08"
+     },
+     {
       "mot": "classement valencia club de fútbol – real madrid",
       "slug": "classement-valencia-club-de-futbol-real-madrid",
       "langue": "fr",
@@ -6040,27 +6030,12 @@
        "real vs"
       ],
       "jour": "2026-11-04"
-     },
-     {
-      "mot": "atlético madrid – bayern",
-      "slug": "atletico-madrid-bayern",
-      "langue": "fr",
-      "categorie": "football",
-      "volume": 2000,
-      "hausse": 1000,
-      "debut": "2026-11-03T20:20:00",
-      "fin": "2026-11-04T09:00:00",
-      "liees": [
-       "bayern munich",
-       "atlético vs bayern"
-      ],
-      "jour": "2026-11-03"
      }
     ],
     "categories": [
      {
       "cle": "football",
-      "n": 65
+      "n": 68
      },
      {
       "cle": "autre",
@@ -6511,7 +6486,7 @@
   },
   "mois": {
    "2026-11": {
-    "n": 157,
+    "n": 165,
     "top": [
      {
       "mot": "classement stade tunisien – club africain",
@@ -6628,6 +6603,18 @@
       "jour": "2026-11-04"
      },
      {
+      "mot": "classement atlético madrid – fc barcelone",
+      "slug": "classement-atletico-madrid-fc-barcelone",
+      "langue": "fr",
+      "categorie": "football",
+      "volume": 5000,
+      "hausse": null,
+      "debut": "2026-11-08T23:10:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-08"
+     },
+     {
       "mot": "classement valencia club de fútbol – real madrid",
       "slug": "classement-valencia-club-de-futbol-real-madrid",
       "langue": "fr",
@@ -6638,31 +6625,16 @@
       "fin": null,
       "liees": [],
       "jour": "2026-11-07"
-     },
-     {
-      "mot": "aek vs real madrid",
-      "slug": "aek-vs-real-madrid",
-      "langue": "fr",
-      "categorie": "football",
-      "volume": 2000,
-      "hausse": 1000,
-      "debut": "2026-11-04T18:00:00",
-      "fin": "2026-11-04T23:00:00",
-      "liees": [
-       "aek athens f.c. vs real madrid standings",
-       "real vs"
-      ],
-      "jour": "2026-11-04"
      }
     ],
     "categories": [
      {
       "cle": "football",
-      "n": 82
+      "n": 85
      },
      {
       "cle": "autre",
-      "n": 27
+      "n": 31
      },
      {
       "cle": "sport",
@@ -6701,12 +6673,12 @@
       "n": 2
      },
      {
-      "cle": "tourisme",
+      "cle": "commerce",
       "n": 2
      },
      {
-      "cle": "commerce",
-      "n": 1
+      "cle": "tourisme",
+      "n": 2
      },
      {
       "cle": "education",
@@ -6939,46 +6911,10 @@
   "passage": "2026-11-08",
   "nouveaux": [
    {
-    "mot": "acheter voiture leasing tunisie",
-    "langue": "fr",
-    "categorie": "automobile",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "aid fitr 2027",
-    "langue": "fr",
-    "categorie": "religion",
-    "apparu": "2026-11-01"
-   },
-   {
     "mot": "appartement a louer san francisco",
     "langue": "fr",
     "categorie": "immobilier",
     "apparu": "2026-11-08"
-   },
-   {
-    "mot": "appartement a louer tunis",
-    "langue": "fr",
-    "categorie": "immobilier",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "automobile tn",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "bac web",
-    "langue": "fr",
-    "categorie": "education",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "banque de tunisie",
-    "langue": "fr",
-    "categorie": "finance",
-    "apparu": "2026-11-01"
    },
    {
     "mot": "banque nationale agricole",
@@ -6987,250 +6923,10 @@
     "apparu": "2026-11-08"
    },
    {
-    "mot": "barca",
-    "langue": "fr",
-    "categorie": "football",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "bebe rexha",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "bet365",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "cafe de delice",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
     "mot": "carrefour los angeles",
     "langue": "fr",
     "categorie": "commerce",
     "apparu": "2026-11-08"
-   },
-   {
-    "mot": "carrefour tunis",
-    "langue": "fr",
-    "categorie": "commerce",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "chat gpt",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "chatgpt",
-    "langue": "fr",
-    "categorie": "technologie",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "chien malinois",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "cnam tunisie",
-    "langue": "fr",
-    "categorie": "sante",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "cnss tunisie",
-    "langue": "fr",
-    "categorie": "emploi",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "combien de cartouches de cigarettes peut on ramener de tunisie",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "comment connaître mon numéro ooredoo",
-    "langue": "fr",
-    "categorie": "technologie",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "concours tunisie",
-    "langue": "fr",
-    "categorie": "emploi",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "coupe du monde",
-    "langue": "fr",
-    "categorie": "football",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "coupe du monde 2026",
-    "langue": "fr",
-    "categorie": "football",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "credit agricole",
-    "langue": "fr",
-    "categorie": "finance",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "credit sur l'honneur",
-    "langue": "fr",
-    "categorie": "finance",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "decathlon",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "dinar euro",
-    "langue": "fr",
-    "categorie": "finance",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "dinar tunisien",
-    "langue": "fr",
-    "categorie": "finance",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "e-houwiya inscription",
-    "langue": "fr",
-    "categorie": "education",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "ecnam",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "emploi nat tn",
-    "langue": "fr",
-    "categorie": "emploi",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "emploi tunisie",
-    "langue": "fr",
-    "categorie": "emploi",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "est",
-    "langue": "fr",
-    "categorie": "football",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "facebook",
-    "langue": "fr",
-    "categorie": "technologie",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "film weekend tunisie",
-    "langue": "fr",
-    "categorie": "divertissement",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "formation tunisie",
-    "langue": "fr",
-    "categorie": "education",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "google traduction",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "hamadi abid",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "hopital militaire tunis",
-    "langue": "fr",
-    "categorie": "sante",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "hotel hammamet",
-    "langue": "fr",
-    "categorie": "tourisme",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "huile",
-    "langue": "fr",
-    "categorie": "commerce",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "huile d'olive",
-    "langue": "fr",
-    "categorie": "commerce",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "huile végétale",
-    "langue": "fr",
-    "categorie": "commerce",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "inscription tn",
-    "langue": "fr",
-    "categorie": "education",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "inscription universitaire",
-    "langue": "fr",
-    "categorie": "education",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "instagram",
-    "langue": "fr",
-    "categorie": "technologie",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "iphone 18 pro max",
-    "langue": "fr",
-    "categorie": "technologie",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "jeux",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
    },
    {
     "mot": "jj gabriel",
@@ -7239,190 +6935,10 @@
     "apparu": "2026-11-08"
    },
    {
-    "mot": "journal officiel de la république tunisienne",
-    "langue": "fr",
-    "categorie": "administration",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "jumia tunisie",
-    "langue": "fr",
-    "categorie": "commerce",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "koora live",
-    "langue": "fr",
-    "categorie": "football",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "la liga",
-    "langue": "fr",
-    "categorie": "football",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "lait de corps",
-    "langue": "fr",
-    "categorie": "commerce",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "ligue 1",
-    "langue": "fr",
-    "categorie": "football",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "linkedin",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "location voiture",
-    "langue": "fr",
-    "categorie": "automobile",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "louer appartement autour de moi",
-    "langue": "fr",
-    "categorie": "immobilier",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "louer une voiture en tunisie",
-    "langue": "fr",
-    "categorie": "automobile",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "maison de senteur",
-    "langue": "fr",
-    "categorie": "immobilier",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "mariage cristiano ronaldo",
-    "langue": "fr",
-    "categorie": "football",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "match aujourd'hui",
-    "langue": "fr",
-    "categorie": "football",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "medecin orthopediste",
-    "langue": "fr",
-    "categorie": "sante",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "meilleur taux de change tunisie aujourd'hui",
-    "langue": "fr",
-    "categorie": "finance",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "meteo tunis",
-    "langue": "fr",
-    "categorie": "meteo",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "mondial relay",
-    "langue": "fr",
-    "categorie": "football",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "mondial u15",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "monoprix tunisie",
-    "langue": "fr",
-    "categorie": "commerce",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "médecin généraliste autour de moi",
-    "langue": "fr",
-    "categorie": "sante",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "météo",
-    "langue": "fr",
-    "categorie": "meteo",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "nouvelair",
-    "langue": "fr",
-    "categorie": "tourisme",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "ooredoo",
-    "langue": "fr",
-    "categorie": "technologie",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "ooredoo facture",
-    "langue": "fr",
-    "categorie": "technologie",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "ooredoo tunisie",
-    "langue": "fr",
-    "categorie": "technologie",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "orange tunisie",
-    "langue": "fr",
-    "categorie": "technologie",
-    "apparu": "2026-11-01"
-   },
-   {
     "mot": "ou manger san francisco",
     "langue": "fr",
     "categorie": "autre",
     "apparu": "2026-11-08"
-   },
-   {
-    "mot": "ou manger tunis",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "panneau solaire prix tunisie",
-    "langue": "fr",
-    "categorie": "energie",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "pas cher bizerte",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "permis de conduire",
-    "langue": "fr",
-    "categorie": "automobile",
-    "apparu": "2026-11-01"
    },
    {
     "mot": "pharmacie san francisco",
@@ -7431,64 +6947,10 @@
     "apparu": "2026-11-08"
    },
    {
-    "mot": "pharmacie tunis",
-    "langue": "fr",
-    "categorie": "sante",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "pinterest",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
     "mot": "pizza san francisco",
     "langue": "fr",
     "categorie": "autre",
     "apparu": "2026-11-08"
-   },
-   {
-    "mot": "pizza tunis",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "prix de voiture neuve en tunisie",
-    "langue": "fr",
-    "categorie": "automobile",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "prix voiture neuve tunisie",
-    "langue": "fr",
-    "categorie": "automobile",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "qatar airways",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "ramadan 2027",
-    "langue": "fr",
-    "categorie": "religion",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "real madrid",
-    "langue": "fr",
-    "categorie": "football",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "recrutement tunisie 2026",
-    "langue": "fr",
-    "categorie": "emploi",
-    "apparu": "2026-11-01"
    },
    {
     "mot": "restaurant sacramento",
@@ -7497,346 +6959,856 @@
     "apparu": "2026-11-08"
    },
    {
-    "mot": "restaurant tunis",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "resultat foot",
-    "langue": "fr",
-    "categorie": "education",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "resultat promosport",
-    "langue": "fr",
-    "categorie": "education",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "salaire brut net",
-    "langue": "fr",
-    "categorie": "emploi",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "samsung a17",
-    "langue": "fr",
-    "categorie": "technologie",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "sfax meteo",
-    "langue": "fr",
-    "categorie": "meteo",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "sousse meteo",
-    "langue": "fr",
-    "categorie": "meteo",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "steg",
-    "langue": "fr",
-    "categorie": "energie",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "steg tunisie",
-    "langue": "fr",
-    "categorie": "energie",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "sucre stevia",
-    "langue": "fr",
-    "categorie": "commerce",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "tayara tn",
-    "langue": "fr",
-    "categorie": "commerce",
-    "apparu": "2026-11-01"
-   },
-   {
     "mot": "terrain a vendre los angeles",
     "langue": "fr",
     "categorie": "immobilier",
     "apparu": "2026-11-08"
    },
    {
-    "mot": "terrain a vendre tunis",
-    "langue": "fr",
-    "categorie": "immobilier",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "traduction",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "tunis meteo",
-    "langue": "fr",
-    "categorie": "meteo",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "tunisie booking",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "ubett",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "vente accessoires chic",
-    "langue": "fr",
-    "categorie": "commerce",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "vie scolaire",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "visa france",
-    "langue": "fr",
-    "categorie": "tourisme",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "voiture neuve",
-    "langue": "fr",
-    "categorie": "automobile",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "vol tunis paris",
-    "langue": "fr",
-    "categorie": "tourisme",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "whatsapp",
-    "langue": "fr",
-    "categorie": "technologie",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "xxl",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "youtube",
-    "langue": "fr",
-    "categorie": "technologie",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "zara tunisie",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "اجر صلاة الضحى",
-    "langue": "ar",
-    "categorie": "emploi",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "ارض زيكولا",
+    "mot": "زومبا",
     "langue": "ar",
     "categorie": "autre",
-    "apparu": "2026-11-01"
+    "apparu": "2026-11-08"
    },
    {
-    "mot": "اسعار الذهب في تونس",
+    "mot": "طبيب بيطري",
     "langue": "ar",
-    "categorie": "commerce",
-    "apparu": "2026-11-01"
+    "categorie": "sante",
+    "apparu": "2026-11-08"
    },
    {
-    "mot": "افضل حساسية فري فاير لجميع الهواتف",
+    "mot": "غياتي ويب ريمونتادا",
     "langue": "ar",
     "categorie": "autre",
-    "apparu": "2026-11-01"
+    "apparu": "2026-11-08"
    },
    {
-    "mot": "افضل مسلسل كوميدي",
+    "mot": "فيلم خلي بالك من نفسك",
     "langue": "ar",
     "categorie": "divertissement",
-    "apparu": "2026-11-01"
+    "apparu": "2026-11-08"
    },
    {
-    "mot": "انتداب وزارة الداخلية 2026",
+    "mot": "مرض فيروس إيبولا",
     "langue": "ar",
+    "categorie": "sante",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "appartement a louer los angeles",
+    "langue": "fr",
+    "categorie": "immobilier",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "concours tunisie 2026",
+    "langue": "fr",
     "categorie": "emploi",
-    "apparu": "2026-11-01"
+    "apparu": "2026-11-08"
    },
    {
-    "mot": "انتداب وزارة الدفاع",
-    "langue": "ar",
-    "categorie": "emploi",
-    "apparu": "2026-11-01"
+    "mot": "drama live",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
    },
    {
-    "mot": "اوريدو تونس",
-    "langue": "ar",
-    "categorie": "technologie",
-    "apparu": "2026-11-01"
+    "mot": "hotel la foret",
+    "langue": "fr",
+    "categorie": "tourisme",
+    "apparu": "2026-11-08"
    },
    {
-    "mot": "اوقات الصلاة",
-    "langue": "ar",
-    "categorie": "religion",
-    "apparu": "2026-11-01"
+    "mot": "ou manger los angeles",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
    },
    {
-    "mot": "باكالوريا اداب",
-    "langue": "ar",
-    "categorie": "education",
-    "apparu": "2026-11-01"
+    "mot": "pharmacie portland",
+    "langue": "fr",
+    "categorie": "sante",
+    "apparu": "2026-11-08"
    },
    {
-    "mot": "برشلونة",
+    "mot": "pizza nevada",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "restaurant san francisco",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "valence – real madrid",
+    "langue": "fr",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "البطولة التونسية",
     "langue": "ar",
     "categorie": "football",
-    "apparu": "2026-11-01"
+    "apparu": "2026-11-08"
    },
    {
-    "mot": "بنك الزيتونة",
+    "mot": "صيدلية مفتوحة اليوم",
     "langue": "ar",
-    "categorie": "finance",
-    "apparu": "2026-11-01"
+    "categorie": "sante",
+    "apparu": "2026-11-08"
    },
    {
-    "mot": "بوابة الحياة المدرسية",
-    "langue": "ar",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "بيع السيارات المستعملة في تونس",
-    "langue": "ar",
-    "categorie": "automobile",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "بيع السيارات بالمزاد العلني 2026",
-    "langue": "ar",
-    "categorie": "automobile",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "ترجمة",
-    "langue": "ar",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "تسجيل الحج 2027 تونس",
-    "langue": "ar",
-    "categorie": "education",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "تسجيل تلاميذ سنة أولى ابتدائي 2026-2027",
-    "langue": "ar",
-    "categorie": "education",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "تكوين مهني",
-    "langue": "ar",
-    "categorie": "education",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "تونس الخضراء",
-    "langue": "ar",
-    "categorie": "commerce",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "ثعبان",
-    "langue": "ar",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "ثمن الذهب المستعمل في تونس اليوم",
-    "langue": "ar",
-    "categorie": "commerce",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "جدول الضرب",
-    "langue": "ar",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "جمبري",
-    "langue": "ar",
-    "categorie": "autre",
-    "apparu": "2026-11-01"
-   },
-   {
-    "mot": "حرارة",
+    "mot": "طقس العرب",
     "langue": "ar",
     "categorie": "meteo",
-    "apparu": "2026-11-01"
+    "apparu": "2026-11-08"
    },
    {
-    "mot": "حليب كامل الدسم",
-    "langue": "ar",
-    "categorie": "commerce",
-    "apparu": "2026-11-01"
+    "mot": "banque centrale de tunisie",
+    "langue": "fr",
+    "categorie": "finance",
+    "apparu": "2026-11-08"
    },
    {
-    "mot": "خريطة تونس",
+    "mot": "classement es tunis",
+    "langue": "fr",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "forzza 1",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "qatar airways careers",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "real madrid vs",
+    "langue": "fr",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "taraji",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "vie scolaire.education.tn",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "خلي بالك من نفسك",
     "langue": "ar",
     "categorie": "autre",
-    "apparu": "2026-11-01"
+    "apparu": "2026-11-08"
    },
    {
-    "mot": "دعاء السفر",
+    "mot": "زيت",
     "langue": "ar",
+    "categorie": "commerce",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "قائمة المنتخب التونسي",
+    "langue": "ar",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "منتخب تونس لكرة القدم",
+    "langue": "ar",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "نادي الافريقي",
+    "langue": "ar",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "esperance",
+    "langue": "fr",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "forzza login",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "lens_placeholder_query",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "location voiture san francisco",
+    "langue": "fr",
+    "categorie": "automobile",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "match taraji",
+    "langue": "fr",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "sonia mabrouk",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "wataniya 2 live",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "الخبر",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "ترتيب الدوري التونسي",
+    "langue": "ar",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "جدول المتر",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "خليل العياري",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "رامي الرحموني",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "طقس سوسة",
+    "langue": "ar",
+    "categorie": "meteo",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "نتائج مباريات اليوم السبت تونس",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "cafe resto hotel jobs",
+    "langue": "fr",
     "categorie": "tourisme",
-    "apparu": "2026-11-01"
+    "apparu": "2026-11-08"
    },
    {
-    "mot": "دواء البواسير",
-    "langue": "ar",
-    "categorie": "sante",
-    "apparu": "2026-11-01"
+    "mot": "eid fitr 2026",
+    "langue": "fr",
+    "categorie": "religion",
+    "apparu": "2026-11-08"
    },
    {
-    "mot": "دواء المعدة",
-    "langue": "ar",
-    "categorie": "sante",
-    "apparu": "2026-11-01"
+    "mot": "est vs",
+    "langue": "fr",
+    "categorie": "football",
+    "apparu": "2026-11-08"
    },
    {
-    "mot": "دينار تونسي مقابل دينار جزائري",
+    "mot": "inscription bac 2027",
+    "langue": "fr",
+    "categorie": "education",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "joueurs de real madrid",
+    "langue": "fr",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "ligue tunisie",
+    "langue": "fr",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "netanyahu",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "ou manger a tunis",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "prix iphone 17 pro max tunisie prix",
+    "langue": "fr",
+    "categorie": "technologie",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "radio tunisie",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "resultat match",
+    "langue": "fr",
+    "categorie": "education",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "ubet me",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "الوطنية 1 مباشر youtube",
     "langue": "ar",
+    "categorie": "technologie",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "بيع بالمزاد العلني للديوانة التونسية",
+    "langue": "ar",
+    "categorie": "administration",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "ترجي",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "تسجيل البكالوريا 2027",
+    "langue": "ar",
+    "categorie": "education",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "حلم طفل",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "شرح نص",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "طماطم",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "نتائج البطولة التونسية لكرة القدم",
+    "langue": "ar",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "classement club africain",
+    "langue": "fr",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "credit sur l'honneur stb",
+    "langue": "fr",
     "categorie": "finance",
-    "apparu": "2026-11-01"
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "es tunis – us monastir",
+    "langue": "fr",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "forja live",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "medecin oreille",
+    "langue": "fr",
+    "categorie": "sante",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "wataniya 2",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "ارض السافلين",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "الوطنية 1 مباشر",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "انتداب شركة ليوني",
+    "langue": "ar",
+    "categorie": "emploi",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "باكالوريا آداب بالفرنسية",
+    "langue": "ar",
+    "categorie": "education",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "بطاطا",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "تونس ليبيا",
+    "langue": "ar",
+    "categorie": "politique",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "حسام حسن",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "دراجي تك لولو",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "ستاغ قفصة",
+    "langue": "ar",
+    "categorie": "energie",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "شوب تو جيم",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "طفل كرتون",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "عيد الشجرة في تونس 2026",
+    "langue": "ar",
+    "categorie": "religion",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "فيلم دشرة",
+    "langue": "ar",
+    "categorie": "divertissement",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "نتائج مباريات اليوم تونس",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "نتيجة مباراة النادي الافريقي اليوم",
+    "langue": "ar",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "aneti international",
+    "langue": "fr",
+    "categorie": "emploi",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "coupe d'afrique des nations de football",
+    "langue": "fr",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "emploi du temps scolaire",
+    "langue": "fr",
+    "categorie": "emploi",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "ess vs css",
+    "langue": "fr",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "forzza home",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "huile olive espagne",
+    "langue": "fr",
+    "categorie": "commerce",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "instagrame",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "match esperance",
+    "langue": "fr",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "meteo mahdia",
+    "langue": "fr",
+    "categorie": "meteo",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "pragmatic play",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "real",
+    "langue": "fr",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "resultat club africain",
+    "langue": "fr",
+    "categorie": "education",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "valencia club de fútbol – real madrid",
+    "langue": "fr",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "voiture populaire tunisie",
+    "langue": "fr",
+    "categorie": "automobile",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "watania 1",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "ترتيبات الدوري التونسي",
+    "langue": "ar",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "ريال مدريد اليوم",
+    "langue": "ar",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "زيت فري فاير 2026",
+    "langue": "ar",
+    "categorie": "commerce",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "سورة البقرة مكتوبة",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "سيارة تسلا",
+    "langue": "ar",
+    "categorie": "automobile",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "صفاقس سوسة",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "طقس تونس اليوم",
+    "langue": "ar",
+    "categorie": "meteo",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "عصام القصباوي",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "فوكس عرب",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "فيلم تونسي كامل",
+    "langue": "ar",
+    "categorie": "divertissement",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "قيس عبد الفتاح",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "لص شايح",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "مناظرة ديوان الأراضي الدولية",
+    "langue": "ar",
+    "categorie": "emploi",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "نتائج مباريات اليوم في تونس 2026",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "نتيجة مباراة الترجي اليوم",
+    "langue": "ar",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "bac 2026",
+    "langue": "fr",
+    "categorie": "education",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "biat",
+    "langue": "fr",
+    "categorie": "finance",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "chat cam",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "concours finances gov tn",
+    "langue": "fr",
+    "categorie": "emploi",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "coupe carré",
+    "langue": "fr",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "film sexuelle aufklärung",
+    "langue": "fr",
+    "categorie": "divertissement",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "forzza home gh",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "iphone",
+    "langue": "fr",
+    "categorie": "technologie",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "jesus de miguel",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "ligue des champions de la caf",
+    "langue": "fr",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "maison hyundai tunisie",
+    "langue": "fr",
+    "categorie": "immobilier",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "match club africain aujourd'hui",
+    "langue": "fr",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "psg",
+    "langue": "fr",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "quran",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "real vs",
+    "langue": "fr",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "steg paiement facture en ligne",
+    "langue": "fr",
+    "categorie": "energie",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "tayara tn voiture",
+    "langue": "fr",
+    "categorie": "automobile",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "اجر الصلاة في مكة",
+    "langue": "ar",
+    "categorie": "emploi",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "باريس سان جيرمان",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "جورج وسوف",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "خميس الماجري",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "ريال",
+    "langue": "ar",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "زخرفة اسماء انجليزي",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "زيت فيكسا للهواتف",
+    "langue": "ar",
+    "categorie": "commerce",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "سورة الكهف مكتوبة",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "شغل تي ان",
+    "langue": "ar",
+    "categorie": "emploi",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "صيدلية مفتوحة يوم الأحد بنزرت",
+    "langue": "ar",
+    "categorie": "sante",
+    "apparu": "2026-11-08"
    }
   ],
   "disparus": [
@@ -11441,6 +11413,30 @@
    "liees": []
   },
   {
+   "mot": "classement atlético madrid – fc barcelone",
+   "mot_norm": "classement atletico madrid - fc barcelone",
+   "slug": "classement-atletico-madrid-fc-barcelone",
+   "langue": "fr",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "classement atlético madrid – fc barcelone",
+     "slug": "classement-atletico-madrid-fc-barcelone",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 5000,
+     "hausse": null,
+     "debut": "2026-11-08T23:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-08"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 5000,
+   "liees": []
+  },
+  {
    "mot": "classement fc barcelone – deportivo alavés",
    "mot_norm": "classement fc barcelone - deportivo alaves",
    "slug": "classement-fc-barcelone-deportivo-alaves",
@@ -13126,6 +13122,30 @@
     "قرعة دوري ابطال افريقيا 2027",
     "موزاييك أف أم"
    ]
+  },
+  {
+   "mot": "قيس عبد الفتاح",
+   "mot_norm": "قيس عبد الفتاح",
+   "slug": "قيس-عبد-الفتاح",
+   "langue": "ar",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "قيس عبد الفتاح",
+     "slug": "قيس-عبد-الفتاح",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-09T02:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 2000,
+   "liees": []
   },
   {
    "mot": "ac milan – inter",
@@ -16594,6 +16614,30 @@
    "liees": []
   },
   {
+   "mot": "fc barcelona",
+   "mot_norm": "fc barcelona",
+   "slug": "fc-barcelona",
+   "langue": "fr",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "fc barcelona",
+     "slug": "fc-barcelona",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-08T21:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-08"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
    "mot": "fenerbahçe vs liverpool",
    "mot_norm": "fenerbahce vs liverpool",
    "slug": "fenerbahce-vs-liverpool",
@@ -17919,6 +17963,18 @@
      "slug": "طماطم",
      "langue": "ar",
      "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-09T17:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
+    },
+    {
+     "mot": "طماطم",
+     "slug": "طماطم",
+     "langue": "ar",
+     "categorie": "autre",
      "volume": 200,
      "hausse": null,
      "debut": "2026-11-07T05:30:00",
@@ -17927,7 +17983,7 @@
      "jour": "2026-11-07"
     }
    ],
-   "jours": 1,
+   "jours": 2,
    "volume_max": 200,
    "liees": []
   },
@@ -18081,6 +18137,30 @@
      "fin": "2026-11-01T23:30:00",
      "liees": [],
      "jour": "2026-11-01"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 100,
+   "liees": []
+  },
+  {
+   "mot": "barca match",
+   "mot_norm": "barca match",
+   "slug": "barca-match",
+   "langue": "fr",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "barca match",
+     "slug": "barca-match",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-08T22:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-08"
     }
    ],
    "jours": 1,
@@ -18369,6 +18449,54 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-05"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 100,
+   "liees": []
+  },
+  {
+   "mot": "gta 6",
+   "mot_norm": "gta 6",
+   "slug": "gta-6",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "gta 6",
+     "slug": "gta-6",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-09T13:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 100,
+   "liees": []
+  },
+  {
+   "mot": "huile d'olive",
+   "mot_norm": "huile d'olive",
+   "slug": "huile-d-olive",
+   "langue": "fr",
+   "categorie": "commerce",
+   "episodes": [
+    {
+     "mot": "huile d'olive",
+     "slug": "huile-d-olive",
+     "langue": "fr",
+     "categorie": "commerce",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-09T06:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
     }
    ],
    "jours": 1,
@@ -18681,6 +18809,30 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-07"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 100,
+   "liees": []
+  },
+  {
+   "mot": "teddy riner",
+   "mot_norm": "teddy riner",
+   "slug": "teddy-riner",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "teddy riner",
+     "slug": "teddy-riner",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-09T16:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
     }
    ],
    "jours": 1,
