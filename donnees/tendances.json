@@ -8906,8 +8906,8 @@
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-09T17:50:27",
-   "vu_dernier": "2026-11-10T02:44:43",
-   "releves": 2,
+   "vu_dernier": "2026-11-10T16:13:35",
+   "releves": 3,
    "periodes": [],
    "sources": [
     "rss"
@@ -8920,14 +8920,14 @@
    "debut": "2026-11-09T16:50:00",
    "debut_ts": 1794239400,
    "fin": null,
-   "volume": 500,
+   "volume": 1000,
    "hausse": null,
    "liees": [],
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-09T17:50:27",
-   "vu_dernier": "2026-11-10T02:44:43",
-   "releves": 2,
+   "vu_dernier": "2026-11-10T16:13:35",
+   "releves": 3,
    "periodes": [],
    "sources": [
     "rss"
@@ -8966,8 +8966,8 @@
    "codes": [],
    "categorie": "commerce",
    "vu_premier": "2026-11-09T17:50:27",
-   "vu_dernier": "2026-11-10T02:44:43",
-   "releves": 2,
+   "vu_dernier": "2026-11-10T16:13:35",
+   "releves": 3,
    "periodes": [],
    "sources": [
     "rss"
@@ -9060,14 +9060,14 @@
    "debut": "2026-11-09T20:30:00",
    "debut_ts": 1794252600,
    "fin": null,
-   "volume": 200,
+   "volume": 1000,
    "hausse": null,
    "liees": [],
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-10T02:44:43",
-   "vu_dernier": "2026-11-10T02:44:43",
-   "releves": 1,
+   "vu_dernier": "2026-11-10T16:13:35",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -9080,13 +9080,113 @@
    "debut": "2026-11-09T18:30:00",
    "debut_ts": 1794245400,
    "fin": null,
-   "volume": 100,
+   "volume": 200,
    "hausse": null,
    "liees": [],
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-10T02:44:43",
-   "vu_dernier": "2026-11-10T02:44:43",
+   "vu_dernier": "2026-11-10T16:13:35",
+   "releves": 2,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "ماهر الكنزاري|498422": {
+   "mot": "ماهر الكنزاري",
+   "mot_norm": "ماهر الكنزاري",
+   "langue": "ar",
+   "debut": "2026-11-10T15:10:00",
+   "debut_ts": 1794319800,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-10T16:13:35",
+   "vu_dernier": "2026-11-10T16:13:35",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "passeport|498421": {
+   "mot": "passeport",
+   "mot_norm": "passeport",
+   "langue": "fr",
+   "debut": "2026-11-10T14:10:00",
+   "debut_ts": 1794316200,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "administration",
+   "vu_premier": "2026-11-10T16:13:35",
+   "vu_dernier": "2026-11-10T16:13:35",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "banque|498413": {
+   "mot": "banque",
+   "mot_norm": "banque",
+   "langue": "fr",
+   "debut": "2026-11-10T06:50:00",
+   "debut_ts": 1794289800,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "finance",
+   "vu_premier": "2026-11-10T16:13:35",
+   "vu_dernier": "2026-11-10T16:13:35",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "وزاره التربيه|498413": {
+   "mot": "وزارة التربية",
+   "mot_norm": "وزاره التربيه",
+   "langue": "ar",
+   "debut": "2026-11-10T06:10:00",
+   "debut_ts": 1794287400,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "administration",
+   "vu_premier": "2026-11-10T16:13:35",
+   "vu_dernier": "2026-11-10T16:13:35",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "زيت الزيتون|498403": {
+   "mot": "زيت الزيتون",
+   "mot_norm": "زيت الزيتون",
+   "langue": "ar",
+   "debut": "2026-11-09T20:20:00",
+   "debut_ts": 1794252000,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "commerce",
+   "vu_premier": "2026-11-10T16:13:35",
+   "vu_dernier": "2026-11-10T16:13:35",
    "releves": 1,
    "periodes": [],
    "sources": [
@@ -9094,5 +9194,5 @@
    ]
   }
  },
- "maj": "2026-11-10T02:44:43"
+ "maj": "2026-11-10T16:13:35"
 }

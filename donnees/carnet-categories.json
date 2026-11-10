@@ -38,6 +38,16 @@
    "volume": 1000
   },
   {
+   "mot": "teddy riner",
+   "fois": 1,
+   "volume": 1000
+  },
+  {
+   "mot": "jamal musiala",
+   "fois": 1,
+   "volume": 1000
+  },
+  {
    "mot": "تهريب",
    "fois": 1,
    "volume": 500
@@ -74,11 +84,6 @@
   },
   {
    "mot": "weather tomorrow",
-   "fois": 1,
-   "volume": 500
-  },
-  {
-   "mot": "teddy riner",
    "fois": 1,
    "volume": 500
   },
@@ -133,7 +138,12 @@
    "volume": 200
   },
   {
-   "mot": "jamal musiala",
+   "mot": "الشروق",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "ماهر الكنزاري",
    "fois": 1,
    "volume": 200
   },
@@ -169,11 +179,6 @@
   },
   {
    "mot": "dana white",
-   "fois": 1,
-   "volume": 100
-  },
-  {
-   "mot": "الشروق",
    "fois": 1,
    "volume": 100
   }
