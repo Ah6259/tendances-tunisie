@@ -1,24 +1,48 @@
 {
- "maj": "2026-11-10T02:44:50",
+ "maj": "2026-11-10T16:13:42",
  "jour": "2026-11-10",
  "totaux": {
-  "tendances": 351,
-  "mots_distincts": 301,
-  "aujourdhui": 6,
-  "semaine": 133,
-  "mois": 351,
+  "tendances": 356,
+  "mots_distincts": 305,
+  "aujourdhui": 9,
+  "semaine": 128,
+  "mois": 356,
   "expressions_tapees": 2049,
   "premiere_lecture": "2026-11-01T10:46:10"
  },
  "aujourdhui": [
   {
+   "mot": "jamal musiala",
+   "slug": "jamal-musiala",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-09T20:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-09"
+  },
+  {
    "mot": "teddy riner",
    "slug": "teddy-riner",
    "langue": "fr",
    "categorie": "autre",
-   "volume": 500,
+   "volume": 1000,
    "hausse": null,
    "debut": "2026-11-09T16:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-09"
+  },
+  {
+   "mot": "زيت الزيتون",
+   "slug": "زيت-الزيتون",
+   "langue": "ar",
+   "categorie": "commerce",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-09T20:20:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-09"
@@ -36,52 +60,64 @@
    "jour": "2026-11-09"
   },
   {
-   "mot": "gta 6",
-   "slug": "gta-6",
+   "mot": "passeport",
+   "slug": "passeport",
    "langue": "fr",
-   "categorie": "autre",
+   "categorie": "administration",
    "volume": 200,
    "hausse": null,
-   "debut": "2026-11-09T13:50:00",
+   "debut": "2026-11-10T14:10:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-09"
-  },
-  {
-   "mot": "jamal musiala",
-   "slug": "jamal-musiala",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-09T20:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-09"
-  },
-  {
-   "mot": "huile d'olive",
-   "slug": "huile-d-olive",
-   "langue": "fr",
-   "categorie": "commerce",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-09T06:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-09"
+   "jour": "2026-11-10"
   },
   {
    "mot": "الشروق",
    "slug": "الشروق",
    "langue": "ar",
    "categorie": "autre",
-   "volume": 100,
+   "volume": 200,
    "hausse": null,
    "debut": "2026-11-09T18:30:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-09"
+  },
+  {
+   "mot": "ماهر الكنزاري",
+   "slug": "ماهر-الكنزاري",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-10T15:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-10"
+  },
+  {
+   "mot": "وزارة التربية",
+   "slug": "وزاره-التربيه",
+   "langue": "ar",
+   "categorie": "administration",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-10T06:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-10"
+  },
+  {
+   "mot": "banque",
+   "slug": "banque",
+   "langue": "fr",
+   "categorie": "finance",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-10T06:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-10"
   }
  ],
  "semaine": [
@@ -126,24 +162,6 @@
    "fin": "2026-11-04T19:50:00",
    "liees": [
     "barcelone"
-   ],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "stade tunisien – club africain",
-   "slug": "stade-tunisien-club-africain",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 10000,
-   "hausse": 1000,
-   "debut": "2026-11-03T13:50:00",
-   "fin": null,
-   "liees": [
-    "stade tunisien vs club africain",
-    "ligue 1 tunisienne",
-    "club africain vs stade tunisien",
-    "championnat tunisie",
-    "stade tunisien"
    ],
    "jour": "2026-11-03"
   },
@@ -257,18 +275,6 @@
    "jour": "2026-11-03"
   },
   {
-   "mot": "examens concours education tn",
-   "slug": "examens-concours-education-tn",
-   "langue": "fr",
-   "categorie": "emploi",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-11-03T07:10:00",
-   "fin": "2026-11-04T22:10:00",
-   "liees": [],
-   "jour": "2026-11-03"
-  },
-  {
    "mot": "man utd – roma",
    "slug": "man-utd-roma",
    "langue": "fr",
@@ -311,18 +317,6 @@
     "champions league"
    ],
    "jour": "2026-11-04"
-  },
-  {
-   "mot": "شتاء",
-   "slug": "شتاء",
-   "langue": "ar",
-   "categorie": "sante",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-11-03T05:20:00",
-   "fin": "2026-11-04T06:10:00",
-   "liees": [],
-   "jour": "2026-11-03"
   },
   {
    "mot": "barca",
@@ -528,6 +522,18 @@
    "jour": "2026-11-08"
   },
   {
+   "mot": "jamal musiala",
+   "slug": "jamal-musiala",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-09T20:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-09"
+  },
+  {
    "mot": "sonia mabrouk",
    "slug": "sonia-mabrouk",
    "langue": "fr",
@@ -538,6 +544,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-06"
+  },
+  {
+   "mot": "teddy riner",
+   "slug": "teddy-riner",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-09T16:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-09"
   },
   {
    "mot": "إصابة",
@@ -600,20 +618,6 @@
    "jour": "2026-11-04"
   },
   {
-   "mot": "alkass",
-   "slug": "alkass",
-   "langue": "fr",
-   "categorie": "sport",
-   "volume": 500,
-   "hausse": 1000,
-   "debut": "2026-11-03T14:40:00",
-   "fin": "2026-11-03T16:50:00",
-   "liees": [
-    "al kass"
-   ],
-   "jour": "2026-11-03"
-  },
-  {
    "mot": "como",
    "slug": "como",
    "langue": "fr",
@@ -639,18 +643,6 @@
    "liees": [
     "psg vs"
    ],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "jesus de miguel",
-   "slug": "jesus-de-miguel",
-   "langue": "fr",
-   "categorie": "sport",
-   "volume": 500,
-   "hausse": 900,
-   "debut": "2026-11-03T12:00:00",
-   "fin": "2026-11-04T01:50:00",
-   "liees": [],
    "jour": "2026-11-03"
   },
   {
@@ -705,18 +697,6 @@
    "jour": "2026-11-04"
   },
   {
-   "mot": "النجم الرياضي الساحلي",
-   "slug": "النجم-الرياضي-الساحلي",
-   "langue": "ar",
-   "categorie": "football",
-   "volume": 500,
-   "hausse": 500,
-   "debut": "2026-11-03T05:10:00",
-   "fin": "2026-11-03T11:20:00",
-   "liees": [],
-   "jour": "2026-11-03"
-  },
-  {
    "mot": "حرارة",
    "slug": "حراره",
    "langue": "ar",
@@ -727,18 +707,6 @@
    "fin": "2026-11-05T00:10:00",
    "liees": [],
    "jour": "2026-11-04"
-  },
-  {
-   "mot": "معين شعباني",
-   "slug": "معين-شعباني",
-   "langue": "ar",
-   "categorie": "sport",
-   "volume": 500,
-   "hausse": 400,
-   "debut": "2026-11-03T06:20:00",
-   "fin": "2026-11-04T06:50:00",
-   "liees": [],
-   "jour": "2026-11-03"
   },
   {
    "mot": "bet365",
@@ -851,18 +819,6 @@
    "jour": "2026-11-06"
   },
   {
-   "mot": "teddy riner",
-   "slug": "teddy-riner",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 500,
-   "hausse": null,
-   "debut": "2026-11-09T16:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-09"
-  },
-  {
    "mot": "visa",
    "slug": "visa",
    "langue": "fr",
@@ -909,6 +865,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-07"
+  },
+  {
+   "mot": "زيت الزيتون",
+   "slug": "زيت-الزيتون",
+   "langue": "ar",
+   "categorie": "commerce",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-09T20:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-09"
   },
   {
    "mot": "طماطم",
@@ -1043,18 +1011,6 @@
    "jour": "2026-11-04"
   },
   {
-   "mot": "yalla kora",
-   "slug": "yalla-kora",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": 1000,
-   "debut": "2026-11-03T15:00:00",
-   "fin": "2026-11-03T15:40:00",
-   "liees": [],
-   "jour": "2026-11-03"
-  },
-  {
    "mot": "خطاب الكراهية",
    "slug": "خطاب-الكراهيه",
    "langue": "ar",
@@ -1139,18 +1095,6 @@
    "fin": "2026-11-04T21:50:00",
    "liees": [],
    "jour": "2026-11-04"
-  },
-  {
-   "mot": "sports",
-   "slug": "sports",
-   "langue": "fr",
-   "categorie": "sport",
-   "volume": 200,
-   "hausse": 300,
-   "debut": "2026-11-03T02:50:00",
-   "fin": "2026-11-03T06:50:00",
-   "liees": [],
-   "jour": "2026-11-03"
   },
   {
    "mot": "uefa champions league",
@@ -1309,18 +1253,6 @@
    "jour": "2026-11-08"
   },
   {
-   "mot": "jamal musiala",
-   "slug": "jamal-musiala",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-09T20:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-09"
-  },
-  {
    "mot": "jj gabriel",
    "slug": "jj-gabriel",
    "langue": "fr",
@@ -1369,6 +1301,18 @@
    "jour": "2026-11-05"
   },
   {
+   "mot": "passeport",
+   "slug": "passeport",
+   "langue": "fr",
+   "categorie": "administration",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-10T14:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-10"
+  },
+  {
    "mot": "tomate",
    "slug": "tomate",
    "langue": "fr",
@@ -1391,6 +1335,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-07"
+  },
+  {
+   "mot": "الشروق",
+   "slug": "الشروق",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-09T18:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-09"
   },
   {
    "mot": "بريد",
@@ -1427,6 +1383,30 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-07"
+  },
+  {
+   "mot": "ماهر الكنزاري",
+   "slug": "ماهر-الكنزاري",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-10T15:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-10"
+  },
+  {
+   "mot": "وزارة التربية",
+   "slug": "وزاره-التربيه",
+   "langue": "ar",
+   "categorie": "administration",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-10T06:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-10"
   },
   {
    "mot": "وزارة الدفاع",
@@ -1549,16 +1529,16 @@
    "jour": "2026-11-04"
   },
   {
-   "mot": "tomate",
-   "slug": "tomate",
+   "mot": "banque",
+   "slug": "banque",
    "langue": "fr",
-   "categorie": "commerce",
+   "categorie": "finance",
    "volume": 100,
-   "hausse": 100,
-   "debut": "2026-11-03T03:00:00",
-   "fin": "2026-11-03T09:00:00",
+   "hausse": null,
+   "debut": "2026-11-10T06:50:00",
+   "fin": null,
    "liees": [],
-   "jour": "2026-11-03"
+   "jour": "2026-11-10"
   },
   {
    "mot": "barca match",
@@ -1705,18 +1685,6 @@
    "jour": "2026-11-06"
   },
   {
-   "mot": "الشروق",
-   "slug": "الشروق",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-09T18:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-09"
-  },
-  {
    "mot": "تصدير",
    "slug": "تصدير",
    "langue": "ar",
@@ -1743,35 +1711,11 @@
  ],
  "nouveautes": [
   {
-   "mot": "teddy riner",
-   "slug": "teddy-riner",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 500,
-   "hausse": null,
-   "debut": "2026-11-09T16:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-09"
-  },
-  {
-   "mot": "gta 6",
-   "slug": "gta-6",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-09T13:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-09"
-  },
-  {
    "mot": "jamal musiala",
    "slug": "jamal-musiala",
    "langue": "fr",
    "categorie": "autre",
-   "volume": 200,
+   "volume": 1000,
    "hausse": null,
    "debut": "2026-11-09T20:30:00",
    "fin": null,
@@ -1779,16 +1723,64 @@
    "jour": "2026-11-09"
   },
   {
-   "mot": "huile d'olive",
-   "slug": "huile-d-olive",
+   "mot": "teddy riner",
+   "slug": "teddy-riner",
    "langue": "fr",
-   "categorie": "commerce",
-   "volume": 100,
+   "categorie": "autre",
+   "volume": 1000,
    "hausse": null,
-   "debut": "2026-11-09T06:20:00",
+   "debut": "2026-11-09T16:50:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-09"
+  },
+  {
+   "mot": "زيت الزيتون",
+   "slug": "زيت-الزيتون",
+   "langue": "ar",
+   "categorie": "commerce",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-09T20:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-09"
+  },
+  {
+   "mot": "passeport",
+   "slug": "passeport",
+   "langue": "fr",
+   "categorie": "administration",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-10T14:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-10"
+  },
+  {
+   "mot": "وزارة التربية",
+   "slug": "وزاره-التربيه",
+   "langue": "ar",
+   "categorie": "administration",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-10T06:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-10"
+  },
+  {
+   "mot": "banque",
+   "slug": "banque",
+   "langue": "fr",
+   "categorie": "finance",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-10T06:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-10"
   }
  ],
  "hausses": [
@@ -1807,24 +1799,6 @@
     "stade tunisien vs club africain",
     "club africain",
     "ligue 1 tunisienne"
-   ],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "stade tunisien – club africain",
-   "slug": "stade-tunisien-club-africain",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 10000,
-   "hausse": 1000,
-   "debut": "2026-11-03T13:50:00",
-   "fin": null,
-   "liees": [
-    "stade tunisien vs club africain",
-    "ligue 1 tunisienne",
-    "club africain vs stade tunisien",
-    "championnat tunisie",
-    "stade tunisien"
    ],
    "jour": "2026-11-03"
   },
@@ -1871,18 +1845,6 @@
    "jour": "2026-11-03"
   },
   {
-   "mot": "شتاء",
-   "slug": "شتاء",
-   "langue": "ar",
-   "categorie": "sante",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-11-03T05:20:00",
-   "fin": "2026-11-04T06:10:00",
-   "liees": [],
-   "jour": "2026-11-03"
-  },
-  {
    "mot": "man utd – roma",
    "slug": "man-utd-roma",
    "langue": "fr",
@@ -1926,18 +1888,6 @@
     "barca vs",
     "aston villa"
    ],
-   "jour": "2026-11-03"
-  },
-  {
-   "mot": "examens concours education tn",
-   "slug": "examens-concours-education-tn",
-   "langue": "fr",
-   "categorie": "emploi",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-11-03T07:10:00",
-   "fin": "2026-11-04T22:10:00",
-   "liees": [],
    "jour": "2026-11-03"
   },
   {
@@ -2040,20 +1990,6 @@
    "jour": "2026-11-03"
   },
   {
-   "mot": "alkass",
-   "slug": "alkass",
-   "langue": "fr",
-   "categorie": "sport",
-   "volume": 500,
-   "hausse": 1000,
-   "debut": "2026-11-03T14:40:00",
-   "fin": "2026-11-03T16:50:00",
-   "liees": [
-    "al kass"
-   ],
-   "jour": "2026-11-03"
-  },
-  {
    "mot": "como",
    "slug": "como",
    "langue": "fr",
@@ -2090,18 +2026,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-04"
-  },
-  {
-   "mot": "yalla kora",
-   "slug": "yalla-kora",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": 1000,
-   "debut": "2026-11-03T15:00:00",
-   "fin": "2026-11-03T15:40:00",
-   "liees": [],
-   "jour": "2026-11-03"
   },
   {
    "mot": "bayern",
@@ -2186,18 +2110,6 @@
    "fin": "2026-11-04T21:30:00",
    "liees": [],
    "jour": "2026-11-04"
-  },
-  {
-   "mot": "jesus de miguel",
-   "slug": "jesus-de-miguel",
-   "langue": "fr",
-   "categorie": "sport",
-   "volume": 500,
-   "hausse": 900,
-   "debut": "2026-11-03T12:00:00",
-   "fin": "2026-11-04T01:50:00",
-   "liees": [],
-   "jour": "2026-11-03"
   },
   {
    "mot": "fcb",
@@ -2426,18 +2338,6 @@
    "jour": "2026-11-03"
   },
   {
-   "mot": "النجم الرياضي الساحلي",
-   "slug": "النجم-الرياضي-الساحلي",
-   "langue": "ar",
-   "categorie": "football",
-   "volume": 500,
-   "hausse": 500,
-   "debut": "2026-11-03T05:10:00",
-   "fin": "2026-11-03T11:20:00",
-   "liees": [],
-   "jour": "2026-11-03"
-  },
-  {
    "mot": "حرارة",
    "slug": "حراره",
    "langue": "ar",
@@ -2564,6 +2464,24 @@
    "fin": "2026-10-29T19:40:00",
    "liees": [],
    "jour": "2026-10-29"
+  },
+  {
+   "mot": "stade tunisien – club africain",
+   "slug": "stade-tunisien-club-africain",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 10000,
+   "hausse": 1000,
+   "debut": "2026-11-03T13:50:00",
+   "fin": null,
+   "liees": [
+    "stade tunisien vs club africain",
+    "ligue 1 tunisienne",
+    "club africain vs stade tunisien",
+    "championnat tunisie",
+    "stade tunisien"
+   ],
+   "jour": "2026-11-03"
   },
   {
    "mot": "classement fc barcelone – deportivo alavés",
@@ -2734,6 +2652,18 @@
    "jour": "2026-11-02"
   },
   {
+   "mot": "examens concours education tn",
+   "slug": "examens-concours-education-tn",
+   "langue": "fr",
+   "categorie": "emploi",
+   "volume": 2000,
+   "hausse": 1000,
+   "debut": "2026-11-03T07:10:00",
+   "fin": "2026-11-04T22:10:00",
+   "liees": [],
+   "jour": "2026-11-03"
+  },
+  {
    "mot": "grève",
    "slug": "greve",
    "langue": "fr",
@@ -2864,6 +2794,18 @@
    "fin": "2026-11-02T07:10:00",
    "liees": [],
    "jour": "2026-10-31"
+  },
+  {
+   "mot": "شتاء",
+   "slug": "شتاء",
+   "langue": "ar",
+   "categorie": "sante",
+   "volume": 2000,
+   "hausse": 1000,
+   "debut": "2026-11-03T05:20:00",
+   "fin": "2026-11-04T06:10:00",
+   "liees": [],
+   "jour": "2026-11-03"
   },
   {
    "mot": "قرعة دوري ابطال افريقيا",
@@ -3162,6 +3104,18 @@
    "jour": "2026-10-29"
   },
   {
+   "mot": "yalla kora",
+   "slug": "yalla-kora",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 500,
+   "hausse": 1000,
+   "debut": "2026-10-29T14:40:00",
+   "fin": "2026-10-29T15:50:00",
+   "liees": [],
+   "jour": "2026-10-29"
+  },
+  {
    "mot": "رسينغ ضد الريال",
    "slug": "رسينغ-ضد-الريال",
    "langue": "ar",
@@ -3174,6 +3128,18 @@
     "ريال مدريد"
    ],
    "jour": "2026-11-01"
+  },
+  {
+   "mot": "jesus de miguel",
+   "slug": "jesus-de-miguel",
+   "langue": "fr",
+   "categorie": "sport",
+   "volume": 500,
+   "hausse": 900,
+   "debut": "2026-11-03T12:00:00",
+   "fin": "2026-11-04T01:50:00",
+   "liees": [],
+   "jour": "2026-11-03"
   },
   {
    "mot": "newcastle – everton",
@@ -3241,66 +3207,6 @@
     "milan vs inter"
    ],
    "jour": "2026-10-31"
-  },
-  {
-   "mot": "الرابطة الوطنية لكرة القدم المحترفة",
-   "slug": "الرابطه-الوطنيه-لكره-القدم-المحترفه",
-   "langue": "ar",
-   "categorie": "football",
-   "volume": 500,
-   "hausse": 600,
-   "debut": "2026-10-28T21:50:00",
-   "fin": "2026-10-29T09:50:00",
-   "liees": [],
-   "jour": "2026-10-28"
-  },
-  {
-   "mot": "يوسف بلايلي",
-   "slug": "يوسف-بلايلي",
-   "langue": "ar",
-   "categorie": "sport",
-   "volume": 500,
-   "hausse": 600,
-   "debut": "2026-10-30T21:40:00",
-   "fin": "2026-10-31T18:00:00",
-   "liees": [],
-   "jour": "2026-10-30"
-  },
-  {
-   "mot": "الشركة التونسية للبنك",
-   "slug": "الشركه-التونسيه-للبنك",
-   "langue": "ar",
-   "categorie": "finance",
-   "volume": 500,
-   "hausse": 500,
-   "debut": "2026-10-27T06:10:00",
-   "fin": "2026-10-28T07:20:00",
-   "liees": [],
-   "jour": "2026-10-27"
-  },
-  {
-   "mot": "تسوية",
-   "slug": "تسويه",
-   "langue": "ar",
-   "categorie": "administration",
-   "volume": 500,
-   "hausse": 500,
-   "debut": "2026-10-27T22:10:00",
-   "fin": "2026-10-28T09:20:00",
-   "liees": [],
-   "jour": "2026-10-27"
-  },
-  {
-   "mot": "خالد بن يحيى",
-   "slug": "خالد-بن-يحيي",
-   "langue": "ar",
-   "categorie": "sport",
-   "volume": 500,
-   "hausse": 500,
-   "debut": "2026-10-29T19:40:00",
-   "fin": "2026-10-30T08:20:00",
-   "liees": [],
-   "jour": "2026-10-29"
   }
  ],
  "recurrents": [
@@ -3414,7 +3320,7 @@
    "fin": "2026-11-04T14:10:00",
    "liees": [],
    "jour": "2026-11-04",
-   "jours": 3
+   "jours": 4
   },
   {
    "mot": "sports",
@@ -3492,21 +3398,9 @@
   "emploi": {
    "fr": "Emploi et concours",
    "ar": "الشغل والمناظرات",
-   "n_semaine": 3,
+   "n_semaine": 2,
    "n_mois": 4,
    "top": [
-    {
-     "mot": "examens concours education tn",
-     "slug": "examens-concours-education-tn",
-     "langue": "fr",
-     "categorie": "emploi",
-     "volume": 2000,
-     "hausse": 1000,
-     "debut": "2026-11-03T07:10:00",
-     "fin": "2026-11-04T22:10:00",
-     "liees": [],
-     "jour": "2026-11-03"
-    },
     {
      "mot": "salaire",
      "slug": "salaire",
@@ -3593,21 +3487,9 @@
   "sante": {
    "fr": "Santé",
    "ar": "الصحة",
-   "n_semaine": 2,
+   "n_semaine": 1,
    "n_mois": 2,
    "top": [
-    {
-     "mot": "شتاء",
-     "slug": "شتاء",
-     "langue": "ar",
-     "categorie": "sante",
-     "volume": 2000,
-     "hausse": 1000,
-     "debut": "2026-11-03T05:20:00",
-     "fin": "2026-11-04T06:10:00",
-     "liees": [],
-     "jour": "2026-11-03"
-    },
     {
      "mot": "cnam",
      "slug": "cnam",
@@ -3627,19 +3509,19 @@
    "fr": "Commerce et consommation",
    "ar": "التجارة والاستهلاك",
    "n_semaine": 2,
-   "n_mois": 6,
+   "n_mois": 7,
    "top": [
     {
-     "mot": "tomate",
-     "slug": "tomate",
-     "langue": "fr",
+     "mot": "زيت الزيتون",
+     "slug": "زيت-الزيتون",
+     "langue": "ar",
      "categorie": "commerce",
-     "volume": 100,
-     "hausse": 100,
-     "debut": "2026-11-03T03:00:00",
-     "fin": "2026-11-03T09:00:00",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-09T20:20:00",
+     "fin": null,
      "liees": [],
-     "jour": "2026-11-03"
+     "jour": "2026-11-09"
     },
     {
      "mot": "huile d'olive",
@@ -3655,6 +3537,18 @@
     }
    ],
    "top24": [
+    {
+     "mot": "زيت الزيتون",
+     "slug": "زيت-الزيتون",
+     "langue": "ar",
+     "categorie": "commerce",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-09T20:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
+    },
     {
      "mot": "huile d'olive",
      "slug": "huile-d-olive",
@@ -3680,9 +3574,33 @@
   "administration": {
    "fr": "Administration et démarches",
    "ar": "الإدارة والإجراءات",
-   "n_semaine": 1,
-   "n_mois": 14,
+   "n_semaine": 3,
+   "n_mois": 16,
    "top": [
+    {
+     "mot": "passeport",
+     "slug": "passeport",
+     "langue": "fr",
+     "categorie": "administration",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-10T14:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-10"
+    },
+    {
+     "mot": "وزارة التربية",
+     "slug": "وزاره-التربيه",
+     "langue": "ar",
+     "categorie": "administration",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-10T06:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-10"
+    },
     {
      "mot": "وزارة الدفاع",
      "slug": "وزاره-الدفاع",
@@ -3696,7 +3614,32 @@
      "jour": "2026-11-05"
     }
    ],
-   "top24": []
+   "top24": [
+    {
+     "mot": "passeport",
+     "slug": "passeport",
+     "langue": "fr",
+     "categorie": "administration",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-10T14:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-10"
+    },
+    {
+     "mot": "وزارة التربية",
+     "slug": "وزاره-التربيه",
+     "langue": "ar",
+     "categorie": "administration",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-10T06:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-10"
+    }
+   ]
   },
   "energie": {
    "fr": "Énergie",
@@ -3722,8 +3665,8 @@
   "finance": {
    "fr": "Argent et banques",
    "ar": "المال والبنوك",
-   "n_semaine": 2,
-   "n_mois": 6,
+   "n_semaine": 3,
+   "n_mois": 7,
    "top": [
     {
      "mot": "ذهب",
@@ -3748,14 +3691,39 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-04"
+    },
+    {
+     "mot": "banque",
+     "slug": "banque",
+     "langue": "fr",
+     "categorie": "finance",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-10T06:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-10"
     }
    ],
-   "top24": []
+   "top24": [
+    {
+     "mot": "banque",
+     "slug": "banque",
+     "langue": "fr",
+     "categorie": "finance",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-10T06:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-10"
+    }
+   ]
   },
   "football": {
    "fr": "Football",
    "ar": "كرة القدم",
-   "n_semaine": 64,
+   "n_semaine": 61,
    "n_mois": 190,
    "top": [
     {
@@ -3787,24 +3755,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-04"
-    },
-    {
-     "mot": "stade tunisien – club africain",
-     "slug": "stade-tunisien-club-africain",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 10000,
-     "hausse": 1000,
-     "debut": "2026-11-03T13:50:00",
-     "fin": null,
-     "liees": [
-      "stade tunisien vs club africain",
-      "ligue 1 tunisienne",
-      "club africain vs stade tunisien",
-      "championnat tunisie",
-      "stade tunisien"
-     ],
-     "jour": "2026-11-03"
     },
     {
      "mot": "valence – real madrid",
@@ -4091,18 +4041,6 @@
      "jour": "2026-11-03"
     },
     {
-     "mot": "النجم الرياضي الساحلي",
-     "slug": "النجم-الرياضي-الساحلي",
-     "langue": "ar",
-     "categorie": "football",
-     "volume": 500,
-     "hausse": 500,
-     "debut": "2026-11-03T05:10:00",
-     "fin": "2026-11-03T11:20:00",
-     "liees": [],
-     "jour": "2026-11-03"
-    },
-    {
      "mot": "barca vs",
      "slug": "barca-vs",
      "langue": "fr",
@@ -4221,18 +4159,6 @@
      "fin": "2026-11-04T21:30:00",
      "liees": [],
      "jour": "2026-11-04"
-    },
-    {
-     "mot": "yalla kora",
-     "slug": "yalla-kora",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 200,
-     "hausse": 1000,
-     "debut": "2026-11-03T15:00:00",
-     "fin": "2026-11-03T15:40:00",
-     "liees": [],
-     "jour": "2026-11-03"
     },
     {
      "mot": "barca vs",
@@ -4523,6 +4449,42 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-05"
+    },
+    {
+     "mot": "liga",
+     "slug": "liga",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-08T23:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-08"
+    },
+    {
+     "mot": "naples – lazio",
+     "slug": "naples-lazio",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-08T14:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-08"
+    },
+    {
+     "mot": "real madrid club de fútbol",
+     "slug": "real-madrid-club-de-futbol",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-07T21:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-07"
     }
    ],
    "top24": []
@@ -4530,23 +4492,9 @@
   "sport": {
    "fr": "Autres sports",
    "ar": "رياضات أخرى",
-   "n_semaine": 10,
+   "n_semaine": 6,
    "n_mois": 49,
    "top": [
-    {
-     "mot": "alkass",
-     "slug": "alkass",
-     "langue": "fr",
-     "categorie": "sport",
-     "volume": 500,
-     "hausse": 1000,
-     "debut": "2026-11-03T14:40:00",
-     "fin": "2026-11-03T16:50:00",
-     "liees": [
-      "al kass"
-     ],
-     "jour": "2026-11-03"
-    },
     {
      "mot": "como",
      "slug": "como",
@@ -4560,30 +4508,6 @@
       "lens – côme"
      ],
      "jour": "2026-11-04"
-    },
-    {
-     "mot": "jesus de miguel",
-     "slug": "jesus-de-miguel",
-     "langue": "fr",
-     "categorie": "sport",
-     "volume": 500,
-     "hausse": 900,
-     "debut": "2026-11-03T12:00:00",
-     "fin": "2026-11-04T01:50:00",
-     "liees": [],
-     "jour": "2026-11-03"
-    },
-    {
-     "mot": "معين شعباني",
-     "slug": "معين-شعباني",
-     "langue": "ar",
-     "categorie": "sport",
-     "volume": 500,
-     "hausse": 400,
-     "debut": "2026-11-03T06:20:00",
-     "fin": "2026-11-04T06:50:00",
-     "liees": [],
-     "jour": "2026-11-03"
     },
     {
      "mot": "ماهر الكنزاري",
@@ -4618,18 +4542,6 @@
      "hausse": 900,
      "debut": "2026-11-03T21:40:00",
      "fin": "2026-11-03T23:40:00",
-     "liees": [],
-     "jour": "2026-11-03"
-    },
-    {
-     "mot": "sports",
-     "slug": "sports",
-     "langue": "fr",
-     "categorie": "sport",
-     "volume": 200,
-     "hausse": 300,
-     "debut": "2026-11-03T02:50:00",
-     "fin": "2026-11-03T06:50:00",
      "liees": [],
      "jour": "2026-11-03"
     },
@@ -4820,8 +4732,8 @@
   "autre": {
    "fr": "Autre",
    "ar": "أخرى",
-   "n_semaine": 32,
-   "n_mois": 38,
+   "n_semaine": 33,
+   "n_mois": 39,
    "top": [
     {
      "mot": "paris-sg – troyes",
@@ -4848,6 +4760,18 @@
      "jour": "2026-11-09"
     },
     {
+     "mot": "jamal musiala",
+     "slug": "jamal-musiala",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-09T20:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
+    },
+    {
      "mot": "sonia mabrouk",
      "slug": "sonia-mabrouk",
      "langue": "fr",
@@ -4858,6 +4782,18 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-06"
+    },
+    {
+     "mot": "teddy riner",
+     "slug": "teddy-riner",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-09T16:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
     },
     {
      "mot": "إصابة",
@@ -4930,18 +4866,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-06"
-    },
-    {
-     "mot": "teddy riner",
-     "slug": "teddy-riner",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-09T16:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-09"
     },
     {
      "mot": "weather",
@@ -5052,18 +4976,6 @@
      "jour": "2026-11-09"
     },
     {
-     "mot": "jamal musiala",
-     "slug": "jamal-musiala",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-09T20:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-09"
-    },
-    {
      "mot": "jj gabriel",
      "slug": "jj-gabriel",
      "langue": "fr",
@@ -5100,6 +5012,18 @@
      "jour": "2026-11-07"
     },
     {
+     "mot": "الشروق",
+     "slug": "الشروق",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-09T18:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
+    },
+    {
      "mot": "بريد",
      "slug": "بريد",
      "langue": "ar",
@@ -5122,6 +5046,18 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-07"
+    },
+    {
+     "mot": "ماهر الكنزاري",
+     "slug": "ماهر-الكنزاري",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-10T15:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-10"
     },
     {
      "mot": "benjamin netanyahu",
@@ -5172,18 +5108,6 @@
      "jour": "2026-11-06"
     },
     {
-     "mot": "الشروق",
-     "slug": "الشروق",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-09T18:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-09"
-    },
-    {
      "mot": "تصدير",
      "slug": "تصدير",
      "langue": "ar",
@@ -5222,11 +5146,23 @@
      "jour": "2026-11-09"
     },
     {
+     "mot": "jamal musiala",
+     "slug": "jamal-musiala",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-09T20:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
+    },
+    {
      "mot": "teddy riner",
      "slug": "teddy-riner",
      "langue": "fr",
      "categorie": "autre",
-     "volume": 500,
+     "volume": 1000,
      "hausse": null,
      "debut": "2026-11-09T16:50:00",
      "fin": null,
@@ -5258,28 +5194,28 @@
      "jour": "2026-11-09"
     },
     {
-     "mot": "jamal musiala",
-     "slug": "jamal-musiala",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-09T20:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-09"
-    },
-    {
      "mot": "الشروق",
      "slug": "الشروق",
      "langue": "ar",
      "categorie": "autre",
-     "volume": 100,
+     "volume": 200,
      "hausse": null,
      "debut": "2026-11-09T18:30:00",
      "fin": null,
      "liees": [],
      "jour": "2026-11-09"
+    },
+    {
+     "mot": "ماهر الكنزاري",
+     "slug": "ماهر-الكنزاري",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-10T15:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-10"
     }
    ]
   }
@@ -5302,20 +5238,6 @@
    "score": 20000.0
   },
   {
-   "mot": "شتاء",
-   "slug": "شتاء",
-   "langue": "ar",
-   "categorie": "sante",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-11-03T05:20:00",
-   "fin": "2026-11-04T06:10:00",
-   "liees": [],
-   "jour": "2026-11-03",
-   "intention": false,
-   "score": 4000.0
-  },
-  {
    "mot": "barcelona vs aston villa",
    "slug": "barcelona-vs-aston-villa",
    "langue": "fr",
@@ -5328,20 +5250,6 @@
     "barca vs",
     "aston villa"
    ],
-   "jour": "2026-11-03",
-   "intention": false,
-   "score": 4000.0
-  },
-  {
-   "mot": "examens concours education tn",
-   "slug": "examens-concours-education-tn",
-   "langue": "fr",
-   "categorie": "emploi",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-11-03T07:10:00",
-   "fin": "2026-11-04T22:10:00",
-   "liees": [],
    "jour": "2026-11-03",
    "intention": false,
    "score": 4000.0
@@ -5364,7 +5272,7 @@
  "historique": {
   "semaines": {
    "2026-11-09": {
-    "n": 7,
+    "n": 12,
     "top": [
      {
       "mot": "قيس عبد الفتاح",
@@ -5379,13 +5287,37 @@
       "jour": "2026-11-09"
      },
      {
+      "mot": "jamal musiala",
+      "slug": "jamal-musiala",
+      "langue": "fr",
+      "categorie": "autre",
+      "volume": 1000,
+      "hausse": null,
+      "debut": "2026-11-09T20:30:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-09"
+     },
+     {
       "mot": "teddy riner",
       "slug": "teddy-riner",
       "langue": "fr",
       "categorie": "autre",
-      "volume": 500,
+      "volume": 1000,
       "hausse": null,
       "debut": "2026-11-09T16:50:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-09"
+     },
+     {
+      "mot": "زيت الزيتون",
+      "slug": "زيت-الزيتون",
+      "langue": "ar",
+      "categorie": "commerce",
+      "volume": 500,
+      "hausse": null,
+      "debut": "2026-11-09T20:20:00",
       "fin": null,
       "liees": [],
       "jour": "2026-11-09"
@@ -5415,49 +5347,69 @@
       "jour": "2026-11-09"
      },
      {
-      "mot": "jamal musiala",
-      "slug": "jamal-musiala",
+      "mot": "passeport",
+      "slug": "passeport",
       "langue": "fr",
-      "categorie": "autre",
+      "categorie": "administration",
       "volume": 200,
       "hausse": null,
-      "debut": "2026-11-09T20:30:00",
+      "debut": "2026-11-10T14:10:00",
       "fin": null,
       "liees": [],
-      "jour": "2026-11-09"
-     },
-     {
-      "mot": "huile d'olive",
-      "slug": "huile-d-olive",
-      "langue": "fr",
-      "categorie": "commerce",
-      "volume": 100,
-      "hausse": null,
-      "debut": "2026-11-09T06:20:00",
-      "fin": null,
-      "liees": [],
-      "jour": "2026-11-09"
+      "jour": "2026-11-10"
      },
      {
       "mot": "الشروق",
       "slug": "الشروق",
       "langue": "ar",
       "categorie": "autre",
-      "volume": 100,
+      "volume": 200,
       "hausse": null,
       "debut": "2026-11-09T18:30:00",
       "fin": null,
       "liees": [],
       "jour": "2026-11-09"
+     },
+     {
+      "mot": "ماهر الكنزاري",
+      "slug": "ماهر-الكنزاري",
+      "langue": "ar",
+      "categorie": "autre",
+      "volume": 200,
+      "hausse": null,
+      "debut": "2026-11-10T15:10:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-10"
+     },
+     {
+      "mot": "وزارة التربية",
+      "slug": "وزاره-التربيه",
+      "langue": "ar",
+      "categorie": "administration",
+      "volume": 200,
+      "hausse": null,
+      "debut": "2026-11-10T06:10:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-10"
      }
     ],
     "categories": [
      {
       "cle": "autre",
-      "n": 6
+      "n": 7
      },
      {
       "cle": "commerce",
+      "n": 2
+     },
+     {
+      "cle": "administration",
+      "n": 2
+     },
+     {
+      "cle": "finance",
       "n": 1
      }
     ]
@@ -6061,7 +6013,7 @@
   },
   "mois": {
    "2026-11": {
-    "n": 167,
+    "n": 172,
     "top": [
      {
       "mot": "classement stade tunisien – club africain",
@@ -6209,11 +6161,15 @@
      },
      {
       "cle": "autre",
-      "n": 33
+      "n": 34
      },
      {
       "cle": "sport",
       "n": 14
+     },
+     {
+      "cle": "administration",
+      "n": 5
      },
      {
       "cle": "meteo",
@@ -6224,6 +6180,10 @@
       "n": 5
      },
      {
+      "cle": "finance",
+      "n": 4
+     },
+     {
       "cle": "emploi",
       "n": 4
      },
@@ -6232,11 +6192,7 @@
       "n": 4
      },
      {
-      "cle": "administration",
-      "n": 3
-     },
-     {
-      "cle": "finance",
+      "cle": "commerce",
       "n": 3
      },
      {
@@ -6245,10 +6201,6 @@
      },
      {
       "cle": "sante",
-      "n": 2
-     },
-     {
-      "cle": "commerce",
       "n": 2
      },
      {
@@ -13109,6 +13061,30 @@
    "liees": []
   },
   {
+   "mot": "jamal musiala",
+   "mot_norm": "jamal musiala",
+   "slug": "jamal-musiala",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "jamal musiala",
+     "slug": "jamal-musiala",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-09T20:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 1000,
+   "liees": []
+  },
+  {
    "mot": "kooora",
    "mot_norm": "kooora",
    "slug": "kooora",
@@ -13368,6 +13344,30 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-06"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 1000,
+   "liees": []
+  },
+  {
+   "mot": "teddy riner",
+   "mot_norm": "teddy riner",
+   "slug": "teddy-riner",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "teddy riner",
+     "slug": "teddy-riner",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-09T16:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
     }
    ],
    "jours": 1,
@@ -14749,30 +14749,6 @@
    "liees": []
   },
   {
-   "mot": "teddy riner",
-   "mot_norm": "teddy riner",
-   "slug": "teddy-riner",
-   "langue": "fr",
-   "categorie": "autre",
-   "episodes": [
-    {
-     "mot": "teddy riner",
-     "slug": "teddy-riner",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-09T16:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-09"
-    }
-   ],
-   "jours": 1,
-   "volume_max": 500,
-   "liees": []
-  },
-  {
    "mot": "villarreal vs psg",
    "mot_norm": "villarreal vs psg",
    "slug": "villarreal-vs-psg",
@@ -15141,6 +15117,30 @@
    ]
   },
   {
+   "mot": "زيت الزيتون",
+   "mot_norm": "زيت الزيتون",
+   "slug": "زيت-الزيتون",
+   "langue": "ar",
+   "categorie": "commerce",
+   "episodes": [
+    {
+     "mot": "زيت الزيتون",
+     "slug": "زيت-الزيتون",
+     "langue": "ar",
+     "categorie": "commerce",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-09T20:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 500,
+   "liees": []
+  },
+  {
    "mot": "طائر",
    "mot_norm": "طاير",
    "slug": "طاير",
@@ -15289,8 +15289,20 @@
    "mot_norm": "ماهر الكنزاري",
    "slug": "ماهر-الكنزاري",
    "langue": "ar",
-   "categorie": "sport",
+   "categorie": "autre",
    "episodes": [
+    {
+     "mot": "ماهر الكنزاري",
+     "slug": "ماهر-الكنزاري",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-10T15:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-10"
+    },
     {
      "mot": "ماهر الكنزاري",
      "slug": "ماهر-الكنزاري",
@@ -15328,7 +15340,7 @@
      "jour": "2026-10-26"
     }
    ],
-   "jours": 3,
+   "jours": 4,
    "volume_max": 500,
    "liees": []
   },
@@ -16445,30 +16457,6 @@
    ]
   },
   {
-   "mot": "jamal musiala",
-   "mot_norm": "jamal musiala",
-   "slug": "jamal-musiala",
-   "langue": "fr",
-   "categorie": "autre",
-   "episodes": [
-    {
-     "mot": "jamal musiala",
-     "slug": "jamal-musiala",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-09T20:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-09"
-    }
-   ],
-   "jours": 1,
-   "volume_max": 200,
-   "liees": []
-  },
-  {
    "mot": "jj gabriel",
    "mot_norm": "jj gabriel",
    "slug": "jj-gabriel",
@@ -16864,6 +16852,30 @@
      "fin": "2026-10-27T11:00:00",
      "liees": [],
      "jour": "2026-10-26"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
+   "mot": "passeport",
+   "mot_norm": "passeport",
+   "slug": "passeport",
+   "langue": "fr",
+   "categorie": "administration",
+   "episodes": [
+    {
+     "mot": "passeport",
+     "slug": "passeport",
+     "langue": "fr",
+     "categorie": "administration",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-10T14:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-10"
     }
    ],
    "jours": 1,
@@ -17474,7 +17486,7 @@
      "slug": "الشروق",
      "langue": "ar",
      "categorie": "autre",
-     "volume": 100,
+     "volume": 200,
      "hausse": null,
      "debut": "2026-11-09T18:30:00",
      "fin": null,
@@ -17731,6 +17743,30 @@
    "liees": []
   },
   {
+   "mot": "وزارة التربية",
+   "mot_norm": "وزاره التربيه",
+   "slug": "وزاره-التربيه",
+   "langue": "ar",
+   "categorie": "administration",
+   "episodes": [
+    {
+     "mot": "وزارة التربية",
+     "slug": "وزاره-التربيه",
+     "langue": "ar",
+     "categorie": "administration",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-10T06:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-10"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
    "mot": "وزارة الدفاع",
    "mot_norm": "وزاره الدفاع",
    "slug": "وزاره-الدفاع",
@@ -17796,6 +17832,30 @@
      "fin": "2026-11-01T23:30:00",
      "liees": [],
      "jour": "2026-11-01"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 100,
+   "liees": []
+  },
+  {
+   "mot": "banque",
+   "mot_norm": "banque",
+   "slug": "banque",
+   "langue": "fr",
+   "categorie": "finance",
+   "episodes": [
+    {
+     "mot": "banque",
+     "slug": "banque",
+     "langue": "fr",
+     "categorie": "finance",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-10T06:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-10"
     }
    ],
    "jours": 1,
