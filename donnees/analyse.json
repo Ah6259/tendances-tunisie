@@ -1,180 +1,60 @@
 {
- "maj": "2026-11-09T17:50:34",
- "jour": "2026-11-09",
+ "maj": "2026-11-10T02:44:50",
+ "jour": "2026-11-10",
  "totaux": {
-  "tendances": 349,
-  "mots_distincts": 300,
-  "aujourdhui": 18,
+  "tendances": 351,
+  "mots_distincts": 301,
+  "aujourdhui": 6,
   "semaine": 133,
-  "mois": 349,
+  "mois": 351,
   "expressions_tapees": 2049,
   "premiere_lecture": "2026-11-01T10:46:10"
  },
  "aujourdhui": [
   {
-   "mot": "classement atlético madrid – fc barcelone",
-   "slug": "classement-atletico-madrid-fc-barcelone",
+   "mot": "teddy riner",
+   "slug": "teddy-riner",
    "langue": "fr",
-   "categorie": "football",
-   "volume": 5000,
-   "hausse": null,
-   "debut": "2026-11-08T23:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "barca",
-   "slug": "barca",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 2000,
-   "hausse": null,
-   "debut": "2026-11-08T21:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "قيس عبد الفتاح",
-   "slug": "قيس-عبد-الفتاح",
-   "langue": "ar",
    "categorie": "autre",
-   "volume": 2000,
+   "volume": 500,
    "hausse": null,
-   "debut": "2026-11-09T02:30:00",
+   "debut": "2026-11-09T16:50:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-09"
   },
   {
-   "mot": "fc barcelone",
-   "slug": "fc-barcelone",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 1000,
-   "hausse": null,
-   "debut": "2026-11-08T21:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "برشلونة",
-   "slug": "برشلونه",
+   "mot": "طماطم",
+   "slug": "طماطم",
    "langue": "ar",
-   "categorie": "football",
-   "volume": 1000,
-   "hausse": null,
-   "debut": "2026-11-08T21:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "barca vs",
-   "slug": "barca-vs",
-   "langue": "fr",
-   "categorie": "football",
+   "categorie": "autre",
    "volume": 500,
    "hausse": null,
-   "debut": "2026-11-08T21:20:00",
+   "debut": "2026-11-09T17:20:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "classement inter milan – como 1907",
-   "slug": "classement-inter-milan-como-1907",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-08T20:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "fc barcelona",
-   "slug": "fc-barcelona",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-08T21:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "fcb",
-   "slug": "fcb",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-08T21:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "fiorentina – juventus",
-   "slug": "fiorentina-juventus",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-08T21:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "lens – marseille",
-   "slug": "lens-marseille",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-08T21:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "barca match",
-   "slug": "barca-match",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-08T22:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "dana white",
-   "slug": "dana-white",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-08T20:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
+   "jour": "2026-11-09"
   },
   {
    "mot": "gta 6",
    "slug": "gta-6",
    "langue": "fr",
    "categorie": "autre",
-   "volume": 100,
+   "volume": 200,
    "hausse": null,
    "debut": "2026-11-09T13:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-09"
+  },
+  {
+   "mot": "jamal musiala",
+   "slug": "jamal-musiala",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-09T20:30:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-09"
@@ -192,37 +72,13 @@
    "jour": "2026-11-09"
   },
   {
-   "mot": "liga",
-   "slug": "liga",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-08T23:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "teddy riner",
-   "slug": "teddy-riner",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-09T16:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-09"
-  },
-  {
-   "mot": "طماطم",
-   "slug": "طماطم",
+   "mot": "الشروق",
+   "slug": "الشروق",
    "langue": "ar",
    "categorie": "autre",
    "volume": 100,
    "hausse": null,
-   "debut": "2026-11-09T17:20:00",
+   "debut": "2026-11-09T18:30:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-09"
@@ -810,20 +666,6 @@
    "jour": "2026-11-04"
   },
   {
-   "mot": "newcastle – everton",
-   "slug": "newcastle-everton",
-   "langue": "fr",
-   "categorie": "sport",
-   "volume": 500,
-   "hausse": 800,
-   "debut": "2026-11-02T21:20:00",
-   "fin": "2026-11-02T23:30:00",
-   "liees": [
-    "everton – newcastle"
-   ],
-   "jour": "2026-11-02"
-  },
-  {
    "mot": "عقوبة",
    "slug": "عقوبه",
    "langue": "ar",
@@ -1009,6 +851,18 @@
    "jour": "2026-11-06"
   },
   {
+   "mot": "teddy riner",
+   "slug": "teddy-riner",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-09T16:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-09"
+  },
+  {
    "mot": "visa",
    "slug": "visa",
    "langue": "fr",
@@ -1055,6 +909,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-07"
+  },
+  {
+   "mot": "طماطم",
+   "slug": "طماطم",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-09T17:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-09"
   },
   {
    "mot": "فرنسا",
@@ -1419,6 +1285,18 @@
    "jour": "2026-11-08"
   },
   {
+   "mot": "gta 6",
+   "slug": "gta-6",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-09T13:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-09"
+  },
+  {
    "mot": "inter miami",
    "slug": "inter-miami",
    "langue": "fr",
@@ -1429,6 +1307,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-08"
+  },
+  {
+   "mot": "jamal musiala",
+   "slug": "jamal-musiala",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-09T20:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-09"
   },
   {
    "mot": "jj gabriel",
@@ -1549,18 +1439,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-05"
-  },
-  {
-   "mot": "pakhtakor fc vs al-nassr standings",
-   "slug": "pakhtakor-fc-vs-al-nassr-standings",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 100,
-   "hausse": 900,
-   "debut": "2026-11-02T18:20:00",
-   "fin": "2026-11-02T19:10:00",
-   "liees": [],
-   "jour": "2026-11-02"
   },
   {
    "mot": "championnat",
@@ -1755,18 +1633,6 @@
    "jour": "2026-11-05"
   },
   {
-   "mot": "gta 6",
-   "slug": "gta-6",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-09T13:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-09"
-  },
-  {
    "mot": "huile d'olive",
    "slug": "huile-d-olive",
    "langue": "fr",
@@ -1827,18 +1693,6 @@
    "jour": "2026-11-07"
   },
   {
-   "mot": "teddy riner",
-   "slug": "teddy-riner",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-09T16:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-09"
-  },
-  {
    "mot": "twitch",
    "slug": "twitch",
    "langue": "fr",
@@ -1851,6 +1705,18 @@
    "jour": "2026-11-06"
   },
   {
+   "mot": "الشروق",
+   "slug": "الشروق",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-09T18:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-09"
+  },
+  {
    "mot": "تصدير",
    "slug": "تصدير",
    "langue": "ar",
@@ -1861,18 +1727,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-06"
-  },
-  {
-   "mot": "طماطم",
-   "slug": "طماطم",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-09T17:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-09"
   },
   {
    "mot": "نهاية العالم",
@@ -1889,133 +1743,37 @@
  ],
  "nouveautes": [
   {
-   "mot": "classement atlético madrid – fc barcelone",
-   "slug": "classement-atletico-madrid-fc-barcelone",
+   "mot": "teddy riner",
+   "slug": "teddy-riner",
    "langue": "fr",
-   "categorie": "football",
-   "volume": 5000,
-   "hausse": null,
-   "debut": "2026-11-08T23:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "قيس عبد الفتاح",
-   "slug": "قيس-عبد-الفتاح",
-   "langue": "ar",
    "categorie": "autre",
-   "volume": 2000,
+   "volume": 500,
    "hausse": null,
-   "debut": "2026-11-09T02:30:00",
+   "debut": "2026-11-09T16:50:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-09"
-  },
-  {
-   "mot": "fc barcelone",
-   "slug": "fc-barcelone",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 1000,
-   "hausse": null,
-   "debut": "2026-11-08T21:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "برشلونة",
-   "slug": "برشلونه",
-   "langue": "ar",
-   "categorie": "football",
-   "volume": 1000,
-   "hausse": null,
-   "debut": "2026-11-08T21:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "classement inter milan – como 1907",
-   "slug": "classement-inter-milan-como-1907",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-08T20:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "fc barcelona",
-   "slug": "fc-barcelona",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-08T21:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "fiorentina – juventus",
-   "slug": "fiorentina-juventus",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-08T21:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "lens – marseille",
-   "slug": "lens-marseille",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-08T21:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "barca match",
-   "slug": "barca-match",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-08T22:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "dana white",
-   "slug": "dana-white",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-08T20:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
   },
   {
    "mot": "gta 6",
    "slug": "gta-6",
    "langue": "fr",
    "categorie": "autre",
-   "volume": 100,
+   "volume": 200,
    "hausse": null,
    "debut": "2026-11-09T13:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-09"
+  },
+  {
+   "mot": "jamal musiala",
+   "slug": "jamal-musiala",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-09T20:30:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-09"
@@ -2028,30 +1786,6 @@
    "volume": 100,
    "hausse": null,
    "debut": "2026-11-09T06:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-09"
-  },
-  {
-   "mot": "liga",
-   "slug": "liga",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-08T23:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "teddy riner",
-   "slug": "teddy-riner",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-09T16:50:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-09"
@@ -2492,32 +2226,6 @@
    "jour": "2026-11-03"
   },
   {
-   "mot": "pakhtakor fc vs al-nassr standings",
-   "slug": "pakhtakor-fc-vs-al-nassr-standings",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 100,
-   "hausse": 900,
-   "debut": "2026-11-02T18:20:00",
-   "fin": "2026-11-02T19:10:00",
-   "liees": [],
-   "jour": "2026-11-02"
-  },
-  {
-   "mot": "newcastle – everton",
-   "slug": "newcastle-everton",
-   "langue": "fr",
-   "categorie": "sport",
-   "volume": 500,
-   "hausse": 800,
-   "debut": "2026-11-02T21:20:00",
-   "fin": "2026-11-02T23:30:00",
-   "liees": [
-    "everton – newcastle"
-   ],
-   "jour": "2026-11-02"
-  },
-  {
    "mot": "gta6",
    "slug": "gta6",
    "langue": "fr",
@@ -2858,42 +2566,6 @@
    "jour": "2026-10-29"
   },
   {
-   "mot": "harry kane",
-   "slug": "harry-kane",
-   "langue": "fr",
-   "categorie": "sport",
-   "volume": 10000,
-   "hausse": 1000,
-   "debut": "2026-10-26T22:00:00",
-   "fin": "2026-10-28T08:40:00",
-   "liees": [
-    "bayern munich",
-    "ballon dor",
-    "dazn live",
-    "who won the ballon d'or 2026",
-    "ballon dor live"
-   ],
-   "jour": "2026-10-26"
-  },
-  {
-   "mot": "ballon d'or live",
-   "slug": "ballon-d-or-live",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 5000,
-   "hausse": 1000,
-   "debut": "2026-10-26T19:00:00",
-   "fin": "2026-10-27T01:00:00",
-   "liees": [
-    "ballon d'or 2026 live",
-    "ballon d or",
-    "live ballon d or 2026",
-    "ballon d'or ceremony",
-    "ballon d'or winner 2026"
-   ],
-   "jour": "2026-10-26"
-  },
-  {
    "mot": "classement fc barcelone – deportivo alavés",
    "slug": "classement-fc-barcelone-deportivo-alaves",
    "langue": "fr",
@@ -2919,18 +2591,6 @@
    "fin": "2026-11-02T18:40:00",
    "liees": [],
    "jour": "2026-11-01"
-  },
-  {
-   "mot": "dazn",
-   "slug": "dazn",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 5000,
-   "hausse": 1000,
-   "debut": "2026-10-26T18:10:00",
-   "fin": "2026-10-27T01:00:00",
-   "liees": [],
-   "jour": "2026-10-26"
   },
   {
    "mot": "journal officiel de la république tunisienne",
@@ -2962,21 +2622,6 @@
    "jour": "2026-10-31"
   },
   {
-   "mot": "paris-sg – ol",
-   "slug": "paris-sg-ol",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 5000,
-   "hausse": 1000,
-   "debut": "2026-10-26T20:00:00",
-   "fin": "2026-10-27T09:10:00",
-   "liees": [
-    "classement paris saint-germain football club – olympique lyonnais",
-    "psg vs ol"
-   ],
-   "jour": "2026-10-26"
-  },
-  {
    "mot": "أمطار متفرقة",
    "slug": "امطار-متفرقه",
    "langue": "ar",
@@ -2990,24 +2635,6 @@
     "مطر"
    ],
    "jour": "2026-10-29"
-  },
-  {
-   "mot": "من فاز بالكرة الذهبية 2026",
-   "slug": "من-فاز-بالكره-الذهبيه-2026",
-   "langue": "ar",
-   "categorie": "football",
-   "volume": 5000,
-   "hausse": 1000,
-   "debut": "2026-10-26T21:40:00",
-   "fin": "2026-10-27T10:50:00",
-   "liees": [
-    "حفل الكرة الذهبية 2026",
-    "yalla kora",
-    "الكرة الذهبية 2026",
-    "من الفائز بالكرة الذهبية 2026",
-    "الكرة الذهبية"
-   ],
-   "jour": "2026-10-26"
   },
   {
    "mot": "ياسين مرياح",
@@ -3032,24 +2659,6 @@
    "fin": "2026-10-29T22:20:00",
    "liees": [],
    "jour": "2026-10-29"
-  },
-  {
-   "mot": "ballon d'or 2026 heure",
-   "slug": "ballon-d-or-2026-heure",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-10-26T19:30:00",
-   "fin": "2026-10-26T23:20:00",
-   "liees": [
-    "qui a gagné le ballon d'or 2026",
-    "ceremonie ballon d'or",
-    "classement ballon d'or 2026",
-    "ceremonie ballon d'or 2026",
-    "match aujourd'hui"
-   ],
-   "jour": "2026-10-26"
   },
   {
    "mot": "barcelona vs alavés",
@@ -3305,18 +2914,6 @@
    "jour": "2026-10-31"
   },
   {
-   "mot": "kick",
-   "slug": "kick",
-   "langue": "fr",
-   "categorie": "divertissement",
-   "volume": 2000,
-   "hausse": 200,
-   "debut": "2026-10-26T21:40:00",
-   "fin": "2026-10-27T00:50:00",
-   "liees": [],
-   "jour": "2026-10-26"
-  },
-  {
    "mot": "ac milan – inter",
    "slug": "ac-milan-inter",
    "langue": "fr",
@@ -3329,18 +2926,6 @@
     "ac milan"
    ],
    "jour": "2026-10-31"
-  },
-  {
-   "mot": "alexia putellas",
-   "slug": "alexia-putellas",
-   "langue": "fr",
-   "categorie": "sport",
-   "volume": 1000,
-   "hausse": 1000,
-   "debut": "2026-10-26T23:30:00",
-   "fin": "2026-10-27T18:30:00",
-   "liees": [],
-   "jour": "2026-10-26"
   },
   {
    "mot": "bayern – magdebourg",
@@ -3381,18 +2966,6 @@
    "jour": "2026-10-31"
   },
   {
-   "mot": "bein sport",
-   "slug": "bein-sport",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 1000,
-   "hausse": 800,
-   "debut": "2026-10-26T19:50:00",
-   "fin": "2026-10-27T00:00:00",
-   "liees": [],
-   "jour": "2026-10-26"
-  },
-  {
    "mot": "télépéage",
    "slug": "telepeage",
    "langue": "fr",
@@ -3429,20 +3002,6 @@
     "caf champions league"
    ],
    "jour": "2026-10-28"
-  },
-  {
-   "mot": "كيليان مبابي",
-   "slug": "كيليان-مبابي",
-   "langue": "ar",
-   "categorie": "football",
-   "volume": 1000,
-   "hausse": 700,
-   "debut": "2026-10-26T21:50:00",
-   "fin": "2026-10-28T07:30:00",
-   "liees": [
-    "كرة القدم"
-   ],
-   "jour": "2026-10-26"
   },
   {
    "mot": "آثار الحكيم",
@@ -3505,16 +3064,16 @@
    "jour": "2026-10-28"
   },
   {
-   "mot": "al-nassr fc – al wasl",
-   "slug": "al-nassr-fc-al-wasl",
+   "mot": "bein sport",
+   "slug": "bein-sport",
    "langue": "fr",
    "categorie": "football",
    "volume": 500,
    "hausse": 1000,
-   "debut": "2026-10-26T18:40:00",
-   "fin": "2026-10-26T21:50:00",
+   "debut": "2026-10-28T12:30:00",
+   "fin": "2026-10-28T14:10:00",
    "liees": [],
-   "jour": "2026-10-26"
+   "jour": "2026-10-28"
   },
   {
    "mot": "cab",
@@ -3615,6 +3174,133 @@
     "ريال مدريد"
    ],
    "jour": "2026-11-01"
+  },
+  {
+   "mot": "newcastle – everton",
+   "slug": "newcastle-everton",
+   "langue": "fr",
+   "categorie": "sport",
+   "volume": 500,
+   "hausse": 800,
+   "debut": "2026-11-02T21:20:00",
+   "fin": "2026-11-02T23:30:00",
+   "liees": [
+    "everton – newcastle"
+   ],
+   "jour": "2026-11-02"
+  },
+  {
+   "mot": "patrick stewart",
+   "slug": "patrick-stewart",
+   "langue": "fr",
+   "categorie": "divertissement",
+   "volume": 500,
+   "hausse": 800,
+   "debut": "2026-10-29T21:40:00",
+   "fin": "2026-10-30T09:50:00",
+   "liees": [],
+   "jour": "2026-10-29"
+  },
+  {
+   "mot": "وزارة الدفاع الوطني",
+   "slug": "وزاره-الدفاع-الوطني",
+   "langue": "ar",
+   "categorie": "administration",
+   "volume": 500,
+   "hausse": 800,
+   "debut": "2026-10-30T18:00:00",
+   "fin": "2026-10-31T07:10:00",
+   "liees": [
+    "وزارة الدفاع"
+   ],
+   "jour": "2026-10-30"
+  },
+  {
+   "mot": "vincent kompany",
+   "slug": "vincent-kompany",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 500,
+   "hausse": 700,
+   "debut": "2026-11-01T09:40:00",
+   "fin": "2026-11-01T17:10:00",
+   "liees": [],
+   "jour": "2026-11-01"
+  },
+  {
+   "mot": "inter milan",
+   "slug": "inter-milan",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 500,
+   "hausse": 600,
+   "debut": "2026-10-31T21:30:00",
+   "fin": "2026-11-01T07:50:00",
+   "liees": [
+    "ac milan",
+    "milan vs inter"
+   ],
+   "jour": "2026-10-31"
+  },
+  {
+   "mot": "الرابطة الوطنية لكرة القدم المحترفة",
+   "slug": "الرابطه-الوطنيه-لكره-القدم-المحترفه",
+   "langue": "ar",
+   "categorie": "football",
+   "volume": 500,
+   "hausse": 600,
+   "debut": "2026-10-28T21:50:00",
+   "fin": "2026-10-29T09:50:00",
+   "liees": [],
+   "jour": "2026-10-28"
+  },
+  {
+   "mot": "يوسف بلايلي",
+   "slug": "يوسف-بلايلي",
+   "langue": "ar",
+   "categorie": "sport",
+   "volume": 500,
+   "hausse": 600,
+   "debut": "2026-10-30T21:40:00",
+   "fin": "2026-10-31T18:00:00",
+   "liees": [],
+   "jour": "2026-10-30"
+  },
+  {
+   "mot": "الشركة التونسية للبنك",
+   "slug": "الشركه-التونسيه-للبنك",
+   "langue": "ar",
+   "categorie": "finance",
+   "volume": 500,
+   "hausse": 500,
+   "debut": "2026-10-27T06:10:00",
+   "fin": "2026-10-28T07:20:00",
+   "liees": [],
+   "jour": "2026-10-27"
+  },
+  {
+   "mot": "تسوية",
+   "slug": "تسويه",
+   "langue": "ar",
+   "categorie": "administration",
+   "volume": 500,
+   "hausse": 500,
+   "debut": "2026-10-27T22:10:00",
+   "fin": "2026-10-28T09:20:00",
+   "liees": [],
+   "jour": "2026-10-27"
+  },
+  {
+   "mot": "خالد بن يحيى",
+   "slug": "خالد-بن-يحيي",
+   "langue": "ar",
+   "categorie": "sport",
+   "volume": 500,
+   "hausse": 500,
+   "debut": "2026-10-29T19:40:00",
+   "fin": "2026-10-30T08:20:00",
+   "liees": [],
+   "jour": "2026-10-29"
   }
  ],
  "recurrents": [
@@ -4069,7 +3755,7 @@
   "football": {
    "fr": "Football",
    "ar": "كرة القدم",
-   "n_semaine": 65,
+   "n_semaine": 64,
    "n_mois": 190,
    "top": [
     {
@@ -4743,18 +4429,6 @@
      "jour": "2026-11-07"
     },
     {
-     "mot": "pakhtakor fc vs al-nassr standings",
-     "slug": "pakhtakor-fc-vs-al-nassr-standings",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 100,
-     "hausse": 900,
-     "debut": "2026-11-02T18:20:00",
-     "fin": "2026-11-02T19:10:00",
-     "liees": [],
-     "jour": "2026-11-02"
-    },
-    {
      "mot": "championnat",
      "slug": "championnat",
      "langue": "fr",
@@ -4837,135 +4511,26 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-05"
+    },
+    {
+     "mot": "getafe – brighton",
+     "slug": "getafe-brighton",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-05T21:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-05"
     }
    ],
-   "top24": [
-    {
-     "mot": "classement atlético madrid – fc barcelone",
-     "slug": "classement-atletico-madrid-fc-barcelone",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 5000,
-     "hausse": null,
-     "debut": "2026-11-08T23:10:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-08"
-    },
-    {
-     "mot": "barca",
-     "slug": "barca",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 2000,
-     "hausse": null,
-     "debut": "2026-11-08T21:20:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-08"
-    },
-    {
-     "mot": "الترجي الرياضي التونسي",
-     "slug": "الترجي-الرياضي-التونسي",
-     "langue": "ar",
-     "categorie": "football",
-     "volume": 2000,
-     "hausse": null,
-     "debut": "2026-11-08T10:00:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-08"
-    },
-    {
-     "mot": "fc barcelone",
-     "slug": "fc-barcelone",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 1000,
-     "hausse": null,
-     "debut": "2026-11-08T21:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-08"
-    },
-    {
-     "mot": "برشلونة",
-     "slug": "برشلونه",
-     "langue": "ar",
-     "categorie": "football",
-     "volume": 1000,
-     "hausse": null,
-     "debut": "2026-11-08T21:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-08"
-    },
-    {
-     "mot": "barca vs",
-     "slug": "barca-vs",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-08T21:20:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-08"
-    },
-    {
-     "mot": "classement inter milan – como 1907",
-     "slug": "classement-inter-milan-como-1907",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-08T20:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-08"
-    },
-    {
-     "mot": "crystal palace – liverpool",
-     "slug": "crystal-palace-liverpool",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-08T14:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-08"
-    },
-    {
-     "mot": "elche – betis",
-     "slug": "elche-betis",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-08T13:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-08"
-    },
-    {
-     "mot": "fc barcelona",
-     "slug": "fc-barcelona",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-08T21:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-08"
-    }
-   ]
+   "top24": []
   },
   "sport": {
    "fr": "Autres sports",
    "ar": "رياضات أخرى",
-   "n_semaine": 11,
+   "n_semaine": 10,
    "n_mois": 49,
    "top": [
     {
@@ -5007,20 +4572,6 @@
      "fin": "2026-11-04T01:50:00",
      "liees": [],
      "jour": "2026-11-03"
-    },
-    {
-     "mot": "newcastle – everton",
-     "slug": "newcastle-everton",
-     "langue": "fr",
-     "categorie": "sport",
-     "volume": 500,
-     "hausse": 800,
-     "debut": "2026-11-02T21:20:00",
-     "fin": "2026-11-02T23:30:00",
-     "liees": [
-      "everton – newcastle"
-     ],
-     "jour": "2026-11-02"
     },
     {
      "mot": "معين شعباني",
@@ -5269,8 +4820,8 @@
   "autre": {
    "fr": "Autre",
    "ar": "أخرى",
-   "n_semaine": 30,
-   "n_mois": 36,
+   "n_semaine": 32,
+   "n_mois": 38,
    "top": [
     {
      "mot": "paris-sg – troyes",
@@ -5381,6 +4932,18 @@
      "jour": "2026-11-06"
     },
     {
+     "mot": "teddy riner",
+     "slug": "teddy-riner",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-09T16:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
+    },
+    {
      "mot": "weather",
      "slug": "weather",
      "langue": "fr",
@@ -5415,6 +4978,18 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-07"
+    },
+    {
+     "mot": "طماطم",
+     "slug": "طماطم",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-09T17:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
     },
     {
      "mot": "climat",
@@ -5463,6 +5038,30 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-08"
+    },
+    {
+     "mot": "gta 6",
+     "slug": "gta-6",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-09T13:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
+    },
+    {
+     "mot": "jamal musiala",
+     "slug": "jamal-musiala",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-09T20:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
     },
     {
      "mot": "jj gabriel",
@@ -5561,30 +5160,6 @@
      "jour": "2026-11-08"
     },
     {
-     "mot": "gta 6",
-     "slug": "gta-6",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-09T13:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-09"
-    },
-    {
-     "mot": "teddy riner",
-     "slug": "teddy-riner",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-09T16:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-09"
-    },
-    {
      "mot": "twitch",
      "slug": "twitch",
      "langue": "fr",
@@ -5597,6 +5172,18 @@
      "jour": "2026-11-06"
     },
     {
+     "mot": "الشروق",
+     "slug": "الشروق",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-09T18:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
+    },
+    {
      "mot": "تصدير",
      "slug": "تصدير",
      "langue": "ar",
@@ -5607,18 +5194,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-06"
-    },
-    {
-     "mot": "طماطم",
-     "slug": "طماطم",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-09T17:20:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-09"
     },
     {
      "mot": "نهاية العالم",
@@ -5647,71 +5222,11 @@
      "jour": "2026-11-09"
     },
     {
-     "mot": "climat",
-     "slug": "climat",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-08T05:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-08"
-    },
-    {
-     "mot": "fcb",
-     "slug": "fcb",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-08T21:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-08"
-    },
-    {
-     "mot": "benjamin netanyahu",
-     "slug": "benjamin-netanyahu",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-08T12:10:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-08"
-    },
-    {
-     "mot": "dana white",
-     "slug": "dana-white",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-08T20:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-08"
-    },
-    {
-     "mot": "gta 6",
-     "slug": "gta-6",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-09T13:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-09"
-    },
-    {
      "mot": "teddy riner",
      "slug": "teddy-riner",
      "langue": "fr",
      "categorie": "autre",
-     "volume": 100,
+     "volume": 500,
      "hausse": null,
      "debut": "2026-11-09T16:50:00",
      "fin": null,
@@ -5723,9 +5238,45 @@
      "slug": "طماطم",
      "langue": "ar",
      "categorie": "autre",
-     "volume": 100,
+     "volume": 500,
      "hausse": null,
      "debut": "2026-11-09T17:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
+    },
+    {
+     "mot": "gta 6",
+     "slug": "gta-6",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-09T13:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
+    },
+    {
+     "mot": "jamal musiala",
+     "slug": "jamal-musiala",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-09T20:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
+    },
+    {
+     "mot": "الشروق",
+     "slug": "الشروق",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-09T18:30:00",
      "fin": null,
      "liees": [],
      "jour": "2026-11-09"
@@ -5813,7 +5364,7 @@
  "historique": {
   "semaines": {
    "2026-11-09": {
-    "n": 5,
+    "n": 7,
     "top": [
      {
       "mot": "قيس عبد الفتاح",
@@ -5828,13 +5379,49 @@
       "jour": "2026-11-09"
      },
      {
+      "mot": "teddy riner",
+      "slug": "teddy-riner",
+      "langue": "fr",
+      "categorie": "autre",
+      "volume": 500,
+      "hausse": null,
+      "debut": "2026-11-09T16:50:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-09"
+     },
+     {
+      "mot": "طماطم",
+      "slug": "طماطم",
+      "langue": "ar",
+      "categorie": "autre",
+      "volume": 500,
+      "hausse": null,
+      "debut": "2026-11-09T17:20:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-09"
+     },
+     {
       "mot": "gta 6",
       "slug": "gta-6",
       "langue": "fr",
       "categorie": "autre",
-      "volume": 100,
+      "volume": 200,
       "hausse": null,
       "debut": "2026-11-09T13:50:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-09"
+     },
+     {
+      "mot": "jamal musiala",
+      "slug": "jamal-musiala",
+      "langue": "fr",
+      "categorie": "autre",
+      "volume": 200,
+      "hausse": null,
+      "debut": "2026-11-09T20:30:00",
       "fin": null,
       "liees": [],
       "jour": "2026-11-09"
@@ -5852,25 +5439,13 @@
       "jour": "2026-11-09"
      },
      {
-      "mot": "teddy riner",
-      "slug": "teddy-riner",
-      "langue": "fr",
-      "categorie": "autre",
-      "volume": 100,
-      "hausse": null,
-      "debut": "2026-11-09T16:50:00",
-      "fin": null,
-      "liees": [],
-      "jour": "2026-11-09"
-     },
-     {
-      "mot": "طماطم",
-      "slug": "طماطم",
+      "mot": "الشروق",
+      "slug": "الشروق",
       "langue": "ar",
       "categorie": "autre",
       "volume": 100,
       "hausse": null,
-      "debut": "2026-11-09T17:20:00",
+      "debut": "2026-11-09T18:30:00",
       "fin": null,
       "liees": [],
       "jour": "2026-11-09"
@@ -5879,7 +5454,7 @@
     "categories": [
      {
       "cle": "autre",
-      "n": 4
+      "n": 6
      },
      {
       "cle": "commerce",
@@ -6486,7 +6061,7 @@
   },
   "mois": {
    "2026-11": {
-    "n": 165,
+    "n": 167,
     "top": [
      {
       "mot": "classement stade tunisien – club africain",
@@ -6634,7 +6209,7 @@
      },
      {
       "cle": "autre",
-      "n": 31
+      "n": 33
      },
      {
       "cle": "sport",
@@ -15174,6 +14749,30 @@
    "liees": []
   },
   {
+   "mot": "teddy riner",
+   "mot_norm": "teddy riner",
+   "slug": "teddy-riner",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "teddy riner",
+     "slug": "teddy-riner",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-09T16:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 500,
+   "liees": []
+  },
+  {
    "mot": "villarreal vs psg",
    "mot_norm": "villarreal vs psg",
    "slug": "villarreal-vs-psg",
@@ -15562,6 +15161,42 @@
     }
    ],
    "jours": 1,
+   "volume_max": 500,
+   "liees": []
+  },
+  {
+   "mot": "طماطم",
+   "mot_norm": "طماطم",
+   "slug": "طماطم",
+   "langue": "ar",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "طماطم",
+     "slug": "طماطم",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-09T17:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
+    },
+    {
+     "mot": "طماطم",
+     "slug": "طماطم",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-07T05:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-07"
+    }
+   ],
+   "jours": 2,
    "volume_max": 500,
    "liees": []
   },
@@ -16734,6 +16369,30 @@
    "liees": []
   },
   {
+   "mot": "gta 6",
+   "mot_norm": "gta 6",
+   "slug": "gta-6",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "gta 6",
+     "slug": "gta-6",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-09T13:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
    "mot": "inter miami",
    "mot_norm": "inter miami",
    "slug": "inter-miami",
@@ -16784,6 +16443,30 @@
    "liees": [
     "election israel"
    ]
+  },
+  {
+   "mot": "jamal musiala",
+   "mot_norm": "jamal musiala",
+   "slug": "jamal-musiala",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "jamal musiala",
+     "slug": "jamal-musiala",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-09T20:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
   },
   {
    "mot": "jj gabriel",
@@ -17784,8 +17467,20 @@
    "mot_norm": "الشروق",
    "slug": "الشروق",
    "langue": "ar",
-   "categorie": "sport",
+   "categorie": "autre",
    "episodes": [
+    {
+     "mot": "الشروق",
+     "slug": "الشروق",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-09T18:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-09"
+    },
     {
      "mot": "الشروق",
      "slug": "الشروق",
@@ -17799,7 +17494,7 @@
      "jour": "2026-10-25"
     }
    ],
-   "jours": 1,
+   "jours": 2,
    "volume_max": 200,
    "liees": []
   },
@@ -17950,42 +17645,6 @@
    "liees": [
     "الطقس غدًا"
    ]
-  },
-  {
-   "mot": "طماطم",
-   "mot_norm": "طماطم",
-   "slug": "طماطم",
-   "langue": "ar",
-   "categorie": "autre",
-   "episodes": [
-    {
-     "mot": "طماطم",
-     "slug": "طماطم",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-09T17:20:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-09"
-    },
-    {
-     "mot": "طماطم",
-     "slug": "طماطم",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-07T05:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-07"
-    }
-   ],
-   "jours": 2,
-   "volume_max": 200,
-   "liees": []
   },
   {
    "mot": "فالنسيا ضد الريال",
@@ -18456,30 +18115,6 @@
    "liees": []
   },
   {
-   "mot": "gta 6",
-   "mot_norm": "gta 6",
-   "slug": "gta-6",
-   "langue": "fr",
-   "categorie": "autre",
-   "episodes": [
-    {
-     "mot": "gta 6",
-     "slug": "gta-6",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-09T13:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-09"
-    }
-   ],
-   "jours": 1,
-   "volume_max": 100,
-   "liees": []
-  },
-  {
    "mot": "huile d'olive",
    "mot_norm": "huile d'olive",
    "slug": "huile-d-olive",
@@ -18809,30 +18444,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-07"
-    }
-   ],
-   "jours": 1,
-   "volume_max": 100,
-   "liees": []
-  },
-  {
-   "mot": "teddy riner",
-   "mot_norm": "teddy riner",
-   "slug": "teddy-riner",
-   "langue": "fr",
-   "categorie": "autre",
-   "episodes": [
-    {
-     "mot": "teddy riner",
-     "slug": "teddy-riner",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-09T16:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-09"
     }
    ],
    "jours": 1,
