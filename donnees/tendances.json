@@ -8966,8 +8966,8 @@
    "codes": [],
    "categorie": "commerce",
    "vu_premier": "2026-11-09T17:50:27",
-   "vu_dernier": "2026-11-10T16:13:35",
-   "releves": 3,
+   "vu_dernier": "2026-11-11T00:41:39",
+   "releves": 4,
    "periodes": [],
    "sources": [
     "rss"
@@ -9100,14 +9100,14 @@
    "debut": "2026-11-10T15:10:00",
    "debut_ts": 1794319800,
    "fin": null,
-   "volume": 200,
+   "volume": 1000,
    "hausse": null,
    "liees": [],
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-10T16:13:35",
-   "vu_dernier": "2026-11-10T16:13:35",
-   "releves": 1,
+   "vu_dernier": "2026-11-11T00:41:39",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -9120,14 +9120,14 @@
    "debut": "2026-11-10T14:10:00",
    "debut_ts": 1794316200,
    "fin": null,
-   "volume": 200,
+   "volume": 500,
    "hausse": null,
    "liees": [],
    "codes": [],
    "categorie": "administration",
    "vu_premier": "2026-11-10T16:13:35",
-   "vu_dernier": "2026-11-10T16:13:35",
-   "releves": 1,
+   "vu_dernier": "2026-11-11T00:41:39",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -9146,8 +9146,8 @@
    "codes": [],
    "categorie": "finance",
    "vu_premier": "2026-11-10T16:13:35",
-   "vu_dernier": "2026-11-10T16:13:35",
-   "releves": 1,
+   "vu_dernier": "2026-11-11T00:41:39",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -9166,8 +9166,8 @@
    "codes": [],
    "categorie": "administration",
    "vu_premier": "2026-11-10T16:13:35",
-   "vu_dernier": "2026-11-10T16:13:35",
-   "releves": 1,
+   "vu_dernier": "2026-11-11T00:41:39",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -9192,7 +9192,67 @@
    "sources": [
     "rss"
    ]
+  },
+  "emission obligataire|498429": {
+   "mot": "émission obligataire",
+   "mot_norm": "emission obligataire",
+   "langue": "fr",
+   "debut": "2026-11-10T22:10:00",
+   "debut_ts": 1794345000,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "divertissement",
+   "vu_premier": "2026-11-11T00:41:39",
+   "vu_dernier": "2026-11-11T00:41:39",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "jensen huang|498424": {
+   "mot": "jensen huang",
+   "mot_norm": "jensen huang",
+   "langue": "fr",
+   "debut": "2026-11-10T17:20:00",
+   "debut_ts": 1794327600,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-11T00:41:39",
+   "vu_dernier": "2026-11-11T00:41:39",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "gta vi|498423": {
+   "mot": "gta vi",
+   "mot_norm": "gta vi",
+   "langue": "fr",
+   "debut": "2026-11-10T16:50:00",
+   "debut_ts": 1794325800,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-11T00:41:39",
+   "vu_dernier": "2026-11-11T00:41:39",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-10T16:13:35"
+ "maj": "2026-11-11T00:41:39"
 }

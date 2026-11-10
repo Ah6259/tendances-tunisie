@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-10",
+ "maj": "2026-11-11",
  "explication": "Mots restés sans catégorie (à classer dans robot/categories.py quand ils reviennent).",
  "mots": [
   {
@@ -44,6 +44,16 @@
   },
   {
    "mot": "jamal musiala",
+   "fois": 1,
+   "volume": 1000
+  },
+  {
+   "mot": "ماهر الكنزاري",
+   "fois": 1,
+   "volume": 1000
+  },
+  {
+   "mot": "gta vi",
    "fois": 1,
    "volume": 1000
   },
@@ -143,11 +153,6 @@
    "volume": 200
   },
   {
-   "mot": "ماهر الكنزاري",
-   "fois": 1,
-   "volume": 200
-  },
-  {
    "mot": "قطار",
    "fois": 1,
    "volume": 100
@@ -179,6 +184,11 @@
   },
   {
    "mot": "dana white",
+   "fois": 1,
+   "volume": 100
+  },
+  {
+   "mot": "jensen huang",
    "fois": 1,
    "volume": 100
   }
