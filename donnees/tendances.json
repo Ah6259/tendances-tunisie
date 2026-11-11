@@ -9200,14 +9200,14 @@
    "debut": "2026-11-10T22:10:00",
    "debut_ts": 1794345000,
    "fin": null,
-   "volume": 200,
+   "volume": 1000,
    "hausse": null,
    "liees": [],
    "codes": [],
    "categorie": "divertissement",
    "vu_premier": "2026-11-11T00:41:39",
-   "vu_dernier": "2026-11-11T00:41:39",
-   "releves": 1,
+   "vu_dernier": "2026-11-11T15:42:30",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -9226,8 +9226,8 @@
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-11T00:41:39",
-   "vu_dernier": "2026-11-11T00:41:39",
-   "releves": 1,
+   "vu_dernier": "2026-11-11T15:42:30",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -9246,7 +9246,127 @@
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-11T00:41:39",
-   "vu_dernier": "2026-11-11T00:41:39",
+   "vu_dernier": "2026-11-11T15:42:30",
+   "releves": 2,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "محكمه|498446": {
+   "mot": "محكمة",
+   "mot_norm": "محكمه",
+   "langue": "ar",
+   "debut": "2026-11-11T15:10:00",
+   "debut_ts": 1794406200,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "administration",
+   "vu_premier": "2026-11-11T15:42:30",
+   "vu_dernier": "2026-11-11T15:42:30",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "يوسف بلايلي|498444": {
+   "mot": "يوسف بلايلي",
+   "mot_norm": "يوسف بلايلي",
+   "langue": "ar",
+   "debut": "2026-11-11T13:00:00",
+   "debut_ts": 1794398400,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-11T15:42:30",
+   "vu_dernier": "2026-11-11T15:42:30",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "police|498443": {
+   "mot": "police",
+   "mot_norm": "police",
+   "langue": "fr",
+   "debut": "2026-11-11T12:10:00",
+   "debut_ts": 1794395400,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-11T15:42:30",
+   "vu_dernier": "2026-11-11T15:42:30",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "معين شعباني|498436": {
+   "mot": "معين شعباني",
+   "mot_norm": "معين شعباني",
+   "langue": "ar",
+   "debut": "2026-11-11T05:50:00",
+   "debut_ts": 1794372600,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-11T15:42:30",
+   "vu_dernier": "2026-11-11T15:42:30",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "tunisie|498436": {
+   "mot": "tunisie",
+   "mot_norm": "tunisie",
+   "langue": "fr",
+   "debut": "2026-11-11T05:50:00",
+   "debut_ts": 1794372600,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-11T15:42:30",
+   "vu_dernier": "2026-11-11T15:42:30",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "visa|498423": {
+   "mot": "visa",
+   "mot_norm": "visa",
+   "langue": "fr",
+   "debut": "2026-11-10T16:50:00",
+   "debut_ts": 1794325800,
+   "fin": null,
+   "volume": 2000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "tourisme",
+   "vu_premier": "2026-11-11T15:42:30",
+   "vu_dernier": "2026-11-11T15:42:30",
    "releves": 1,
    "periodes": [],
    "sources": [
@@ -9254,5 +9374,5 @@
    ]
   }
  },
- "maj": "2026-11-11T00:41:39"
+ "maj": "2026-11-11T15:42:30"
 }
