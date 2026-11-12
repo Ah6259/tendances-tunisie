@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-12",
+ "maj": "2026-11-13",
  "explication": "Mots restés sans catégorie (à classer dans robot/categories.py quand ils reviennent).",
  "mots": [
   {
@@ -43,6 +43,16 @@
    "volume": 2000
   },
   {
+   "mot": "tchéquie – espagne",
+   "fois": 1,
+   "volume": 2000
+  },
+  {
+   "mot": "turquie – belgique",
+   "fois": 1,
+   "volume": 2000
+  },
+  {
    "mot": "إصابة",
    "fois": 1,
    "volume": 1000
@@ -74,6 +84,11 @@
   },
   {
    "mot": "يوسف بلايلي",
+   "fois": 1,
+   "volume": 1000
+  },
+  {
+   "mot": "angleterre – croatie",
    "fois": 1,
    "volume": 1000
   },
@@ -193,6 +208,26 @@
    "volume": 200
   },
   {
+   "mot": "nations league",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "england vs croatia",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "czechia vs spain",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "sénégal – soudan",
+   "fois": 1,
+   "volume": 200
+  },
+  {
    "mot": "قطار",
    "fois": 1,
    "volume": 100
@@ -229,6 +264,11 @@
   },
   {
    "mot": "tunisie",
+   "fois": 1,
+   "volume": 100
+  },
+  {
+   "mot": "ridha charfeddine",
    "fois": 1,
    "volume": 100
   }

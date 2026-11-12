@@ -9552,7 +9552,207 @@
    "sources": [
     "rss"
    ]
+  },
+  "nations league|498476": {
+   "mot": "nations league",
+   "mot_norm": "nations league",
+   "langue": "fr",
+   "debut": "2026-11-12T21:20:00",
+   "debut_ts": 1794514800,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-13T00:50:48",
+   "vu_dernier": "2026-11-13T00:50:48",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "england vs croatia|498476": {
+   "mot": "england vs croatia",
+   "mot_norm": "england vs croatia",
+   "langue": "fr",
+   "debut": "2026-11-12T21:20:00",
+   "debut_ts": 1794514800,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-13T00:50:48",
+   "vu_dernier": "2026-11-13T00:50:48",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "czechia vs spain|498475": {
+   "mot": "czechia vs spain",
+   "mot_norm": "czechia vs spain",
+   "langue": "fr",
+   "debut": "2026-11-12T20:50:00",
+   "debut_ts": 1794513000,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-13T00:50:48",
+   "vu_dernier": "2026-11-13T00:50:48",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "italy vs france|498475": {
+   "mot": "italy vs france",
+   "mot_norm": "italy vs france",
+   "langue": "fr",
+   "debut": "2026-11-12T20:40:00",
+   "debut_ts": 1794512400,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "politique",
+   "vu_premier": "2026-11-13T00:50:48",
+   "vu_dernier": "2026-11-13T00:50:48",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "angleterre - croatie|498475": {
+   "mot": "angleterre – croatie",
+   "mot_norm": "angleterre - croatie",
+   "langue": "fr",
+   "debut": "2026-11-12T20:30:00",
+   "debut_ts": 1794511800,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-13T00:50:48",
+   "vu_dernier": "2026-11-13T00:50:48",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "senegal - soudan|498475": {
+   "mot": "sénégal – soudan",
+   "mot_norm": "senegal - soudan",
+   "langue": "fr",
+   "debut": "2026-11-12T20:30:00",
+   "debut_ts": 1794511800,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-13T00:50:48",
+   "vu_dernier": "2026-11-13T00:50:48",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "ridha charfeddine|498475": {
+   "mot": "ridha charfeddine",
+   "mot_norm": "ridha charfeddine",
+   "langue": "fr",
+   "debut": "2026-11-12T20:10:00",
+   "debut_ts": 1794510600,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-13T00:50:48",
+   "vu_dernier": "2026-11-13T00:50:48",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "italie - france|498475": {
+   "mot": "italie – france",
+   "mot_norm": "italie - france",
+   "langue": "fr",
+   "debut": "2026-11-12T20:00:00",
+   "debut_ts": 1794510000,
+   "fin": null,
+   "volume": 5000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "politique",
+   "vu_premier": "2026-11-13T00:50:48",
+   "vu_dernier": "2026-11-13T00:50:48",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "tchequie - espagne|498475": {
+   "mot": "tchéquie – espagne",
+   "mot_norm": "tchequie - espagne",
+   "langue": "fr",
+   "debut": "2026-11-12T20:00:00",
+   "debut_ts": 1794510000,
+   "fin": null,
+   "volume": 2000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-13T00:50:48",
+   "vu_dernier": "2026-11-13T00:50:48",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "turquie - belgique|498472": {
+   "mot": "turquie – belgique",
+   "mot_norm": "turquie - belgique",
+   "langue": "fr",
+   "debut": "2026-11-12T17:20:00",
+   "debut_ts": 1794500400,
+   "fin": null,
+   "volume": 2000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-13T00:50:48",
+   "vu_dernier": "2026-11-13T00:50:48",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-12T16:35:01"
+ "maj": "2026-11-13T00:50:48"
 }
