@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-11",
+ "maj": "2026-11-12",
  "explication": "Mots restés sans catégorie (à classer dans robot/categories.py quand ils reviennent).",
  "mots": [
   {
@@ -18,12 +18,22 @@
    "volume": 500
   },
   {
+   "mot": "weather tomorrow",
+   "fois": 2,
+   "volume": 500
+  },
+  {
    "mot": "paris-sg – troyes",
    "fois": 1,
    "volume": 2000
   },
   {
    "mot": "قيس عبد الفتاح",
+   "fois": 1,
+   "volume": 2000
+  },
+  {
+   "mot": "police",
    "fois": 1,
    "volume": 2000
   },
@@ -54,6 +64,11 @@
   },
   {
    "mot": "gta vi",
+   "fois": 1,
+   "volume": 1000
+  },
+  {
+   "mot": "يوسف بلايلي",
    "fois": 1,
    "volume": 1000
   },
@@ -93,17 +108,12 @@
    "volume": 500
   },
   {
-   "mot": "weather tomorrow",
-   "fois": 1,
-   "volume": 500
-  },
-  {
-   "mot": "police",
-   "fois": 1,
-   "volume": 500
-  },
-  {
    "mot": "معين شعباني",
+   "fois": 1,
+   "volume": 500
+  },
+  {
+   "mot": "koh lanta all stars",
    "fois": 1,
    "volume": 500
   },
@@ -163,6 +173,11 @@
    "volume": 200
   },
   {
+   "mot": "centre national des sciences et technologies nucléaires",
+   "fois": 1,
+   "volume": 200
+  },
+  {
    "mot": "قطار",
    "fois": 1,
    "volume": 100
@@ -199,11 +214,6 @@
   },
   {
    "mot": "jensen huang",
-   "fois": 1,
-   "volume": 100
-  },
-  {
-   "mot": "يوسف بلايلي",
    "fois": 1,
    "volume": 100
   },
