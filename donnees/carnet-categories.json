@@ -4,7 +4,7 @@
  "mots": [
   {
    "mot": "ثعبان",
-   "fois": 2,
+   "fois": 3,
    "volume": 2000
   },
   {
@@ -21,6 +21,11 @@
    "mot": "weather tomorrow",
    "fois": 2,
    "volume": 500
+  },
+  {
+   "mot": "jensen huang",
+   "fois": 2,
+   "volume": 200
   },
   {
    "mot": "paris-sg – troyes",
@@ -178,6 +183,16 @@
    "volume": 200
   },
   {
+   "mot": "إيران",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "hossam hassan",
+   "fois": 1,
+   "volume": 200
+  },
+  {
    "mot": "قطار",
    "fois": 1,
    "volume": 100
@@ -209,11 +224,6 @@
   },
   {
    "mot": "dana white",
-   "fois": 1,
-   "volume": 100
-  },
-  {
-   "mot": "jensen huang",
    "fois": 1,
    "volume": 100
   },
