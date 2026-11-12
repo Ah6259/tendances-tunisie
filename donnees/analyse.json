@@ -1,16 +1,76 @@
 {
- "maj": "2026-11-12T16:35:08",
- "jour": "2026-11-12",
+ "maj": "2026-11-13T00:50:54",
+ "jour": "2026-11-13",
  "totaux": {
-  "tendances": 374,
-  "mots_distincts": 315,
-  "aujourdhui": 7,
-  "semaine": 86,
-  "mois": 374,
+  "tendances": 384,
+  "mots_distincts": 325,
+  "aujourdhui": 16,
+  "semaine": 90,
+  "mois": 384,
   "expressions_tapees": 2049,
   "premiere_lecture": "2026-11-01T10:46:10"
  },
  "aujourdhui": [
+  {
+   "mot": "italie – france",
+   "slug": "italie-france",
+   "langue": "fr",
+   "categorie": "politique",
+   "volume": 5000,
+   "hausse": null,
+   "debut": "2026-11-12T20:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
+   "mot": "tchéquie – espagne",
+   "slug": "tchequie-espagne",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-12T20:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
+   "mot": "turquie – belgique",
+   "slug": "turquie-belgique",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-12T17:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
+   "mot": "angleterre – croatie",
+   "slug": "angleterre-croatie",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-12T20:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
+   "mot": "italy vs france",
+   "slug": "italy-vs-france",
+   "langue": "fr",
+   "categorie": "politique",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-12T20:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
   {
    "mot": "meteo",
    "slug": "meteo",
@@ -24,18 +84,6 @@
    "jour": "2026-11-12"
   },
   {
-   "mot": "weather tomorrow",
-   "slug": "weather-tomorrow",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 500,
-   "hausse": null,
-   "debut": "2026-11-11T20:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-11"
-  },
-  {
    "mot": "النادي الإفريقي",
    "slug": "النادي-الافريقي",
    "langue": "ar",
@@ -43,6 +91,30 @@
    "volume": 500,
    "hausse": null,
    "debut": "2026-11-12T05:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
+   "mot": "czechia vs spain",
+   "slug": "czechia-vs-spain",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-12T20:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
+   "mot": "england vs croatia",
+   "slug": "england-vs-croatia",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-12T21:20:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-12"
@@ -72,6 +144,30 @@
    "jour": "2026-11-12"
   },
   {
+   "mot": "nations league",
+   "slug": "nations-league",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-12T21:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
+   "mot": "sénégal – soudan",
+   "slug": "senegal-soudan",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-12T20:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
    "mot": "إيران",
    "slug": "ايران",
    "langue": "ar",
@@ -79,6 +175,18 @@
    "volume": 200,
    "hausse": null,
    "debut": "2026-11-12T13:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
+   "mot": "ridha charfeddine",
+   "slug": "ridha-charfeddine",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-12T20:10:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-12"
@@ -132,6 +240,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-07"
+  },
+  {
+   "mot": "italie – france",
+   "slug": "italie-france",
+   "langue": "fr",
+   "categorie": "politique",
+   "volume": 5000,
+   "hausse": null,
+   "debut": "2026-11-12T20:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
   },
   {
    "mot": "barca",
@@ -194,6 +314,30 @@
    "jour": "2026-11-11"
   },
   {
+   "mot": "tchéquie – espagne",
+   "slug": "tchequie-espagne",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-12T20:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
+   "mot": "turquie – belgique",
+   "slug": "turquie-belgique",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-12T17:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
    "mot": "valencia vs real madrid",
    "slug": "valencia-vs-real-madrid",
    "langue": "fr",
@@ -242,6 +386,18 @@
    "jour": "2026-11-09"
   },
   {
+   "mot": "angleterre – croatie",
+   "slug": "angleterre-croatie",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-12T20:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
    "mot": "eau potable",
    "slug": "eau-potable",
    "langue": "fr",
@@ -276,6 +432,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-10"
+  },
+  {
+   "mot": "italy vs france",
+   "slug": "italy-vs-france",
+   "langue": "fr",
+   "categorie": "politique",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-12T20:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
   },
   {
    "mot": "jamal musiala",
@@ -614,18 +782,6 @@
    "jour": "2026-11-07"
   },
   {
-   "mot": "az – juventus",
-   "slug": "az-juventus",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-05T21:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-05"
-  },
-  {
    "mot": "centre national des sciences et technologies nucléaires",
    "slug": "centre-national-des-sciences-et-technologies-nucleaires",
    "langue": "fr",
@@ -662,18 +818,6 @@
    "jour": "2026-11-08"
   },
   {
-   "mot": "consommation",
-   "slug": "consommation",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-05T21:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-05"
-  },
-  {
    "mot": "crystal palace – liverpool",
    "slug": "crystal-palace-liverpool",
    "langue": "fr",
@@ -686,6 +830,18 @@
    "jour": "2026-11-08"
   },
   {
+   "mot": "czechia vs spain",
+   "slug": "czechia-vs-spain",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-12T20:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
    "mot": "elche – betis",
    "slug": "elche-betis",
    "langue": "fr",
@@ -696,6 +852,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-08"
+  },
+  {
+   "mot": "england vs croatia",
+   "slug": "england-vs-croatia",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-12T21:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
   },
   {
    "mot": "es tunis vs monastir",
@@ -830,28 +998,28 @@
    "jour": "2026-11-08"
   },
   {
-   "mot": "leverkusen – marseille",
-   "slug": "leverkusen-marseille",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-05T21:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-05"
-  },
-  {
-   "mot": "tomate",
-   "slug": "tomate",
+   "mot": "nations league",
+   "slug": "nations-league",
    "langue": "fr",
    "categorie": "autre",
    "volume": 200,
    "hausse": null,
-   "debut": "2026-11-05T18:40:00",
+   "debut": "2026-11-12T21:20:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-05"
+   "jour": "2026-11-12"
+  },
+  {
+   "mot": "sénégal – soudan",
+   "slug": "senegal-soudan",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-12T20:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
   },
   {
    "mot": "إيران",
@@ -974,18 +1142,6 @@
    "jour": "2026-11-06"
   },
   {
-   "mot": "cristiano ronaldo",
-   "slug": "cristiano-ronaldo",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-05T17:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-05"
-  },
-  {
    "mot": "dana white",
    "slug": "dana-white",
    "langue": "fr",
@@ -996,18 +1152,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-08"
-  },
-  {
-   "mot": "getafe – brighton",
-   "slug": "getafe-brighton",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-05T21:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-05"
   },
   {
    "mot": "huile d'olive",
@@ -1068,6 +1212,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-07"
+  },
+  {
+   "mot": "ridha charfeddine",
+   "slug": "ridha-charfeddine",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-12T20:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
   },
   {
    "mot": "roma – sassuolo",
@@ -1132,6 +1288,66 @@
  ],
  "nouveautes": [
   {
+   "mot": "italie – france",
+   "slug": "italie-france",
+   "langue": "fr",
+   "categorie": "politique",
+   "volume": 5000,
+   "hausse": null,
+   "debut": "2026-11-12T20:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
+   "mot": "tchéquie – espagne",
+   "slug": "tchequie-espagne",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-12T20:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
+   "mot": "turquie – belgique",
+   "slug": "turquie-belgique",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-12T17:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
+   "mot": "angleterre – croatie",
+   "slug": "angleterre-croatie",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-12T20:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
+   "mot": "italy vs france",
+   "slug": "italy-vs-france",
+   "langue": "fr",
+   "categorie": "politique",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-12T20:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
    "mot": "النادي الإفريقي",
    "slug": "النادي-الافريقي",
    "langue": "ar",
@@ -1139,6 +1355,30 @@
    "volume": 500,
    "hausse": null,
    "debut": "2026-11-12T05:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
+   "mot": "czechia vs spain",
+   "slug": "czechia-vs-spain",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-12T20:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
+   "mot": "england vs croatia",
+   "slug": "england-vs-croatia",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-12T21:20:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-12"
@@ -1156,6 +1396,30 @@
    "jour": "2026-11-12"
   },
   {
+   "mot": "nations league",
+   "slug": "nations-league",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-12T21:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
+   "mot": "sénégal – soudan",
+   "slug": "senegal-soudan",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-12T20:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
    "mot": "إيران",
    "slug": "ايران",
    "langue": "ar",
@@ -1163,6 +1427,18 @@
    "volume": 200,
    "hausse": null,
    "debut": "2026-11-12T13:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
+   "mot": "ridha charfeddine",
+   "slug": "ridha-charfeddine",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-12T20:10:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-12"
@@ -1204,27 +1480,21 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-08"
+  },
+  {
+   "mot": "italie – france",
+   "slug": "italie-france",
+   "langue": "fr",
+   "categorie": "politique",
+   "volume": 5000,
+   "hausse": null,
+   "debut": "2026-11-12T20:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
   }
  ],
  "retombees": [
-  {
-   "mot": "classement cs sfaxien – es tunis",
-   "slug": "classement-cs-sfaxien-es-tunis",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 20000,
-   "hausse": 1000,
-   "debut": "2026-10-29T17:50:00",
-   "fin": "2026-10-30T18:00:00",
-   "liees": [
-    "classement club africain – ca bizertin",
-    "club africain",
-    "est vs css",
-    "ligue 1 tunisienne",
-    "championnat tunisie"
-   ],
-   "jour": "2026-10-29"
-  },
   {
    "mot": "classement stade tunisien – club africain",
    "slug": "classement-stade-tunisien-club-africain",
@@ -1242,18 +1512,6 @@
     "ligue 1 tunisienne"
    ],
    "jour": "2026-11-03"
-  },
-  {
-   "mot": "météo demain",
-   "slug": "meteo-demain",
-   "langue": "fr",
-   "categorie": "meteo",
-   "volume": 20000,
-   "hausse": 75,
-   "debut": "2026-10-29T20:50:00",
-   "fin": "2026-10-29T22:30:00",
-   "liees": [],
-   "jour": "2026-10-29"
   },
   {
    "mot": "aek athènes – real madrid",
@@ -1397,18 +1655,6 @@
     "real vs"
    ],
    "jour": "2026-11-04"
-  },
-  {
-   "mot": "al-nassr fc – al-kholood club",
-   "slug": "al-nassr-fc-al-kholood-club",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-10-29T18:40:00",
-   "fin": "2026-10-29T22:20:00",
-   "liees": [],
-   "jour": "2026-10-29"
   },
   {
    "mot": "atlético madrid – bayern",
@@ -2036,6 +2282,44 @@
     "everton – newcastle"
    ],
    "jour": "2026-11-02"
+  },
+  {
+   "mot": "وزارة الدفاع الوطني",
+   "slug": "وزاره-الدفاع-الوطني",
+   "langue": "ar",
+   "categorie": "administration",
+   "volume": 500,
+   "hausse": 800,
+   "debut": "2026-10-30T18:00:00",
+   "fin": "2026-10-31T07:10:00",
+   "liees": [
+    "وزارة الدفاع"
+   ],
+   "jour": "2026-10-30"
+  },
+  {
+   "mot": "vincent kompany",
+   "slug": "vincent-kompany",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 500,
+   "hausse": 700,
+   "debut": "2026-11-01T09:40:00",
+   "fin": "2026-11-01T17:10:00",
+   "liees": [],
+   "jour": "2026-11-01"
+  },
+  {
+   "mot": "عقوبة",
+   "slug": "عقوبه",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": 700,
+   "debut": "2026-11-04T16:50:00",
+   "fin": "2026-11-04T23:40:00",
+   "liees": [],
+   "jour": "2026-11-04"
   }
  ],
  "recurrents": [
@@ -2362,20 +2646,7 @@
      "jour": "2026-11-10"
     }
    ],
-   "top24": [
-    {
-     "mot": "محكمة",
-     "slug": "محكمه",
-     "langue": "ar",
-     "categorie": "administration",
-     "volume": 1000,
-     "hausse": null,
-     "debut": "2026-11-11T15:10:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-11"
-    }
-   ]
+   "top24": []
   },
   "energie": {
    "fr": "Énergie",
@@ -2422,7 +2693,7 @@
   "football": {
    "fr": "Football",
    "ar": "كرة القدم",
-   "n_semaine": 32,
+   "n_semaine": 28,
    "n_mois": 191,
    "top": [
     {
@@ -2594,18 +2865,6 @@
      "jour": "2026-11-07"
     },
     {
-     "mot": "az – juventus",
-     "slug": "az-juventus",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-05T21:10:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-05"
-    },
-    {
      "mot": "classement inter milan – como 1907",
      "slug": "classement-inter-milan-como-1907",
      "langue": "fr",
@@ -2702,18 +2961,6 @@
      "jour": "2026-11-08"
     },
     {
-     "mot": "leverkusen – marseille",
-     "slug": "leverkusen-marseille",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-05T21:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-05"
-    },
-    {
      "mot": "فالنسيا ضد الريال",
      "slug": "فالنسيا-ضد-الريال",
      "langue": "ar",
@@ -2736,30 +2983,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-08"
-    },
-    {
-     "mot": "cristiano ronaldo",
-     "slug": "cristiano-ronaldo",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-05T17:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-05"
-    },
-    {
-     "mot": "getafe – brighton",
-     "slug": "getafe-brighton",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-05T21:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-05"
     },
     {
      "mot": "liga",
@@ -2903,10 +3126,60 @@
   "politique": {
    "fr": "Politique et actualité",
    "ar": "السياسة والأخبار",
-   "n_semaine": 0,
-   "n_mois": 7,
-   "top": [],
-   "top24": []
+   "n_semaine": 2,
+   "n_mois": 9,
+   "top": [
+    {
+     "mot": "italie – france",
+     "slug": "italie-france",
+     "langue": "fr",
+     "categorie": "politique",
+     "volume": 5000,
+     "hausse": null,
+     "debut": "2026-11-12T20:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
+    },
+    {
+     "mot": "italy vs france",
+     "slug": "italy-vs-france",
+     "langue": "fr",
+     "categorie": "politique",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-12T20:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
+    }
+   ],
+   "top24": [
+    {
+     "mot": "italie – france",
+     "slug": "italie-france",
+     "langue": "fr",
+     "categorie": "politique",
+     "volume": 5000,
+     "hausse": null,
+     "debut": "2026-11-12T20:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
+    },
+    {
+     "mot": "italy vs france",
+     "slug": "italy-vs-france",
+     "langue": "fr",
+     "categorie": "politique",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-12T20:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
+    }
+   ]
   },
   "religion": {
    "fr": "Religion et fêtes",
@@ -2919,8 +3192,8 @@
   "autre": {
    "fr": "Autre",
    "ar": "أخرى",
-   "n_semaine": 41,
-   "n_mois": 52,
+   "n_semaine": 47,
+   "n_mois": 60,
    "top": [
     {
      "mot": "paris-sg – troyes",
@@ -2947,6 +3220,30 @@
      "jour": "2026-11-11"
     },
     {
+     "mot": "tchéquie – espagne",
+     "slug": "tchequie-espagne",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-12T20:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
+    },
+    {
+     "mot": "turquie – belgique",
+     "slug": "turquie-belgique",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-12T17:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
+    },
+    {
      "mot": "قيس عبد الفتاح",
      "slug": "قيس-عبد-الفتاح",
      "langue": "ar",
@@ -2957,6 +3254,18 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-09"
+    },
+    {
+     "mot": "angleterre – croatie",
+     "slug": "angleterre-croatie",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-12T20:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
     },
     {
      "mot": "gta vi",
@@ -3175,16 +3484,28 @@
      "jour": "2026-11-08"
     },
     {
-     "mot": "consommation",
-     "slug": "consommation",
+     "mot": "czechia vs spain",
+     "slug": "czechia-vs-spain",
      "langue": "fr",
      "categorie": "autre",
      "volume": 200,
      "hausse": null,
-     "debut": "2026-11-05T21:20:00",
+     "debut": "2026-11-12T20:50:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-05"
+     "jour": "2026-11-12"
+    },
+    {
+     "mot": "england vs croatia",
+     "slug": "england-vs-croatia",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-12T21:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
     },
     {
      "mot": "es tunis vs monastir",
@@ -3259,16 +3580,28 @@
      "jour": "2026-11-06"
     },
     {
-     "mot": "tomate",
-     "slug": "tomate",
+     "mot": "nations league",
+     "slug": "nations-league",
      "langue": "fr",
      "categorie": "autre",
      "volume": 200,
      "hausse": null,
-     "debut": "2026-11-05T18:40:00",
+     "debut": "2026-11-12T21:20:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-05"
+     "jour": "2026-11-12"
+    },
+    {
+     "mot": "sénégal – soudan",
+     "slug": "senegal-soudan",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-12T20:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
     },
     {
      "mot": "إيران",
@@ -3367,6 +3700,18 @@
      "jour": "2026-11-10"
     },
     {
+     "mot": "ridha charfeddine",
+     "slug": "ridha-charfeddine",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-12T20:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
+    },
+    {
      "mot": "tunisie",
      "slug": "tunisie",
      "langue": "fr",
@@ -3417,76 +3762,64 @@
    ],
    "top24": [
     {
-     "mot": "police",
-     "slug": "police",
+     "mot": "tchéquie – espagne",
+     "slug": "tchequie-espagne",
      "langue": "fr",
      "categorie": "autre",
      "volume": 2000,
      "hausse": null,
-     "debut": "2026-11-11T12:10:00",
+     "debut": "2026-11-12T20:00:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-11"
+     "jour": "2026-11-12"
     },
     {
-     "mot": "يوسف بلايلي",
-     "slug": "يوسف-بلايلي",
-     "langue": "ar",
+     "mot": "turquie – belgique",
+     "slug": "turquie-belgique",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-12T17:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
+    },
+    {
+     "mot": "angleterre – croatie",
+     "slug": "angleterre-croatie",
+     "langue": "fr",
      "categorie": "autre",
      "volume": 1000,
      "hausse": null,
-     "debut": "2026-11-11T13:00:00",
+     "debut": "2026-11-12T20:30:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-11"
+     "jour": "2026-11-12"
     },
     {
-     "mot": "koh lanta all stars",
-     "slug": "koh-lanta-all-stars",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-11T15:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-11"
-    },
-    {
-     "mot": "weather tomorrow",
-     "slug": "weather-tomorrow",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-11T20:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-11"
-    },
-    {
-     "mot": "معين شعباني",
-     "slug": "معين-شعباني",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-11T05:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-11"
-    },
-    {
-     "mot": "centre national des sciences et technologies nucléaires",
-     "slug": "centre-national-des-sciences-et-technologies-nucleaires",
+     "mot": "czechia vs spain",
+     "slug": "czechia-vs-spain",
      "langue": "fr",
      "categorie": "autre",
      "volume": 200,
      "hausse": null,
-     "debut": "2026-11-11T02:10:00",
+     "debut": "2026-11-12T20:50:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-11"
+     "jour": "2026-11-12"
+    },
+    {
+     "mot": "england vs croatia",
+     "slug": "england-vs-croatia",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-12T21:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
     },
     {
      "mot": "hossam hassan",
@@ -3513,6 +3846,30 @@
      "jour": "2026-11-12"
     },
     {
+     "mot": "nations league",
+     "slug": "nations-league",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-12T21:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
+    },
+    {
+     "mot": "sénégal – soudan",
+     "slug": "senegal-soudan",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-12T20:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
+    },
+    {
      "mot": "إيران",
      "slug": "ايران",
      "langue": "ar",
@@ -3523,18 +3880,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-12"
-    },
-    {
-     "mot": "tunisie",
-     "slug": "tunisie",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-11T05:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-11"
     }
    ]
   }
@@ -3572,8 +3917,20 @@
  "historique": {
   "semaines": {
    "2026-11-09": {
-    "n": 30,
+    "n": 40,
     "top": [
+     {
+      "mot": "italie – france",
+      "slug": "italie-france",
+      "langue": "fr",
+      "categorie": "politique",
+      "volume": 5000,
+      "hausse": null,
+      "debut": "2026-11-12T20:00:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-12"
+     },
      {
       "mot": "police",
       "slug": "police",
@@ -3585,6 +3942,30 @@
       "fin": null,
       "liees": [],
       "jour": "2026-11-11"
+     },
+     {
+      "mot": "tchéquie – espagne",
+      "slug": "tchequie-espagne",
+      "langue": "fr",
+      "categorie": "autre",
+      "volume": 2000,
+      "hausse": null,
+      "debut": "2026-11-12T20:00:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-12"
+     },
+     {
+      "mot": "turquie – belgique",
+      "slug": "turquie-belgique",
+      "langue": "fr",
+      "categorie": "autre",
+      "volume": 2000,
+      "hausse": null,
+      "debut": "2026-11-12T17:20:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-12"
      },
      {
       "mot": "visa",
@@ -3611,6 +3992,18 @@
       "jour": "2026-11-09"
      },
      {
+      "mot": "angleterre – croatie",
+      "slug": "angleterre-croatie",
+      "langue": "fr",
+      "categorie": "autre",
+      "volume": 1000,
+      "hausse": null,
+      "debut": "2026-11-12T20:30:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-12"
+     },
+     {
       "mot": "gta vi",
       "slug": "gta-vi",
       "langue": "fr",
@@ -3623,6 +4016,18 @@
       "jour": "2026-11-10"
      },
      {
+      "mot": "italy vs france",
+      "slug": "italy-vs-france",
+      "langue": "fr",
+      "categorie": "politique",
+      "volume": 1000,
+      "hausse": null,
+      "debut": "2026-11-12T20:40:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-12"
+     },
+     {
       "mot": "jamal musiala",
       "slug": "jamal-musiala",
       "langue": "fr",
@@ -3633,72 +4038,12 @@
       "fin": null,
       "liees": [],
       "jour": "2026-11-09"
-     },
-     {
-      "mot": "meteo",
-      "slug": "meteo",
-      "langue": "fr",
-      "categorie": "meteo",
-      "volume": 1000,
-      "hausse": null,
-      "debut": "2026-11-12T07:00:00",
-      "fin": null,
-      "liees": [],
-      "jour": "2026-11-12"
-     },
-     {
-      "mot": "teddy riner",
-      "slug": "teddy-riner",
-      "langue": "fr",
-      "categorie": "autre",
-      "volume": 1000,
-      "hausse": null,
-      "debut": "2026-11-09T16:50:00",
-      "fin": null,
-      "liees": [],
-      "jour": "2026-11-09"
-     },
-     {
-      "mot": "émission obligataire",
-      "slug": "emission-obligataire",
-      "langue": "fr",
-      "categorie": "divertissement",
-      "volume": 1000,
-      "hausse": null,
-      "debut": "2026-11-10T22:10:00",
-      "fin": null,
-      "liees": [],
-      "jour": "2026-11-10"
-     },
-     {
-      "mot": "ماهر الكنزاري",
-      "slug": "ماهر-الكنزاري",
-      "langue": "ar",
-      "categorie": "autre",
-      "volume": 1000,
-      "hausse": null,
-      "debut": "2026-11-10T15:10:00",
-      "fin": null,
-      "liees": [],
-      "jour": "2026-11-10"
-     },
-     {
-      "mot": "محكمة",
-      "slug": "محكمه",
-      "langue": "ar",
-      "categorie": "administration",
-      "volume": 1000,
-      "hausse": null,
-      "debut": "2026-11-11T15:10:00",
-      "fin": null,
-      "liees": [],
-      "jour": "2026-11-11"
      }
     ],
     "categories": [
      {
       "cle": "autre",
-      "n": 20
+      "n": 28
      },
      {
       "cle": "administration",
@@ -3706,6 +4051,10 @@
      },
      {
       "cle": "commerce",
+      "n": 2
+     },
+     {
+      "cle": "politique",
       "n": 2
      },
      {
@@ -4329,7 +4678,7 @@
   },
   "mois": {
    "2026-11": {
-    "n": 190,
+    "n": 200,
     "top": [
      {
       "mot": "classement stade tunisien – club africain",
@@ -4477,11 +4826,15 @@
      },
      {
       "cle": "autre",
-      "n": 47
+      "n": 55
      },
      {
       "cle": "sport",
       "n": 14
+     },
+     {
+      "cle": "politique",
+      "n": 7
      },
      {
       "cle": "administration",
@@ -4493,10 +4846,6 @@
      },
      {
       "cle": "divertissement",
-      "n": 5
-     },
-     {
-      "cle": "politique",
       "n": 5
      },
      {
@@ -9394,6 +9743,30 @@
    "liees": []
   },
   {
+   "mot": "italie – france",
+   "mot_norm": "italie - france",
+   "slug": "italie-france",
+   "langue": "fr",
+   "categorie": "politique",
+   "episodes": [
+    {
+     "mot": "italie – france",
+     "slug": "italie-france",
+     "langue": "fr",
+     "categorie": "politique",
+     "volume": 5000,
+     "hausse": null,
+     "debut": "2026-11-12T20:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 5000,
+   "liees": []
+  },
+  {
    "mot": "journal officiel de la république tunisienne",
    "mot_norm": "journal officiel de la republique tunisienne",
    "slug": "journal-officiel-de-la-republique-tunisienne",
@@ -10741,6 +11114,30 @@
    ]
   },
   {
+   "mot": "tchéquie – espagne",
+   "mot_norm": "tchequie - espagne",
+   "slug": "tchequie-espagne",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "tchéquie – espagne",
+     "slug": "tchequie-espagne",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-12T20:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 2000,
+   "liees": []
+  },
+  {
    "mot": "titre de séjour",
    "mot_norm": "titre de sejour",
    "slug": "titre-de-sejour",
@@ -10758,6 +11155,30 @@
      "fin": "2026-11-02T18:50:00",
      "liees": [],
      "jour": "2026-11-01"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 2000,
+   "liees": []
+  },
+  {
+   "mot": "turquie – belgique",
+   "mot_norm": "turquie - belgique",
+   "slug": "turquie-belgique",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "turquie – belgique",
+     "slug": "turquie-belgique",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-12T17:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
     }
    ],
    "jours": 1,
@@ -11108,6 +11529,30 @@
      "fin": "2026-10-27T18:30:00",
      "liees": [],
      "jour": "2026-10-26"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 1000,
+   "liees": []
+  },
+  {
+   "mot": "angleterre – croatie",
+   "mot_norm": "angleterre - croatie",
+   "slug": "angleterre-croatie",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "angleterre – croatie",
+     "slug": "angleterre-croatie",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-12T20:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
     }
    ],
    "jours": 1,
@@ -11469,6 +11914,30 @@
     }
    ],
    "jours": 2,
+   "volume_max": 1000,
+   "liees": []
+  },
+  {
+   "mot": "italy vs france",
+   "mot_norm": "italy vs france",
+   "slug": "italy-vs-france",
+   "langue": "fr",
+   "categorie": "politique",
+   "episodes": [
+    {
+     "mot": "italy vs france",
+     "slug": "italy-vs-france",
+     "langue": "fr",
+     "categorie": "politique",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-12T20:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
+    }
+   ],
+   "jours": 1,
    "volume_max": 1000,
    "liees": []
   },
@@ -14709,6 +15178,30 @@
    "liees": []
   },
   {
+   "mot": "czechia vs spain",
+   "mot_norm": "czechia vs spain",
+   "slug": "czechia-vs-spain",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "czechia vs spain",
+     "slug": "czechia-vs-spain",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-12T20:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
    "mot": "didier fraisse",
    "mot_norm": "didier fraisse",
    "slug": "didier-fraisse",
@@ -14750,6 +15243,30 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-08"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
+   "mot": "england vs croatia",
+   "mot_norm": "england vs croatia",
+   "slug": "england-vs-croatia",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "england vs croatia",
+     "slug": "england-vs-croatia",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-12T21:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
     }
    ],
    "jours": 1,
@@ -15379,6 +15896,30 @@
    "liees": []
   },
   {
+   "mot": "nations league",
+   "mot_norm": "nations league",
+   "slug": "nations-league",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "nations league",
+     "slug": "nations-league",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-12T21:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
    "mot": "new england – inter miami",
    "mot_norm": "new england - inter miami",
    "slug": "new-england-inter-miami",
@@ -15751,6 +16292,30 @@
     }
    ],
    "jours": 4,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
+   "mot": "sénégal – soudan",
+   "mot_norm": "senegal - soudan",
+   "slug": "senegal-soudan",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "sénégal – soudan",
+     "slug": "senegal-soudan",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-12T20:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
+    }
+   ],
+   "jours": 1,
    "volume_max": 200,
    "liees": []
   },
@@ -17108,6 +17673,30 @@
      "fin": "2026-11-05T00:00:00",
      "liees": [],
      "jour": "2026-11-04"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 100,
+   "liees": []
+  },
+  {
+   "mot": "ridha charfeddine",
+   "mot_norm": "ridha charfeddine",
+   "slug": "ridha-charfeddine",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "ridha charfeddine",
+     "slug": "ridha-charfeddine",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-12T20:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
     }
    ],
    "jours": 1,
