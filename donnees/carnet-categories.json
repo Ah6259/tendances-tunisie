@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-13",
+ "maj": "2026-11-14",
  "explication": "Mots restés sans catégorie (à classer dans robot/categories.py quand ils reviennent).",
  "mots": [
   {
@@ -58,6 +58,16 @@
    "volume": 2000
   },
   {
+   "mot": "maroc – niger",
+   "fois": 1,
+   "volume": 2000
+  },
+  {
+   "mot": "flashscore",
+   "fois": 1,
+   "volume": 2000
+  },
+  {
    "mot": "إصابة",
    "fois": 1,
    "volume": 1000
@@ -99,6 +109,16 @@
   },
   {
    "mot": "خالد السهيلي",
+   "fois": 1,
+   "volume": 1000
+  },
+  {
+   "mot": "morocco vs niger",
+   "fois": 1,
+   "volume": 1000
+  },
+  {
+   "mot": "égypte – malawi",
    "fois": 1,
    "volume": 1000
   },
@@ -149,6 +169,16 @@
   },
   {
    "mot": "نور الدين البحيري",
+   "fois": 1,
+   "volume": 500
+  },
+  {
+   "mot": "argentine – uruguay",
+   "fois": 1,
+   "volume": 500
+  },
+  {
+   "mot": "pays-bas – grèce",
    "fois": 1,
    "volume": 500
   },
@@ -248,6 +278,11 @@
    "volume": 200
   },
   {
+   "mot": "tunis",
+   "fois": 1,
+   "volume": 200
+  },
+  {
    "mot": "قطار",
    "fois": 1,
    "volume": 100
@@ -294,6 +329,11 @@
   },
   {
    "mot": "opération militaire",
+   "fois": 1,
+   "volume": 100
+  },
+  {
+   "mot": "flight radar",
    "fois": 1,
    "volume": 100
   }

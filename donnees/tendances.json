@@ -9912,7 +9912,207 @@
    "sources": [
     "rss"
    ]
+  },
+  "argentine - uruguay|498502": {
+   "mot": "argentine – uruguay",
+   "mot_norm": "argentine - uruguay",
+   "langue": "fr",
+   "debut": "2026-11-13T23:40:00",
+   "debut_ts": 1794609600,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-14T00:50:04",
+   "vu_dernier": "2026-11-14T00:50:04",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "flight radar|498502": {
+   "mot": "flight radar",
+   "mot_norm": "flight radar",
+   "langue": "fr",
+   "debut": "2026-11-13T23:40:00",
+   "debut_ts": 1794609600,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-14T00:50:04",
+   "vu_dernier": "2026-11-14T00:50:04",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "morocco vs niger|498500": {
+   "mot": "morocco vs niger",
+   "mot_norm": "morocco vs niger",
+   "langue": "fr",
+   "debut": "2026-11-13T21:40:00",
+   "debut_ts": 1794602400,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-14T00:50:04",
+   "vu_dernier": "2026-11-14T00:50:04",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "pays-bas - grece|498499": {
+   "mot": "pays-bas – grèce",
+   "mot_norm": "pays-bas - grece",
+   "langue": "fr",
+   "debut": "2026-11-13T20:50:00",
+   "debut_ts": 1794599400,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-14T00:50:04",
+   "vu_dernier": "2026-11-14T00:50:04",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "maroc - niger|498499": {
+   "mot": "maroc – niger",
+   "mot_norm": "maroc - niger",
+   "langue": "fr",
+   "debut": "2026-11-13T20:40:00",
+   "debut_ts": 1794598800,
+   "fin": null,
+   "volume": 2000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-14T00:50:04",
+   "vu_dernier": "2026-11-14T00:50:04",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "egypte - malawi|498498": {
+   "mot": "égypte – malawi",
+   "mot_norm": "egypte - malawi",
+   "langue": "fr",
+   "debut": "2026-11-13T19:50:00",
+   "debut_ts": 1794595800,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-14T00:50:04",
+   "vu_dernier": "2026-11-14T00:50:04",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "flashscore|498498": {
+   "mot": "flashscore",
+   "mot_norm": "flashscore",
+   "langue": "fr",
+   "debut": "2026-11-13T19:00:00",
+   "debut_ts": 1794592800,
+   "fin": null,
+   "volume": 2000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-14T00:50:04",
+   "vu_dernier": "2026-11-14T00:50:04",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "tunis|498496": {
+   "mot": "tunis",
+   "mot_norm": "tunis",
+   "langue": "fr",
+   "debut": "2026-11-13T17:50:00",
+   "debut_ts": 1794588600,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-14T00:50:04",
+   "vu_dernier": "2026-11-14T00:50:04",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "kora|498496": {
+   "mot": "kora",
+   "mot_norm": "kora",
+   "langue": "fr",
+   "debut": "2026-11-13T17:50:00",
+   "debut_ts": 1794588600,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-14T00:50:04",
+   "vu_dernier": "2026-11-14T00:50:04",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "bein sport live|498496": {
+   "mot": "bein sport live",
+   "mot_norm": "bein sport live",
+   "langue": "fr",
+   "debut": "2026-11-13T17:30:00",
+   "debut_ts": 1794587400,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-14T00:50:04",
+   "vu_dernier": "2026-11-14T00:50:04",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-13T15:53:28"
+ "maj": "2026-11-14T00:50:04"
 }
