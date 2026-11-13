@@ -9586,8 +9586,8 @@
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-13T00:50:48",
-   "vu_dernier": "2026-11-13T00:50:48",
-   "releves": 1,
+   "vu_dernier": "2026-11-13T15:53:28",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -9606,8 +9606,8 @@
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-13T00:50:48",
-   "vu_dernier": "2026-11-13T00:50:48",
-   "releves": 1,
+   "vu_dernier": "2026-11-13T15:53:28",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -9752,7 +9752,167 @@
    "sources": [
     "rss"
    ]
+  },
+  "tunisie vs libye|498494": {
+   "mot": "tunisie vs libye",
+   "mot_norm": "tunisie vs libye",
+   "langue": "fr",
+   "debut": "2026-11-13T15:00:00",
+   "debut_ts": 1794578400,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "politique",
+   "vu_premier": "2026-11-13T15:53:28",
+   "vu_dernier": "2026-11-13T15:53:28",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "نور الدين البحيري|498490": {
+   "mot": "نور الدين البحيري",
+   "mot_norm": "نور الدين البحيري",
+   "langue": "ar",
+   "debut": "2026-11-13T11:10:00",
+   "debut_ts": 1794564600,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-13T15:53:28",
+   "vu_dernier": "2026-11-13T15:53:28",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "electricite|498485": {
+   "mot": "électricité",
+   "mot_norm": "electricite",
+   "langue": "fr",
+   "debut": "2026-11-13T06:50:00",
+   "debut_ts": 1794549000,
+   "fin": null,
+   "volume": 2000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "energie",
+   "vu_premier": "2026-11-13T15:53:28",
+   "vu_dernier": "2026-11-13T15:53:28",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "operation militaire|498485": {
+   "mot": "opération militaire",
+   "mot_norm": "operation militaire",
+   "langue": "fr",
+   "debut": "2026-11-13T06:20:00",
+   "debut_ts": 1794547200,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-13T15:53:28",
+   "vu_dernier": "2026-11-13T15:53:28",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "nvidia jensen huang|498483": {
+   "mot": "nvidia jensen huang",
+   "mot_norm": "nvidia jensen huang",
+   "langue": "fr",
+   "debut": "2026-11-13T04:20:00",
+   "debut_ts": 1794540000,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-13T15:53:28",
+   "vu_dernier": "2026-11-13T15:53:28",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "outlook|498482": {
+   "mot": "outlook",
+   "mot_norm": "outlook",
+   "langue": "fr",
+   "debut": "2026-11-13T03:00:00",
+   "debut_ts": 1794535200,
+   "fin": null,
+   "volume": 2000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-13T15:53:28",
+   "vu_dernier": "2026-11-13T15:53:28",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "خالد السهيلي|498477": {
+   "mot": "خالد السهيلي",
+   "mot_norm": "خالد السهيلي",
+   "langue": "ar",
+   "debut": "2026-11-12T22:20:00",
+   "debut_ts": 1794518400,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-13T15:53:28",
+   "vu_dernier": "2026-11-13T15:53:28",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "france vs|498477": {
+   "mot": "france vs",
+   "mot_norm": "france vs",
+   "langue": "fr",
+   "debut": "2026-11-12T22:10:00",
+   "debut_ts": 1794517800,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "politique",
+   "vu_premier": "2026-11-13T15:53:28",
+   "vu_dernier": "2026-11-13T15:53:28",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-13T00:50:48"
+ "maj": "2026-11-13T15:53:28"
 }

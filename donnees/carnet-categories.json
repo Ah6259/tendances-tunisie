@@ -53,6 +53,11 @@
    "volume": 2000
   },
   {
+   "mot": "outlook",
+   "fois": 1,
+   "volume": 2000
+  },
+  {
    "mot": "إصابة",
    "fois": 1,
    "volume": 1000
@@ -89,6 +94,11 @@
   },
   {
    "mot": "angleterre – croatie",
+   "fois": 1,
+   "volume": 1000
+  },
+  {
+   "mot": "خالد السهيلي",
    "fois": 1,
    "volume": 1000
   },
@@ -134,6 +144,11 @@
   },
   {
    "mot": "koh lanta all stars",
+   "fois": 1,
+   "volume": 500
+  },
+  {
+   "mot": "نور الدين البحيري",
    "fois": 1,
    "volume": 500
   },
@@ -228,6 +243,11 @@
    "volume": 200
   },
   {
+   "mot": "nvidia jensen huang",
+   "fois": 1,
+   "volume": 200
+  },
+  {
    "mot": "قطار",
    "fois": 1,
    "volume": 100
@@ -269,6 +289,11 @@
   },
   {
    "mot": "ridha charfeddine",
+   "fois": 1,
+   "volume": 100
+  },
+  {
+   "mot": "opération militaire",
    "fois": 1,
    "volume": 100
   }
