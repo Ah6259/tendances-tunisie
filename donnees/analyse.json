@@ -1,12 +1,12 @@
 {
- "maj": "2026-11-13T00:50:54",
+ "maj": "2026-11-13T15:53:34",
  "jour": "2026-11-13",
  "totaux": {
-  "tendances": 384,
-  "mots_distincts": 325,
-  "aujourdhui": 16,
-  "semaine": 90,
-  "mois": 384,
+  "tendances": 392,
+  "mots_distincts": 333,
+  "aujourdhui": 18,
+  "semaine": 91,
+  "mois": 392,
   "expressions_tapees": 2049,
   "premiere_lecture": "2026-11-01T10:46:10"
  },
@@ -22,6 +22,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-12"
+  },
+  {
+   "mot": "outlook",
+   "slug": "outlook",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-13T03:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-13"
   },
   {
    "mot": "tchéquie – espagne",
@@ -48,6 +60,18 @@
    "jour": "2026-11-12"
   },
   {
+   "mot": "électricité",
+   "slug": "electricite",
+   "langue": "fr",
+   "categorie": "energie",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-13T06:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-13"
+  },
+  {
    "mot": "angleterre – croatie",
    "slug": "angleterre-croatie",
    "langue": "fr",
@@ -72,28 +96,28 @@
    "jour": "2026-11-12"
   },
   {
-   "mot": "meteo",
-   "slug": "meteo",
-   "langue": "fr",
-   "categorie": "meteo",
+   "mot": "خالد السهيلي",
+   "slug": "خالد-السهيلي",
+   "langue": "ar",
+   "categorie": "autre",
    "volume": 1000,
    "hausse": null,
-   "debut": "2026-11-12T07:00:00",
+   "debut": "2026-11-12T22:20:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-12"
   },
   {
-   "mot": "النادي الإفريقي",
-   "slug": "النادي-الافريقي",
+   "mot": "نور الدين البحيري",
+   "slug": "نور-الدين-البحيري",
    "langue": "ar",
-   "categorie": "football",
+   "categorie": "autre",
    "volume": 500,
    "hausse": null,
-   "debut": "2026-11-12T05:00:00",
+   "debut": "2026-11-13T11:10:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-12"
+   "jour": "2026-11-13"
   },
   {
    "mot": "czechia vs spain",
@@ -120,25 +144,13 @@
    "jour": "2026-11-12"
   },
   {
-   "mot": "hossam hassan",
-   "slug": "hossam-hassan",
+   "mot": "france vs",
+   "slug": "france-vs",
    "langue": "fr",
-   "categorie": "autre",
+   "categorie": "politique",
    "volume": 200,
    "hausse": null,
-   "debut": "2026-11-12T06:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-12"
-  },
-  {
-   "mot": "jensen huang",
-   "slug": "jensen-huang",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-12T15:30:00",
+   "debut": "2026-11-12T22:10:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-12"
@@ -156,6 +168,18 @@
    "jour": "2026-11-12"
   },
   {
+   "mot": "nvidia jensen huang",
+   "slug": "nvidia-jensen-huang",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-13T04:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-13"
+  },
+  {
    "mot": "sénégal – soudan",
    "slug": "senegal-soudan",
    "langue": "fr",
@@ -168,16 +192,28 @@
    "jour": "2026-11-12"
   },
   {
-   "mot": "إيران",
-   "slug": "ايران",
-   "langue": "ar",
-   "categorie": "autre",
+   "mot": "tunisie vs libye",
+   "slug": "tunisie-vs-libye",
+   "langue": "fr",
+   "categorie": "politique",
    "volume": 200,
    "hausse": null,
-   "debut": "2026-11-12T13:30:00",
+   "debut": "2026-11-13T15:00:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-12"
+   "jour": "2026-11-13"
+  },
+  {
+   "mot": "opération militaire",
+   "slug": "operation-militaire",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-13T06:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-13"
   },
   {
    "mot": "ridha charfeddine",
@@ -187,18 +223,6 @@
    "volume": 100,
    "hausse": null,
    "debut": "2026-11-12T20:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-12"
-  },
-  {
-   "mot": "ثعبان",
-   "slug": "ثعبان",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-12T05:50:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-12"
@@ -278,16 +302,16 @@
    "jour": "2026-11-07"
   },
   {
-   "mot": "cnam",
-   "slug": "cnam",
+   "mot": "outlook",
+   "slug": "outlook",
    "langue": "fr",
-   "categorie": "sante",
+   "categorie": "autre",
    "volume": 2000,
    "hausse": null,
-   "debut": "2026-11-06T11:10:00",
+   "debut": "2026-11-13T03:00:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-06"
+   "jour": "2026-11-13"
   },
   {
    "mot": "paris-sg – troyes",
@@ -362,6 +386,18 @@
    "jour": "2026-11-10"
   },
   {
+   "mot": "électricité",
+   "slug": "electricite",
+   "langue": "fr",
+   "categorie": "energie",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-13T06:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-13"
+  },
+  {
    "mot": "الترجي الرياضي التونسي",
    "slug": "الترجي-الرياضي-التونسي",
    "langue": "ar",
@@ -396,18 +432,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-12"
-  },
-  {
-   "mot": "eau potable",
-   "slug": "eau-potable",
-   "langue": "fr",
-   "categorie": "energie",
-   "volume": 1000,
-   "hausse": null,
-   "debut": "2026-11-06T14:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-06"
   },
   {
    "mot": "fc barcelone",
@@ -470,18 +494,6 @@
    "jour": "2026-11-12"
   },
   {
-   "mot": "sonia mabrouk",
-   "slug": "sonia-mabrouk",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 1000,
-   "hausse": null,
-   "debut": "2026-11-06T14:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-06"
-  },
-  {
    "mot": "teddy riner",
    "slug": "teddy-riner",
    "langue": "fr",
@@ -506,18 +518,6 @@
    "jour": "2026-11-10"
   },
   {
-   "mot": "إصابة",
-   "slug": "اصابه",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 1000,
-   "hausse": null,
-   "debut": "2026-11-06T08:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-06"
-  },
-  {
    "mot": "برشلونة",
    "slug": "برشلونه",
    "langue": "ar",
@@ -530,16 +530,16 @@
    "jour": "2026-11-08"
   },
   {
-   "mot": "خصم",
-   "slug": "خصم",
+   "mot": "خالد السهيلي",
+   "slug": "خالد-السهيلي",
    "langue": "ar",
    "categorie": "autre",
    "volume": 1000,
    "hausse": null,
-   "debut": "2026-11-06T05:20:00",
+   "debut": "2026-11-12T22:20:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-06"
+   "jour": "2026-11-12"
   },
   {
    "mot": "ماهر الكنزاري",
@@ -576,18 +576,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-11"
-  },
-  {
-   "mot": "aéroport de tunis-carthage",
-   "slug": "aeroport-de-tunis-carthage",
-   "langue": "fr",
-   "categorie": "tourisme",
-   "volume": 500,
-   "hausse": null,
-   "debut": "2026-11-06T08:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-06"
   },
   {
    "mot": "barca vs",
@@ -782,6 +770,18 @@
    "jour": "2026-11-07"
   },
   {
+   "mot": "نور الدين البحيري",
+   "slug": "نور-الدين-البحيري",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-13T11:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-13"
+  },
+  {
    "mot": "centre national des sciences et technologies nucléaires",
    "slug": "centre-national-des-sciences-et-technologies-nucleaires",
    "langue": "fr",
@@ -914,6 +914,18 @@
    "jour": "2026-11-08"
   },
   {
+   "mot": "france vs",
+   "slug": "france-vs",
+   "langue": "fr",
+   "categorie": "politique",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-12T22:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
    "mot": "gta 6",
    "slug": "gta-6",
    "langue": "fr",
@@ -1010,6 +1022,18 @@
    "jour": "2026-11-12"
   },
   {
+   "mot": "nvidia jensen huang",
+   "slug": "nvidia-jensen-huang",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-13T04:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-13"
+  },
+  {
    "mot": "sénégal – soudan",
    "slug": "senegal-soudan",
    "langue": "fr",
@@ -1020,6 +1044,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-12"
+  },
+  {
+   "mot": "tunisie vs libye",
+   "slug": "tunisie-vs-libye",
+   "langue": "fr",
+   "categorie": "politique",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-13T15:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-13"
   },
   {
    "mot": "إيران",
@@ -1202,6 +1238,18 @@
    "jour": "2026-11-08"
   },
   {
+   "mot": "opération militaire",
+   "slug": "operation-militaire",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-13T06:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-13"
+  },
+  {
    "mot": "real madrid club de fútbol",
    "slug": "real-madrid-club-de-futbol",
    "langue": "fr",
@@ -1262,18 +1310,6 @@
    "jour": "2026-11-06"
   },
   {
-   "mot": "تصدير",
-   "slug": "تصدير",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-06T06:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-06"
-  },
-  {
    "mot": "ثعبان",
    "slug": "ثعبان",
    "langue": "ar",
@@ -1300,6 +1336,18 @@
    "jour": "2026-11-12"
   },
   {
+   "mot": "outlook",
+   "slug": "outlook",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-13T03:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-13"
+  },
+  {
    "mot": "tchéquie – espagne",
    "slug": "tchequie-espagne",
    "langue": "fr",
@@ -1322,6 +1370,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-12"
+  },
+  {
+   "mot": "électricité",
+   "slug": "electricite",
+   "langue": "fr",
+   "categorie": "energie",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-13T06:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-13"
   },
   {
    "mot": "angleterre – croatie",
@@ -1348,16 +1408,28 @@
    "jour": "2026-11-12"
   },
   {
-   "mot": "النادي الإفريقي",
-   "slug": "النادي-الافريقي",
+   "mot": "خالد السهيلي",
+   "slug": "خالد-السهيلي",
    "langue": "ar",
-   "categorie": "football",
-   "volume": 500,
+   "categorie": "autre",
+   "volume": 1000,
    "hausse": null,
-   "debut": "2026-11-12T05:00:00",
+   "debut": "2026-11-12T22:20:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-12"
+  },
+  {
+   "mot": "نور الدين البحيري",
+   "slug": "نور-الدين-البحيري",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-13T11:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-13"
   },
   {
    "mot": "czechia vs spain",
@@ -1384,13 +1456,13 @@
    "jour": "2026-11-12"
   },
   {
-   "mot": "hossam hassan",
-   "slug": "hossam-hassan",
+   "mot": "france vs",
+   "slug": "france-vs",
    "langue": "fr",
-   "categorie": "autre",
+   "categorie": "politique",
    "volume": 200,
    "hausse": null,
-   "debut": "2026-11-12T06:50:00",
+   "debut": "2026-11-12T22:10:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-12"
@@ -1408,6 +1480,18 @@
    "jour": "2026-11-12"
   },
   {
+   "mot": "nvidia jensen huang",
+   "slug": "nvidia-jensen-huang",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-13T04:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-13"
+  },
+  {
    "mot": "sénégal – soudan",
    "slug": "senegal-soudan",
    "langue": "fr",
@@ -1420,16 +1504,28 @@
    "jour": "2026-11-12"
   },
   {
-   "mot": "إيران",
-   "slug": "ايران",
-   "langue": "ar",
-   "categorie": "autre",
+   "mot": "tunisie vs libye",
+   "slug": "tunisie-vs-libye",
+   "langue": "fr",
+   "categorie": "politique",
    "volume": 200,
    "hausse": null,
-   "debut": "2026-11-12T13:30:00",
+   "debut": "2026-11-13T15:00:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-12"
+   "jour": "2026-11-13"
+  },
+  {
+   "mot": "opération militaire",
+   "slug": "operation-militaire",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-13T06:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-13"
   },
   {
    "mot": "ridha charfeddine",
@@ -1583,18 +1679,6 @@
    "fin": "2026-11-02T18:40:00",
    "liees": [],
    "jour": "2026-11-01"
-  },
-  {
-   "mot": "journal officiel de la république tunisienne",
-   "slug": "journal-officiel-de-la-republique-tunisienne",
-   "langue": "fr",
-   "categorie": "administration",
-   "volume": 5000,
-   "hausse": 1000,
-   "debut": "2026-10-30T13:30:00",
-   "fin": "2026-11-01T08:10:00",
-   "liees": [],
-   "jour": "2026-10-30"
   },
   {
    "mot": "manchester city – brighton",
@@ -1953,6 +2037,18 @@
    "jour": "2026-10-31"
   },
   {
+   "mot": "cnam",
+   "slug": "cnam",
+   "langue": "fr",
+   "categorie": "sante",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-06T11:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-06"
+  },
+  {
    "mot": "ac milan – inter",
    "slug": "ac-milan-inter",
    "langue": "fr",
@@ -2154,6 +2250,54 @@
    "jour": "2026-11-01"
   },
   {
+   "mot": "eau potable",
+   "slug": "eau-potable",
+   "langue": "fr",
+   "categorie": "energie",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-06T14:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-06"
+  },
+  {
+   "mot": "sonia mabrouk",
+   "slug": "sonia-mabrouk",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-06T14:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-06"
+  },
+  {
+   "mot": "إصابة",
+   "slug": "اصابه",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-06T08:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-06"
+  },
+  {
+   "mot": "خصم",
+   "slug": "خصم",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-06T05:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-06"
+  },
+  {
    "mot": "2027",
    "slug": "2027",
    "langue": "fr",
@@ -2266,58 +2410,6 @@
    "hausse": 800,
    "debut": "2026-11-04T14:00:00",
    "fin": null,
-   "liees": [],
-   "jour": "2026-11-04"
-  },
-  {
-   "mot": "newcastle – everton",
-   "slug": "newcastle-everton",
-   "langue": "fr",
-   "categorie": "sport",
-   "volume": 500,
-   "hausse": 800,
-   "debut": "2026-11-02T21:20:00",
-   "fin": "2026-11-02T23:30:00",
-   "liees": [
-    "everton – newcastle"
-   ],
-   "jour": "2026-11-02"
-  },
-  {
-   "mot": "وزارة الدفاع الوطني",
-   "slug": "وزاره-الدفاع-الوطني",
-   "langue": "ar",
-   "categorie": "administration",
-   "volume": 500,
-   "hausse": 800,
-   "debut": "2026-10-30T18:00:00",
-   "fin": "2026-10-31T07:10:00",
-   "liees": [
-    "وزارة الدفاع"
-   ],
-   "jour": "2026-10-30"
-  },
-  {
-   "mot": "vincent kompany",
-   "slug": "vincent-kompany",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 500,
-   "hausse": 700,
-   "debut": "2026-11-01T09:40:00",
-   "fin": "2026-11-01T17:10:00",
-   "liees": [],
-   "jour": "2026-11-01"
-  },
-  {
-   "mot": "عقوبة",
-   "slug": "عقوبه",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 500,
-   "hausse": 700,
-   "debut": "2026-11-04T16:50:00",
-   "fin": "2026-11-04T23:40:00",
    "liees": [],
    "jour": "2026-11-04"
   }
@@ -2511,7 +2603,7 @@
   "tourisme": {
    "fr": "Tourisme et voyages",
    "ar": "السياحة والسفر",
-   "n_semaine": 2,
+   "n_semaine": 1,
    "n_mois": 6,
    "top": [
     {
@@ -2525,18 +2617,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-10"
-    },
-    {
-     "mot": "aéroport de tunis-carthage",
-     "slug": "aeroport-de-tunis-carthage",
-     "langue": "fr",
-     "categorie": "tourisme",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-06T08:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-06"
     }
    ],
    "top24": []
@@ -2544,22 +2624,9 @@
   "sante": {
    "fr": "Santé",
    "ar": "الصحة",
-   "n_semaine": 1,
+   "n_semaine": 0,
    "n_mois": 2,
-   "top": [
-    {
-     "mot": "cnam",
-     "slug": "cnam",
-     "langue": "fr",
-     "categorie": "sante",
-     "volume": 2000,
-     "hausse": null,
-     "debut": "2026-11-06T11:10:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-06"
-    }
-   ],
+   "top": [],
    "top24": []
   },
   "commerce": {
@@ -2652,22 +2719,35 @@
    "fr": "Énergie",
    "ar": "الطاقة",
    "n_semaine": 1,
-   "n_mois": 1,
+   "n_mois": 2,
    "top": [
     {
-     "mot": "eau potable",
-     "slug": "eau-potable",
+     "mot": "électricité",
+     "slug": "electricite",
      "langue": "fr",
      "categorie": "energie",
-     "volume": 1000,
+     "volume": 2000,
      "hausse": null,
-     "debut": "2026-11-06T14:20:00",
+     "debut": "2026-11-13T06:50:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-06"
+     "jour": "2026-11-13"
     }
    ],
-   "top24": []
+   "top24": [
+    {
+     "mot": "électricité",
+     "slug": "electricite",
+     "langue": "fr",
+     "categorie": "energie",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-13T06:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-13"
+    }
+   ]
   },
   "finance": {
    "fr": "Argent et banques",
@@ -3126,8 +3206,8 @@
   "politique": {
    "fr": "Politique et actualité",
    "ar": "السياسة والأخبار",
-   "n_semaine": 2,
-   "n_mois": 9,
+   "n_semaine": 4,
+   "n_mois": 11,
    "top": [
     {
      "mot": "italie – france",
@@ -3152,6 +3232,30 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-12"
+    },
+    {
+     "mot": "france vs",
+     "slug": "france-vs",
+     "langue": "fr",
+     "categorie": "politique",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-12T22:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
+    },
+    {
+     "mot": "tunisie vs libye",
+     "slug": "tunisie-vs-libye",
+     "langue": "fr",
+     "categorie": "politique",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-13T15:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-13"
     }
    ],
    "top24": [
@@ -3178,6 +3282,30 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-12"
+    },
+    {
+     "mot": "france vs",
+     "slug": "france-vs",
+     "langue": "fr",
+     "categorie": "politique",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-12T22:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
+    },
+    {
+     "mot": "tunisie vs libye",
+     "slug": "tunisie-vs-libye",
+     "langue": "fr",
+     "categorie": "politique",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-13T15:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-13"
     }
    ]
   },
@@ -3192,9 +3320,21 @@
   "autre": {
    "fr": "Autre",
    "ar": "أخرى",
-   "n_semaine": 47,
-   "n_mois": 60,
+   "n_semaine": 48,
+   "n_mois": 65,
    "top": [
+    {
+     "mot": "outlook",
+     "slug": "outlook",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-13T03:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-13"
+    },
     {
      "mot": "paris-sg – troyes",
      "slug": "paris-sg-troyes",
@@ -3292,18 +3432,6 @@
      "jour": "2026-11-09"
     },
     {
-     "mot": "sonia mabrouk",
-     "slug": "sonia-mabrouk",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 1000,
-     "hausse": null,
-     "debut": "2026-11-06T14:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-06"
-    },
-    {
      "mot": "teddy riner",
      "slug": "teddy-riner",
      "langue": "fr",
@@ -3316,28 +3444,16 @@
      "jour": "2026-11-09"
     },
     {
-     "mot": "إصابة",
-     "slug": "اصابه",
+     "mot": "خالد السهيلي",
+     "slug": "خالد-السهيلي",
      "langue": "ar",
      "categorie": "autre",
      "volume": 1000,
      "hausse": null,
-     "debut": "2026-11-06T08:00:00",
+     "debut": "2026-11-12T22:20:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-06"
-    },
-    {
-     "mot": "خصم",
-     "slug": "خصم",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 1000,
-     "hausse": null,
-     "debut": "2026-11-06T05:20:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-06"
+     "jour": "2026-11-12"
     },
     {
      "mot": "ماهر الكنزاري",
@@ -3458,6 +3574,18 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-11"
+    },
+    {
+     "mot": "نور الدين البحيري",
+     "slug": "نور-الدين-البحيري",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-13T11:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-13"
     },
     {
      "mot": "centre national des sciences et technologies nucléaires",
@@ -3592,6 +3720,18 @@
      "jour": "2026-11-12"
     },
     {
+     "mot": "nvidia jensen huang",
+     "slug": "nvidia-jensen-huang",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-13T04:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-13"
+    },
+    {
      "mot": "sénégal – soudan",
      "slug": "senegal-soudan",
      "langue": "fr",
@@ -3700,6 +3840,18 @@
      "jour": "2026-11-10"
     },
     {
+     "mot": "opération militaire",
+     "slug": "operation-militaire",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-13T06:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-13"
+    },
+    {
      "mot": "ridha charfeddine",
      "slug": "ridha-charfeddine",
      "langue": "fr",
@@ -3736,18 +3888,6 @@
      "jour": "2026-11-06"
     },
     {
-     "mot": "تصدير",
-     "slug": "تصدير",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-06T06:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-06"
-    },
-    {
      "mot": "ثعبان",
      "slug": "ثعبان",
      "langue": "ar",
@@ -3761,6 +3901,18 @@
     }
    ],
    "top24": [
+    {
+     "mot": "outlook",
+     "slug": "outlook",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-13T03:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-13"
+    },
     {
      "mot": "tchéquie – espagne",
      "slug": "tchequie-espagne",
@@ -3796,6 +3948,30 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-12"
+    },
+    {
+     "mot": "خالد السهيلي",
+     "slug": "خالد-السهيلي",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-12T22:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
+    },
+    {
+     "mot": "نور الدين البحيري",
+     "slug": "نور-الدين-البحيري",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-13T11:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-13"
     },
     {
      "mot": "czechia vs spain",
@@ -3844,61 +4020,11 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-12"
-    },
-    {
-     "mot": "nations league",
-     "slug": "nations-league",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-12T21:20:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-12"
-    },
-    {
-     "mot": "sénégal – soudan",
-     "slug": "senegal-soudan",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-12T20:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-12"
-    },
-    {
-     "mot": "إيران",
-     "slug": "ايران",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-12T13:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-12"
     }
    ]
   }
  },
  "opportunites": [
-  {
-   "mot": "cnam",
-   "slug": "cnam",
-   "langue": "fr",
-   "categorie": "sante",
-   "volume": 2000,
-   "hausse": null,
-   "debut": "2026-11-06T11:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-06",
-   "intention": false,
-   "score": 2000.0
-  },
   {
    "mot": "visa",
    "slug": "visa",
@@ -3912,12 +4038,26 @@
    "jour": "2026-11-10",
    "intention": false,
    "score": 2000.0
+  },
+  {
+   "mot": "électricité",
+   "slug": "electricite",
+   "langue": "fr",
+   "categorie": "energie",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-13T06:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-13",
+   "intention": false,
+   "score": 2000.0
   }
  ],
  "historique": {
   "semaines": {
    "2026-11-09": {
-    "n": 40,
+    "n": 48,
     "top": [
      {
       "mot": "italie – france",
@@ -3930,6 +4070,18 @@
       "fin": null,
       "liees": [],
       "jour": "2026-11-12"
+     },
+     {
+      "mot": "outlook",
+      "slug": "outlook",
+      "langue": "fr",
+      "categorie": "autre",
+      "volume": 2000,
+      "hausse": null,
+      "debut": "2026-11-13T03:00:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-13"
      },
      {
       "mot": "police",
@@ -3980,6 +4132,18 @@
       "jour": "2026-11-10"
      },
      {
+      "mot": "électricité",
+      "slug": "electricite",
+      "langue": "fr",
+      "categorie": "energie",
+      "volume": 2000,
+      "hausse": null,
+      "debut": "2026-11-13T06:50:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-13"
+     },
+     {
       "mot": "قيس عبد الفتاح",
       "slug": "قيس-عبد-الفتاح",
       "langue": "ar",
@@ -4014,36 +4178,16 @@
       "fin": null,
       "liees": [],
       "jour": "2026-11-10"
-     },
-     {
-      "mot": "italy vs france",
-      "slug": "italy-vs-france",
-      "langue": "fr",
-      "categorie": "politique",
-      "volume": 1000,
-      "hausse": null,
-      "debut": "2026-11-12T20:40:00",
-      "fin": null,
-      "liees": [],
-      "jour": "2026-11-12"
-     },
-     {
-      "mot": "jamal musiala",
-      "slug": "jamal-musiala",
-      "langue": "fr",
-      "categorie": "autre",
-      "volume": 1000,
-      "hausse": null,
-      "debut": "2026-11-09T20:30:00",
-      "fin": null,
-      "liees": [],
-      "jour": "2026-11-09"
      }
     ],
     "categories": [
      {
       "cle": "autre",
-      "n": 28
+      "n": 33
+     },
+     {
+      "cle": "politique",
+      "n": 4
      },
      {
       "cle": "administration",
@@ -4051,10 +4195,6 @@
      },
      {
       "cle": "commerce",
-      "n": 2
-     },
-     {
-      "cle": "politique",
       "n": 2
      },
      {
@@ -4075,6 +4215,10 @@
      },
      {
       "cle": "football",
+      "n": 1
+     },
+     {
+      "cle": "energie",
       "n": 1
      }
     ]
@@ -4678,7 +4822,7 @@
   },
   "mois": {
    "2026-11": {
-    "n": 200,
+    "n": 208,
     "top": [
      {
       "mot": "classement stade tunisien – club africain",
@@ -4826,7 +4970,7 @@
      },
      {
       "cle": "autre",
-      "n": 55
+      "n": 60
      },
      {
       "cle": "sport",
@@ -4834,7 +4978,7 @@
      },
      {
       "cle": "politique",
-      "n": 7
+      "n": 9
      },
      {
       "cle": "administration",
@@ -4873,11 +5017,11 @@
       "n": 2
      },
      {
-      "cle": "education",
-      "n": 1
+      "cle": "energie",
+      "n": 2
      },
      {
-      "cle": "energie",
+      "cle": "education",
       "n": 1
      }
     ]
@@ -10894,6 +11038,30 @@
    ]
   },
   {
+   "mot": "outlook",
+   "mot_norm": "outlook",
+   "slug": "outlook",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "outlook",
+     "slug": "outlook",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-13T03:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-13"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 2000,
+   "liees": []
+  },
+  {
    "mot": "pakhtakor – al-nassr fc",
    "mot_norm": "pakhtakor - al-nassr fc",
    "slug": "pakhtakor-al-nassr-fc",
@@ -11254,6 +11422,30 @@
     }
    ],
    "jours": 3,
+   "volume_max": 2000,
+   "liees": []
+  },
+  {
+   "mot": "électricité",
+   "mot_norm": "electricite",
+   "slug": "electricite",
+   "langue": "fr",
+   "categorie": "energie",
+   "episodes": [
+    {
+     "mot": "électricité",
+     "slug": "electricite",
+     "langue": "fr",
+     "categorie": "energie",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-13T06:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-13"
+    }
+   ],
+   "jours": 1,
    "volume_max": 2000,
    "liees": []
   },
@@ -12504,6 +12696,30 @@
     }
    ],
    "jours": 2,
+   "volume_max": 1000,
+   "liees": []
+  },
+  {
+   "mot": "خالد السهيلي",
+   "mot_norm": "خالد السهيلي",
+   "slug": "خالد-السهيلي",
+   "langue": "ar",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "خالد السهيلي",
+     "slug": "خالد-السهيلي",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-12T22:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
+    }
+   ],
+   "jours": 1,
    "volume_max": 1000,
    "liees": []
   },
@@ -14490,6 +14706,30 @@
    "liees": []
   },
   {
+   "mot": "نور الدين البحيري",
+   "mot_norm": "نور الدين البحيري",
+   "slug": "نور-الدين-البحيري",
+   "langue": "ar",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "نور الدين البحيري",
+     "slug": "نور-الدين-البحيري",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-13T11:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-13"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 500,
+   "liees": []
+  },
+  {
    "mot": "وزارة الدفاع الوطني",
    "mot_norm": "وزاره الدفاع الوطني",
    "slug": "وزاره-الدفاع-الوطني",
@@ -15442,6 +15682,30 @@
    "liees": []
   },
   {
+   "mot": "france vs",
+   "mot_norm": "france vs",
+   "slug": "france-vs",
+   "langue": "fr",
+   "categorie": "politique",
+   "episodes": [
+    {
+     "mot": "france vs",
+     "slug": "france-vs",
+     "langue": "fr",
+     "categorie": "politique",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-12T22:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-12"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
    "mot": "getafe – séville",
    "mot_norm": "getafe - seville",
    "slug": "getafe-seville",
@@ -16004,6 +16268,30 @@
    "liees": []
   },
   {
+   "mot": "nvidia jensen huang",
+   "mot_norm": "nvidia jensen huang",
+   "slug": "nvidia-jensen-huang",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "nvidia jensen huang",
+     "slug": "nvidia-jensen-huang",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-13T04:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-13"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
    "mot": "parking",
    "mot_norm": "parking",
    "slug": "parking",
@@ -16376,6 +16664,30 @@
     }
    ],
    "jours": 2,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
+   "mot": "tunisie vs libye",
+   "mot_norm": "tunisie vs libye",
+   "slug": "tunisie-vs-libye",
+   "langue": "fr",
+   "categorie": "politique",
+   "episodes": [
+    {
+     "mot": "tunisie vs libye",
+     "slug": "tunisie-vs-libye",
+     "langue": "fr",
+     "categorie": "politique",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-13T15:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-13"
+    }
+   ],
+   "jours": 1,
    "volume_max": 200,
    "liees": []
   },
@@ -17577,6 +17889,30 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-08"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 100,
+   "liees": []
+  },
+  {
+   "mot": "opération militaire",
+   "mot_norm": "operation militaire",
+   "slug": "operation-militaire",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "opération militaire",
+     "slug": "operation-militaire",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-13T06:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-13"
     }
    ],
    "jours": 1,
