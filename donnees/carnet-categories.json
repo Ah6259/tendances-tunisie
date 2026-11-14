@@ -33,6 +33,11 @@
    "volume": 200
   },
   {
+   "mot": "twitch",
+   "fois": 2,
+   "volume": 100
+  },
+  {
    "mot": "paris-sg – troyes",
    "fois": 1,
    "volume": 2000
@@ -79,6 +84,11 @@
   },
   {
    "mot": "japon – brésil",
+   "fois": 1,
+   "volume": 2000
+  },
+  {
+   "mot": "portugal – danemark",
    "fois": 1,
    "volume": 2000
   },
@@ -139,6 +149,16 @@
   },
   {
    "mot": "société nationale d'exploitation et de distribution des eaux",
+   "fois": 1,
+   "volume": 1000
+  },
+  {
+   "mot": "portugal vs denmark",
+   "fois": 1,
+   "volume": 1000
+  },
+  {
+   "mot": "ouganda – botswana",
    "fois": 1,
    "volume": 1000
   },
@@ -308,6 +328,16 @@
    "volume": 200
   },
   {
+   "mot": "portugal",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "investissement",
+   "fois": 1,
+   "volume": 200
+  },
+  {
    "mot": "قطار",
    "fois": 1,
    "volume": 100
@@ -319,11 +349,6 @@
   },
   {
    "mot": "تصدير",
-   "fois": 1,
-   "volume": 100
-  },
-  {
-   "mot": "twitch",
    "fois": 1,
    "volume": 100
   },
