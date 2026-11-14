@@ -9920,14 +9920,14 @@
    "debut": "2026-11-13T23:40:00",
    "debut_ts": 1794609600,
    "fin": null,
-   "volume": 500,
+   "volume": 2000,
    "hausse": null,
    "liees": [],
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-14T00:50:04",
-   "vu_dernier": "2026-11-14T00:50:04",
-   "releves": 1,
+   "vu_dernier": "2026-11-14T14:46:24",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -10112,7 +10112,187 @@
    "sources": [
     "rss"
    ]
+  },
+  "japan vs brazil|498514": {
+   "mot": "japan vs brazil",
+   "mot_norm": "japan vs brazil",
+   "langue": "fr",
+   "debut": "2026-11-14T11:50:00",
+   "debut_ts": 1794653400,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-14T14:46:24",
+   "vu_dernier": "2026-11-14T14:46:24",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "japon - bresil|498514": {
+   "mot": "japon – brésil",
+   "mot_norm": "japon - bresil",
+   "langue": "fr",
+   "debut": "2026-11-14T11:10:00",
+   "debut_ts": 1794651000,
+   "fin": null,
+   "volume": 2000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-14T14:46:24",
+   "vu_dernier": "2026-11-14T14:46:24",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "الولايات المتحده|498510": {
+   "mot": "الولايات المتحدة",
+   "mot_norm": "الولايات المتحده",
+   "langue": "ar",
+   "debut": "2026-11-14T07:50:00",
+   "debut_ts": 1794639000,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-14T14:46:24",
+   "vu_dernier": "2026-11-14T14:46:24",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "societe nationale d'exploitation et de distribution des eaux|498510": {
+   "mot": "société nationale d'exploitation et de distribution des eaux",
+   "mot_norm": "societe nationale d'exploitation et de distribution des eaux",
+   "langue": "fr",
+   "debut": "2026-11-14T07:00:00",
+   "debut_ts": 1794636000,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-14T14:46:24",
+   "vu_dernier": "2026-11-14T14:46:24",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "ايران|498509": {
+   "mot": "إيران",
+   "mot_norm": "ايران",
+   "langue": "ar",
+   "debut": "2026-11-14T06:40:00",
+   "debut_ts": 1794634800,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-14T14:46:24",
+   "vu_dernier": "2026-11-14T14:46:24",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "مطر|498509": {
+   "mot": "مطر",
+   "mot_norm": "مطر",
+   "langue": "ar",
+   "debut": "2026-11-14T06:10:00",
+   "debut_ts": 1794633000,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "meteo",
+   "vu_premier": "2026-11-14T14:46:24",
+   "vu_dernier": "2026-11-14T14:46:24",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "قرض|498508": {
+   "mot": "قرض",
+   "mot_norm": "قرض",
+   "langue": "ar",
+   "debut": "2026-11-14T05:40:00",
+   "debut_ts": 1794631200,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "finance",
+   "vu_premier": "2026-11-14T14:46:24",
+   "vu_dernier": "2026-11-14T14:46:24",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "noureddine bhiri|498508": {
+   "mot": "noureddine bhiri",
+   "mot_norm": "noureddine bhiri",
+   "langue": "fr",
+   "debut": "2026-11-14T05:30:00",
+   "debut_ts": 1794630600,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-14T14:46:24",
+   "vu_dernier": "2026-11-14T14:46:24",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "classement equipe d'egypte de football - equipe du malawi de football|498508": {
+   "mot": "classement équipe d'égypte de football – équipe du malawi de football",
+   "mot_norm": "classement equipe d'egypte de football - equipe du malawi de football",
+   "langue": "fr",
+   "debut": "2026-11-14T05:30:00",
+   "debut_ts": 1794630600,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-14T14:46:24",
+   "vu_dernier": "2026-11-14T14:46:24",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-14T00:50:04"
+ "maj": "2026-11-14T14:46:24"
 }
