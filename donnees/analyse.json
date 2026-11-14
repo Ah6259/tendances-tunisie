@@ -1,16 +1,28 @@
 {
- "maj": "2026-11-14T00:50:10",
+ "maj": "2026-11-14T14:46:30",
  "jour": "2026-11-14",
  "totaux": {
-  "tendances": 402,
-  "mots_distincts": 342,
-  "aujourdhui": 16,
-  "semaine": 97,
-  "mois": 402,
+  "tendances": 411,
+  "mots_distincts": 349,
+  "aujourdhui": 20,
+  "semaine": 99,
+  "mois": 411,
   "expressions_tapees": 2049,
   "premiere_lecture": "2026-11-01T10:46:10"
  },
  "aujourdhui": [
+  {
+   "mot": "argentine – uruguay",
+   "slug": "argentine-uruguay",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-13T23:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-13"
+  },
   {
    "mot": "flashscore",
    "slug": "flashscore",
@@ -24,6 +36,18 @@
    "jour": "2026-11-13"
   },
   {
+   "mot": "japon – brésil",
+   "slug": "japon-bresil",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-14T11:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-14"
+  },
+  {
    "mot": "maroc – niger",
    "slug": "maroc-niger",
    "langue": "fr",
@@ -31,30 +55,6 @@
    "volume": 2000,
    "hausse": null,
    "debut": "2026-11-13T20:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-13"
-  },
-  {
-   "mot": "outlook",
-   "slug": "outlook",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 2000,
-   "hausse": null,
-   "debut": "2026-11-13T03:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-13"
-  },
-  {
-   "mot": "électricité",
-   "slug": "electricite",
-   "langue": "fr",
-   "categorie": "energie",
-   "volume": 2000,
-   "hausse": null,
-   "debut": "2026-11-13T06:50:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-13"
@@ -72,6 +72,18 @@
    "jour": "2026-11-13"
   },
   {
+   "mot": "société nationale d'exploitation et de distribution des eaux",
+   "slug": "societe-nationale-d-exploitation-et-de-distribution-des-eaux",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-14T07:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-14"
+  },
+  {
    "mot": "égypte – malawi",
    "slug": "egypte-malawi",
    "langue": "fr",
@@ -84,16 +96,28 @@
    "jour": "2026-11-13"
   },
   {
-   "mot": "argentine – uruguay",
-   "slug": "argentine-uruguay",
+   "mot": "classement équipe d'égypte de football – équipe du malawi de football",
+   "slug": "classement-equipe-d-egypte-de-football-equipe-du-malawi-de-football",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-14T05:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-14"
+  },
+  {
+   "mot": "japan vs brazil",
+   "slug": "japan-vs-brazil",
    "langue": "fr",
    "categorie": "autre",
    "volume": 500,
    "hausse": null,
-   "debut": "2026-11-13T23:40:00",
+   "debut": "2026-11-14T11:50:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-13"
+   "jour": "2026-11-14"
   },
   {
    "mot": "pays-bas – grèce",
@@ -103,18 +127,6 @@
    "volume": 500,
    "hausse": null,
    "debut": "2026-11-13T20:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-13"
-  },
-  {
-   "mot": "نور الدين البحيري",
-   "slug": "نور-الدين-البحيري",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 500,
-   "hausse": null,
-   "debut": "2026-11-13T11:10:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-13"
@@ -144,16 +156,16 @@
    "jour": "2026-11-13"
   },
   {
-   "mot": "nvidia jensen huang",
-   "slug": "nvidia-jensen-huang",
+   "mot": "noureddine bhiri",
+   "slug": "noureddine-bhiri",
    "langue": "fr",
    "categorie": "autre",
    "volume": 200,
    "hausse": null,
-   "debut": "2026-11-13T04:20:00",
+   "debut": "2026-11-14T05:30:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-13"
+   "jour": "2026-11-14"
   },
   {
    "mot": "tunis",
@@ -180,6 +192,30 @@
    "jour": "2026-11-13"
   },
   {
+   "mot": "الولايات المتحدة",
+   "slug": "الولايات-المتحده",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-14T07:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-14"
+  },
+  {
+   "mot": "قرض",
+   "slug": "قرض",
+   "langue": "ar",
+   "categorie": "finance",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-14T05:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-14"
+  },
+  {
    "mot": "flight radar",
    "slug": "flight-radar",
    "langue": "fr",
@@ -192,16 +228,28 @@
    "jour": "2026-11-13"
   },
   {
-   "mot": "opération militaire",
-   "slug": "operation-militaire",
-   "langue": "fr",
+   "mot": "إيران",
+   "slug": "ايران",
+   "langue": "ar",
    "categorie": "autre",
    "volume": 100,
    "hausse": null,
-   "debut": "2026-11-13T06:20:00",
+   "debut": "2026-11-14T06:40:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-13"
+   "jour": "2026-11-14"
+  },
+  {
+   "mot": "مطر",
+   "slug": "مطر",
+   "langue": "ar",
+   "categorie": "meteo",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-14T06:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-14"
   }
  ],
  "semaine": [
@@ -254,6 +302,18 @@
    "jour": "2026-11-12"
   },
   {
+   "mot": "argentine – uruguay",
+   "slug": "argentine-uruguay",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-13T23:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-13"
+  },
+  {
    "mot": "barca",
    "slug": "barca",
    "langue": "fr",
@@ -288,6 +348,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-13"
+  },
+  {
+   "mot": "japon – brésil",
+   "slug": "japon-bresil",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-14T11:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-14"
   },
   {
    "mot": "maroc – niger",
@@ -506,6 +578,18 @@
    "jour": "2026-11-13"
   },
   {
+   "mot": "société nationale d'exploitation et de distribution des eaux",
+   "slug": "societe-nationale-d-exploitation-et-de-distribution-des-eaux",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-14T07:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-14"
+  },
+  {
    "mot": "teddy riner",
    "slug": "teddy-riner",
    "langue": "fr",
@@ -602,18 +686,6 @@
    "jour": "2026-11-11"
   },
   {
-   "mot": "argentine – uruguay",
-   "slug": "argentine-uruguay",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 500,
-   "hausse": null,
-   "debut": "2026-11-13T23:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-13"
-  },
-  {
    "mot": "barca vs",
    "slug": "barca-vs",
    "langue": "fr",
@@ -638,6 +710,18 @@
    "jour": "2026-11-07"
   },
   {
+   "mot": "classement équipe d'égypte de football – équipe du malawi de football",
+   "slug": "classement-equipe-d-egypte-de-football-equipe-du-malawi-de-football",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-14T05:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-14"
+  },
+  {
    "mot": "inter miami – charlotte fc",
    "slug": "inter-miami-charlotte-fc",
    "langue": "fr",
@@ -648,6 +732,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-07"
+  },
+  {
+   "mot": "japan vs brazil",
+   "slug": "japan-vs-brazil",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-14T11:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-14"
   },
   {
    "mot": "koh lanta all stars",
@@ -686,18 +782,6 @@
    "jour": "2026-11-13"
   },
   {
-   "mot": "weather",
-   "slug": "weather",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 500,
-   "hausse": null,
-   "debut": "2026-11-07T07:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-07"
-  },
-  {
    "mot": "weather tomorrow",
    "slug": "weather-tomorrow",
    "langue": "fr",
@@ -734,18 +818,6 @@
    "jour": "2026-11-12"
   },
   {
-   "mot": "تونس",
-   "slug": "تونس",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 500,
-   "hausse": null,
-   "debut": "2026-11-07T05:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-07"
-  },
-  {
    "mot": "زيت الزيتون",
    "slug": "زيت-الزيتون",
    "langue": "ar",
@@ -768,18 +840,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-09"
-  },
-  {
-   "mot": "مطر",
-   "slug": "مطر",
-   "langue": "ar",
-   "categorie": "meteo",
-   "volume": 500,
-   "hausse": null,
-   "debut": "2026-11-07T12:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-07"
   },
   {
    "mot": "معين شعباني",
@@ -914,18 +974,6 @@
    "jour": "2026-11-12"
   },
   {
-   "mot": "es tunis vs monastir",
-   "slug": "es-tunis-vs-monastir",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-07T14:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-07"
-  },
-  {
    "mot": "fc barcelona",
    "slug": "fc-barcelona",
    "langue": "fr",
@@ -1034,18 +1082,6 @@
    "jour": "2026-11-13"
   },
   {
-   "mot": "leeds united – tottenham",
-   "slug": "leeds-united-tottenham",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-07T13:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-07"
-  },
-  {
    "mot": "lens – marseille",
    "slug": "lens-marseille",
    "langue": "fr",
@@ -1068,6 +1104,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-12"
+  },
+  {
+   "mot": "noureddine bhiri",
+   "slug": "noureddine-bhiri",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-14T05:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-14"
   },
   {
    "mot": "nvidia jensen huang",
@@ -1130,18 +1178,6 @@
    "jour": "2026-11-12"
   },
   {
-   "mot": "الخبر",
-   "slug": "الخبر",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-07T07:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-07"
-  },
-  {
    "mot": "الشروق",
    "slug": "الشروق",
    "langue": "ar",
@@ -1154,16 +1190,16 @@
    "jour": "2026-11-09"
   },
   {
-   "mot": "طماطم",
-   "slug": "طماطم",
+   "mot": "الولايات المتحدة",
+   "slug": "الولايات-المتحده",
    "langue": "ar",
    "categorie": "autre",
    "volume": 200,
    "hausse": null,
-   "debut": "2026-11-07T05:30:00",
+   "debut": "2026-11-14T07:50:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-07"
+   "jour": "2026-11-14"
   },
   {
    "mot": "فالنسيا ضد الريال",
@@ -1176,6 +1212,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-07"
+  },
+  {
+   "mot": "قرض",
+   "slug": "قرض",
+   "langue": "ar",
+   "categorie": "finance",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-14T05:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-14"
   },
   {
    "mot": "وزارة التربية",
@@ -1358,6 +1406,18 @@
    "jour": "2026-11-11"
   },
   {
+   "mot": "إيران",
+   "slug": "ايران",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-14T06:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-14"
+  },
+  {
    "mot": "ثعبان",
    "slug": "ثعبان",
    "langue": "ar",
@@ -1368,9 +1428,33 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-12"
+  },
+  {
+   "mot": "مطر",
+   "slug": "مطر",
+   "langue": "ar",
+   "categorie": "meteo",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-14T06:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-14"
   }
  ],
  "nouveautes": [
+  {
+   "mot": "argentine – uruguay",
+   "slug": "argentine-uruguay",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-13T23:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-13"
+  },
   {
    "mot": "flashscore",
    "slug": "flashscore",
@@ -1384,6 +1468,18 @@
    "jour": "2026-11-13"
   },
   {
+   "mot": "japon – brésil",
+   "slug": "japon-bresil",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-14T11:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-14"
+  },
+  {
    "mot": "maroc – niger",
    "slug": "maroc-niger",
    "langue": "fr",
@@ -1391,30 +1487,6 @@
    "volume": 2000,
    "hausse": null,
    "debut": "2026-11-13T20:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-13"
-  },
-  {
-   "mot": "outlook",
-   "slug": "outlook",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 2000,
-   "hausse": null,
-   "debut": "2026-11-13T03:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-13"
-  },
-  {
-   "mot": "électricité",
-   "slug": "electricite",
-   "langue": "fr",
-   "categorie": "energie",
-   "volume": 2000,
-   "hausse": null,
-   "debut": "2026-11-13T06:50:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-13"
@@ -1432,6 +1504,18 @@
    "jour": "2026-11-13"
   },
   {
+   "mot": "société nationale d'exploitation et de distribution des eaux",
+   "slug": "societe-nationale-d-exploitation-et-de-distribution-des-eaux",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-14T07:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-14"
+  },
+  {
    "mot": "égypte – malawi",
    "slug": "egypte-malawi",
    "langue": "fr",
@@ -1444,16 +1528,28 @@
    "jour": "2026-11-13"
   },
   {
-   "mot": "argentine – uruguay",
-   "slug": "argentine-uruguay",
+   "mot": "classement équipe d'égypte de football – équipe du malawi de football",
+   "slug": "classement-equipe-d-egypte-de-football-equipe-du-malawi-de-football",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-14T05:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-14"
+  },
+  {
+   "mot": "japan vs brazil",
+   "slug": "japan-vs-brazil",
    "langue": "fr",
    "categorie": "autre",
    "volume": 500,
    "hausse": null,
-   "debut": "2026-11-13T23:40:00",
+   "debut": "2026-11-14T11:50:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-13"
+   "jour": "2026-11-14"
   },
   {
    "mot": "pays-bas – grèce",
@@ -1463,18 +1559,6 @@
    "volume": 500,
    "hausse": null,
    "debut": "2026-11-13T20:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-13"
-  },
-  {
-   "mot": "نور الدين البحيري",
-   "slug": "نور-الدين-البحيري",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 500,
-   "hausse": null,
-   "debut": "2026-11-13T11:10:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-13"
@@ -1492,16 +1576,16 @@
    "jour": "2026-11-13"
   },
   {
-   "mot": "nvidia jensen huang",
-   "slug": "nvidia-jensen-huang",
+   "mot": "noureddine bhiri",
+   "slug": "noureddine-bhiri",
    "langue": "fr",
    "categorie": "autre",
    "volume": 200,
    "hausse": null,
-   "debut": "2026-11-13T04:20:00",
+   "debut": "2026-11-14T05:30:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-13"
+   "jour": "2026-11-14"
   },
   {
    "mot": "tunis",
@@ -1528,6 +1612,30 @@
    "jour": "2026-11-13"
   },
   {
+   "mot": "الولايات المتحدة",
+   "slug": "الولايات-المتحده",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-14T07:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-14"
+  },
+  {
+   "mot": "قرض",
+   "slug": "قرض",
+   "langue": "ar",
+   "categorie": "finance",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-14T05:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-14"
+  },
+  {
    "mot": "flight radar",
    "slug": "flight-radar",
    "langue": "fr",
@@ -1535,18 +1643,6 @@
    "volume": 100,
    "hausse": null,
    "debut": "2026-11-13T23:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-13"
-  },
-  {
-   "mot": "opération militaire",
-   "slug": "operation-militaire",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-13T06:20:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-13"
@@ -1813,21 +1909,6 @@
    "jour": "2026-10-31"
   },
   {
-   "mot": "chelsea – man utd",
-   "slug": "chelsea-man-utd",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-10-31T12:50:00",
-   "fin": "2026-10-31T17:20:00",
-   "liees": [
-    "chelsea vs man utd",
-    "premier league"
-   ],
-   "jour": "2026-10-31"
-  },
-  {
    "mot": "classement pakhtakor – al-nassr fc",
    "slug": "classement-pakhtakor-al-nassr-fc",
    "langue": "fr",
@@ -1970,18 +2051,6 @@
    "jour": "2026-11-01"
   },
   {
-   "mot": "سرقة",
-   "slug": "سرقه",
-   "langue": "ar",
-   "categorie": "administration",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-10-31T14:00:00",
-   "fin": "2026-11-02T07:10:00",
-   "liees": [],
-   "jour": "2026-10-31"
-  },
-  {
    "mot": "شتاء",
    "slug": "شتاء",
    "langue": "ar",
@@ -2065,18 +2134,6 @@
     "championnat de tunisie de football"
    ],
    "jour": "2026-11-03"
-  },
-  {
-   "mot": "levante – atlético madrid",
-   "slug": "levante-atletico-madrid",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 1000,
-   "hausse": 1000,
-   "debut": "2026-10-31T13:20:00",
-   "fin": "2026-10-31T17:50:00",
-   "liees": [],
-   "jour": "2026-10-31"
   },
   {
    "mot": "salaire",
@@ -2422,6 +2479,47 @@
    "hausse": 700,
    "debut": "2026-11-04T16:50:00",
    "fin": "2026-11-04T23:40:00",
+   "liees": [],
+   "jour": "2026-11-04"
+  },
+  {
+   "mot": "bayern munich",
+   "slug": "bayern-munich",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 500,
+   "hausse": 600,
+   "debut": "2026-10-31T19:00:00",
+   "fin": "2026-11-01T09:40:00",
+   "liees": [
+    "bein sport live"
+   ],
+   "jour": "2026-10-31"
+  },
+  {
+   "mot": "inter milan",
+   "slug": "inter-milan",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 500,
+   "hausse": 600,
+   "debut": "2026-10-31T21:30:00",
+   "fin": "2026-11-01T07:50:00",
+   "liees": [
+    "ac milan",
+    "milan vs inter"
+   ],
+   "jour": "2026-10-31"
+  },
+  {
+   "mot": "تقاعد",
+   "slug": "تقاعد",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": 600,
+   "debut": "2026-11-04T06:30:00",
+   "fin": "2026-11-04T14:00:00",
    "liees": [],
    "jour": "2026-11-04"
   }
@@ -2777,9 +2875,21 @@
   "finance": {
    "fr": "Argent et banques",
    "ar": "المال والبنوك",
-   "n_semaine": 1,
-   "n_mois": 7,
+   "n_semaine": 2,
+   "n_mois": 8,
    "top": [
+    {
+     "mot": "قرض",
+     "slug": "قرض",
+     "langue": "ar",
+     "categorie": "finance",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-14T05:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
+    },
     {
      "mot": "banque",
      "slug": "banque",
@@ -2793,13 +2903,26 @@
      "jour": "2026-11-10"
     }
    ],
-   "top24": []
+   "top24": [
+    {
+     "mot": "قرض",
+     "slug": "قرض",
+     "langue": "ar",
+     "categorie": "finance",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-14T05:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
+    }
+   ]
   },
   "football": {
    "fr": "Football",
    "ar": "كرة القدم",
    "n_semaine": 30,
-   "n_mois": 193,
+   "n_mois": 194,
    "top": [
     {
      "mot": "valence – real madrid",
@@ -2934,6 +3057,18 @@
      "jour": "2026-11-07"
     },
     {
+     "mot": "classement équipe d'égypte de football – équipe du malawi de football",
+     "slug": "classement-equipe-d-egypte-de-football-equipe-du-malawi-de-football",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-14T05:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
+    },
+    {
      "mot": "inter miami – charlotte fc",
      "slug": "inter-miami-charlotte-fc",
      "langue": "fr",
@@ -3066,18 +3201,6 @@
      "jour": "2026-11-13"
     },
     {
-     "mot": "leeds united – tottenham",
-     "slug": "leeds-united-tottenham",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-07T13:20:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-07"
-    },
-    {
      "mot": "lens – marseille",
      "slug": "lens-marseille",
      "langue": "fr",
@@ -3164,6 +3287,18 @@
    ],
    "top24": [
     {
+     "mot": "classement équipe d'égypte de football – équipe du malawi de football",
+     "slug": "classement-equipe-d-egypte-de-football-equipe-du-malawi-de-football",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-14T05:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
+    },
+    {
      "mot": "bein sport live",
      "slug": "bein-sport-live",
      "langue": "fr",
@@ -3222,7 +3357,7 @@
    "fr": "Météo",
    "ar": "الطقس",
    "n_semaine": 2,
-   "n_mois": 12,
+   "n_mois": 13,
    "top": [
     {
      "mot": "meteo",
@@ -3241,15 +3376,28 @@
      "slug": "مطر",
      "langue": "ar",
      "categorie": "meteo",
-     "volume": 500,
+     "volume": 100,
      "hausse": null,
-     "debut": "2026-11-07T12:00:00",
+     "debut": "2026-11-14T06:10:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-07"
+     "jour": "2026-11-14"
     }
    ],
-   "top24": []
+   "top24": [
+    {
+     "mot": "مطر",
+     "slug": "مطر",
+     "langue": "ar",
+     "categorie": "meteo",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-14T06:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
+    }
+   ]
   },
   "politique": {
    "fr": "Politique et actualité",
@@ -3332,9 +3480,21 @@
   "autre": {
    "fr": "Autre",
    "ar": "أخرى",
-   "n_semaine": 52,
-   "n_mois": 73,
+   "n_semaine": 53,
+   "n_mois": 79,
    "top": [
+    {
+     "mot": "argentine – uruguay",
+     "slug": "argentine-uruguay",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-13T23:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-13"
+    },
     {
      "mot": "flashscore",
      "slug": "flashscore",
@@ -3346,6 +3506,18 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-13"
+    },
+    {
+     "mot": "japon – brésil",
+     "slug": "japon-bresil",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-14T11:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
     },
     {
      "mot": "maroc – niger",
@@ -3480,6 +3652,18 @@
      "jour": "2026-11-13"
     },
     {
+     "mot": "société nationale d'exploitation et de distribution des eaux",
+     "slug": "societe-nationale-d-exploitation-et-de-distribution-des-eaux",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-14T07:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
+    },
+    {
      "mot": "teddy riner",
      "slug": "teddy-riner",
      "langue": "fr",
@@ -3540,16 +3724,16 @@
      "jour": "2026-11-11"
     },
     {
-     "mot": "argentine – uruguay",
-     "slug": "argentine-uruguay",
+     "mot": "japan vs brazil",
+     "slug": "japan-vs-brazil",
      "langue": "fr",
      "categorie": "autre",
      "volume": 500,
      "hausse": null,
-     "debut": "2026-11-13T23:40:00",
+     "debut": "2026-11-14T11:50:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-13"
+     "jour": "2026-11-14"
     },
     {
      "mot": "koh lanta all stars",
@@ -3576,18 +3760,6 @@
      "jour": "2026-11-13"
     },
     {
-     "mot": "weather",
-     "slug": "weather",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-07T07:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-07"
-    },
-    {
      "mot": "weather tomorrow",
      "slug": "weather-tomorrow",
      "langue": "fr",
@@ -3610,18 +3782,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-11"
-    },
-    {
-     "mot": "تونس",
-     "slug": "تونس",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-07T05:10:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-07"
     },
     {
      "mot": "طماطم",
@@ -3708,18 +3868,6 @@
      "jour": "2026-11-12"
     },
     {
-     "mot": "es tunis vs monastir",
-     "slug": "es-tunis-vs-monastir",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-07T14:20:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-07"
-    },
-    {
      "mot": "fcb",
      "slug": "fcb",
      "langue": "fr",
@@ -3780,6 +3928,18 @@
      "jour": "2026-11-12"
     },
     {
+     "mot": "noureddine bhiri",
+     "slug": "noureddine-bhiri",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-14T05:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
+    },
+    {
      "mot": "nvidia jensen huang",
      "slug": "nvidia-jensen-huang",
      "langue": "fr",
@@ -3828,18 +3988,6 @@
      "jour": "2026-11-12"
     },
     {
-     "mot": "الخبر",
-     "slug": "الخبر",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-07T07:20:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-07"
-    },
-    {
      "mot": "الشروق",
      "slug": "الشروق",
      "langue": "ar",
@@ -3852,16 +4000,16 @@
      "jour": "2026-11-09"
     },
     {
-     "mot": "طماطم",
-     "slug": "طماطم",
+     "mot": "الولايات المتحدة",
+     "slug": "الولايات-المتحده",
      "langue": "ar",
      "categorie": "autre",
      "volume": 200,
      "hausse": null,
-     "debut": "2026-11-07T05:30:00",
+     "debut": "2026-11-14T07:50:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-07"
+     "jour": "2026-11-14"
     },
     {
      "mot": "benjamin netanyahu",
@@ -3948,6 +4096,18 @@
      "jour": "2026-11-11"
     },
     {
+     "mot": "إيران",
+     "slug": "ايران",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-14T06:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
+    },
+    {
      "mot": "ثعبان",
      "slug": "ثعبان",
      "langue": "ar",
@@ -3962,6 +4122,18 @@
    ],
    "top24": [
     {
+     "mot": "argentine – uruguay",
+     "slug": "argentine-uruguay",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-13T23:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-13"
+    },
+    {
      "mot": "flashscore",
      "slug": "flashscore",
      "langue": "fr",
@@ -3972,6 +4144,18 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-13"
+    },
+    {
+     "mot": "japon – brésil",
+     "slug": "japon-bresil",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-14T11:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
     },
     {
      "mot": "maroc – niger",
@@ -4010,6 +4194,18 @@
      "jour": "2026-11-13"
     },
     {
+     "mot": "société nationale d'exploitation et de distribution des eaux",
+     "slug": "societe-nationale-d-exploitation-et-de-distribution-des-eaux",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-14T07:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
+    },
+    {
      "mot": "égypte – malawi",
      "slug": "egypte-malawi",
      "langue": "fr",
@@ -4022,16 +4218,16 @@
      "jour": "2026-11-13"
     },
     {
-     "mot": "argentine – uruguay",
-     "slug": "argentine-uruguay",
+     "mot": "japan vs brazil",
+     "slug": "japan-vs-brazil",
      "langue": "fr",
      "categorie": "autre",
      "volume": 500,
      "hausse": null,
-     "debut": "2026-11-13T23:40:00",
+     "debut": "2026-11-14T11:50:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-13"
+     "jour": "2026-11-14"
     },
     {
      "mot": "pays-bas – grèce",
@@ -4041,42 +4237,6 @@
      "volume": 500,
      "hausse": null,
      "debut": "2026-11-13T20:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-13"
-    },
-    {
-     "mot": "نور الدين البحيري",
-     "slug": "نور-الدين-البحيري",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-13T11:10:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-13"
-    },
-    {
-     "mot": "nvidia jensen huang",
-     "slug": "nvidia-jensen-huang",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-13T04:20:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-13"
-    },
-    {
-     "mot": "tunis",
-     "slug": "tunis",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-13T17:50:00",
      "fin": null,
      "liees": [],
      "jour": "2026-11-13"
@@ -4117,7 +4277,7 @@
  "historique": {
   "semaines": {
    "2026-11-09": {
-    "n": 58,
+    "n": 67,
     "top": [
      {
       "mot": "italie – france",
@@ -4132,6 +4292,18 @@
       "jour": "2026-11-12"
      },
      {
+      "mot": "argentine – uruguay",
+      "slug": "argentine-uruguay",
+      "langue": "fr",
+      "categorie": "autre",
+      "volume": 2000,
+      "hausse": null,
+      "debut": "2026-11-13T23:40:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-13"
+     },
+     {
       "mot": "flashscore",
       "slug": "flashscore",
       "langue": "fr",
@@ -4142,6 +4314,18 @@
       "fin": null,
       "liees": [],
       "jour": "2026-11-13"
+     },
+     {
+      "mot": "japon – brésil",
+      "slug": "japon-bresil",
+      "langue": "fr",
+      "categorie": "autre",
+      "volume": 2000,
+      "hausse": null,
+      "debut": "2026-11-14T11:10:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-14"
      },
      {
       "mot": "maroc – niger",
@@ -4214,36 +4398,16 @@
       "fin": null,
       "liees": [],
       "jour": "2026-11-10"
-     },
-     {
-      "mot": "électricité",
-      "slug": "electricite",
-      "langue": "fr",
-      "categorie": "energie",
-      "volume": 2000,
-      "hausse": null,
-      "debut": "2026-11-13T06:50:00",
-      "fin": null,
-      "liees": [],
-      "jour": "2026-11-13"
-     },
-     {
-      "mot": "قيس عبد الفتاح",
-      "slug": "قيس-عبد-الفتاح",
-      "langue": "ar",
-      "categorie": "autre",
-      "volume": 2000,
-      "hausse": null,
-      "debut": "2026-11-09T02:30:00",
-      "fin": null,
-      "liees": [],
-      "jour": "2026-11-09"
      }
     ],
     "categories": [
      {
       "cle": "autre",
-      "n": 41
+      "n": 47
+     },
+     {
+      "cle": "football",
+      "n": 4
      },
      {
       "cle": "politique",
@@ -4254,16 +4418,16 @@
       "n": 3
      },
      {
-      "cle": "football",
-      "n": 3
-     },
-     {
       "cle": "commerce",
       "n": 2
      },
      {
       "cle": "finance",
-      "n": 1
+      "n": 2
+     },
+     {
+      "cle": "meteo",
+      "n": 2
      },
      {
       "cle": "divertissement",
@@ -4271,10 +4435,6 @@
      },
      {
       "cle": "tourisme",
-      "n": 1
-     },
-     {
-      "cle": "meteo",
       "n": 1
      },
      {
@@ -4882,7 +5042,7 @@
   },
   "mois": {
    "2026-11": {
-    "n": 218,
+    "n": 227,
     "top": [
      {
       "mot": "classement stade tunisien – club africain",
@@ -5026,11 +5186,11 @@
     "categories": [
      {
       "cle": "football",
-      "n": 88
+      "n": 89
      },
      {
       "cle": "autre",
-      "n": 68
+      "n": 74
      },
      {
       "cle": "sport",
@@ -5041,20 +5201,20 @@
       "n": 9
      },
      {
+      "cle": "meteo",
+      "n": 7
+     },
+     {
       "cle": "administration",
       "n": 6
      },
      {
-      "cle": "meteo",
-      "n": 6
+      "cle": "finance",
+      "n": 5
      },
      {
       "cle": "divertissement",
       "n": 5
-     },
-     {
-      "cle": "finance",
-      "n": 4
      },
      {
       "cle": "emploi",
@@ -10348,6 +10508,30 @@
    "liees": []
   },
   {
+   "mot": "argentine – uruguay",
+   "mot_norm": "argentine - uruguay",
+   "slug": "argentine-uruguay",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "argentine – uruguay",
+     "slug": "argentine-uruguay",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-13T23:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-13"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 2000,
+   "liees": []
+  },
+  {
    "mot": "atlético madrid – bayern",
    "mot_norm": "atletico madrid - bayern",
    "slug": "atletico-madrid-bayern",
@@ -10875,6 +11059,30 @@
      "fin": "2026-11-04T07:40:00",
      "liees": [],
      "jour": "2026-11-02"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 2000,
+   "liees": []
+  },
+  {
+   "mot": "japon – brésil",
+   "mot_norm": "japon - bresil",
+   "slug": "japon-bresil",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "japon – brésil",
+     "slug": "japon-bresil",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-14T11:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
     }
    ],
    "jours": 1,
@@ -12508,6 +12716,30 @@
    "liees": []
   },
   {
+   "mot": "société nationale d'exploitation et de distribution des eaux",
+   "mot_norm": "societe nationale d'exploitation et de distribution des eaux",
+   "slug": "societe-nationale-d-exploitation-et-de-distribution-des-eaux",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "société nationale d'exploitation et de distribution des eaux",
+     "slug": "societe-nationale-d-exploitation-et-de-distribution-des-eaux",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-14T07:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 1000,
+   "liees": []
+  },
+  {
    "mot": "sonia mabrouk",
    "mot_norm": "sonia mabrouk",
    "slug": "sonia-mabrouk",
@@ -13276,30 +13508,6 @@
    ]
   },
   {
-   "mot": "argentine – uruguay",
-   "mot_norm": "argentine - uruguay",
-   "slug": "argentine-uruguay",
-   "langue": "fr",
-   "categorie": "autre",
-   "episodes": [
-    {
-     "mot": "argentine – uruguay",
-     "slug": "argentine-uruguay",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-13T23:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-13"
-    }
-   ],
-   "jours": 1,
-   "volume_max": 500,
-   "liees": []
-  },
-  {
    "mot": "aéroport de tunis-carthage",
    "mot_norm": "aeroport de tunis-carthage",
    "slug": "aeroport-de-tunis-carthage",
@@ -13541,6 +13749,30 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-07"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 500,
+   "liees": []
+  },
+  {
+   "mot": "classement équipe d'égypte de football – équipe du malawi de football",
+   "mot_norm": "classement equipe d'egypte de football - equipe du malawi de football",
+   "slug": "classement-equipe-d-egypte-de-football-equipe-du-malawi-de-football",
+   "langue": "fr",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "classement équipe d'égypte de football – équipe du malawi de football",
+     "slug": "classement-equipe-d-egypte-de-football-equipe-du-malawi-de-football",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-14T05:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
     }
    ],
    "jours": 1,
@@ -13811,6 +14043,30 @@
      "fin": "2026-10-25T17:00:00",
      "liees": [],
      "jour": "2026-10-25"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 500,
+   "liees": []
+  },
+  {
+   "mot": "japan vs brazil",
+   "mot_norm": "japan vs brazil",
+   "slug": "japan-vs-brazil",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "japan vs brazil",
+     "slug": "japan-vs-brazil",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-14T11:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
     }
    ],
    "jours": 1,
@@ -14825,6 +15081,18 @@
      "slug": "مطر",
      "langue": "ar",
      "categorie": "meteo",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-14T06:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
+    },
+    {
+     "mot": "مطر",
+     "slug": "مطر",
+     "langue": "ar",
+     "categorie": "meteo",
      "volume": 500,
      "hausse": null,
      "debut": "2026-11-07T12:00:00",
@@ -14833,7 +15101,7 @@
      "jour": "2026-11-07"
     }
    ],
-   "jours": 1,
+   "jours": 2,
    "volume_max": 500,
    "liees": []
   },
@@ -16448,6 +16716,30 @@
    "liees": []
   },
   {
+   "mot": "noureddine bhiri",
+   "mot_norm": "noureddine bhiri",
+   "slug": "noureddine-bhiri",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "noureddine bhiri",
+     "slug": "noureddine-bhiri",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-14T05:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
    "mot": "nouvelair",
    "mot_norm": "nouvelair",
    "slug": "nouvelair",
@@ -17207,6 +17499,18 @@
      "slug": "ايران",
      "langue": "ar",
      "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-14T06:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
+    },
+    {
+     "mot": "إيران",
+     "slug": "ايران",
+     "langue": "ar",
+     "categorie": "autre",
      "volume": 200,
      "hausse": null,
      "debut": "2026-11-12T13:30:00",
@@ -17215,7 +17519,7 @@
      "jour": "2026-11-12"
     }
    ],
-   "jours": 1,
+   "jours": 2,
    "volume_max": 200,
    "liees": []
   },
@@ -17297,6 +17601,30 @@
      "fin": "2026-10-29T22:10:00",
      "liees": [],
      "jour": "2026-10-29"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
+   "mot": "الولايات المتحدة",
+   "mot_norm": "الولايات المتحده",
+   "slug": "الولايات-المتحده",
+   "langue": "ar",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "الولايات المتحدة",
+     "slug": "الولايات-المتحده",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-14T07:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
     }
    ],
    "jours": 1,
@@ -17445,6 +17773,30 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-07"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
+   "mot": "قرض",
+   "mot_norm": "قرض",
+   "slug": "قرض",
+   "langue": "ar",
+   "categorie": "finance",
+   "episodes": [
+    {
+     "mot": "قرض",
+     "slug": "قرض",
+     "langue": "ar",
+     "categorie": "finance",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-14T05:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
     }
    ],
    "jours": 1,
