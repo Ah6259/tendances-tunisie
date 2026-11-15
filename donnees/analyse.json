@@ -1,28 +1,16 @@
 {
- "maj": "2026-11-14T23:43:26",
- "jour": "2026-11-14",
+ "maj": "2026-11-15T15:17:24",
+ "jour": "2026-11-15",
  "totaux": {
-  "tendances": 418,
-  "mots_distincts": 355,
-  "aujourdhui": 16,
+  "tendances": 425,
+  "mots_distincts": 361,
+  "aujourdhui": 14,
   "semaine": 94,
-  "mois": 418,
-  "expressions_tapees": 2049,
+  "mois": 425,
+  "expressions_tapees": 2198,
   "premiere_lecture": "2026-11-01T10:46:10"
  },
  "aujourdhui": [
-  {
-   "mot": "japon – brésil",
-   "slug": "japon-bresil",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 2000,
-   "hausse": null,
-   "debut": "2026-11-14T11:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-14"
-  },
   {
    "mot": "portugal – danemark",
    "slug": "portugal-danemark",
@@ -72,37 +60,37 @@
    "jour": "2026-11-14"
   },
   {
-   "mot": "société nationale d'exploitation et de distribution des eaux",
-   "slug": "societe-nationale-d-exploitation-et-de-distribution-des-eaux",
+   "mot": "ufc",
+   "slug": "ufc",
    "langue": "fr",
-   "categorie": "autre",
-   "volume": 1000,
+   "categorie": "sport",
+   "volume": 500,
    "hausse": null,
-   "debut": "2026-11-14T07:00:00",
+   "debut": "2026-11-14T23:10:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-14"
   },
   {
-   "mot": "classement équipe d'égypte de football – équipe du malawi de football",
-   "slug": "classement-equipe-d-egypte-de-football-equipe-du-malawi-de-football",
-   "langue": "fr",
+   "mot": "منتخب المغرب لكرة القدم",
+   "slug": "منتخب-المغرب-لكره-القدم",
+   "langue": "ar",
    "categorie": "football",
    "volume": 500,
    "hausse": null,
-   "debut": "2026-11-14T05:30:00",
+   "debut": "2026-11-15T07:30:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-14"
+   "jour": "2026-11-15"
   },
   {
-   "mot": "japan vs brazil",
-   "slug": "japan-vs-brazil",
+   "mot": "finance",
+   "slug": "finance",
    "langue": "fr",
    "categorie": "autre",
-   "volume": 500,
+   "volume": 200,
    "hausse": null,
-   "debut": "2026-11-14T11:50:00",
+   "debut": "2026-11-14T23:10:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-14"
@@ -120,16 +108,16 @@
    "jour": "2026-11-14"
   },
   {
-   "mot": "noureddine bhiri",
-   "slug": "noureddine-bhiri",
+   "mot": "passeport",
+   "slug": "passeport",
    "langue": "fr",
-   "categorie": "autre",
+   "categorie": "administration",
    "volume": 200,
    "hausse": null,
-   "debut": "2026-11-14T05:30:00",
+   "debut": "2026-11-15T08:40:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-14"
+   "jour": "2026-11-15"
   },
   {
    "mot": "portugal",
@@ -144,28 +132,40 @@
    "jour": "2026-11-14"
   },
   {
-   "mot": "الولايات المتحدة",
-   "slug": "الولايات-المتحده",
-   "langue": "ar",
+   "mot": "économie",
+   "slug": "economie",
+   "langue": "fr",
    "categorie": "autre",
    "volume": 200,
    "hausse": null,
-   "debut": "2026-11-14T07:50:00",
+   "debut": "2026-11-15T09:00:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-14"
+   "jour": "2026-11-15"
   },
   {
-   "mot": "قرض",
-   "slug": "قرض",
-   "langue": "ar",
-   "categorie": "finance",
-   "volume": 200,
+   "mot": "ao3",
+   "slug": "ao3",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 100,
    "hausse": null,
-   "debut": "2026-11-14T05:40:00",
+   "debut": "2026-11-15T12:20:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-14"
+   "jour": "2026-11-15"
+  },
+  {
+   "mot": "ronaldinho",
+   "slug": "ronaldinho",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-15T08:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-15"
   },
   {
    "mot": "twitch",
@@ -175,30 +175,6 @@
    "volume": 100,
    "hausse": null,
    "debut": "2026-11-14T20:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-14"
-  },
-  {
-   "mot": "إيران",
-   "slug": "ايران",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-14T06:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-14"
-  },
-  {
-   "mot": "مطر",
-   "slug": "مطر",
-   "langue": "ar",
-   "categorie": "meteo",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-14T06:10:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-14"
@@ -372,18 +348,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-13"
-  },
-  {
-   "mot": "الترجي الرياضي التونسي",
-   "slug": "الترجي-الرياضي-التونسي",
-   "langue": "ar",
-   "categorie": "football",
-   "volume": 2000,
-   "hausse": null,
-   "debut": "2026-11-08T10:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
   },
   {
    "mot": "قيس عبد الفتاح",
@@ -698,6 +662,18 @@
    "jour": "2026-11-13"
   },
   {
+   "mot": "ufc",
+   "slug": "ufc",
+   "langue": "fr",
+   "categorie": "sport",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-14T23:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-14"
+  },
+  {
    "mot": "weather tomorrow",
    "slug": "weather-tomorrow",
    "langue": "fr",
@@ -758,6 +734,18 @@
    "jour": "2026-11-11"
   },
   {
+   "mot": "منتخب المغرب لكرة القدم",
+   "slug": "منتخب-المغرب-لكره-القدم",
+   "langue": "ar",
+   "categorie": "football",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-15T07:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-15"
+  },
+  {
    "mot": "نور الدين البحيري",
    "slug": "نور-الدين-البحيري",
    "langue": "ar",
@@ -806,30 +794,6 @@
    "jour": "2026-11-08"
   },
   {
-   "mot": "climat",
-   "slug": "climat",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-08T05:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "crystal palace – liverpool",
-   "slug": "crystal-palace-liverpool",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-08T14:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
    "mot": "czechia vs spain",
    "slug": "czechia-vs-spain",
    "langue": "fr",
@@ -840,18 +804,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-12"
-  },
-  {
-   "mot": "elche – betis",
-   "slug": "elche-betis",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-08T13:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
   },
   {
    "mot": "england vs croatia",
@@ -888,6 +840,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-08"
+  },
+  {
+   "mot": "finance",
+   "slug": "finance",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-14T23:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-14"
   },
   {
    "mot": "fiorentina – juventus",
@@ -936,18 +900,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-12"
-  },
-  {
-   "mot": "inter miami",
-   "slug": "inter-miami",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-08T11:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
   },
   {
    "mot": "investissement",
@@ -1034,6 +986,18 @@
    "jour": "2026-11-13"
   },
   {
+   "mot": "passeport",
+   "slug": "passeport",
+   "langue": "fr",
+   "categorie": "administration",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-15T08:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-15"
+  },
+  {
    "mot": "portugal",
    "slug": "portugal",
    "langue": "fr",
@@ -1080,6 +1044,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-13"
+  },
+  {
+   "mot": "économie",
+   "slug": "economie",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-15T09:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-15"
   },
   {
    "mot": "إيران",
@@ -1142,6 +1118,18 @@
    "jour": "2026-11-10"
   },
   {
+   "mot": "ao3",
+   "slug": "ao3",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-15T12:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-15"
+  },
+  {
    "mot": "banque",
    "slug": "banque",
    "langue": "fr",
@@ -1161,18 +1149,6 @@
    "volume": 100,
    "hausse": null,
    "debut": "2026-11-08T22:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "benjamin netanyahu",
-   "slug": "benjamin-netanyahu",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-08T12:10:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-08"
@@ -1238,18 +1214,6 @@
    "jour": "2026-11-08"
   },
   {
-   "mot": "naples – lazio",
-   "slug": "naples-lazio",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-08T14:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
    "mot": "opération militaire",
    "slug": "operation-militaire",
    "langue": "fr",
@@ -1272,6 +1236,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-12"
+  },
+  {
+   "mot": "ronaldinho",
+   "slug": "ronaldinho",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-15T08:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-15"
   },
   {
    "mot": "tunisie",
@@ -1336,18 +1312,6 @@
  ],
  "nouveautes": [
   {
-   "mot": "japon – brésil",
-   "slug": "japon-bresil",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 2000,
-   "hausse": null,
-   "debut": "2026-11-14T11:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-14"
-  },
-  {
    "mot": "portugal – danemark",
    "slug": "portugal-danemark",
    "langue": "fr",
@@ -1396,37 +1360,37 @@
    "jour": "2026-11-14"
   },
   {
-   "mot": "société nationale d'exploitation et de distribution des eaux",
-   "slug": "societe-nationale-d-exploitation-et-de-distribution-des-eaux",
+   "mot": "ufc",
+   "slug": "ufc",
    "langue": "fr",
-   "categorie": "autre",
-   "volume": 1000,
+   "categorie": "sport",
+   "volume": 500,
    "hausse": null,
-   "debut": "2026-11-14T07:00:00",
+   "debut": "2026-11-14T23:10:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-14"
   },
   {
-   "mot": "classement équipe d'égypte de football – équipe du malawi de football",
-   "slug": "classement-equipe-d-egypte-de-football-equipe-du-malawi-de-football",
-   "langue": "fr",
+   "mot": "منتخب المغرب لكرة القدم",
+   "slug": "منتخب-المغرب-لكره-القدم",
+   "langue": "ar",
    "categorie": "football",
    "volume": 500,
    "hausse": null,
-   "debut": "2026-11-14T05:30:00",
+   "debut": "2026-11-15T07:30:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-14"
+   "jour": "2026-11-15"
   },
   {
-   "mot": "japan vs brazil",
-   "slug": "japan-vs-brazil",
+   "mot": "finance",
+   "slug": "finance",
    "langue": "fr",
    "categorie": "autre",
-   "volume": 500,
+   "volume": 200,
    "hausse": null,
-   "debut": "2026-11-14T11:50:00",
+   "debut": "2026-11-14T23:10:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-14"
@@ -1444,18 +1408,6 @@
    "jour": "2026-11-14"
   },
   {
-   "mot": "noureddine bhiri",
-   "slug": "noureddine-bhiri",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-14T05:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-14"
-  },
-  {
    "mot": "portugal",
    "slug": "portugal",
    "langue": "fr",
@@ -1468,28 +1420,40 @@
    "jour": "2026-11-14"
   },
   {
-   "mot": "الولايات المتحدة",
-   "slug": "الولايات-المتحده",
-   "langue": "ar",
+   "mot": "économie",
+   "slug": "economie",
+   "langue": "fr",
    "categorie": "autre",
    "volume": 200,
    "hausse": null,
-   "debut": "2026-11-14T07:50:00",
+   "debut": "2026-11-15T09:00:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-14"
+   "jour": "2026-11-15"
   },
   {
-   "mot": "قرض",
-   "slug": "قرض",
-   "langue": "ar",
-   "categorie": "finance",
-   "volume": 200,
+   "mot": "ao3",
+   "slug": "ao3",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 100,
    "hausse": null,
-   "debut": "2026-11-14T05:40:00",
+   "debut": "2026-11-15T12:20:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-14"
+   "jour": "2026-11-15"
+  },
+  {
+   "mot": "ronaldinho",
+   "slug": "ronaldinho",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-15T08:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-15"
   }
  ],
  "hausses": [
@@ -1893,6 +1857,18 @@
    "jour": "2026-11-07"
   },
   {
+   "mot": "الترجي الرياضي التونسي",
+   "slug": "الترجي-الرياضي-التونسي",
+   "langue": "ar",
+   "categorie": "football",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-08T10:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-08"
+  },
+  {
    "mot": "classement villarreal – paris saint-germain football club",
    "slug": "classement-villarreal-paris-saint-germain-football-club",
    "langue": "fr",
@@ -2012,34 +1988,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-04"
-  },
-  {
-   "mot": "donald tusk",
-   "slug": "donald-tusk",
-   "langue": "fr",
-   "categorie": "finance",
-   "volume": 1000,
-   "hausse": 400,
-   "debut": "2026-11-01T14:20:00",
-   "fin": "2026-11-03T08:00:00",
-   "liees": [],
-   "jour": "2026-11-01"
-  },
-  {
-   "mot": "البطولة التونسية",
-   "slug": "البطوله-التونسيه",
-   "langue": "ar",
-   "categorie": "football",
-   "volume": 1000,
-   "hausse": 400,
-   "debut": "2026-11-01T14:30:00",
-   "fin": "2026-11-01T15:40:00",
-   "liees": [
-    "ترتيب الدوري التونسي",
-    "الدوري التونسي",
-    "بطولة تونس"
-   ],
-   "jour": "2026-11-01"
   },
   {
    "mot": "eau potable",
@@ -2220,18 +2168,6 @@
    "jour": "2026-11-02"
   },
   {
-   "mot": "vincent kompany",
-   "slug": "vincent-kompany",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 500,
-   "hausse": 700,
-   "debut": "2026-11-01T09:40:00",
-   "fin": "2026-11-01T17:10:00",
-   "liees": [],
-   "jour": "2026-11-01"
-  },
-  {
    "mot": "عقوبة",
    "slug": "عقوبه",
    "langue": "ar",
@@ -2242,6 +2178,21 @@
    "fin": "2026-11-04T23:40:00",
    "liees": [],
    "jour": "2026-11-04"
+  },
+  {
+   "mot": "البطولة التونسية",
+   "slug": "البطوله-التونسيه",
+   "langue": "ar",
+   "categorie": "football",
+   "volume": 500,
+   "hausse": 600,
+   "debut": "2026-11-03T16:30:00",
+   "fin": "2026-11-03T18:00:00",
+   "liees": [
+    "الملعب التونسي ضد الإفريقي",
+    "الدوري التونسي"
+   ],
+   "jour": "2026-11-03"
   },
   {
    "mot": "تقاعد",
@@ -2314,6 +2265,20 @@
    "fin": "2026-11-04T19:30:00",
    "liees": [],
    "jour": "2026-11-03"
+  },
+  {
+   "mot": "abdul el sayed",
+   "slug": "abdul-el-sayed",
+   "langue": "fr",
+   "categorie": "politique",
+   "volume": 500,
+   "hausse": 200,
+   "debut": "2026-11-04T07:10:00",
+   "fin": "2026-11-04T15:10:00",
+   "liees": [
+    "abdul el-sayed"
+   ],
+   "jour": "2026-11-04"
   }
  ],
  "recurrents": [
@@ -2588,8 +2553,8 @@
   "administration": {
    "fr": "Administration et démarches",
    "ar": "الإدارة والإجراءات",
-   "n_semaine": 3,
-   "n_mois": 17,
+   "n_semaine": 4,
+   "n_mois": 18,
    "top": [
     {
      "mot": "محكمة",
@@ -2616,6 +2581,18 @@
      "jour": "2026-11-10"
     },
     {
+     "mot": "passeport",
+     "slug": "passeport",
+     "langue": "fr",
+     "categorie": "administration",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-15T08:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-15"
+    },
+    {
      "mot": "وزارة التربية",
      "slug": "وزاره-التربيه",
      "langue": "ar",
@@ -2628,7 +2605,20 @@
      "jour": "2026-11-10"
     }
    ],
-   "top24": []
+   "top24": [
+    {
+     "mot": "passeport",
+     "slug": "passeport",
+     "langue": "fr",
+     "categorie": "administration",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-15T08:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-15"
+    }
+   ]
   },
   "energie": {
    "fr": "Énergie",
@@ -2649,20 +2639,7 @@
      "jour": "2026-11-13"
     }
    ],
-   "top24": [
-    {
-     "mot": "électricité",
-     "slug": "electricite",
-     "langue": "fr",
-     "categorie": "energie",
-     "volume": 2000,
-     "hausse": null,
-     "debut": "2026-11-13T06:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-13"
-    }
-   ]
+   "top24": []
   },
   "finance": {
    "fr": "Argent et banques",
@@ -2713,8 +2690,8 @@
   "football": {
    "fr": "Football",
    "ar": "كرة القدم",
-   "n_semaine": 21,
-   "n_mois": 195,
+   "n_semaine": 17,
+   "n_mois": 196,
    "top": [
     {
      "mot": "classement atlético madrid – fc barcelone",
@@ -2736,18 +2713,6 @@
      "volume": 2000,
      "hausse": null,
      "debut": "2026-11-08T21:20:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-08"
-    },
-    {
-     "mot": "الترجي الرياضي التونسي",
-     "slug": "الترجي-الرياضي-التونسي",
-     "langue": "ar",
-     "categorie": "football",
-     "volume": 2000,
-     "hausse": null,
-     "debut": "2026-11-08T10:00:00",
      "fin": null,
      "liees": [],
      "jour": "2026-11-08"
@@ -2825,6 +2790,18 @@
      "jour": "2026-11-12"
     },
     {
+     "mot": "منتخب المغرب لكرة القدم",
+     "slug": "منتخب-المغرب-لكره-القدم",
+     "langue": "ar",
+     "categorie": "football",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-15T07:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-15"
+    },
+    {
      "mot": "bein sport live",
      "slug": "bein-sport-live",
      "langue": "fr",
@@ -2849,30 +2826,6 @@
      "jour": "2026-11-08"
     },
     {
-     "mot": "crystal palace – liverpool",
-     "slug": "crystal-palace-liverpool",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-08T14:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-08"
-    },
-    {
-     "mot": "elche – betis",
-     "slug": "elche-betis",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-08T13:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-08"
-    },
-    {
      "mot": "fc barcelona",
      "slug": "fc-barcelona",
      "langue": "fr",
@@ -2892,18 +2845,6 @@
      "volume": 200,
      "hausse": null,
      "debut": "2026-11-08T21:00:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-08"
-    },
-    {
-     "mot": "inter miami",
-     "slug": "inter-miami",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-08T11:10:00",
      "fin": null,
      "liees": [],
      "jour": "2026-11-08"
@@ -2955,18 +2896,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-08"
-    },
-    {
-     "mot": "naples – lazio",
-     "slug": "naples-lazio",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-08T14:00:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-08"
     }
    ],
    "top24": [
@@ -2995,38 +2924,52 @@
      "jour": "2026-11-14"
     },
     {
-     "mot": "bein sport live",
-     "slug": "bein-sport-live",
-     "langue": "fr",
+     "mot": "منتخب المغرب لكرة القدم",
+     "slug": "منتخب-المغرب-لكره-القدم",
+     "langue": "ar",
      "categorie": "football",
-     "volume": 200,
+     "volume": 500,
      "hausse": null,
-     "debut": "2026-11-13T17:30:00",
+     "debut": "2026-11-15T07:30:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-13"
-    },
-    {
-     "mot": "kora",
-     "slug": "kora",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-13T17:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-13"
+     "jour": "2026-11-15"
     }
    ]
   },
   "sport": {
    "fr": "Autres sports",
    "ar": "رياضات أخرى",
-   "n_semaine": 0,
-   "n_mois": 49,
-   "top": [],
-   "top24": []
+   "n_semaine": 1,
+   "n_mois": 50,
+   "top": [
+    {
+     "mot": "ufc",
+     "slug": "ufc",
+     "langue": "fr",
+     "categorie": "sport",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-14T23:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
+    }
+   ],
+   "top24": [
+    {
+     "mot": "ufc",
+     "slug": "ufc",
+     "langue": "fr",
+     "categorie": "sport",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-14T23:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
+    }
+   ]
   },
   "divertissement": {
    "fr": "Divertissement et médias",
@@ -3150,20 +3093,7 @@
      "jour": "2026-11-13"
     }
    ],
-   "top24": [
-    {
-     "mot": "tunisie vs libye",
-     "slug": "tunisie-vs-libye",
-     "langue": "fr",
-     "categorie": "politique",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-13T15:00:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-13"
-    }
-   ]
+   "top24": []
   },
   "religion": {
    "fr": "Religion et fêtes",
@@ -3176,8 +3106,8 @@
   "autre": {
    "fr": "Autre",
    "ar": "أخرى",
-   "n_semaine": 57,
-   "n_mois": 85,
+   "n_semaine": 59,
+   "n_mois": 89,
    "top": [
     {
      "mot": "argentine – uruguay",
@@ -3540,18 +3470,6 @@
      "jour": "2026-11-11"
     },
     {
-     "mot": "climat",
-     "slug": "climat",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-08T05:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-08"
-    },
-    {
      "mot": "czechia vs spain",
      "slug": "czechia-vs-spain",
      "langue": "fr",
@@ -3586,6 +3504,18 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-08"
+    },
+    {
+     "mot": "finance",
+     "slug": "finance",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-14T23:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
     },
     {
      "mot": "gta 6",
@@ -3708,6 +3638,18 @@
      "jour": "2026-11-13"
     },
     {
+     "mot": "économie",
+     "slug": "economie",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-15T09:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-15"
+    },
+    {
      "mot": "إيران",
      "slug": "ايران",
      "langue": "ar",
@@ -3744,16 +3686,16 @@
      "jour": "2026-11-14"
     },
     {
-     "mot": "benjamin netanyahu",
-     "slug": "benjamin-netanyahu",
+     "mot": "ao3",
+     "slug": "ao3",
      "langue": "fr",
      "categorie": "autre",
      "volume": 100,
      "hausse": null,
-     "debut": "2026-11-08T12:10:00",
+     "debut": "2026-11-15T12:20:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-08"
+     "jour": "2026-11-15"
     },
     {
      "mot": "dana white",
@@ -3816,6 +3758,18 @@
      "jour": "2026-11-12"
     },
     {
+     "mot": "ronaldinho",
+     "slug": "ronaldinho",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-15T08:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-15"
+    },
+    {
      "mot": "tunisie",
      "slug": "tunisie",
      "langue": "fr",
@@ -3866,30 +3820,6 @@
    ],
    "top24": [
     {
-     "mot": "argentine – uruguay",
-     "slug": "argentine-uruguay",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 2000,
-     "hausse": null,
-     "debut": "2026-11-13T23:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-13"
-    },
-    {
-     "mot": "flashscore",
-     "slug": "flashscore",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 2000,
-     "hausse": null,
-     "debut": "2026-11-13T19:00:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-13"
-    },
-    {
      "mot": "japon – brésil",
      "slug": "japon-bresil",
      "langue": "fr",
@@ -3902,30 +3832,6 @@
      "jour": "2026-11-14"
     },
     {
-     "mot": "maroc – niger",
-     "slug": "maroc-niger",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 2000,
-     "hausse": null,
-     "debut": "2026-11-13T20:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-13"
-    },
-    {
-     "mot": "outlook",
-     "slug": "outlook",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 2000,
-     "hausse": null,
-     "debut": "2026-11-13T03:00:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-13"
-    },
-    {
      "mot": "portugal – danemark",
      "slug": "portugal-danemark",
      "langue": "fr",
@@ -3936,18 +3842,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-14"
-    },
-    {
-     "mot": "morocco vs niger",
-     "slug": "morocco-vs-niger",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 1000,
-     "hausse": null,
-     "debut": "2026-11-13T21:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-13"
     },
     {
      "mot": "ouganda – botswana",
@@ -3981,6 +3875,66 @@
      "volume": 1000,
      "hausse": null,
      "debut": "2026-11-14T07:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
+    },
+    {
+     "mot": "japan vs brazil",
+     "slug": "japan-vs-brazil",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-14T11:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
+    },
+    {
+     "mot": "finance",
+     "slug": "finance",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-14T23:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
+    },
+    {
+     "mot": "investissement",
+     "slug": "investissement",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-14T19:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
+    },
+    {
+     "mot": "noureddine bhiri",
+     "slug": "noureddine-bhiri",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-14T05:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
+    },
+    {
+     "mot": "portugal",
+     "slug": "portugal",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-14T21:30:00",
      "fin": null,
      "liees": [],
      "jour": "2026-11-14"
@@ -4021,7 +3975,7 @@
  "historique": {
   "semaines": {
    "2026-11-09": {
-    "n": 74,
+    "n": 81,
     "top": [
      {
       "mot": "italie – france",
@@ -4147,19 +4101,19 @@
     "categories": [
      {
       "cle": "autre",
-      "n": 53
+      "n": 57
      },
      {
       "cle": "football",
-      "n": 5
+      "n": 6
+     },
+     {
+      "cle": "administration",
+      "n": 4
      },
      {
       "cle": "politique",
       "n": 4
-     },
-     {
-      "cle": "administration",
-      "n": 3
      },
      {
       "cle": "commerce",
@@ -4183,6 +4137,10 @@
      },
      {
       "cle": "energie",
+      "n": 1
+     },
+     {
+      "cle": "sport",
       "n": 1
      }
     ]
@@ -4786,7 +4744,7 @@
   },
   "mois": {
    "2026-11": {
-    "n": 234,
+    "n": 241,
     "top": [
      {
       "mot": "classement stade tunisien – club africain",
@@ -4930,27 +4888,27 @@
     "categories": [
      {
       "cle": "football",
-      "n": 90
+      "n": 91
      },
      {
       "cle": "autre",
-      "n": 80
+      "n": 84
      },
      {
       "cle": "sport",
-      "n": 14
+      "n": 15
      },
      {
       "cle": "politique",
       "n": 9
      },
      {
-      "cle": "meteo",
+      "cle": "administration",
       "n": 7
      },
      {
-      "cle": "administration",
-      "n": 6
+      "cle": "meteo",
+      "n": 7
      },
      {
       "cle": "finance",
@@ -5208,13 +5166,25 @@
   }
  },
  "mots": {
-  "passage": "2026-11-08",
+  "passage": "2026-11-15",
   "nouveaux": [
+   {
+    "mot": "appartement a louer philadelphie",
+    "langue": "fr",
+    "categorie": "immobilier",
+    "apparu": "2026-11-15"
+   },
    {
     "mot": "appartement a louer san francisco",
     "langue": "fr",
     "categorie": "immobilier",
     "apparu": "2026-11-08"
+   },
+   {
+    "mot": "banque internationale arabe de tunisie",
+    "langue": "fr",
+    "categorie": "finance",
+    "apparu": "2026-11-15"
    },
    {
     "mot": "banque nationale agricole",
@@ -5226,6 +5196,18 @@
     "mot": "carrefour los angeles",
     "langue": "fr",
     "categorie": "commerce",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "handball",
+    "langue": "fr",
+    "categorie": "sport",
+    "apparu": "2026-11-15"
+   },
+   {
+    "mot": "hotel la foret",
+    "langue": "fr",
+    "categorie": "tourisme",
     "apparu": "2026-11-08"
    },
    {
@@ -5247,10 +5229,22 @@
     "apparu": "2026-11-08"
    },
    {
+    "mot": "pharmacie washington",
+    "langue": "fr",
+    "categorie": "sante",
+    "apparu": "2026-11-15"
+   },
+   {
     "mot": "pizza san francisco",
     "langue": "fr",
     "categorie": "autre",
     "apparu": "2026-11-08"
+   },
+   {
+    "mot": "pizza washington",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-15"
    },
    {
     "mot": "restaurant sacramento",
@@ -5259,10 +5253,28 @@
     "apparu": "2026-11-08"
    },
    {
+    "mot": "restaurant washington",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-15"
+   },
+   {
     "mot": "terrain a vendre los angeles",
     "langue": "fr",
     "categorie": "immobilier",
     "apparu": "2026-11-08"
+   },
+   {
+    "mot": "تونس ضد ليبيا",
+    "langue": "ar",
+    "categorie": "politique",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "جواز سفر",
+    "langue": "ar",
+    "categorie": "tourisme",
+    "apparu": "2026-11-15"
    },
    {
     "mot": "زومبا",
@@ -5283,10 +5295,22 @@
     "apparu": "2026-11-08"
    },
    {
+    "mot": "فندق ريان الجوار مكة",
+    "langue": "ar",
+    "categorie": "tourisme",
+    "apparu": "2026-11-15"
+   },
+   {
     "mot": "فيلم خلي بالك من نفسك",
     "langue": "ar",
     "categorie": "divertissement",
     "apparu": "2026-11-08"
+   },
+   {
+    "mot": "مباراة تونس وليبيا",
+    "langue": "ar",
+    "categorie": "football",
+    "apparu": "2026-11-15"
    },
    {
     "mot": "مرض فيروس إيبولا",
@@ -5301,6 +5325,12 @@
     "apparu": "2026-11-08"
    },
    {
+    "mot": "appartement a louer new jersey",
+    "langue": "fr",
+    "categorie": "immobilier",
+    "apparu": "2026-11-15"
+   },
+   {
     "mot": "concours tunisie 2026",
     "langue": "fr",
     "categorie": "emploi",
@@ -5313,9 +5343,9 @@
     "apparu": "2026-11-08"
    },
    {
-    "mot": "hotel la foret",
+    "mot": "lens_placeholder_query",
     "langue": "fr",
-    "categorie": "tourisme",
+    "categorie": "autre",
     "apparu": "2026-11-08"
    },
    {
@@ -5323,6 +5353,12 @@
     "langue": "fr",
     "categorie": "autre",
     "apparu": "2026-11-08"
+   },
+   {
+    "mot": "pharmacie philadelphie",
+    "langue": "fr",
+    "categorie": "sante",
+    "apparu": "2026-11-15"
    },
    {
     "mot": "pharmacie portland",
@@ -5337,10 +5373,34 @@
     "apparu": "2026-11-08"
    },
    {
+    "mot": "pizza new jersey",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-15"
+   },
+   {
+    "mot": "qatar airways careers",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "restaurant maryland",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-15"
+   },
+   {
     "mot": "restaurant san francisco",
     "langue": "fr",
     "categorie": "autre",
     "apparu": "2026-11-08"
+   },
+   {
+    "mot": "tunisie libye",
+    "langue": "fr",
+    "categorie": "politique",
+    "apparu": "2026-11-15"
    },
    {
     "mot": "valence – real madrid",
@@ -5355,6 +5415,18 @@
     "apparu": "2026-11-08"
    },
    {
+    "mot": "تونس ليبيا",
+    "langue": "ar",
+    "categorie": "politique",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "زوج وجيهة الجندوبي",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-15"
+   },
+   {
     "mot": "صيدلية مفتوحة اليوم",
     "langue": "ar",
     "categorie": "sante",
@@ -5365,6 +5437,24 @@
     "langue": "ar",
     "categorie": "meteo",
     "apparu": "2026-11-08"
+   },
+   {
+    "mot": "طماطم",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "غادي أيزنكوت",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-15"
+   },
+   {
+    "mot": "نتائج كرة السلة اليوم في تونس 2026",
+    "langue": "ar",
+    "categorie": "sport",
+    "apparu": "2026-11-15"
    },
    {
     "mot": "banque centrale de tunisie",
@@ -5385,10 +5475,34 @@
     "apparu": "2026-11-08"
    },
    {
-    "mot": "qatar airways careers",
+    "mot": "free fire advance",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-15"
+   },
+   {
+    "mot": "igram word",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-15"
+   },
+   {
+    "mot": "noureddine bhiri",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-15"
+   },
+   {
+    "mot": "ou manger a tunis",
     "langue": "fr",
     "categorie": "autre",
     "apparu": "2026-11-08"
+   },
+   {
+    "mot": "prix des voitures neuves en tunisie",
+    "langue": "fr",
+    "categorie": "commerce",
+    "apparu": "2026-11-15"
    },
    {
     "mot": "real madrid vs",
@@ -5403,8 +5517,20 @@
     "apparu": "2026-11-08"
    },
    {
+    "mot": "tunisie vs libye",
+    "langue": "fr",
+    "categorie": "politique",
+    "apparu": "2026-11-15"
+   },
+   {
     "mot": "vie scolaire.education.tn",
     "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "الخبر",
+    "langue": "ar",
     "categorie": "autre",
     "apparu": "2026-11-08"
    },
@@ -5427,6 +5553,18 @@
     "apparu": "2026-11-08"
    },
    {
+    "mot": "كرة اليد",
+    "langue": "ar",
+    "categorie": "sport",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "مباراة البرتغال",
+    "langue": "ar",
+    "categorie": "football",
+    "apparu": "2026-11-15"
+   },
+   {
     "mot": "منتخب تونس لكرة القدم",
     "langue": "ar",
     "categorie": "football",
@@ -5437,6 +5575,18 @@
     "langue": "ar",
     "categorie": "football",
     "apparu": "2026-11-08"
+   },
+   {
+    "mot": "نبوءة",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-15"
+   },
+   {
+    "mot": "dinar dollar",
+    "langue": "fr",
+    "categorie": "finance",
+    "apparu": "2026-11-15"
    },
    {
     "mot": "esperance",
@@ -5451,10 +5601,22 @@
     "apparu": "2026-11-08"
    },
    {
-    "mot": "lens_placeholder_query",
+    "mot": "japon – brésil",
     "langue": "fr",
     "categorie": "autre",
-    "apparu": "2026-11-08"
+    "apparu": "2026-11-15"
+   },
+   {
+    "mot": "ligue 1 tunisienne",
+    "langue": "fr",
+    "categorie": "football",
+    "apparu": "2026-11-15"
+   },
+   {
+    "mot": "location voiture new york",
+    "langue": "fr",
+    "categorie": "automobile",
+    "apparu": "2026-11-15"
    },
    {
     "mot": "location voiture san francisco",
@@ -5469,6 +5631,12 @@
     "apparu": "2026-11-08"
    },
    {
+    "mot": "ronaldinho",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-15"
+   },
+   {
     "mot": "sonia mabrouk",
     "langue": "fr",
     "categorie": "autre",
@@ -5481,12 +5649,6 @@
     "apparu": "2026-11-08"
    },
    {
-    "mot": "الخبر",
-    "langue": "ar",
-    "categorie": "autre",
-    "apparu": "2026-11-08"
-   },
-   {
     "mot": "ترتيب الدوري التونسي",
     "langue": "ar",
     "categorie": "football",
@@ -5494,6 +5656,12 @@
    },
    {
     "mot": "جدول المتر",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "حلم طفل",
     "langue": "ar",
     "categorie": "autre",
     "apparu": "2026-11-08"
@@ -5511,10 +5679,22 @@
     "apparu": "2026-11-08"
    },
    {
+    "mot": "طريق",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-15"
+   },
+   {
     "mot": "طقس سوسة",
     "langue": "ar",
     "categorie": "meteo",
     "apparu": "2026-11-08"
+   },
+   {
+    "mot": "نتائج كرة اليد اليوم",
+    "langue": "ar",
+    "categorie": "sport",
+    "apparu": "2026-11-15"
    },
    {
     "mot": "نتائج مباريات اليوم السبت تونس",
@@ -5523,9 +5703,27 @@
     "apparu": "2026-11-08"
    },
    {
+    "mot": "نور الدين البحيري",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-15"
+   },
+   {
+    "mot": "bac education tn 2027",
+    "langue": "fr",
+    "categorie": "education",
+    "apparu": "2026-11-15"
+   },
+   {
     "mot": "cafe resto hotel jobs",
     "langue": "fr",
     "categorie": "tourisme",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "coupe d'afrique des nations de football",
+    "langue": "fr",
+    "categorie": "football",
     "apparu": "2026-11-08"
    },
    {
@@ -5547,6 +5745,12 @@
     "apparu": "2026-11-08"
    },
    {
+    "mot": "instagrame",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-08"
+   },
+   {
     "mot": "joueurs de real madrid",
     "langue": "fr",
     "categorie": "football",
@@ -5559,16 +5763,22 @@
     "apparu": "2026-11-08"
    },
    {
+    "mot": "match portugal danemark",
+    "langue": "fr",
+    "categorie": "football",
+    "apparu": "2026-11-15"
+   },
+   {
     "mot": "netanyahu",
     "langue": "fr",
     "categorie": "autre",
     "apparu": "2026-11-08"
    },
    {
-    "mot": "ou manger a tunis",
+    "mot": "nvidia jensen huang",
     "langue": "fr",
     "categorie": "autre",
-    "apparu": "2026-11-08"
+    "apparu": "2026-11-15"
    },
    {
     "mot": "prix iphone 17 pro max tunisie prix",
@@ -5589,10 +5799,28 @@
     "apparu": "2026-11-08"
    },
    {
+    "mot": "steg service client",
+    "langue": "fr",
+    "categorie": "energie",
+    "apparu": "2026-11-15"
+   },
+   {
+    "mot": "tunis vs",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-15"
+   },
+   {
     "mot": "ubet me",
     "langue": "fr",
     "categorie": "autre",
     "apparu": "2026-11-08"
+   },
+   {
+    "mot": "video",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-15"
    },
    {
     "mot": "الوطنية 1 مباشر youtube",
@@ -5619,10 +5847,10 @@
     "apparu": "2026-11-08"
    },
    {
-    "mot": "حلم طفل",
+    "mot": "شاحنة",
     "langue": "ar",
     "categorie": "autre",
-    "apparu": "2026-11-08"
+    "apparu": "2026-11-15"
    },
    {
     "mot": "شرح نص",
@@ -5631,10 +5859,28 @@
     "apparu": "2026-11-08"
    },
    {
-    "mot": "طماطم",
+    "mot": "طقس غدا",
+    "langue": "ar",
+    "categorie": "meteo",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "فضل شاكر",
     "langue": "ar",
     "categorie": "autre",
-    "apparu": "2026-11-08"
+    "apparu": "2026-11-15"
+   },
+   {
+    "mot": "قوة الحب الحلقة 42",
+    "langue": "ar",
+    "categorie": "divertissement",
+    "apparu": "2026-11-15"
+   },
+   {
+    "mot": "مرض nf1",
+    "langue": "ar",
+    "categorie": "sante",
+    "apparu": "2026-11-15"
    },
    {
     "mot": "نتائج البطولة التونسية لكرة القدم",
@@ -5643,10 +5889,34 @@
     "apparu": "2026-11-08"
    },
    {
+    "mot": "وجيهة الجندوبي",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-15"
+   },
+   {
+    "mot": "aneti international",
+    "langue": "fr",
+    "categorie": "emploi",
+    "apparu": "2026-11-08"
+   },
+   {
     "mot": "classement club africain",
     "langue": "fr",
     "categorie": "football",
     "apparu": "2026-11-08"
+   },
+   {
+    "mot": "comment braquer une banque film",
+    "langue": "fr",
+    "categorie": "finance",
+    "apparu": "2026-11-15"
+   },
+   {
+    "mot": "concours sonede",
+    "langue": "fr",
+    "categorie": "emploi",
+    "apparu": "2026-11-15"
    },
    {
     "mot": "credit sur l'honneur stb",
@@ -5667,10 +5937,52 @@
     "apparu": "2026-11-08"
    },
    {
+    "mot": "jensen huang",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-15"
+   },
+   {
+    "mot": "ligue des champions de la caf",
+    "langue": "fr",
+    "categorie": "football",
+    "apparu": "2026-11-08"
+   },
+   {
+    "mot": "match portugal",
+    "langue": "fr",
+    "categorie": "football",
+    "apparu": "2026-11-15"
+   },
+   {
     "mot": "medecin oreille",
     "langue": "fr",
     "categorie": "sante",
     "apparu": "2026-11-08"
+   },
+   {
+    "mot": "nvidia",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-15"
+   },
+   {
+    "mot": "qpr tn",
+    "langue": "fr",
+    "categorie": "autre",
+    "apparu": "2026-11-15"
+   },
+   {
+    "mot": "resultat euromillions",
+    "langue": "fr",
+    "categorie": "education",
+    "apparu": "2026-11-15"
+   },
+   {
+    "mot": "ufc 334",
+    "langue": "fr",
+    "categorie": "sport",
+    "apparu": "2026-11-15"
    },
    {
     "mot": "wataniya 2",
@@ -5683,6 +5995,12 @@
     "langue": "ar",
     "categorie": "autre",
     "apparu": "2026-11-08"
+   },
+   {
+    "mot": "الشروق",
+    "langue": "ar",
+    "categorie": "autre",
+    "apparu": "2026-11-15"
    },
    {
     "mot": "الوطنية 1 مباشر",
@@ -5709,10 +6027,16 @@
     "apparu": "2026-11-08"
    },
    {
-    "mot": "تونس ليبيا",
+    "mot": "بوكي",
     "langue": "ar",
-    "categorie": "politique",
-    "apparu": "2026-11-08"
+    "categorie": "autre",
+    "apparu": "2026-11-15"
+   },
+   {
+    "mot": "تسجيل بكالوريا 2027",
+    "langue": "ar",
+    "categorie": "education",
+    "apparu": "2026-11-15"
    },
    {
     "mot": "حسام حسن",
@@ -5743,774 +6067,408 @@
     "langue": "ar",
     "categorie": "autre",
     "apparu": "2026-11-08"
-   },
-   {
-    "mot": "عيد الشجرة في تونس 2026",
-    "langue": "ar",
-    "categorie": "religion",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "فيلم دشرة",
-    "langue": "ar",
-    "categorie": "divertissement",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "نتائج مباريات اليوم تونس",
-    "langue": "ar",
-    "categorie": "autre",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "نتيجة مباراة النادي الافريقي اليوم",
-    "langue": "ar",
-    "categorie": "football",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "aneti international",
-    "langue": "fr",
-    "categorie": "emploi",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "coupe d'afrique des nations de football",
-    "langue": "fr",
-    "categorie": "football",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "emploi du temps scolaire",
-    "langue": "fr",
-    "categorie": "emploi",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "ess vs css",
-    "langue": "fr",
-    "categorie": "football",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "forzza home",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "huile olive espagne",
-    "langue": "fr",
-    "categorie": "commerce",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "instagrame",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "match esperance",
-    "langue": "fr",
-    "categorie": "football",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "meteo mahdia",
-    "langue": "fr",
-    "categorie": "meteo",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "pragmatic play",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "real",
-    "langue": "fr",
-    "categorie": "football",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "resultat club africain",
-    "langue": "fr",
-    "categorie": "education",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "valencia club de fútbol – real madrid",
-    "langue": "fr",
-    "categorie": "football",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "voiture populaire tunisie",
-    "langue": "fr",
-    "categorie": "automobile",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "watania 1",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "ترتيبات الدوري التونسي",
-    "langue": "ar",
-    "categorie": "football",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "ريال مدريد اليوم",
-    "langue": "ar",
-    "categorie": "football",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "زيت فري فاير 2026",
-    "langue": "ar",
-    "categorie": "commerce",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "سورة البقرة مكتوبة",
-    "langue": "ar",
-    "categorie": "autre",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "سيارة تسلا",
-    "langue": "ar",
-    "categorie": "automobile",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "صفاقس سوسة",
-    "langue": "ar",
-    "categorie": "autre",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "طقس تونس اليوم",
-    "langue": "ar",
-    "categorie": "meteo",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "عصام القصباوي",
-    "langue": "ar",
-    "categorie": "autre",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "فوكس عرب",
-    "langue": "ar",
-    "categorie": "autre",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "فيلم تونسي كامل",
-    "langue": "ar",
-    "categorie": "divertissement",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "قيس عبد الفتاح",
-    "langue": "ar",
-    "categorie": "autre",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "لص شايح",
-    "langue": "ar",
-    "categorie": "autre",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "مناظرة ديوان الأراضي الدولية",
-    "langue": "ar",
-    "categorie": "emploi",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "نتائج مباريات اليوم في تونس 2026",
-    "langue": "ar",
-    "categorie": "autre",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "نتيجة مباراة الترجي اليوم",
-    "langue": "ar",
-    "categorie": "football",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "bac 2026",
-    "langue": "fr",
-    "categorie": "education",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "biat",
-    "langue": "fr",
-    "categorie": "finance",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "chat cam",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "concours finances gov tn",
-    "langue": "fr",
-    "categorie": "emploi",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "coupe carré",
-    "langue": "fr",
-    "categorie": "football",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "film sexuelle aufklärung",
-    "langue": "fr",
-    "categorie": "divertissement",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "forzza home gh",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "iphone",
-    "langue": "fr",
-    "categorie": "technologie",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "jesus de miguel",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "ligue des champions de la caf",
-    "langue": "fr",
-    "categorie": "football",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "maison hyundai tunisie",
-    "langue": "fr",
-    "categorie": "immobilier",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "match club africain aujourd'hui",
-    "langue": "fr",
-    "categorie": "football",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "psg",
-    "langue": "fr",
-    "categorie": "football",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "quran",
-    "langue": "fr",
-    "categorie": "autre",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "real vs",
-    "langue": "fr",
-    "categorie": "football",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "steg paiement facture en ligne",
-    "langue": "fr",
-    "categorie": "energie",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "tayara tn voiture",
-    "langue": "fr",
-    "categorie": "automobile",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "اجر الصلاة في مكة",
-    "langue": "ar",
-    "categorie": "emploi",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "باريس سان جيرمان",
-    "langue": "ar",
-    "categorie": "autre",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "جورج وسوف",
-    "langue": "ar",
-    "categorie": "autre",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "خميس الماجري",
-    "langue": "ar",
-    "categorie": "autre",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "ريال",
-    "langue": "ar",
-    "categorie": "football",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "زخرفة اسماء انجليزي",
-    "langue": "ar",
-    "categorie": "autre",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "زيت فيكسا للهواتف",
-    "langue": "ar",
-    "categorie": "commerce",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "سورة الكهف مكتوبة",
-    "langue": "ar",
-    "categorie": "autre",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "شغل تي ان",
-    "langue": "ar",
-    "categorie": "emploi",
-    "apparu": "2026-11-08"
-   },
-   {
-    "mot": "صيدلية مفتوحة يوم الأحد بنزرت",
-    "langue": "ar",
-    "categorie": "sante",
-    "apparu": "2026-11-08"
    }
   ],
   "disparus": [
    {
-    "mot": "ac milan",
+    "mot": "bibeet",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "brazilian glow",
+    "mot": "happy wood",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "bayern",
+    "mot": "kawarji live",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "classroom",
+    "mot": "la liga",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "classement premier league",
+    "mot": "mosaïque fm",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "classement fc barcelone",
+    "mot": "nancy ajram",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "drama live apk",
+    "mot": "qpr",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "espérance sportive de tunis",
+    "mot": "ventusky",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "eddenyalive",
+    "mot": "xxl xxl xl",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "edunet",
+    "mot": "yacine tv apk",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "eau",
+    "mot": "prix voiture neuve tunisie",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "education tn",
+    "mot": "voiture occasion tunisie",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "fcbet",
+    "mot": "recrutement tunisie 2026",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "fama dhaw",
+    "mot": "bac moyenne",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "firstbet",
+    "mot": "samsung tunisie",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "free fire",
+    "mot": "samsung s26 ultra",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "google gemini",
+    "mot": "ooredoo tunisie",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "huile",
+    "mot": "credit mutuel",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "halloween",
+    "mot": "dinar to dollar",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "horaire priere",
+    "mot": "match real",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "inter milan",
+    "mot": "tunisie promo",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "instagram.com hacked",
+    "mot": "tunisie college",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "inter",
+    "mot": "tunis istanbul",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "joueurs de fc barcelone",
+    "mot": "cnam tunisie remboursement",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "jobe bellingham",
+    "mot": "journal officiel naturalisation",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "jetour",
+    "mot": "resultat match aujourd'hui",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "kissat ishk",
+    "mot": "ligue 1 tunisie",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "khadamet education",
+    "mot": "chat roulette",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "lupin",
-    "langue": "fr",
-    "vu": "2026-11-01"
+    "mot": "الترجي الرياضي التونسي",
+    "langue": "ar",
+    "vu": "2026-11-08"
    },
    {
-    "mot": "liverpool",
-    "langue": "fr",
-    "vu": "2026-11-01"
+    "mot": "بطولة تونس",
+    "langue": "ar",
+    "vu": "2026-11-08"
    },
    {
-    "mot": "novabet365",
-    "langue": "fr",
-    "vu": "2026-11-01"
+    "mot": "برج فلكي",
+    "langue": "ar",
+    "vu": "2026-11-08"
    },
    {
-    "mot": "nessma live",
-    "langue": "fr",
-    "vu": "2026-11-01"
+    "mot": "ترتيب الدوري الاسباني",
+    "langue": "ar",
+    "vu": "2026-11-08"
    },
    {
-    "mot": "orientation bac 2026",
-    "langue": "fr",
-    "vu": "2026-11-01"
+    "mot": "ترتيب الدوري الانجليزي",
+    "langue": "ar",
+    "vu": "2026-11-08"
    },
    {
-    "mot": "pologne",
-    "langue": "fr",
-    "vu": "2026-11-01"
+    "mot": "ترتيب البطولة التونسية",
+    "langue": "ar",
+    "vu": "2026-11-08"
    },
    {
-    "mot": "pathé tunis city",
-    "langue": "fr",
-    "vu": "2026-11-01"
+    "mot": "زورنسا",
+    "langue": "ar",
+    "vu": "2026-11-08"
    },
    {
-    "mot": "pathé azur city",
-    "langue": "fr",
-    "vu": "2026-11-01"
+    "mot": "طالع نازل مسلسل",
+    "langue": "ar",
+    "vu": "2026-11-08"
    },
    {
-    "mot": "pragmatic",
-    "langue": "fr",
-    "vu": "2026-11-01"
+    "mot": "غزة",
+    "langue": "ar",
+    "vu": "2026-11-08"
    },
    {
-    "mot": "qraya .tn",
-    "langue": "fr",
-    "vu": "2026-11-01"
+    "mot": "فلاش سكور",
+    "langue": "ar",
+    "vu": "2026-11-08"
    },
    {
-    "mot": "qatar",
-    "langue": "fr",
-    "vu": "2026-11-01"
+    "mot": "قصة عشق",
+    "langue": "ar",
+    "vu": "2026-11-08"
    },
    {
-    "mot": "rne tunisie",
-    "langue": "fr",
-    "vu": "2026-11-01"
+    "mot": "كورة سيتي",
+    "langue": "ar",
+    "vu": "2026-11-08"
    },
    {
-    "mot": "rosace",
-    "langue": "fr",
-    "vu": "2026-11-01"
+    "mot": "مسلسل طالع نازل",
+    "langue": "ar",
+    "vu": "2026-11-08"
    },
    {
-    "mot": "redmi 15c",
-    "langue": "fr",
-    "vu": "2026-11-01"
+    "mot": "منصة الحياة المدرسية",
+    "langue": "ar",
+    "vu": "2026-11-08"
    },
    {
-    "mot": "serie a",
-    "langue": "fr",
-    "vu": "2026-11-01"
+    "mot": "وزير التعليم",
+    "langue": "ar",
+    "vu": "2026-11-08"
    },
    {
-    "mot": "tanitjob",
-    "langue": "fr",
-    "vu": "2026-11-01"
+    "mot": "ياسين",
+    "langue": "ar",
+    "vu": "2026-11-08"
    },
    {
-    "mot": "ubci",
-    "langue": "fr",
-    "vu": "2026-11-01"
+    "mot": "مناظرة وزارة الشؤون الاجتماعية 2026",
+    "langue": "ar",
+    "vu": "2026-11-08"
    },
    {
-    "mot": "upwork",
-    "langue": "fr",
-    "vu": "2026-11-01"
+    "mot": "فندق الشهداء مكة",
+    "langue": "ar",
+    "vu": "2026-11-08"
    },
    {
-    "mot": "viescolaire.education.tn inscription",
-    "langue": "fr",
-    "vu": "2026-11-01"
+    "mot": "فندق منارات غزة كم يبعد عن الحرم",
+    "langue": "ar",
+    "vu": "2026-11-08"
    },
    {
-    "mot": "vidmet",
-    "langue": "fr",
-    "vu": "2026-11-01"
+    "mot": "طقس تطاوين",
+    "langue": "ar",
+    "vu": "2026-11-08"
    },
    {
-    "mot": "windfinder sfax",
-    "langue": "fr",
-    "vu": "2026-11-01"
+    "mot": "مباراة الترجي اليوم مباشر",
+    "langue": "ar",
+    "vu": "2026-11-08"
    },
    {
-    "mot": "weekend film tunisien",
-    "langue": "fr",
-    "vu": "2026-11-01"
+    "mot": "مباراة ريال مدريد",
+    "langue": "ar",
+    "vu": "2026-11-08"
    },
    {
-    "mot": "word to pdf",
-    "langue": "fr",
-    "vu": "2026-11-01"
+    "mot": "فيلم لقشة من السماء",
+    "langue": "ar",
+    "vu": "2026-11-08"
    },
    {
-    "mot": "x10bet",
-    "langue": "fr",
-    "vu": "2026-11-01"
+    "mot": "عيد الشجرة في تونس",
+    "langue": "ar",
+    "vu": "2026-11-08"
    },
    {
-    "mot": "zimota tx 125",
-    "langue": "fr",
-    "vu": "2026-11-01"
+    "mot": "نتائج مباريات اليوم السبت",
+    "langue": "ar",
+    "vu": "2026-11-08"
    },
    {
-    "mot": "prix iphone 17 pro max tunisie",
-    "langue": "fr",
-    "vu": "2026-11-01"
+    "mot": "مرض الذئبة الحمراء",
+    "langue": "ar",
+    "vu": "2026-11-08"
    },
    {
-    "mot": "prix iphone 13 pro max tunisie",
+    "mot": "classement es tunis",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "prix de climatiseur en tunisie",
+    "mot": "classement club africain",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "location groupe electrogene",
+    "mot": "cnam",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "louer appartement autour de moi",
+    "mot": "drest",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "appartement a louer ariana",
+    "mot": "esperance",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "appartement a louer hammamet",
+    "mot": "est vs",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "maison d'hote autour de moi",
+    "mot": "es tunis – us monastir",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "maison d'hote tunis",
+    "mot": "ess vs css",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "terrain tunis",
+    "mot": "es tunis",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "voiture tunisie",
+    "mot": "forzza 1",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "voiture electrique tunisie",
+    "mot": "forzza login",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "permis ce",
+    "mot": "forja live",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "concours steg 2026",
+    "mot": "forzza home",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "concours stb",
+    "mot": "forzza home gh",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "concours douane",
+    "mot": "gagnant365",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "concours douane gov tn",
+    "mot": "home forzza login",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "emploi ariana",
+    "mot": "happymod apk",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "emploi menzah",
+    "mot": "iphone",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "emploi cnte",
+    "mot": "inter miami",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "salaire infirmier tunisie",
+    "mot": "jj gabriel",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "bac français",
+    "mot": "joueurs de real madrid",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "bac tn",
+    "mot": "jesus de miguel",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "inscription en ligne",
+    "mot": "kahoot",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "inscription hajj 2027 tunisie",
+    "mot": "netanyahu",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "hotel hammamet beach",
+    "mot": "nouvelair tunisie",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    },
    {
-    "mot": "hotel regency hammamet",
+    "mot": "pragmatic play",
     "langue": "fr",
-    "vu": "2026-11-01"
+    "vu": "2026-11-08"
    }
   ],
   "par_categorie": {
@@ -6548,6 +6506,10 @@
      "langue": "fr"
     },
     {
+     "mot": "diwan sport",
+     "langue": "fr"
+    },
+    {
      "mot": "ecnam",
      "langue": "fr"
     },
@@ -6564,15 +6526,15 @@
      "langue": "fr"
     },
     {
-     "mot": "jj gabriel",
-     "langue": "fr"
-    },
-    {
      "mot": "linkedin",
      "langue": "fr"
     },
     {
-     "mot": "ou manger san francisco",
+     "mot": "oouc",
+     "langue": "fr"
+    },
+    {
+     "mot": "ou et où",
      "langue": "fr"
     },
     {
@@ -6584,11 +6546,11 @@
      "langue": "fr"
     },
     {
-     "mot": "pizza san francisco",
+     "mot": "pizza tunis",
      "langue": "fr"
     },
     {
-     "mot": "pizza tunis",
+     "mot": "pizza washington",
      "langue": "fr"
     },
     {
@@ -6596,11 +6558,11 @@
      "langue": "fr"
     },
     {
-     "mot": "restaurant sacramento",
+     "mot": "restaurant tunis",
      "langue": "fr"
     },
     {
-     "mot": "restaurant tunis",
+     "mot": "restaurant washington",
      "langue": "fr"
     },
     {
@@ -6668,10 +6630,6 @@
      "langue": "ar"
     },
     {
-     "mot": "زومبا",
-     "langue": "ar"
-    },
-    {
      "mot": "سورة البقرة",
      "langue": "ar"
     }
@@ -6694,7 +6652,7 @@
      "langue": "fr"
     },
     {
-     "mot": "recrutement tunisie 2026",
+     "mot": "recrutement banque 2026",
      "langue": "fr"
     },
     {
@@ -6703,6 +6661,10 @@
     },
     {
      "mot": "اجر صلاة الضحى",
+     "langue": "ar"
+    },
+    {
+     "mot": "انتداب وزارة الداخلية 2026",
      "langue": "ar"
     },
     {
@@ -6738,7 +6700,7 @@
      "langue": "fr"
     },
     {
-     "mot": "recrutement banque 2026",
+     "mot": "recrutement bna",
      "langue": "fr"
     },
     {
@@ -6758,7 +6720,7 @@
      "langue": "ar"
     },
     {
-     "mot": "مناظرة وزارة الشؤون الاجتماعية 2026",
+     "mot": "مناظرة وزارة العدل 2026",
      "langue": "ar"
     },
     {
@@ -6778,7 +6740,7 @@
      "langue": "fr"
     },
     {
-     "mot": "recrutement bna",
+     "mot": "recrutement banque",
      "langue": "fr"
     },
     {
@@ -6810,10 +6772,6 @@
      "langue": "ar"
     },
     {
-     "mot": "مناظرة وزارة العدل 2026",
-     "langue": "ar"
-    },
-    {
      "mot": "banque zitouna recrutement",
      "langue": "fr"
     },
@@ -6826,7 +6784,7 @@
      "langue": "fr"
     },
     {
-     "mot": "recrutement banque",
+     "mot": "recrutement tunis",
      "langue": "fr"
     },
     {
@@ -6844,7 +6802,7 @@
      "langue": "fr"
     },
     {
-     "mot": "banque nationale agricole",
+     "mot": "banque internationale arabe de tunisie",
      "langue": "fr"
     },
     {
@@ -6876,6 +6834,10 @@
      "langue": "ar"
     },
     {
+     "mot": "قرض",
+     "langue": "ar"
+    },
+    {
      "mot": "قرض على الشرف",
      "langue": "ar"
     },
@@ -6888,6 +6850,10 @@
      "langue": "fr"
     },
     {
+     "mot": "dinar tunisien en euro",
+     "langue": "fr"
+    },
+    {
      "mot": "بنك الاسكان",
      "langue": "ar"
     },
@@ -6896,23 +6862,15 @@
      "langue": "ar"
     },
     {
-     "mot": "قرض",
-     "langue": "ar"
-    },
-    {
      "mot": "قرض على الشرف تونس",
      "langue": "ar"
-    },
-    {
-     "mot": "banque centrale de tunisie",
-     "langue": "fr"
     },
     {
      "mot": "banque mondiale",
      "langue": "fr"
     },
     {
-     "mot": "dinar tunisien en euro",
+     "mot": "dinar tunisien en dinar algérien",
      "langue": "fr"
     },
     {
@@ -6940,7 +6898,11 @@
      "langue": "fr"
     },
     {
-     "mot": "dinar to dollar",
+     "mot": "dinar dollar",
+     "langue": "fr"
+    },
+    {
+     "mot": "euro dinar",
      "langue": "fr"
     },
     {
@@ -6952,15 +6914,15 @@
      "langue": "ar"
     },
     {
+     "mot": "banque centrale tunisie",
+     "langue": "fr"
+    },
+    {
      "mot": "credit sur l'honneur biat",
      "langue": "fr"
     },
     {
-     "mot": "dinar tunisien en dinar algérien",
-     "langue": "fr"
-    },
-    {
-     "mot": "euro dinar",
+     "mot": "dinar tunisien en dollar",
      "langue": "fr"
     },
     {
@@ -6992,17 +6954,17 @@
      "langue": "fr"
     },
     {
-     "mot": "credit sur l'honneur stb",
-     "langue": "fr"
-    },
-    {
-     "mot": "dinar tunisien en dollar",
+     "mot": "comment braquer une banque film",
      "langue": "fr"
     }
    ],
    "football": [
     {
      "mot": "barca",
+     "langue": "fr"
+    },
+    {
+     "mot": "coupe d'afrique",
      "langue": "fr"
     },
     {
@@ -7022,11 +6984,11 @@
      "langue": "fr"
     },
     {
-     "mot": "la liga",
+     "mot": "ligue 1",
      "langue": "fr"
     },
     {
-     "mot": "ligue 1",
+     "mot": "ligue des nations",
      "langue": "fr"
     },
     {
@@ -7070,11 +7032,11 @@
      "langue": "ar"
     },
     {
-     "mot": "club africain",
-     "langue": "fr"
+     "mot": "مباراة تونس وليبيا",
+     "langue": "ar"
     },
     {
-     "mot": "ligue 1 tunisie",
+     "mot": "club africain",
      "langue": "fr"
     },
     {
@@ -7094,12 +7056,8 @@
      "langue": "fr"
     },
     {
-     "mot": "valence – real madrid",
+     "mot": "ou est ton papa",
      "langue": "fr"
-    },
-    {
-     "mot": "البطولة التونسية",
-     "langue": "ar"
     },
     {
      "mot": "تونس منتخب",
@@ -7110,11 +7068,11 @@
      "langue": "ar"
     },
     {
-     "mot": "كرة القدم",
+     "mot": "كاس امم افريقيا",
      "langue": "ar"
     },
     {
-     "mot": "مباراة الترجي اليوم مباشر",
+     "mot": "كرة القدم",
      "langue": "ar"
     },
     {
@@ -7122,12 +7080,12 @@
      "langue": "ar"
     },
     {
-     "mot": "نتائج البطولة التونسية",
+     "mot": "نادي برشلونة",
      "langue": "ar"
     },
     {
-     "mot": "classement es tunis",
-     "langue": "fr"
+     "mot": "نتائج البطولة التونسية",
+     "langue": "ar"
     },
     {
      "mot": "coupe d'afrique 2027",
@@ -7146,19 +7104,19 @@
      "langue": "fr"
     },
     {
+     "mot": "match club africain",
+     "langue": "fr"
+    },
+    {
      "mot": "mondial 2026",
      "langue": "fr"
     },
     {
-     "mot": "ou est ton papa",
-     "langue": "fr"
-    },
-    {
-     "mot": "real madrid vs",
-     "langue": "fr"
-    },
-    {
      "mot": "sfax foot",
+     "langue": "fr"
+    },
+    {
+     "mot": "tunis city",
      "langue": "fr"
     }
    ],
@@ -7193,6 +7151,10 @@
     },
     {
      "mot": "باكالوريا اداب",
+     "langue": "ar"
+    },
+    {
+     "mot": "تسجيل الحج 2027 تونس",
      "langue": "ar"
     },
     {
@@ -7232,6 +7194,10 @@
      "langue": "ar"
     },
     {
+     "mot": "تكوين مهني تونس",
+     "langue": "ar"
+    },
+    {
      "mot": "تكوين مهني عسكري 2026",
      "langue": "ar"
     },
@@ -7268,7 +7234,7 @@
      "langue": "ar"
     },
     {
-     "mot": "تكوين مهني تونس",
+     "mot": "تكوين مهني مجاني في تونس 2026",
      "langue": "ar"
     },
     {
@@ -7288,7 +7254,7 @@
      "langue": "fr"
     },
     {
-     "mot": "resultat match aujourd'hui",
+     "mot": "resultat loto",
      "langue": "fr"
     },
     {
@@ -7296,8 +7262,8 @@
      "langue": "fr"
     },
     {
-     "mot": "تكوين مهني مجاني في تونس 2026",
-     "langue": "ar"
+     "mot": "bac education tn 2027",
+     "langue": "fr"
     },
     {
      "mot": "formation aide soignante",
@@ -7306,14 +7272,6 @@
     {
      "mot": "inscription bac 2027",
      "langue": "fr"
-    },
-    {
-     "mot": "resultat match",
-     "langue": "fr"
-    },
-    {
-     "mot": "تسجيل البكالوريا 2027",
-     "langue": "ar"
     },
     {
      "mot": "تكوين مهني في تونس مستوى تاسعة أساسي",
@@ -7354,7 +7312,7 @@
      "langue": "fr"
     },
     {
-     "mot": "ooredoo tunisie",
+     "mot": "ooredoo recharge",
      "langue": "fr"
     },
     {
@@ -7402,7 +7360,7 @@
      "langue": "fr"
     },
     {
-     "mot": "ooredoo recharge",
+     "mot": "ooredoo internet",
      "langue": "fr"
     },
     {
@@ -7450,7 +7408,7 @@
      "langue": "fr"
     },
     {
-     "mot": "ooredoo internet",
+     "mot": "ooredoo service client",
      "langue": "fr"
     },
     {
@@ -7463,6 +7421,10 @@
     },
     {
      "mot": "samsung a17 prix tunisie",
+     "langue": "fr"
+    },
+    {
+     "mot": "whatsapp web",
      "langue": "fr"
     },
     {
@@ -7480,10 +7442,168 @@
     {
      "mot": "هاتف سامسونج",
      "langue": "ar"
+    }
+   ],
+   "energie": [
+    {
+     "mot": "panneau solaire prix tunisie",
+     "langue": "fr"
     },
     {
-     "mot": "acheter forfait internet orange",
+     "mot": "steg",
      "langue": "fr"
+    },
+    {
+     "mot": "steg paiement facture",
+     "langue": "fr"
+    },
+    {
+     "mot": "steg tunisie",
+     "langue": "fr"
+    },
+    {
+     "mot": "ستاغ تونس",
+     "langue": "ar"
+    },
+    {
+     "mot": "طاقة شمسية في تونس",
+     "langue": "ar"
+    },
+    {
+     "mot": "كهرباء",
+     "langue": "ar"
+    },
+    {
+     "mot": "كهرباء تونس",
+     "langue": "ar"
+    },
+    {
+     "mot": "ماء الشرب",
+     "langue": "ar"
+    },
+    {
+     "mot": "panneau solaire tunisie",
+     "langue": "fr"
+    },
+    {
+     "mot": "steg espace client",
+     "langue": "fr"
+    },
+    {
+     "mot": "steg facture",
+     "langue": "fr"
+    },
+    {
+     "mot": "ستاغ سوسة",
+     "langue": "ar"
+    },
+    {
+     "mot": "ستاغ مدنين",
+     "langue": "ar"
+    },
+    {
+     "mot": "طاقة شمسية للمنازل",
+     "langue": "ar"
+    },
+    {
+     "mot": "ماء بريما",
+     "langue": "ar"
+    },
+    {
+     "mot": "panneau solaire 600w prix tunisie",
+     "langue": "fr"
+    },
+    {
+     "mot": "ستاغ اريانة",
+     "langue": "ar"
+    },
+    {
+     "mot": "طاقة شمسية بالفرنسية",
+     "langue": "ar"
+    },
+    {
+     "mot": "غاز",
+     "langue": "ar"
+    },
+    {
+     "mot": "كهرباء المنازل",
+     "langue": "ar"
+    },
+    {
+     "mot": "ماء حياة",
+     "langue": "ar"
+    },
+    {
+     "mot": "panneau solaire jinko 550w prix tunisie",
+     "langue": "fr"
+    },
+    {
+     "mot": "steg en ligne",
+     "langue": "fr"
+    },
+    {
+     "mot": "steg espace client facture",
+     "langue": "fr"
+    },
+    {
+     "mot": "ستاغ سيدي بوزيد",
+     "langue": "ar"
+    },
+    {
+     "mot": "ستاغ منوبة",
+     "langue": "ar"
+    },
+    {
+     "mot": "طاقة شمسية prix tunisie",
+     "langue": "ar"
+    },
+    {
+     "mot": "طاقة شمسية للبيع",
+     "langue": "ar"
+    },
+    {
+     "mot": "ماء حياة تونس",
+     "langue": "ar"
+    },
+    {
+     "mot": "panneau solaire 550w prix tunisie",
+     "langue": "fr"
+    },
+    {
+     "mot": "sonede",
+     "langue": "fr"
+    },
+    {
+     "mot": "steg paiement en ligne",
+     "langue": "fr"
+    },
+    {
+     "mot": "steg service client",
+     "langue": "fr"
+    },
+    {
+     "mot": "طاقة شمسية للمياه",
+     "langue": "ar"
+    },
+    {
+     "mot": "كهرباء القلب",
+     "langue": "ar"
+    },
+    {
+     "mot": "ماء بريما تونس",
+     "langue": "ar"
+    },
+    {
+     "mot": "panneau solaire 1000w prix tunisie",
+     "langue": "fr"
+    },
+    {
+     "mot": "steg paiement",
+     "langue": "fr"
+    },
+    {
+     "mot": "ستاغ قابس",
+     "langue": "ar"
     }
    ],
    "religion": [
@@ -7516,6 +7636,10 @@
      "langue": "ar"
     },
     {
+     "mot": "عيد الفطر 2027",
+     "langue": "ar"
+    },
+    {
      "mot": "عيد ميلاد سعيد",
      "langue": "ar"
     },
@@ -7544,7 +7668,7 @@
      "langue": "ar"
     },
     {
-     "mot": "عيد الشجرة في تونس",
+     "mot": "قران كريم",
      "langue": "ar"
     },
     {
@@ -7553,10 +7677,6 @@
     },
     {
      "mot": "رمضان 2027 تونس",
-     "langue": "ar"
-    },
-    {
-     "mot": "عيد الفطر 2027",
      "langue": "ar"
     },
     {
@@ -7576,11 +7696,11 @@
      "langue": "ar"
     },
     {
-     "mot": "عيد الفطر 2026",
+     "mot": "عيد الجلاء",
      "langue": "ar"
     },
     {
-     "mot": "قران كريم",
+     "mot": "عيد الفطر 2026",
      "langue": "ar"
     },
     {
@@ -7592,8 +7712,16 @@
      "langue": "fr"
     },
     {
+     "mot": "ramadan 2025",
+     "langue": "fr"
+    },
+    {
      "mot": "ramadan 2026 tunisie",
      "langue": "fr"
+    },
+    {
+     "mot": "رمضان 2027 في اي شهر",
+     "langue": "ar"
     },
     {
      "mot": "رمضان 2027 متى",
@@ -7604,12 +7732,20 @@
      "langue": "ar"
     },
     {
+     "mot": "عيد المولد النبوي 2026",
+     "langue": "ar"
+    },
+    {
      "mot": "aid 2027",
      "langue": "fr"
     },
     {
-     "mot": "ramadan 2025",
+     "mot": "heure de priere tunis",
      "langue": "fr"
+    },
+    {
+     "mot": "المولد النبوي الشريف 2026",
+     "langue": "ar"
     },
     {
      "mot": "رمضان 2026 تونس",
@@ -7620,11 +7756,7 @@
      "langue": "ar"
     },
     {
-     "mot": "عيد الجلاء",
-     "langue": "ar"
-    },
-    {
-     "mot": "عيد الشجرة في تونس 2026",
+     "mot": "عيد الجلاء تونس",
      "langue": "ar"
     },
     {
@@ -7634,24 +7766,16 @@
     {
      "mot": "ramadan 2028",
      "langue": "fr"
-    },
-    {
-     "mot": "رمضان 2027 في اي شهر",
-     "langue": "ar"
-    },
-    {
-     "mot": "heure de priere tunis",
-     "langue": "fr"
-    },
-    {
-     "mot": "ramadan 2026 date",
-     "langue": "fr"
     }
    ],
    "administration": [
     {
      "mot": "journal officiel de la république tunisienne",
      "langue": "fr"
+    },
+    {
+     "mot": "ضريبة",
+     "langue": "ar"
     },
     {
      "mot": "وزارة التربية والتعليم",
@@ -7686,16 +7810,16 @@
      "langue": "fr"
     },
     {
+     "mot": "خدمات وزارة التربية",
+     "langue": "ar"
+    },
+    {
      "mot": "وزارة العدل",
      "langue": "ar"
     },
     {
      "mot": "e-houwiya contact",
      "langue": "fr"
-    },
-    {
-     "mot": "خدمات وزارة التربية",
-     "langue": "ar"
     },
     {
      "mot": "e-houwiya carte",
@@ -7707,6 +7831,10 @@
     },
     {
      "mot": "بيع بالمزاد العلني للديوانة التونسية",
+     "langue": "ar"
+    },
+    {
+     "mot": "نتائج الترقيات بالملفات وزارة التربية 2026",
      "langue": "ar"
     },
     {
@@ -7742,15 +7870,11 @@
      "langue": "ar"
     },
     {
+     "mot": "وزارة المالية",
+     "langue": "ar"
+    },
+    {
      "mot": "e-houwiya login",
-     "langue": "fr"
-    },
-    {
-     "mot": "journal officiel naturalisation",
-     "langue": "fr"
-    },
-    {
-     "mot": "journal officiel naturalisation liste des noms",
      "langue": "fr"
     },
     {
@@ -7758,12 +7882,16 @@
      "langue": "fr"
     },
     {
+     "mot": "journal officiel naturalisation liste des noms",
+     "langue": "fr"
+    },
+    {
      "mot": "هوية رقمية",
      "langue": "ar"
     },
     {
-     "mot": "وزارة التعليم",
-     "langue": "ar"
+     "mot": "journal officiel france",
+     "langue": "fr"
     }
    ],
    "meteo": [
@@ -7856,6 +7984,10 @@
      "langue": "ar"
     },
     {
+     "mot": "طقس مدنين",
+     "langue": "ar"
+    },
+    {
      "mot": "combien de temps dure une hernie discale",
      "langue": "fr"
     },
@@ -7868,6 +8000,10 @@
      "langue": "ar"
     },
     {
+     "mot": "طقس غدا",
+     "langue": "ar"
+    },
+    {
      "mot": "meteo nabeul",
      "langue": "fr"
     },
@@ -7876,23 +8012,7 @@
      "langue": "ar"
     },
     {
-     "mot": "طقس مدنين",
-     "langue": "ar"
-    },
-    {
      "mot": "قداش درجة الحرارة اليوم",
-     "langue": "ar"
-    },
-    {
-     "mot": "meteo mahdia",
-     "langue": "fr"
-    },
-    {
-     "mot": "طقس تونس اليوم",
-     "langue": "ar"
-    },
-    {
-     "mot": "طقس تطاوين",
      "langue": "ar"
     },
     {
@@ -7900,15 +8020,15 @@
      "langue": "fr"
     },
     {
-     "mot": "pluie",
+     "mot": "meteo mahdia",
      "langue": "fr"
     },
     {
-     "mot": "زلزال",
+     "mot": "طقس الغد في تونس",
      "langue": "ar"
     },
     {
-     "mot": "طقس القيروان",
+     "mot": "زلزال",
      "langue": "ar"
     },
     {
@@ -7916,13 +8036,25 @@
      "langue": "fr"
     },
     {
-     "mot": "طقس غدا",
+     "mot": "pluie",
+     "langue": "fr"
+    },
+    {
+     "mot": "طقس القيروان",
+     "langue": "ar"
+    },
+    {
+     "mot": "طقس اليوم في سوسة",
      "langue": "ar"
     }
    ],
    "tourisme": [
     {
      "mot": "hotel hammamet",
+     "langue": "fr"
+    },
+    {
+     "mot": "hotel la foret",
      "langue": "fr"
     },
     {
@@ -7936,6 +8068,10 @@
     {
      "mot": "vol tunis paris",
      "langue": "fr"
+    },
+    {
+     "mot": "جواز سفر",
+     "langue": "ar"
     },
     {
      "mot": "دعاء السفر",
@@ -7958,12 +8094,12 @@
      "langue": "ar"
     },
     {
-     "mot": "فيزا افتراضية",
+     "mot": "فندق ريان الجوار مكة",
      "langue": "ar"
     },
     {
-     "mot": "hotel la foret",
-     "langue": "fr"
+     "mot": "فيزا افتراضية",
+     "langue": "ar"
     },
     {
      "mot": "hotel nesrine hammamet",
@@ -8026,6 +8162,10 @@
      "langue": "fr"
     },
     {
+     "mot": "ou manger a djerba",
+     "langue": "fr"
+    },
+    {
      "mot": "visa espagne tunisie",
      "langue": "fr"
     },
@@ -8035,10 +8175,6 @@
     },
     {
      "mot": "فندق اطياف الخير مكة",
-     "langue": "ar"
-    },
-    {
-     "mot": "فندق الشهداء مكة",
      "langue": "ar"
     },
     {
@@ -8058,7 +8194,7 @@
      "langue": "fr"
     },
     {
-     "mot": "ou manger a djerba",
+     "mot": "ou sortir le soir a djerba",
      "langue": "fr"
     },
     {
@@ -8072,17 +8208,13 @@
     {
      "mot": "visa italie",
      "langue": "fr"
-    },
-    {
-     "mot": "طيران السعودية",
-     "langue": "ar"
-    },
-    {
-     "mot": "فندق الماسة جراند مكة",
-     "langue": "ar"
     }
    ],
    "divertissement": [
+    {
+     "mot": "film romantique",
+     "langue": "fr"
+    },
     {
      "mot": "film weekend tunisie",
      "langue": "fr"
@@ -8104,6 +8236,10 @@
      "langue": "fr"
     },
     {
+     "mot": "عرس الجن مسلسل",
+     "langue": "ar"
+    },
+    {
      "mot": "فيلم دار العرس",
      "langue": "ar"
     },
@@ -8112,7 +8248,7 @@
      "langue": "fr"
     },
     {
-     "mot": "film romantique",
+     "mot": "meilleur film 2026",
      "langue": "fr"
     },
     {
@@ -8128,12 +8264,12 @@
      "langue": "ar"
     },
     {
-     "mot": "yasin tv",
+     "mot": "film week end",
      "langue": "fr"
     },
     {
-     "mot": "طالع نازل مسلسل",
-     "langue": "ar"
+     "mot": "yasin tv",
+     "langue": "fr"
     },
     {
      "mot": "فيلم تونسي",
@@ -8148,15 +8284,7 @@
      "langue": "fr"
     },
     {
-     "mot": "meilleur film 2026",
-     "langue": "fr"
-    },
-    {
      "mot": "افضل المسلسلات التركية",
-     "langue": "ar"
-    },
-    {
-     "mot": "عرس الجن مسلسل",
      "langue": "ar"
     },
     {
@@ -8164,11 +8292,11 @@
      "langue": "ar"
     },
     {
-     "mot": "فيلم لقشة من السماء",
+     "mot": "فيلم رعب",
      "langue": "ar"
     },
     {
-     "mot": "مسلسل طالع نازل",
+     "mot": "قوة الحب الحلقة 42",
      "langue": "ar"
     },
     {
@@ -8180,37 +8308,33 @@
      "langue": "fr"
     },
     {
-     "mot": "فيلم دشرة",
+     "mot": "فيلم الجواهرجي",
      "langue": "ar"
     },
     {
-     "mot": "فيلم تونسي كامل",
+     "mot": "فيلم حدوتة",
      "langue": "ar"
     },
     {
-     "mot": "فيلم رعب",
-     "langue": "ar"
-    },
-    {
-     "mot": "film sexuelle aufklärung",
+     "mot": "film hadouta",
      "langue": "fr"
     },
     {
-     "mot": "film odyssée",
-     "langue": "fr"
-    },
-    {
-     "mot": "فيلم weekend تونسي",
+     "mot": "فيلم برشامة",
      "langue": "ar"
     },
     {
-     "mot": "film week end gratuit",
+     "mot": "film streaming",
      "langue": "fr"
+    },
+    {
+     "mot": "فيلم حدوتة أحمد حلمي",
+     "langue": "ar"
     }
    ],
    "commerce": [
     {
-     "mot": "carrefour los angeles",
+     "mot": "carrefour marsa",
      "langue": "fr"
     },
     {
@@ -8227,6 +8351,14 @@
     },
     {
      "mot": "monoprix tunisie",
+     "langue": "fr"
+    },
+    {
+     "mot": "prix tunisie",
+     "langue": "fr"
+    },
+    {
+     "mot": "qualité prix raisonnable",
      "langue": "fr"
     },
     {
@@ -8278,7 +8410,7 @@
      "langue": "fr"
     },
     {
-     "mot": "carrefour marsa",
+     "mot": "carrefour tunisie",
      "langue": "fr"
     },
     {
@@ -8299,14 +8431,6 @@
     },
     {
      "mot": "prix de l'or en tunisie",
-     "langue": "fr"
-    },
-    {
-     "mot": "prix tunisie",
-     "langue": "fr"
-    },
-    {
-     "mot": "qualité prix raisonnable",
      "langue": "fr"
     },
     {
@@ -8342,6 +8466,10 @@
      "langue": "ar"
     },
     {
+     "mot": "زيت فري فاير",
+     "langue": "ar"
+    },
+    {
      "mot": "سعر جرام الذهب المستعمل في تونس عيار 18 اليوم",
      "langue": "ar"
     },
@@ -8350,7 +8478,7 @@
      "langue": "ar"
     },
     {
-     "mot": "carrefour tunisie",
+     "mot": "carrefour france",
      "langue": "fr"
     },
     {
@@ -8358,187 +8486,21 @@
      "langue": "fr"
     },
     {
+     "mot": "huile de paraffine",
+     "langue": "fr"
+    },
+    {
      "mot": "jumia tunisie prix",
      "langue": "fr"
-    },
-    {
-     "mot": "lait concentré",
-     "langue": "fr"
-    },
-    {
-     "mot": "lait en poudre tunisie",
-     "langue": "fr"
-    }
-   ],
-   "energie": [
-    {
-     "mot": "panneau solaire prix tunisie",
-     "langue": "fr"
-    },
-    {
-     "mot": "steg",
-     "langue": "fr"
-    },
-    {
-     "mot": "steg tunisie",
-     "langue": "fr"
-    },
-    {
-     "mot": "ستاغ تونس",
-     "langue": "ar"
-    },
-    {
-     "mot": "طاقة شمسية في تونس",
-     "langue": "ar"
-    },
-    {
-     "mot": "كهرباء",
-     "langue": "ar"
-    },
-    {
-     "mot": "كهرباء تونس",
-     "langue": "ar"
-    },
-    {
-     "mot": "ماء الشرب",
-     "langue": "ar"
-    },
-    {
-     "mot": "panneau solaire tunisie",
-     "langue": "fr"
-    },
-    {
-     "mot": "steg facture",
-     "langue": "fr"
-    },
-    {
-     "mot": "steg paiement facture",
-     "langue": "fr"
-    },
-    {
-     "mot": "ستاغ سوسة",
-     "langue": "ar"
-    },
-    {
-     "mot": "ستاغ مدنين",
-     "langue": "ar"
-    },
-    {
-     "mot": "طاقة شمسية للمنازل",
-     "langue": "ar"
-    },
-    {
-     "mot": "ماء بريما",
-     "langue": "ar"
-    },
-    {
-     "mot": "panneau solaire 600w prix tunisie",
-     "langue": "fr"
-    },
-    {
-     "mot": "steg espace client",
-     "langue": "fr"
-    },
-    {
-     "mot": "ستاغ اريانة",
-     "langue": "ar"
-    },
-    {
-     "mot": "طاقة شمسية بالفرنسية",
-     "langue": "ar"
-    },
-    {
-     "mot": "غاز",
-     "langue": "ar"
-    },
-    {
-     "mot": "كهرباء المنازل",
-     "langue": "ar"
-    },
-    {
-     "mot": "ماء حياة",
-     "langue": "ar"
-    },
-    {
-     "mot": "panneau solaire jinko 550w prix tunisie",
-     "langue": "fr"
-    },
-    {
-     "mot": "steg en ligne",
-     "langue": "fr"
-    },
-    {
-     "mot": "ستاغ سيدي بوزيد",
-     "langue": "ar"
-    },
-    {
-     "mot": "ستاغ منوبة",
-     "langue": "ar"
-    },
-    {
-     "mot": "طاقة شمسية prix tunisie",
-     "langue": "ar"
-    },
-    {
-     "mot": "طاقة شمسية للبيع",
-     "langue": "ar"
-    },
-    {
-     "mot": "ماء حياة تونس",
-     "langue": "ar"
-    },
-    {
-     "mot": "panneau solaire 550w prix tunisie",
-     "langue": "fr"
-    },
-    {
-     "mot": "steg paiement en ligne",
-     "langue": "fr"
-    },
-    {
-     "mot": "طاقة شمسية للمياه",
-     "langue": "ar"
-    },
-    {
-     "mot": "كهرباء القلب",
-     "langue": "ar"
-    },
-    {
-     "mot": "ماء بريما تونس",
-     "langue": "ar"
-    },
-    {
-     "mot": "panneau solaire 1000w prix tunisie",
-     "langue": "fr"
-    },
-    {
-     "mot": "sonede",
-     "langue": "fr"
-    },
-    {
-     "mot": "steg paiement",
-     "langue": "fr"
-    },
-    {
-     "mot": "ستاغ قابس",
-     "langue": "ar"
-    },
-    {
-     "mot": "ستاغ قفصة",
-     "langue": "ar"
-    },
-    {
-     "mot": "كهرباء ميكانيكي",
-     "langue": "ar"
     }
    ],
    "politique": [
     {
-     "mot": "ليبيا",
+     "mot": "تونس ضد ليبيا",
      "langue": "ar"
     },
     {
-     "mot": "zara france",
+     "mot": "tunisie libye",
      "langue": "fr"
     },
     {
@@ -8546,34 +8508,54 @@
      "langue": "ar"
     },
     {
+     "mot": "tunisie vs libye",
+     "langue": "fr"
+    },
+    {
+     "mot": "ليبيا",
+     "langue": "ar"
+    },
+    {
      "mot": "shein france",
      "langue": "fr"
     },
     {
-     "mot": "غزة",
-     "langue": "ar"
+     "mot": "zara france",
+     "langue": "fr"
     },
     {
      "mot": "مطعم صاجية غزة",
      "langue": "ar"
     },
     {
-     "mot": "تونس ضد ليبيا",
-     "langue": "ar"
-    },
-    {
-     "mot": "وزير التعليم",
-     "langue": "ar"
+     "mot": "zalando france",
+     "langue": "fr"
     }
    ],
    "sport": [
+    {
+     "mot": "handball",
+     "langue": "fr"
+    },
     {
      "mot": "ufc",
      "langue": "fr"
     },
     {
+     "mot": "نتائج كرة السلة اليوم في تونس 2026",
+     "langue": "ar"
+    },
+    {
      "mot": "كرة اليد",
      "langue": "ar"
+    },
+    {
+     "mot": "نتائج كرة اليد اليوم",
+     "langue": "ar"
+    },
+    {
+     "mot": "ufc 334",
+     "langue": "fr"
     }
    ],
    "automobile": [
@@ -8595,10 +8577,6 @@
     },
     {
      "mot": "prix de voiture neuve en tunisie",
-     "langue": "fr"
-    },
-    {
-     "mot": "prix voiture neuve tunisie",
      "langue": "fr"
     },
     {
@@ -8630,11 +8608,19 @@
      "langue": "fr"
     },
     {
+     "mot": "prix voiture neuve",
+     "langue": "fr"
+    },
+    {
      "mot": "tayara voiture",
      "langue": "fr"
     },
     {
      "mot": "voiture neuve tunisie",
+     "langue": "fr"
+    },
+    {
+     "mot": "voiture populaire",
      "langue": "fr"
     },
     {
@@ -8670,15 +8656,7 @@
      "langue": "fr"
     },
     {
-     "mot": "prix voiture neuve",
-     "langue": "fr"
-    },
-    {
      "mot": "vente voiture tunisie",
-     "langue": "fr"
-    },
-    {
-     "mot": "voiture populaire",
      "langue": "fr"
     },
     {
@@ -8698,7 +8676,7 @@
      "langue": "ar"
     },
     {
-     "mot": "location voiture san francisco",
+     "mot": "location voiture new york",
      "langue": "fr"
     },
     {
@@ -8718,7 +8696,11 @@
      "langue": "fr"
     },
     {
-     "mot": "voiture occasion tunisie",
+     "mot": "visite technique",
+     "langue": "fr"
+    },
+    {
+     "mot": "voiture leasing tunisie prix 2026",
      "langue": "fr"
     },
     {
@@ -8740,7 +8722,7 @@
    ],
    "immobilier": [
     {
-     "mot": "appartement a louer san francisco",
+     "mot": "appartement a louer philadelphie",
      "langue": "fr"
     },
     {
@@ -8749,10 +8731,6 @@
     },
     {
      "mot": "maison de senteur",
-     "langue": "fr"
-    },
-    {
-     "mot": "terrain a vendre los angeles",
      "langue": "fr"
     },
     {
@@ -8768,7 +8746,7 @@
      "langue": "ar"
     },
     {
-     "mot": "appartement a louer los angeles",
+     "mot": "appartement a louer new jersey",
      "langue": "fr"
     },
     {
@@ -8781,6 +8759,10 @@
     },
     {
      "mot": "maison hachicha",
+     "langue": "fr"
+    },
+    {
+     "mot": "terrain a vendre",
      "langue": "fr"
     },
     {
@@ -8812,11 +8794,15 @@
      "langue": "fr"
     },
     {
-     "mot": "terrain a vendre",
+     "mot": "terrain padel",
      "langue": "fr"
     },
     {
      "mot": "ارض للبيع",
+     "langue": "ar"
+    },
+    {
+     "mot": "اسعار مواد البناء في تونس",
      "langue": "ar"
     },
     {
@@ -8844,7 +8830,7 @@
      "langue": "fr"
     },
     {
-     "mot": "terrain padel",
+     "mot": "terrain de foot",
      "langue": "fr"
     },
     {
@@ -8866,14 +8852,6 @@
     {
      "mot": "maison farida",
      "langue": "fr"
-    },
-    {
-     "mot": "terrain de foot",
-     "langue": "fr"
-    },
-    {
-     "mot": "اسعار مواد البناء في تونس",
-     "langue": "ar"
     },
     {
      "mot": "شقة الابرياء مدبلج",
@@ -8898,9 +8876,17 @@
     {
      "mot": "terrain a vendre djerba",
      "langue": "fr"
+    },
+    {
+     "mot": "كراء شقق في سوسة",
+     "langue": "ar"
     }
    ],
    "sante": [
+    {
+     "mot": "cnam tn",
+     "langue": "fr"
+    },
     {
      "mot": "cnam tunisie",
      "langue": "fr"
@@ -8914,11 +8900,11 @@
      "langue": "fr"
     },
     {
-     "mot": "pharmacie san francisco",
+     "mot": "pharmacie tunis",
      "langue": "fr"
     },
     {
-     "mot": "pharmacie tunis",
+     "mot": "pharmacie washington",
      "langue": "fr"
     },
     {
@@ -8938,19 +8924,11 @@
      "langue": "ar"
     },
     {
-     "mot": "طبيب بيطري",
-     "langue": "ar"
-    },
-    {
      "mot": "مرض العنقود",
      "langue": "ar"
     },
     {
-     "mot": "مرض فيروس إيبولا",
-     "langue": "ar"
-    },
-    {
-     "mot": "cnam tunisie remboursement",
+     "mot": "cnam formulaire",
      "langue": "fr"
     },
     {
@@ -8962,7 +8940,7 @@
      "langue": "fr"
     },
     {
-     "mot": "pharmacie portland",
+     "mot": "pharmacie philadelphie",
      "langue": "fr"
     },
     {
@@ -8978,15 +8956,11 @@
      "langue": "ar"
     },
     {
-     "mot": "مرض الذئبة الحمراء",
-     "langue": "ar"
-    },
-    {
      "mot": "مرض السل",
      "langue": "ar"
     },
     {
-     "mot": "cnam tn",
+     "mot": "cnam login",
      "langue": "fr"
     },
     {
@@ -9014,7 +8988,7 @@
      "langue": "ar"
     },
     {
-     "mot": "cnam formulaire",
+     "mot": "cnam horaire",
      "langue": "fr"
     },
     {
@@ -9050,7 +9024,7 @@
      "langue": "ar"
     },
     {
-     "mot": "cnam login",
+     "mot": "cnam en ligne assuré social",
      "langue": "fr"
     },
     {
@@ -9060,10 +9034,18 @@
     {
      "mot": "medecin endocrinologue",
      "langue": "fr"
+    },
+    {
+     "mot": "pharmacie de nuit",
+     "langue": "fr"
+    },
+    {
+     "mot": "أفضل طبيب جلدية في تونس العاصمة",
+     "langue": "ar"
     }
    ]
   },
-  "total": 2049
+  "total": 2198
  },
  "pages_mots": [
   {
@@ -14121,6 +14103,18 @@
      "slug": "passeport",
      "langue": "fr",
      "categorie": "administration",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-15T08:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-15"
+    },
+    {
+     "mot": "passeport",
+     "slug": "passeport",
+     "langue": "fr",
+     "categorie": "administration",
      "volume": 500,
      "hausse": null,
      "debut": "2026-11-10T14:10:00",
@@ -14129,7 +14123,7 @@
      "jour": "2026-11-10"
     }
    ],
-   "jours": 1,
+   "jours": 2,
    "volume_max": 500,
    "liees": []
   },
@@ -14307,6 +14301,30 @@
      "fin": "2026-10-29T16:20:00",
      "liees": [],
      "jour": "2026-10-29"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 500,
+   "liees": []
+  },
+  {
+   "mot": "ufc",
+   "mot_norm": "ufc",
+   "slug": "ufc",
+   "langue": "fr",
+   "categorie": "sport",
+   "episodes": [
+    {
+     "mot": "ufc",
+     "slug": "ufc",
+     "langue": "fr",
+     "categorie": "sport",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-14T23:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
     }
    ],
    "jours": 1,
@@ -14978,6 +14996,30 @@
     }
    ],
    "jours": 2,
+   "volume_max": 500,
+   "liees": []
+  },
+  {
+   "mot": "منتخب المغرب لكرة القدم",
+   "mot_norm": "منتخب المغرب لكره القدم",
+   "slug": "منتخب-المغرب-لكره-القدم",
+   "langue": "ar",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "منتخب المغرب لكرة القدم",
+     "slug": "منتخب-المغرب-لكره-القدم",
+     "langue": "ar",
+     "categorie": "football",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-15T07:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-15"
+    }
+   ],
+   "jours": 1,
    "volume_max": 500,
    "liees": []
   },
@@ -15975,6 +16017,30 @@
      "fin": "2026-11-03T23:00:00",
      "liees": [],
      "jour": "2026-11-03"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
+   "mot": "finance",
+   "mot_norm": "finance",
+   "slug": "finance",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "finance",
+     "slug": "finance",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-14T23:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
     }
    ],
    "jours": 1,
@@ -17376,6 +17442,30 @@
    "liees": []
   },
   {
+   "mot": "économie",
+   "mot_norm": "economie",
+   "slug": "economie",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "économie",
+     "slug": "economie",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-15T09:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-15"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
    "mot": "إيران",
    "mot_norm": "ايران",
    "slug": "ايران",
@@ -17797,6 +17887,30 @@
    ],
    "jours": 1,
    "volume_max": 200,
+   "liees": []
+  },
+  {
+   "mot": "ao3",
+   "mot_norm": "ao3",
+   "slug": "ao3",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "ao3",
+     "slug": "ao3",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-15T12:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-15"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 100,
    "liees": []
   },
   {
@@ -18585,6 +18699,30 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-07"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 100,
+   "liees": []
+  },
+  {
+   "mot": "ronaldinho",
+   "mot_norm": "ronaldinho",
+   "slug": "ronaldinho",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "ronaldinho",
+     "slug": "ronaldinho",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-15T08:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-15"
     }
    ],
    "jours": 1,
