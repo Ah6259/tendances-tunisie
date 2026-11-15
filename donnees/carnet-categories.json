@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-14",
+ "maj": "2026-11-15",
  "explication": "Mots restés sans catégorie (à classer dans robot/categories.py quand ils reviennent).",
  "mots": [
   {
@@ -338,6 +338,16 @@
    "volume": 200
   },
   {
+   "mot": "économie",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "finance",
+   "fois": 1,
+   "volume": 200
+  },
+  {
    "mot": "قطار",
    "fois": 1,
    "volume": 100
@@ -384,6 +394,16 @@
   },
   {
    "mot": "flight radar",
+   "fois": 1,
+   "volume": 100
+  },
+  {
+   "mot": "ao3",
+   "fois": 1,
+   "volume": 100
+  },
+  {
+   "mot": "ronaldinho",
    "fois": 1,
    "volume": 100
   }

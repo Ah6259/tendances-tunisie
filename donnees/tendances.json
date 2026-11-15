@@ -10326,8 +10326,8 @@
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-14T23:43:20",
-   "vu_dernier": "2026-11-14T23:43:20",
-   "releves": 1,
+   "vu_dernier": "2026-11-15T15:17:18",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -10346,8 +10346,8 @@
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-14T23:43:20",
-   "vu_dernier": "2026-11-14T23:43:20",
-   "releves": 1,
+   "vu_dernier": "2026-11-15T15:17:18",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -10366,8 +10366,8 @@
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-14T23:43:20",
-   "vu_dernier": "2026-11-14T23:43:20",
-   "releves": 1,
+   "vu_dernier": "2026-11-15T15:17:18",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -10432,7 +10432,147 @@
    "sources": [
     "rss"
    ]
+  },
+  "ao3|498539": {
+   "mot": "ao3",
+   "mot_norm": "ao3",
+   "langue": "fr",
+   "debut": "2026-11-15T12:20:00",
+   "debut_ts": 1794741600,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-15T15:17:18",
+   "vu_dernier": "2026-11-15T15:17:18",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "economie|498536": {
+   "mot": "économie",
+   "mot_norm": "economie",
+   "langue": "fr",
+   "debut": "2026-11-15T09:00:00",
+   "debut_ts": 1794729600,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-15T15:17:18",
+   "vu_dernier": "2026-11-15T15:17:18",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "passeport|498535": {
+   "mot": "passeport",
+   "mot_norm": "passeport",
+   "langue": "fr",
+   "debut": "2026-11-15T08:40:00",
+   "debut_ts": 1794728400,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "administration",
+   "vu_premier": "2026-11-15T15:17:18",
+   "vu_dernier": "2026-11-15T15:17:18",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "ronaldinho|498535": {
+   "mot": "ronaldinho",
+   "mot_norm": "ronaldinho",
+   "langue": "fr",
+   "debut": "2026-11-15T08:20:00",
+   "debut_ts": 1794727200,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-15T15:17:18",
+   "vu_dernier": "2026-11-15T15:17:18",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "منتخب المغرب لكره القدم|498534": {
+   "mot": "منتخب المغرب لكرة القدم",
+   "mot_norm": "منتخب المغرب لكره القدم",
+   "langue": "ar",
+   "debut": "2026-11-15T07:30:00",
+   "debut_ts": 1794724200,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-15T15:17:18",
+   "vu_dernier": "2026-11-15T15:17:18",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "ufc|498526": {
+   "mot": "ufc",
+   "mot_norm": "ufc",
+   "langue": "fr",
+   "debut": "2026-11-14T23:10:00",
+   "debut_ts": 1794694200,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "sport",
+   "vu_premier": "2026-11-15T15:17:18",
+   "vu_dernier": "2026-11-15T15:17:18",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "finance|498526": {
+   "mot": "finance",
+   "mot_norm": "finance",
+   "langue": "fr",
+   "debut": "2026-11-14T23:10:00",
+   "debut_ts": 1794694200,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-15T15:17:18",
+   "vu_dernier": "2026-11-15T15:17:18",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-14T23:43:20"
+ "maj": "2026-11-15T15:17:18"
 }
