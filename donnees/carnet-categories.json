@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-15",
+ "maj": "2026-11-16",
  "explication": "Mots restés sans catégorie (à classer dans robot/categories.py quand ils reviennent).",
  "mots": [
   {
@@ -23,6 +23,11 @@
    "volume": 500
   },
   {
+   "mot": "nations league",
+   "fois": 2,
+   "volume": 500
+  },
+  {
    "mot": "jensen huang",
    "fois": 2,
    "volume": 200
@@ -36,6 +41,11 @@
    "mot": "twitch",
    "fois": 2,
    "volume": 100
+  },
+  {
+   "mot": "espagne – angleterre",
+   "fois": 1,
+   "volume": 5000
   },
   {
    "mot": "paris-sg – troyes",
@@ -163,6 +173,16 @@
    "volume": 1000
   },
   {
+   "mot": "belgique – italie",
+   "fois": 1,
+   "volume": 1000
+  },
+  {
+   "mot": "spain vs england",
+   "fois": 1,
+   "volume": 1000
+  },
+  {
    "mot": "تهريب",
    "fois": 1,
    "volume": 500
@@ -219,6 +239,16 @@
   },
   {
    "mot": "japan vs brazil",
+   "fois": 1,
+   "volume": 500
+  },
+  {
+   "mot": "croatie – tchéquie",
+   "fois": 1,
+   "volume": 500
+  },
+  {
+   "mot": "اقتصاد",
    "fois": 1,
    "volume": 500
   },
@@ -288,11 +318,6 @@
    "volume": 200
   },
   {
-   "mot": "nations league",
-   "fois": 1,
-   "volume": 200
-  },
-  {
    "mot": "england vs croatia",
    "fois": 1,
    "volume": 200
@@ -344,6 +369,11 @@
   },
   {
    "mot": "finance",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "bakary samake",
    "fois": 1,
    "volume": 200
   },

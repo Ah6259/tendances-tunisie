@@ -10572,7 +10572,207 @@
    "sources": [
     "rss"
    ]
+  },
+  "lamine yamal|498550": {
+   "mot": "lamine yamal",
+   "mot_norm": "lamine yamal",
+   "langue": "fr",
+   "debut": "2026-11-15T23:10:00",
+   "debut_ts": 1794780600,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-16T00:07:45",
+   "vu_dernier": "2026-11-16T00:07:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "nations league|498548": {
+   "mot": "nations league",
+   "mot_norm": "nations league",
+   "langue": "fr",
+   "debut": "2026-11-15T21:30:00",
+   "debut_ts": 1794774600,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-16T00:07:45",
+   "vu_dernier": "2026-11-16T00:07:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "croatie - tchequie|498547": {
+   "mot": "croatie – tchéquie",
+   "mot_norm": "croatie - tchequie",
+   "langue": "fr",
+   "debut": "2026-11-15T20:40:00",
+   "debut_ts": 1794771600,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-16T00:07:45",
+   "vu_dernier": "2026-11-16T00:07:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "belgique - italie|498547": {
+   "mot": "belgique – italie",
+   "mot_norm": "belgique - italie",
+   "langue": "fr",
+   "debut": "2026-11-15T20:10:00",
+   "debut_ts": 1794769800,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-16T00:07:45",
+   "vu_dernier": "2026-11-16T00:07:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "espagne - angleterre|498547": {
+   "mot": "espagne – angleterre",
+   "mot_norm": "espagne - angleterre",
+   "langue": "fr",
+   "debut": "2026-11-15T20:00:00",
+   "debut_ts": 1794769200,
+   "fin": null,
+   "volume": 5000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-16T00:07:45",
+   "vu_dernier": "2026-11-16T00:07:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "france - turquie|498547": {
+   "mot": "france – turquie",
+   "mot_norm": "france - turquie",
+   "langue": "fr",
+   "debut": "2026-11-15T20:00:00",
+   "debut_ts": 1794769200,
+   "fin": null,
+   "volume": 5000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "politique",
+   "vu_premier": "2026-11-16T00:07:45",
+   "vu_dernier": "2026-11-16T00:07:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "spain vs england|498547": {
+   "mot": "spain vs england",
+   "mot_norm": "spain vs england",
+   "langue": "fr",
+   "debut": "2026-11-15T20:00:00",
+   "debut_ts": 1794769200,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-16T00:07:45",
+   "vu_dernier": "2026-11-16T00:07:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "اقتصاد|498546": {
+   "mot": "اقتصاد",
+   "mot_norm": "اقتصاد",
+   "langue": "ar",
+   "debut": "2026-11-15T19:00:00",
+   "debut_ts": 1794765600,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-16T00:07:45",
+   "vu_dernier": "2026-11-16T00:07:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "bakary samake|498545": {
+   "mot": "bakary samake",
+   "mot_norm": "bakary samake",
+   "langue": "fr",
+   "debut": "2026-11-15T18:30:00",
+   "debut_ts": 1794763800,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-16T00:07:45",
+   "vu_dernier": "2026-11-16T00:07:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "النجم الرياضي الساحلي|498545": {
+   "mot": "النجم الرياضي الساحلي",
+   "mot_norm": "النجم الرياضي الساحلي",
+   "langue": "ar",
+   "debut": "2026-11-15T18:10:00",
+   "debut_ts": 1794762600,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-16T00:07:45",
+   "vu_dernier": "2026-11-16T00:07:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-15T15:17:18"
+ "maj": "2026-11-16T00:07:45"
 }
