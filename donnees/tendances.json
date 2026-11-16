@@ -10772,7 +10772,207 @@
    "sources": [
     "rss"
    ]
+  },
+  "soudan - senegal|498565": {
+   "mot": "soudan – sénégal",
+   "mot_norm": "soudan - senegal",
+   "langue": "fr",
+   "debut": "2026-11-16T14:40:00",
+   "debut_ts": 1794836400,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-16T17:23:43",
+   "vu_dernier": "2026-11-16T17:23:43",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "ravenna fc ronaldinho|498565": {
+   "mot": "ravenna fc ronaldinho",
+   "mot_norm": "ravenna fc ronaldinho",
+   "langue": "fr",
+   "debut": "2026-11-16T14:30:00",
+   "debut_ts": 1794835800,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-16T17:23:43",
+   "vu_dernier": "2026-11-16T17:23:43",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "temps|498565": {
+   "mot": "temps",
+   "mot_norm": "temps",
+   "langue": "fr",
+   "debut": "2026-11-16T14:10:00",
+   "debut_ts": 1794834600,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "meteo",
+   "vu_premier": "2026-11-16T17:23:43",
+   "vu_dernier": "2026-11-16T17:23:43",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "abdelmadjid tebboune|498562": {
+   "mot": "abdelmadjid tebboune",
+   "mot_norm": "abdelmadjid tebboune",
+   "langue": "fr",
+   "debut": "2026-11-16T11:50:00",
+   "debut_ts": 1794826200,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-16T17:23:43",
+   "vu_dernier": "2026-11-16T17:23:43",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "رحمه حسن|498557": {
+   "mot": "رحمة حسن",
+   "mot_norm": "رحمه حسن",
+   "langue": "ar",
+   "debut": "2026-11-16T06:50:00",
+   "debut_ts": 1794808200,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-16T17:23:43",
+   "vu_dernier": "2026-11-16T17:23:43",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "coupe d'afrique des nations de football 2027|498557": {
+   "mot": "coupe d'afrique des nations de football 2027",
+   "mot_norm": "coupe d'afrique des nations de football 2027",
+   "langue": "fr",
+   "debut": "2026-11-16T06:10:00",
+   "debut_ts": 1794805800,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-16T17:23:43",
+   "vu_dernier": "2026-11-16T17:23:43",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "suspect|498557": {
+   "mot": "suspect",
+   "mot_norm": "suspect",
+   "langue": "fr",
+   "debut": "2026-11-16T06:10:00",
+   "debut_ts": 1794805800,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-16T17:23:43",
+   "vu_dernier": "2026-11-16T17:23:43",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "كره القدم|498556": {
+   "mot": "كرة القدم",
+   "mot_norm": "كره القدم",
+   "langue": "ar",
+   "debut": "2026-11-16T05:20:00",
+   "debut_ts": 1794802800,
+   "fin": null,
+   "volume": 2000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-16T17:23:43",
+   "vu_dernier": "2026-11-16T17:23:43",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "uefa nations league|498549": {
+   "mot": "uefa nations league",
+   "mot_norm": "uefa nations league",
+   "langue": "fr",
+   "debut": "2026-11-15T22:10:00",
+   "debut_ts": 1794777000,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-16T17:23:43",
+   "vu_dernier": "2026-11-16T17:23:43",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "espagne|498549": {
+   "mot": "espagne",
+   "mot_norm": "espagne",
+   "langue": "fr",
+   "debut": "2026-11-15T22:10:00",
+   "debut_ts": 1794777000,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-16T17:23:43",
+   "vu_dernier": "2026-11-16T17:23:43",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-16T00:07:45"
+ "maj": "2026-11-16T17:23:43"
 }

@@ -378,6 +378,21 @@
    "volume": 200
   },
   {
+   "mot": "soudan – sénégal",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "abdelmadjid tebboune",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "espagne",
+   "fois": 1,
+   "volume": 200
+  },
+  {
    "mot": "قطار",
    "fois": 1,
    "volume": 100
@@ -434,6 +449,16 @@
   },
   {
    "mot": "ronaldinho",
+   "fois": 1,
+   "volume": 100
+  },
+  {
+   "mot": "رحمة حسن",
+   "fois": 1,
+   "volume": 100
+  },
+  {
+   "mot": "suspect",
    "fois": 1,
    "volume": 100
   }
