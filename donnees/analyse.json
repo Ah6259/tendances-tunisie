@@ -1,12 +1,12 @@
 {
- "maj": "2026-11-16T00:07:52",
+ "maj": "2026-11-16T17:23:49",
  "jour": "2026-11-16",
  "totaux": {
-  "tendances": 435,
-  "mots_distincts": 368,
-  "aujourdhui": 15,
-  "semaine": 91,
-  "mois": 435,
+  "tendances": 445,
+  "mots_distincts": 377,
+  "aujourdhui": 20,
+  "semaine": 96,
+  "mois": 445,
   "expressions_tapees": 2198,
   "premiere_lecture": "2026-11-01T10:46:10"
  },
@@ -36,6 +36,18 @@
    "jour": "2026-11-15"
   },
   {
+   "mot": "كرة القدم",
+   "slug": "كره-القدم",
+   "langue": "ar",
+   "categorie": "football",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-16T05:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-16"
+  },
+  {
    "mot": "belgique – italie",
    "slug": "belgique-italie",
    "langue": "fr",
@@ -58,6 +70,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-15"
+  },
+  {
+   "mot": "coupe d'afrique des nations de football 2027",
+   "slug": "coupe-d-afrique-des-nations-de-football-2027",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-16T06:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-16"
   },
   {
    "mot": "croatie – tchéquie",
@@ -84,6 +108,18 @@
    "jour": "2026-11-15"
   },
   {
+   "mot": "uefa nations league",
+   "slug": "uefa-nations-league",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-15T22:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-15"
+  },
+  {
    "mot": "اقتصاد",
    "slug": "اقتصاد",
    "langue": "ar",
@@ -96,16 +132,16 @@
    "jour": "2026-11-15"
   },
   {
-   "mot": "منتخب المغرب لكرة القدم",
-   "slug": "منتخب-المغرب-لكره-القدم",
-   "langue": "ar",
-   "categorie": "football",
-   "volume": 500,
+   "mot": "abdelmadjid tebboune",
+   "slug": "abdelmadjid-tebboune",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
    "hausse": null,
-   "debut": "2026-11-15T07:30:00",
+   "debut": "2026-11-16T11:50:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-15"
+   "jour": "2026-11-16"
   },
   {
    "mot": "bakary samake",
@@ -120,40 +156,52 @@
    "jour": "2026-11-15"
   },
   {
-   "mot": "passeport",
-   "slug": "passeport",
+   "mot": "espagne",
+   "slug": "espagne",
    "langue": "fr",
-   "categorie": "administration",
+   "categorie": "autre",
    "volume": 200,
    "hausse": null,
-   "debut": "2026-11-15T08:40:00",
+   "debut": "2026-11-15T22:10:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-15"
   },
   {
-   "mot": "économie",
-   "slug": "economie",
+   "mot": "ravenna fc ronaldinho",
+   "slug": "ravenna-fc-ronaldinho",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-16T14:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-16"
+  },
+  {
+   "mot": "soudan – sénégal",
+   "slug": "soudan-senegal",
    "langue": "fr",
    "categorie": "autre",
    "volume": 200,
    "hausse": null,
-   "debut": "2026-11-15T09:00:00",
+   "debut": "2026-11-16T14:40:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-15"
+   "jour": "2026-11-16"
   },
   {
-   "mot": "ao3",
-   "slug": "ao3",
+   "mot": "temps",
+   "slug": "temps",
    "langue": "fr",
-   "categorie": "autre",
-   "volume": 100,
+   "categorie": "meteo",
+   "volume": 200,
    "hausse": null,
-   "debut": "2026-11-15T12:20:00",
+   "debut": "2026-11-16T14:10:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-15"
+   "jour": "2026-11-16"
   },
   {
    "mot": "lamine yamal",
@@ -168,16 +216,16 @@
    "jour": "2026-11-15"
   },
   {
-   "mot": "ronaldinho",
-   "slug": "ronaldinho",
+   "mot": "suspect",
+   "slug": "suspect",
    "langue": "fr",
    "categorie": "autre",
    "volume": 100,
    "hausse": null,
-   "debut": "2026-11-15T08:20:00",
+   "debut": "2026-11-16T06:10:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-15"
+   "jour": "2026-11-16"
   },
   {
    "mot": "النجم الرياضي الساحلي",
@@ -190,6 +238,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-15"
+  },
+  {
+   "mot": "رحمة حسن",
+   "slug": "رحمه-حسن",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-16T06:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-16"
   }
  ],
  "semaine": [
@@ -362,16 +422,16 @@
    "jour": "2026-11-13"
   },
   {
-   "mot": "قيس عبد الفتاح",
-   "slug": "قيس-عبد-الفتاح",
+   "mot": "كرة القدم",
+   "slug": "كره-القدم",
    "langue": "ar",
-   "categorie": "autre",
+   "categorie": "football",
    "volume": 2000,
    "hausse": null,
-   "debut": "2026-11-09T02:30:00",
+   "debut": "2026-11-16T05:20:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-09"
+   "jour": "2026-11-16"
   },
   {
    "mot": "angleterre – croatie",
@@ -518,18 +578,6 @@
    "jour": "2026-11-15"
   },
   {
-   "mot": "teddy riner",
-   "slug": "teddy-riner",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 1000,
-   "hausse": null,
-   "debut": "2026-11-09T16:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-09"
-  },
-  {
    "mot": "égypte – malawi",
    "slug": "egypte-malawi",
    "langue": "fr",
@@ -614,6 +662,18 @@
    "jour": "2026-11-14"
   },
   {
+   "mot": "coupe d'afrique des nations de football 2027",
+   "slug": "coupe-d-afrique-des-nations-de-football-2027",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-16T06:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-16"
+  },
+  {
    "mot": "croatie – tchéquie",
    "slug": "croatie-tchequie",
    "langue": "fr",
@@ -686,6 +746,18 @@
    "jour": "2026-11-13"
   },
   {
+   "mot": "uefa nations league",
+   "slug": "uefa-nations-league",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-15T22:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-15"
+  },
+  {
    "mot": "ufc",
    "slug": "ufc",
    "langue": "fr",
@@ -746,18 +818,6 @@
    "jour": "2026-11-09"
   },
   {
-   "mot": "طماطم",
-   "slug": "طماطم",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 500,
-   "hausse": null,
-   "debut": "2026-11-09T17:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-09"
-  },
-  {
    "mot": "معين شعباني",
    "slug": "معين-شعباني",
    "langue": "ar",
@@ -792,6 +852,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-13"
+  },
+  {
+   "mot": "abdelmadjid tebboune",
+   "slug": "abdelmadjid-tebboune",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-16T11:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-16"
   },
   {
    "mot": "bakary samake",
@@ -854,6 +926,18 @@
    "jour": "2026-11-12"
   },
   {
+   "mot": "espagne",
+   "slug": "espagne",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-15T22:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-15"
+  },
+  {
    "mot": "finance",
    "slug": "finance",
    "langue": "fr",
@@ -876,18 +960,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-12"
-  },
-  {
-   "mot": "gta 6",
-   "slug": "gta-6",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-09T13:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-09"
   },
   {
    "mot": "hossam hassan",
@@ -998,6 +1070,30 @@
    "jour": "2026-11-14"
   },
   {
+   "mot": "ravenna fc ronaldinho",
+   "slug": "ravenna-fc-ronaldinho",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-16T14:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-16"
+  },
+  {
+   "mot": "soudan – sénégal",
+   "slug": "soudan-senegal",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-16T14:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-16"
+  },
+  {
    "mot": "sénégal – soudan",
    "slug": "senegal-soudan",
    "langue": "fr",
@@ -1008,6 +1104,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-12"
+  },
+  {
+   "mot": "temps",
+   "slug": "temps",
+   "langue": "fr",
+   "categorie": "meteo",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-16T14:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-16"
   },
   {
    "mot": "tunis",
@@ -1142,18 +1250,6 @@
    "jour": "2026-11-13"
   },
   {
-   "mot": "huile d'olive",
-   "slug": "huile-d-olive",
-   "langue": "fr",
-   "categorie": "commerce",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-09T06:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-09"
-  },
-  {
    "mot": "jensen huang",
    "slug": "jensen-huang",
    "langue": "fr",
@@ -1214,6 +1310,18 @@
    "jour": "2026-11-15"
   },
   {
+   "mot": "suspect",
+   "slug": "suspect",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-16T06:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-16"
+  },
+  {
    "mot": "tunisie",
    "slug": "tunisie",
    "langue": "fr",
@@ -1272,6 +1380,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-12"
+  },
+  {
+   "mot": "رحمة حسن",
+   "slug": "رحمه-حسن",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-16T06:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-16"
   },
   {
    "mot": "مطر",
@@ -1336,6 +1456,18 @@
    "jour": "2026-11-15"
   },
   {
+   "mot": "coupe d'afrique des nations de football 2027",
+   "slug": "coupe-d-afrique-des-nations-de-football-2027",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-16T06:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-16"
+  },
+  {
    "mot": "croatie – tchéquie",
    "slug": "croatie-tchequie",
    "langue": "fr",
@@ -1343,6 +1475,18 @@
    "volume": 500,
    "hausse": null,
    "debut": "2026-11-15T20:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-15"
+  },
+  {
+   "mot": "uefa nations league",
+   "slug": "uefa-nations-league",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-15T22:10:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-15"
@@ -1360,16 +1504,16 @@
    "jour": "2026-11-15"
   },
   {
-   "mot": "منتخب المغرب لكرة القدم",
-   "slug": "منتخب-المغرب-لكره-القدم",
-   "langue": "ar",
-   "categorie": "football",
-   "volume": 500,
+   "mot": "abdelmadjid tebboune",
+   "slug": "abdelmadjid-tebboune",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
    "hausse": null,
-   "debut": "2026-11-15T07:30:00",
+   "debut": "2026-11-16T11:50:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-15"
+   "jour": "2026-11-16"
   },
   {
    "mot": "bakary samake",
@@ -1384,40 +1528,76 @@
    "jour": "2026-11-15"
   },
   {
-   "mot": "économie",
-   "slug": "economie",
+   "mot": "espagne",
+   "slug": "espagne",
    "langue": "fr",
    "categorie": "autre",
    "volume": 200,
    "hausse": null,
-   "debut": "2026-11-15T09:00:00",
+   "debut": "2026-11-15T22:10:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-15"
   },
   {
-   "mot": "ao3",
-   "slug": "ao3",
+   "mot": "ravenna fc ronaldinho",
+   "slug": "ravenna-fc-ronaldinho",
    "langue": "fr",
-   "categorie": "autre",
-   "volume": 100,
+   "categorie": "football",
+   "volume": 200,
    "hausse": null,
-   "debut": "2026-11-15T12:20:00",
+   "debut": "2026-11-16T14:30:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-15"
+   "jour": "2026-11-16"
   },
   {
-   "mot": "ronaldinho",
-   "slug": "ronaldinho",
+   "mot": "soudan – sénégal",
+   "slug": "soudan-senegal",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-16T14:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-16"
+  },
+  {
+   "mot": "temps",
+   "slug": "temps",
+   "langue": "fr",
+   "categorie": "meteo",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-16T14:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-16"
+  },
+  {
+   "mot": "suspect",
+   "slug": "suspect",
    "langue": "fr",
    "categorie": "autre",
    "volume": 100,
    "hausse": null,
-   "debut": "2026-11-15T08:20:00",
+   "debut": "2026-11-16T06:10:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-15"
+   "jour": "2026-11-16"
+  },
+  {
+   "mot": "رحمة حسن",
+   "slug": "رحمه-حسن",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-16T06:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-16"
   }
  ],
  "hausses": [
@@ -1631,22 +1811,6 @@
    "jour": "2026-11-03"
   },
   {
-   "mot": "classement pakhtakor – al-nassr fc",
-   "slug": "classement-pakhtakor-al-nassr-fc",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-11-02T17:00:00",
-   "fin": "2026-11-02T22:10:00",
-   "liees": [
-    "pakhtakor – al-nassr fc",
-    "pakhtakor vs al-nassr",
-    "pakhtakor fc vs al-nassr standings"
-   ],
-   "jour": "2026-11-02"
-  },
-  {
    "mot": "examens concours education tn",
    "slug": "examens-concours-education-tn",
    "langue": "fr",
@@ -1657,18 +1821,6 @@
    "fin": "2026-11-04T22:10:00",
    "liees": [],
    "jour": "2026-11-03"
-  },
-  {
-   "mot": "grève",
-   "slug": "greve",
-   "langue": "fr",
-   "categorie": "emploi",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-11-02T13:40:00",
-   "fin": "2026-11-04T07:40:00",
-   "liees": [],
-   "jour": "2026-11-02"
   },
   {
    "mot": "man utd – roma",
@@ -1685,21 +1837,6 @@
     "manchester united"
    ],
    "jour": "2026-11-03"
-  },
-  {
-   "mot": "pakhtakor – al-nassr fc",
-   "slug": "pakhtakor-al-nassr-fc",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 2000,
-   "hausse": 1000,
-   "debut": "2026-11-02T14:20:00",
-   "fin": "2026-11-02T18:30:00",
-   "liees": [
-    "pakhtakor vs al-nassr",
-    "pakhtakor fc vs al-nassr standings"
-   ],
-   "jour": "2026-11-02"
   },
   {
    "mot": "rb leipzig – manchester city",
@@ -1812,6 +1949,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-08"
+  },
+  {
+   "mot": "قيس عبد الفتاح",
+   "slug": "قيس-عبد-الفتاح",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-09T02:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-09"
   },
   {
    "mot": "classement villarreal – paris saint-germain football club",
@@ -1943,6 +2092,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-06"
+  },
+  {
+   "mot": "teddy riner",
+   "slug": "teddy-riner",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-09T16:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-09"
   },
   {
    "mot": "إصابة",
@@ -2244,6 +2405,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-07"
+  },
+  {
+   "mot": "فرنسا",
+   "slug": "فرنسا",
+   "langue": "ar",
+   "categorie": "politique",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-05T03:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-05"
   }
  ],
  "recurrents": [
@@ -2297,6 +2470,19 @@
    "fin": "2026-11-03T07:50:00",
    "liees": [],
    "jour": "2026-11-02",
+   "jours": 3
+  },
+  {
+   "mot": "كرة القدم",
+   "slug": "كره-القدم",
+   "langue": "ar",
+   "categorie": "football",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-16T05:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-16",
    "jours": 3
   },
   {
@@ -2503,7 +2689,7 @@
   "commerce": {
    "fr": "Commerce et consommation",
    "ar": "التجارة والاستهلاك",
-   "n_semaine": 2,
+   "n_semaine": 1,
    "n_mois": 7,
    "top": [
     {
@@ -2514,18 +2700,6 @@
      "volume": 500,
      "hausse": null,
      "debut": "2026-11-09T20:20:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-09"
-    },
-    {
-     "mot": "huile d'olive",
-     "slug": "huile-d-olive",
-     "langue": "fr",
-     "categorie": "commerce",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-09T06:20:00",
      "fin": null,
      "liees": [],
      "jour": "2026-11-09"
@@ -2668,9 +2842,21 @@
   "football": {
    "fr": "Football",
    "ar": "كرة القدم",
-   "n_semaine": 8,
-   "n_mois": 198,
+   "n_semaine": 12,
+   "n_mois": 202,
    "top": [
+    {
+     "mot": "كرة القدم",
+     "slug": "كره-القدم",
+     "langue": "ar",
+     "categorie": "football",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-16T05:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-16"
+    },
     {
      "mot": "classement équipe d'algérie de football – équipe du togo de football",
      "slug": "classement-equipe-d-algerie-de-football-equipe-du-togo-de-football",
@@ -2694,6 +2880,30 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-14"
+    },
+    {
+     "mot": "coupe d'afrique des nations de football 2027",
+     "slug": "coupe-d-afrique-des-nations-de-football-2027",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-16T06:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-16"
+    },
+    {
+     "mot": "uefa nations league",
+     "slug": "uefa-nations-league",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-15T22:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-15"
     },
     {
      "mot": "النادي الإفريقي",
@@ -2744,6 +2954,18 @@
      "jour": "2026-11-13"
     },
     {
+     "mot": "ravenna fc ronaldinho",
+     "slug": "ravenna-fc-ronaldinho",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-16T14:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-16"
+    },
+    {
      "mot": "lamine yamal",
      "slug": "lamine-yamal",
      "langue": "fr",
@@ -2770,6 +2992,42 @@
    ],
    "top24": [
     {
+     "mot": "كرة القدم",
+     "slug": "كره-القدم",
+     "langue": "ar",
+     "categorie": "football",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-16T05:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-16"
+    },
+    {
+     "mot": "coupe d'afrique des nations de football 2027",
+     "slug": "coupe-d-afrique-des-nations-de-football-2027",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-16T06:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-16"
+    },
+    {
+     "mot": "uefa nations league",
+     "slug": "uefa-nations-league",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-15T22:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-15"
+    },
+    {
      "mot": "منتخب المغرب لكرة القدم",
      "slug": "منتخب-المغرب-لكره-القدم",
      "langue": "ar",
@@ -2780,6 +3038,18 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-15"
+    },
+    {
+     "mot": "ravenna fc ronaldinho",
+     "slug": "ravenna-fc-ronaldinho",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-16T14:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-16"
     },
     {
      "mot": "lamine yamal",
@@ -2852,8 +3122,8 @@
   "meteo": {
    "fr": "Météo",
    "ar": "الطقس",
-   "n_semaine": 2,
-   "n_mois": 13,
+   "n_semaine": 3,
+   "n_mois": 14,
    "top": [
     {
      "mot": "meteo",
@@ -2868,6 +3138,18 @@
      "jour": "2026-11-12"
     },
     {
+     "mot": "temps",
+     "slug": "temps",
+     "langue": "fr",
+     "categorie": "meteo",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-16T14:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-16"
+    },
+    {
      "mot": "مطر",
      "slug": "مطر",
      "langue": "ar",
@@ -2880,7 +3162,20 @@
      "jour": "2026-11-14"
     }
    ],
-   "top24": []
+   "top24": [
+    {
+     "mot": "temps",
+     "slug": "temps",
+     "langue": "fr",
+     "categorie": "meteo",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-16T14:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-16"
+    }
+   ]
   },
   "politique": {
    "fr": "Politique et actualité",
@@ -2975,8 +3270,8 @@
   "autre": {
    "fr": "Autre",
    "ar": "أخرى",
-   "n_semaine": 64,
-   "n_mois": 96,
+   "n_semaine": 65,
+   "n_mois": 101,
    "top": [
     {
      "mot": "espagne – angleterre",
@@ -3099,18 +3394,6 @@
      "jour": "2026-11-12"
     },
     {
-     "mot": "قيس عبد الفتاح",
-     "slug": "قيس-عبد-الفتاح",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 2000,
-     "hausse": null,
-     "debut": "2026-11-09T02:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-09"
-    },
-    {
      "mot": "angleterre – croatie",
      "slug": "angleterre-croatie",
      "langue": "fr",
@@ -3217,18 +3500,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-15"
-    },
-    {
-     "mot": "teddy riner",
-     "slug": "teddy-riner",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 1000,
-     "hausse": null,
-     "debut": "2026-11-09T16:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-09"
     },
     {
      "mot": "égypte – malawi",
@@ -3363,18 +3634,6 @@
      "jour": "2026-11-15"
     },
     {
-     "mot": "طماطم",
-     "slug": "طماطم",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-09T17:20:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-09"
-    },
-    {
      "mot": "معين شعباني",
      "slug": "معين-شعباني",
      "langue": "ar",
@@ -3397,6 +3656,18 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-13"
+    },
+    {
+     "mot": "abdelmadjid tebboune",
+     "slug": "abdelmadjid-tebboune",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-16T11:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-16"
     },
     {
      "mot": "bakary samake",
@@ -3447,6 +3718,18 @@
      "jour": "2026-11-12"
     },
     {
+     "mot": "espagne",
+     "slug": "espagne",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-15T22:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-15"
+    },
+    {
      "mot": "finance",
      "slug": "finance",
      "langue": "fr",
@@ -3457,18 +3740,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-14"
-    },
-    {
-     "mot": "gta 6",
-     "slug": "gta-6",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-09T13:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-09"
     },
     {
      "mot": "hossam hassan",
@@ -3553,6 +3824,18 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-14"
+    },
+    {
+     "mot": "soudan – sénégal",
+     "slug": "soudan-senegal",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-16T14:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-16"
     },
     {
      "mot": "sénégal – soudan",
@@ -3697,6 +3980,18 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-15"
+    },
+    {
+     "mot": "suspect",
+     "slug": "suspect",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-16T06:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-16"
     }
    ],
    "top24": [
@@ -3773,6 +4068,18 @@
      "jour": "2026-11-15"
     },
     {
+     "mot": "abdelmadjid tebboune",
+     "slug": "abdelmadjid-tebboune",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-16T11:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-16"
+    },
+    {
      "mot": "bakary samake",
      "slug": "bakary-samake",
      "langue": "fr",
@@ -3785,40 +4092,28 @@
      "jour": "2026-11-15"
     },
     {
-     "mot": "économie",
-     "slug": "economie",
+     "mot": "espagne",
+     "slug": "espagne",
      "langue": "fr",
      "categorie": "autre",
      "volume": 200,
      "hausse": null,
-     "debut": "2026-11-15T09:00:00",
+     "debut": "2026-11-15T22:10:00",
      "fin": null,
      "liees": [],
      "jour": "2026-11-15"
     },
     {
-     "mot": "ao3",
-     "slug": "ao3",
+     "mot": "soudan – sénégal",
+     "slug": "soudan-senegal",
      "langue": "fr",
      "categorie": "autre",
-     "volume": 100,
+     "volume": 200,
      "hausse": null,
-     "debut": "2026-11-15T12:20:00",
+     "debut": "2026-11-16T14:40:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-15"
-    },
-    {
-     "mot": "ronaldinho",
-     "slug": "ronaldinho",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-15T08:20:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-15"
+     "jour": "2026-11-16"
     }
    ]
   }
@@ -3855,8 +4150,123 @@
  ],
  "historique": {
   "semaines": {
+   "2026-11-16": {
+    "n": 8,
+    "top": [
+     {
+      "mot": "كرة القدم",
+      "slug": "كره-القدم",
+      "langue": "ar",
+      "categorie": "football",
+      "volume": 2000,
+      "hausse": null,
+      "debut": "2026-11-16T05:20:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-16"
+     },
+     {
+      "mot": "coupe d'afrique des nations de football 2027",
+      "slug": "coupe-d-afrique-des-nations-de-football-2027",
+      "langue": "fr",
+      "categorie": "football",
+      "volume": 500,
+      "hausse": null,
+      "debut": "2026-11-16T06:10:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-16"
+     },
+     {
+      "mot": "abdelmadjid tebboune",
+      "slug": "abdelmadjid-tebboune",
+      "langue": "fr",
+      "categorie": "autre",
+      "volume": 200,
+      "hausse": null,
+      "debut": "2026-11-16T11:50:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-16"
+     },
+     {
+      "mot": "ravenna fc ronaldinho",
+      "slug": "ravenna-fc-ronaldinho",
+      "langue": "fr",
+      "categorie": "football",
+      "volume": 200,
+      "hausse": null,
+      "debut": "2026-11-16T14:30:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-16"
+     },
+     {
+      "mot": "soudan – sénégal",
+      "slug": "soudan-senegal",
+      "langue": "fr",
+      "categorie": "autre",
+      "volume": 200,
+      "hausse": null,
+      "debut": "2026-11-16T14:40:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-16"
+     },
+     {
+      "mot": "temps",
+      "slug": "temps",
+      "langue": "fr",
+      "categorie": "meteo",
+      "volume": 200,
+      "hausse": null,
+      "debut": "2026-11-16T14:10:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-16"
+     },
+     {
+      "mot": "suspect",
+      "slug": "suspect",
+      "langue": "fr",
+      "categorie": "autre",
+      "volume": 100,
+      "hausse": null,
+      "debut": "2026-11-16T06:10:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-16"
+     },
+     {
+      "mot": "رحمة حسن",
+      "slug": "رحمه-حسن",
+      "langue": "ar",
+      "categorie": "autre",
+      "volume": 100,
+      "hausse": null,
+      "debut": "2026-11-16T06:50:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-16"
+     }
+    ],
+    "categories": [
+     {
+      "cle": "autre",
+      "n": 4
+     },
+     {
+      "cle": "football",
+      "n": 3
+     },
+     {
+      "cle": "meteo",
+      "n": 1
+     }
+    ]
+   },
    "2026-11-09": {
-    "n": 91,
+    "n": 93,
     "top": [
      {
       "mot": "espagne – angleterre",
@@ -3982,11 +4392,11 @@
     "categories": [
      {
       "cle": "autre",
-      "n": 64
+      "n": 65
      },
      {
       "cle": "football",
-      "n": 8
+      "n": 9
      },
      {
       "cle": "politique",
@@ -4625,7 +5035,7 @@
   },
   "mois": {
    "2026-11": {
-    "n": 251,
+    "n": 261,
     "top": [
      {
       "mot": "classement stade tunisien – club africain",
@@ -4769,11 +5179,11 @@
     "categories": [
      {
       "cle": "football",
-      "n": 93
+      "n": 97
      },
      {
       "cle": "autre",
-      "n": 91
+      "n": 96
      },
      {
       "cle": "sport",
@@ -4784,11 +5194,11 @@
       "n": 10
      },
      {
-      "cle": "administration",
-      "n": 7
+      "cle": "meteo",
+      "n": 8
      },
      {
-      "cle": "meteo",
+      "cle": "administration",
       "n": 7
      },
      {
@@ -11665,6 +12075,54 @@
    "liees": []
   },
   {
+   "mot": "كرة القدم",
+   "mot_norm": "كره القدم",
+   "slug": "كره-القدم",
+   "langue": "ar",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "كرة القدم",
+     "slug": "كره-القدم",
+     "langue": "ar",
+     "categorie": "football",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-16T05:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-16"
+    },
+    {
+     "mot": "كرة القدم",
+     "slug": "كره-القدم",
+     "langue": "ar",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": 800,
+     "debut": "2026-10-29T12:30:00",
+     "fin": "2026-10-29T14:20:00",
+     "liees": [],
+     "jour": "2026-10-29"
+    },
+    {
+     "mot": "كرة القدم",
+     "slug": "كره-القدم",
+     "langue": "ar",
+     "categorie": "football",
+     "volume": 100,
+     "hausse": 200,
+     "debut": "2026-10-27T20:00:00",
+     "fin": "2026-10-28T06:10:00",
+     "liees": [],
+     "jour": "2026-10-27"
+    }
+   ],
+   "jours": 3,
+   "volume_max": 2000,
+   "liees": []
+  },
+  {
    "mot": "ac milan – inter",
    "mot_norm": "ac milan - inter",
    "slug": "ac-milan-inter",
@@ -13613,6 +14071,30 @@
    ]
   },
   {
+   "mot": "coupe d'afrique des nations de football 2027",
+   "mot_norm": "coupe d'afrique des nations de football 2027",
+   "slug": "coupe-d-afrique-des-nations-de-football-2027",
+   "langue": "fr",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "coupe d'afrique des nations de football 2027",
+     "slug": "coupe-d-afrique-des-nations-de-football-2027",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-16T06:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-16"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 500,
+   "liees": []
+  },
+  {
    "mot": "croatie – tchéquie",
    "mot_norm": "croatie - tchequie",
    "slug": "croatie-tchequie",
@@ -14344,6 +14826,30 @@
      "fin": "2026-10-29T16:20:00",
      "liees": [],
      "jour": "2026-10-29"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 500,
+   "liees": []
+  },
+  {
+   "mot": "uefa nations league",
+   "mot_norm": "uefa nations league",
+   "slug": "uefa-nations-league",
+   "langue": "fr",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "uefa nations league",
+     "slug": "uefa-nations-league",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-15T22:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-15"
     }
    ],
    "jours": 1,
@@ -15191,6 +15697,30 @@
    ]
   },
   {
+   "mot": "abdelmadjid tebboune",
+   "mot_norm": "abdelmadjid tebboune",
+   "slug": "abdelmadjid-tebboune",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "abdelmadjid tebboune",
+     "slug": "abdelmadjid-tebboune",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-16T11:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-16"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
    "mot": "ac milan",
    "mot_norm": "ac milan",
    "slug": "ac-milan",
@@ -16000,6 +16530,30 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-07"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
+   "mot": "espagne",
+   "mot_norm": "espagne",
+   "slug": "espagne",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "espagne",
+     "slug": "espagne",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-15T22:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-15"
     }
    ],
    "jours": 1,
@@ -16993,6 +17547,30 @@
    ]
   },
   {
+   "mot": "ravenna fc ronaldinho",
+   "mot_norm": "ravenna fc ronaldinho",
+   "slug": "ravenna-fc-ronaldinho",
+   "langue": "fr",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "ravenna fc ronaldinho",
+     "slug": "ravenna-fc-ronaldinho",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-16T14:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-16"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
    "mot": "real madrid vs barca",
    "mot_norm": "real madrid vs barca",
    "slug": "real-madrid-vs-barca",
@@ -17082,6 +17660,30 @@
      "fin": "2026-10-27T00:20:00",
      "liees": [],
      "jour": "2026-10-26"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
+   "mot": "soudan – sénégal",
+   "mot_norm": "soudan - senegal",
+   "slug": "soudan-senegal",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "soudan – sénégal",
+     "slug": "soudan-senegal",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-16T14:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-16"
     }
    ],
    "jours": 1,
@@ -17190,6 +17792,30 @@
      "fin": "2026-10-27T00:20:00",
      "liees": [],
      "jour": "2026-10-26"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
+   "mot": "temps",
+   "mot_norm": "temps",
+   "slug": "temps",
+   "langue": "fr",
+   "categorie": "meteo",
+   "episodes": [
+    {
+     "mot": "temps",
+     "slug": "temps",
+     "langue": "fr",
+     "categorie": "meteo",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-16T14:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-16"
     }
    ],
    "jours": 1,
@@ -17857,42 +18483,6 @@
     }
    ],
    "jours": 1,
-   "volume_max": 200,
-   "liees": []
-  },
-  {
-   "mot": "كرة القدم",
-   "mot_norm": "كره القدم",
-   "slug": "كره-القدم",
-   "langue": "ar",
-   "categorie": "football",
-   "episodes": [
-    {
-     "mot": "كرة القدم",
-     "slug": "كره-القدم",
-     "langue": "ar",
-     "categorie": "football",
-     "volume": 200,
-     "hausse": 800,
-     "debut": "2026-10-29T12:30:00",
-     "fin": "2026-10-29T14:20:00",
-     "liees": [],
-     "jour": "2026-10-29"
-    },
-    {
-     "mot": "كرة القدم",
-     "slug": "كره-القدم",
-     "langue": "ar",
-     "categorie": "football",
-     "volume": 100,
-     "hausse": 200,
-     "debut": "2026-10-27T20:00:00",
-     "fin": "2026-10-28T06:10:00",
-     "liees": [],
-     "jour": "2026-10-27"
-    }
-   ],
-   "jours": 2,
    "volume_max": 200,
    "liees": []
   },
@@ -18809,6 +19399,30 @@
    "liees": []
   },
   {
+   "mot": "suspect",
+   "mot_norm": "suspect",
+   "slug": "suspect",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "suspect",
+     "slug": "suspect",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-16T06:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-16"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 100,
+   "liees": []
+  },
+  {
    "mot": "thibaut courtois",
    "mot_norm": "thibaut courtois",
    "slug": "thibaut-courtois",
@@ -19006,6 +19620,30 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-06"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 100,
+   "liees": []
+  },
+  {
+   "mot": "رحمة حسن",
+   "mot_norm": "رحمه حسن",
+   "slug": "رحمه-حسن",
+   "langue": "ar",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "رحمة حسن",
+     "slug": "رحمه-حسن",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-16T06:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-16"
     }
    ],
    "jours": 1,
