@@ -105,6 +105,7 @@ const FONCTIONS = [
   ["Votre avis", acc.includes('id="avis-form"'), /Votre avis.*e-mail obligatoire/, /رأيك.*البريد الإلكتروني إجباري/, /Your feedback.*e-mail required/],
   ["données ouvertes", existsSync(join(root, "donnees/analyse.json")), /données ouvertes.*analyse\.json/, /بيانات مفتوحة.*analyse\.json/, /open data.*analyse\.json/],
   ["mise à jour automatique", existsSync(join(root, ".github/workflows/maj.yml")), /deux lectures par jour.*une par semaine/, /قراءتان في اليوم.*واحدة في الأسبوع/, /two readings a day.*one a week/],
+  ["page introuvable, confidentialité, conditions", existsSync(join(root, "404.html")), /Page introuvable.*Confidentialité.*Conditions d’utilisation/, /صفحة غير موجودة.*الخصوصية.*شروط الاستعمال/, /Page not found.*Privacy.*Terms of use/],
 ];
 const manque = [];
 for (const [nom, sur, fr, ar, en] of FONCTIONS) if (sur && !(fr.test(ap.replace(/&#39;|&#x27;/g, "’")) && ar.test(apa) && en.test(ape.replace(/&#39;|&#x27;/g, "'")))) manque.push(nom);
@@ -120,6 +121,10 @@ check("robots.txt : moteurs autorisés, robots d'IA d'entraînement refusés, as
 check("llms.txt, manifeste, service worker, clé IndexNow, licence, favicon, icônes", ["llms.txt", "manifest.webmanifest", "sw.js", "377f054ba9c5ed40d6796adc8d87d1e8.txt", "LICENSE", "favicon.ico", "assets/icons/icon-192.png", "assets/icons/icon-512.png", "assets/icons/icon-maskable-512.png", "assets/apple-touch-icon.png"].every(f => existsSync(join(root, f))));
 check("aucun lien vers une ancienne adresse ni vers un concurrent", !pages.some(p => /ah6259\.github\.io|semrush|similarweb|exploding/i.test(lire(p + "index.html"))));
 check("lien « Tous nos services » vers clicvia.com dans le pied (page.js)", lire("assets/page.js").includes('https://clicvia.com/'));
+// Page 404 commune (17/11/2026, règle commune § 58 point 14 ; modèle : outils communs/page-404 de projets-ahmed) : sinon GitHub montre sa page anglaise
+check("page 404 commune à la racine publiée : 404.html (nom du site, couleur) + 404.js qui cherche la page (« Recherche de la page »)",
+  existsSync(join(root, "404.html")) && existsSync(join(root, "404.js")) && lire("404.html").includes("<title>Page introuvable — Tendances Tunisie</title>")
+  && lire("404.html").includes('<script src="/404.js"></script>') && lire("404.js").includes("Recherche de la page"));
 check("aucun secret dans le dépôt", !/ghp_[A-Za-z0-9]{20,}|github_pat_|[0-9]{8,10}:[A-Za-z0-9_-]{30,}|EAA[A-Za-z0-9]{40,}/.test(pages.map(p => lire(p + "index.html")).join("") + lire("robot/collecte.py") + lire("robot/mots.py")));
 check("manifeste : id, icônes maskable, couleur du thème", (() => { const m = JSON.parse(lire("manifest.webmanifest")); return m.id && m.icons.some(i => i.purpose === "maskable") && m.theme_color === "#5B21B6"; })());
 
@@ -163,6 +168,20 @@ if (JSDOM) {
     && we.document.querySelector("#entete .logo-nom").textContent.includes("Trends Tunisia") && we.document.querySelector("#pied nav").textContent.includes("Typed words")
     && we.document.querySelector(".masquage").textContent.includes("Hide:") && we.document.querySelector(".masquage").textContent.includes("Weather")
     && (we.document.querySelector("#entete .langue").click(), we.__alle === "/"));
+  // Liens « Confidentialité » et « Conditions d'utilisation » (pages communes de clicvia.com, 17/11/2026) dans le pied de CHAQUE sorte
+  // de page, dans la langue de la page (règle § 21 : nouvelle version partout)
+  const LIENS_PIED = { fr: ["https://clicvia.com/confidentialite/", "Confidentialité", "https://clicvia.com/conditions/", "Conditions d'utilisation"],
+    ar: ["https://clicvia.com/ar/confidentialite/", "الخصوصية", "https://clicvia.com/ar/conditions/", "شروط الاستعمال"],
+    en: ["https://clicvia.com/en/confidentialite/", "Privacy", "https://clicvia.com/en/conditions/", "Terms of use"] };
+  const sortes = [...fixes.filter(p => !p.startsWith("categorie/")), "categorie/immobilier/", mots[0]];
+  const sansLiens = [];
+  for (const p of sortes) for (const [l, pre] of [["fr", ""], ["ar", "ar/"], ["en", "en/"]]) {
+    const wp = await ouvrir(pre + p + "index.html");
+    const [u1, t1, u2, t2] = LIENS_PIED[l];
+    const a1 = wp.document.querySelector(`#pied nav a[href="${u1}"]`), a2 = wp.document.querySelector(`#pied nav a[href="${u2}"]`);
+    if (!(a1 && a1.textContent.trim() === t1 && a2 && a2.textContent.trim() === t2)) sansLiens.push(pre + (p || "accueil"));
+  }
+  check("jsdom : liens « Confidentialité » et « Conditions d'utilisation » dans le pied de chaque sorte de page, dans sa langue" + (sansLiens.length ? " — manque : " + sansLiens.join(", ") : ""), sansLiens.length === 0);
   const wes = await ouvrir("en/semaine/index.html");
   check("jsdom : page anglaise de la semaine : le filtre de catégories est celui en anglais, compteur en anglais", wes.document.querySelectorAll("[data-filtre-cat]").length === 1
     && wes.document.querySelector("[data-filtre-cat] option[value=immobilier]").textContent === "Real estate" && /\d+ results?/.test(wes.document.querySelector("[data-compte]").textContent));

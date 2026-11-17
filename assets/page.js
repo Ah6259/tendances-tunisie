@@ -45,6 +45,8 @@
           <a href="${rp}a-propos/">${T("Comment fonctionne le site ?", "كيف يعمل الموقع؟", "How does the site work?")}</a>
           <a href="${rp}#avis">${T("Votre avis", "رأيك", "Your feedback")}</a>
           <a href="https://clicvia.com/" rel="noopener" target="_blank">${T("Tous nos services", "كل خدماتنا", "All our services")}</a>
+          <a href="${T("https://clicvia.com/confidentialite/", "https://clicvia.com/ar/confidentialite/", "https://clicvia.com/en/confidentialite/")}" rel="noopener" target="_blank">${T("Confidentialité", "الخصوصية", "Privacy")}</a>
+          <a href="${T("https://clicvia.com/conditions/", "https://clicvia.com/ar/conditions/", "https://clicvia.com/en/conditions/")}" rel="noopener" target="_blank">${T("Conditions d'utilisation", "شروط الاستعمال", "Terms of use")}</a>
         </nav>
         <p>${T(`Source des données : <a href="https://trends.google.com/trending?geo=TN" rel="noopener" target="_blank">Google Trends</a> (tendances de recherche en Tunisie) et suggestions de recherche Google. Les volumes sont des ordres de grandeur donnés par Google, pas des nombres exacts.`,
                `مصدر البيانات: <a href="https://trends.google.com/trending?geo=TN" rel="noopener" target="_blank">Google Trends</a> (اتجاهات البحث في تونس) واقتراحات بحث غوغل. الأحجام تقديرية كما يعطيها غوغل، وليست أرقامًا دقيقة.`,

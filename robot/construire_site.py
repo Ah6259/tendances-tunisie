@@ -525,6 +525,8 @@ FONCTIONS = [
      "Open data", "Our readings are published as open data (donnees/analyse.json): our own dated and categorised readings, with the source cited, not a copy of Google."),
     ("Mise à jour automatique", "تحيين آلي", "Tout est automatique : deux lectures par jour (tendances) et une par semaine (mots tapés) par nos robots, sans intervention humaine ; la date de lecture est en haut de chaque page.", "كل شيء آلي: قراءتان في اليوم (الاتجاهات) وواحدة في الأسبوع (الكلمات المكتوبة) بروبوتاتنا دون تدخل بشري؛ تاريخ القراءة أعلى كل صفحة.",
      "Automatic updates", "Everything is automatic: two readings a day (trends) and one a week (typed words) by our robots, without human intervention; the reading date is at the top of every page."),
+    ("Page introuvable, confidentialité, conditions", "صفحة غير موجودة، الخصوصية، الشروط", "Une adresse qui n’existe pas montre notre page « Page introuvable » : elle cherche d’abord la page sur nos sites et vous y emmène. En bas de chaque page, les liens « Confidentialité » et « Conditions d’utilisation » mènent aux pages communes de nos services (clicvia.com).", "العنوان غير الموجود يعرض صفحتنا «صفحة غير موجودة»: تبحث أولًا عن الصفحة في مواقعنا وتأخذك إليها. في أسفل كل صفحة، رابطا «الخصوصية» و«شروط الاستعمال» يؤديان إلى الصفحات المشتركة لخدماتنا (clicvia.com).",
+     "Page not found, privacy, terms", "An address that does not exist shows our “Page not found” page: it first looks for the page on our sites and takes you there. At the bottom of every page, the “Privacy” and “Terms of use” links lead to the common pages of our services (clicvia.com)."),
 ]
 
 

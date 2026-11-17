@@ -59,3 +59,7 @@ Adresse : https://tendances.clicvia.com/ (sous-domaine Cloudflare d'Ahmed, CNAME
   plan : `consignes des taches/seo-tendances.md`)** : `titre_seo()` / `desc_seo()` dans `robot/construire_site.py` (gabarit) et
   `tools/pages_langues.py` (ar/, en/) : titre <= 70 caractères (suffixe « | nom du site » gardé, coupe à un séparateur), description
   <= 165 coupée en fin de phrase (avant : `[:200]`). Avant : titres de 77 à 99 caractères, descriptions jusqu'à 250.
+- **17/11/2026 — page 404 commune + liens Confidentialité / Conditions (liste des « 20 points » d'Ahmed)** : `404.html` + `404.js` à la racine
+  (modèle `outils communs/page-404/` de projets-ahmed : la modifier là-bas puis réinstaller avec `installer.py . "Tendances Tunisie" "#5B21B6"`) ;
+  pied de page (assets/page.js) : liens vers https://clicvia.com/confidentialite/ et /conditions/ (versions ar/ et en/ selon la langue) ;
+  `tools/test_site.mjs` bloque si la 404 ou un des 2 liens manque sur une sorte de page (FR/AR/EN).
