@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-16",
+ "maj": "2026-11-17",
  "explication": "Mots restés sans catégorie (à classer dans robot/categories.py quand ils reviennent).",
  "mots": [
   {
@@ -103,6 +103,11 @@
    "volume": 2000
   },
   {
+   "mot": "صحراء",
+   "fois": 1,
+   "volume": 2000
+  },
+  {
    "mot": "إصابة",
    "fois": 1,
    "volume": 1000
@@ -183,6 +188,11 @@
    "volume": 1000
   },
   {
+   "mot": "allemagne – pays-bas",
+   "fois": 1,
+   "volume": 1000
+  },
+  {
    "mot": "تهريب",
    "fois": 1,
    "volume": 500
@@ -249,6 +259,11 @@
   },
   {
    "mot": "اقتصاد",
+   "fois": 1,
+   "volume": 500
+  },
+  {
+   "mot": "soudan – sénégal",
    "fois": 1,
    "volume": 500
   },
@@ -378,17 +393,32 @@
    "volume": 200
   },
   {
-   "mot": "soudan – sénégal",
-   "fois": 1,
-   "volume": 200
-  },
-  {
    "mot": "abdelmadjid tebboune",
    "fois": 1,
    "volume": 200
   },
   {
    "mot": "espagne",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "germany vs netherlands",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "abir moussi",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "raphinha",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "robert pattinson",
    "fois": 1,
    "volume": 200
   },

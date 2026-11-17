@@ -10480,14 +10480,14 @@
    "debut": "2026-11-15T08:40:00",
    "debut_ts": 1794728400,
    "fin": null,
-   "volume": 200,
+   "volume": 500,
    "hausse": null,
    "liees": [],
    "codes": [],
    "categorie": "administration",
    "vu_premier": "2026-11-15T15:17:18",
-   "vu_dernier": "2026-11-15T15:17:18",
-   "releves": 1,
+   "vu_dernier": "2026-11-17T03:02:17",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -10780,14 +10780,14 @@
    "debut": "2026-11-16T14:40:00",
    "debut_ts": 1794836400,
    "fin": null,
-   "volume": 200,
+   "volume": 500,
    "hausse": null,
    "liees": [],
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-16T17:23:43",
-   "vu_dernier": "2026-11-16T17:23:43",
-   "releves": 1,
+   "vu_dernier": "2026-11-17T03:02:17",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -10800,14 +10800,14 @@
    "debut": "2026-11-16T14:30:00",
    "debut_ts": 1794835800,
    "fin": null,
-   "volume": 200,
+   "volume": 500,
    "hausse": null,
    "liees": [],
    "codes": [],
    "categorie": "football",
    "vu_premier": "2026-11-16T17:23:43",
-   "vu_dernier": "2026-11-16T17:23:43",
-   "releves": 1,
+   "vu_dernier": "2026-11-17T03:02:17",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -10820,14 +10820,14 @@
    "debut": "2026-11-16T14:10:00",
    "debut_ts": 1794834600,
    "fin": null,
-   "volume": 200,
+   "volume": 500,
    "hausse": null,
    "liees": [],
    "codes": [],
    "categorie": "meteo",
    "vu_premier": "2026-11-16T17:23:43",
-   "vu_dernier": "2026-11-16T17:23:43",
-   "releves": 1,
+   "vu_dernier": "2026-11-17T03:02:17",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -10972,7 +10972,127 @@
    "sources": [
     "rss"
    ]
+  },
+  "germany vs netherlands|498573": {
+   "mot": "germany vs netherlands",
+   "mot_norm": "germany vs netherlands",
+   "langue": "fr",
+   "debut": "2026-11-16T22:20:00",
+   "debut_ts": 1794864000,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-17T03:02:17",
+   "vu_dernier": "2026-11-17T03:02:17",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "abir moussi|498572": {
+   "mot": "abir moussi",
+   "mot_norm": "abir moussi",
+   "langue": "fr",
+   "debut": "2026-11-16T21:10:00",
+   "debut_ts": 1794859800,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-17T03:02:17",
+   "vu_dernier": "2026-11-17T03:02:17",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "allemagne - pays-bas|498571": {
+   "mot": "allemagne – pays-bas",
+   "mot_norm": "allemagne - pays-bas",
+   "langue": "fr",
+   "debut": "2026-11-16T20:10:00",
+   "debut_ts": 1794856200,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-17T03:02:17",
+   "vu_dernier": "2026-11-17T03:02:17",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "raphinha|498569": {
+   "mot": "raphinha",
+   "mot_norm": "raphinha",
+   "langue": "fr",
+   "debut": "2026-11-16T18:20:00",
+   "debut_ts": 1794849600,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-17T03:02:17",
+   "vu_dernier": "2026-11-17T03:02:17",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "robert pattinson|498569": {
+   "mot": "robert pattinson",
+   "mot_norm": "robert pattinson",
+   "langue": "fr",
+   "debut": "2026-11-16T18:00:00",
+   "debut_ts": 1794848400,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-17T03:02:17",
+   "vu_dernier": "2026-11-17T03:02:17",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "صحراء|498563": {
+   "mot": "صحراء",
+   "mot_norm": "صحراء",
+   "langue": "ar",
+   "debut": "2026-11-16T12:50:00",
+   "debut_ts": 1794829800,
+   "fin": null,
+   "volume": 2000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-17T03:02:17",
+   "vu_dernier": "2026-11-17T03:02:17",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-16T17:23:43"
+ "maj": "2026-11-17T03:02:17"
 }
