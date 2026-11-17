@@ -11092,7 +11092,207 @@
    "sources": [
     "rss"
    ]
+  },
+  "تونس ليبيا|498592": {
+   "mot": "تونس ليبيا",
+   "mot_norm": "تونس ليبيا",
+   "langue": "ar",
+   "debut": "2026-11-17T17:20:00",
+   "debut_ts": 1794932400,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "politique",
+   "vu_premier": "2026-11-17T17:27:59",
+   "vu_dernier": "2026-11-17T17:27:59",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "yalla kora|498592": {
+   "mot": "yalla kora",
+   "mot_norm": "yalla kora",
+   "langue": "fr",
+   "debut": "2026-11-17T17:00:00",
+   "debut_ts": 1794931200,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-17T17:27:59",
+   "vu_dernier": "2026-11-17T17:27:59",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "libya vs tunisia|498591": {
+   "mot": "libya vs tunisia",
+   "mot_norm": "libya vs tunisia",
+   "langue": "fr",
+   "debut": "2026-11-17T16:40:00",
+   "debut_ts": 1794930000,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-17T17:27:59",
+   "vu_dernier": "2026-11-17T17:27:59",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "togo - algerie|498591": {
+   "mot": "togo – algérie",
+   "mot_norm": "togo - algerie",
+   "langue": "fr",
+   "debut": "2026-11-17T16:40:00",
+   "debut_ts": 1794930000,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "politique",
+   "vu_premier": "2026-11-17T17:27:59",
+   "vu_dernier": "2026-11-17T17:27:59",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "kawarji live|498591": {
+   "mot": "kawarji live",
+   "mot_norm": "kawarji live",
+   "langue": "fr",
+   "debut": "2026-11-17T16:40:00",
+   "debut_ts": 1794930000,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-17T17:27:59",
+   "vu_dernier": "2026-11-17T17:27:59",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "libye - tunisie|498591": {
+   "mot": "libye – tunisie",
+   "mot_norm": "libye - tunisie",
+   "langue": "fr",
+   "debut": "2026-11-17T16:10:00",
+   "debut_ts": 1794928200,
+   "fin": null,
+   "volume": 10000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "politique",
+   "vu_premier": "2026-11-17T17:27:59",
+   "vu_dernier": "2026-11-17T17:27:59",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "ronaldinho ravenna|498590": {
+   "mot": "ronaldinho ravenna",
+   "mot_norm": "ronaldinho ravenna",
+   "langue": "fr",
+   "debut": "2026-11-17T15:40:00",
+   "debut_ts": 1794926400,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-17T17:27:59",
+   "vu_dernier": "2026-11-17T17:27:59",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "ابراهيم بودرباله|498589": {
+   "mot": "إبراهيم بودربالة",
+   "mot_norm": "ابراهيم بودرباله",
+   "langue": "ar",
+   "debut": "2026-11-17T14:40:00",
+   "debut_ts": 1794922800,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-17T17:27:59",
+   "vu_dernier": "2026-11-17T17:27:59",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "قيس سعيد|498589": {
+   "mot": "قيس سعيد",
+   "mot_norm": "قيس سعيد",
+   "langue": "ar",
+   "debut": "2026-11-17T14:10:00",
+   "debut_ts": 1794921000,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-17T17:27:59",
+   "vu_dernier": "2026-11-17T17:27:59",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "anne cecile mailfert|498589": {
+   "mot": "anne cecile mailfert",
+   "mot_norm": "anne cecile mailfert",
+   "langue": "fr",
+   "debut": "2026-11-17T14:10:00",
+   "debut_ts": 1794921000,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-17T17:27:59",
+   "vu_dernier": "2026-11-17T17:27:59",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-17T03:02:17"
+ "maj": "2026-11-17T17:27:59"
 }
