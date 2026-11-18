@@ -1,28 +1,16 @@
 {
- "maj": "2026-11-18T02:15:54",
+ "maj": "2026-11-18T16:57:41",
  "jour": "2026-11-18",
  "totaux": {
-  "tendances": 471,
-  "mots_distincts": 401,
-  "aujourdhui": 20,
-  "semaine": 110,
-  "mois": 471,
+  "tendances": 481,
+  "mots_distincts": 408,
+  "aujourdhui": 22,
+  "semaine": 114,
+  "mois": 481,
   "expressions_tapees": 2198,
   "premiere_lecture": "2026-11-01T10:46:10"
  },
  "aujourdhui": [
-  {
-   "mot": "libye – tunisie",
-   "slug": "libye-tunisie",
-   "langue": "fr",
-   "categorie": "politique",
-   "volume": 10000,
-   "hausse": null,
-   "debut": "2026-11-17T16:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-17"
-  },
   {
    "mot": "botswana – ouganda",
    "slug": "botswana-ouganda",
@@ -60,16 +48,40 @@
    "jour": "2026-11-17"
   },
   {
-   "mot": "libya vs tunisia",
-   "slug": "libya-vs-tunisia",
+   "mot": "twitch",
+   "slug": "twitch",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-18T11:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-18"
+  },
+  {
+   "mot": "kick",
+   "slug": "kick",
    "langue": "fr",
    "categorie": "autre",
    "volume": 1000,
    "hausse": null,
-   "debut": "2026-11-17T16:40:00",
+   "debut": "2026-11-18T12:00:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-17"
+   "jour": "2026-11-18"
+  },
+  {
+   "mot": "tunisair",
+   "slug": "tunisair",
+   "langue": "fr",
+   "categorie": "tourisme",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-18T05:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-18"
   },
   {
    "mot": "argentine – costa rica",
@@ -91,18 +103,6 @@
    "volume": 500,
    "hausse": null,
    "debut": "2026-11-17T20:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-17"
-  },
-  {
-   "mot": "togo – algérie",
-   "slug": "togo-algerie",
-   "langue": "fr",
-   "categorie": "politique",
-   "volume": 500,
-   "hausse": null,
-   "debut": "2026-11-17T16:40:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-17"
@@ -144,28 +144,28 @@
    "jour": "2026-11-17"
   },
   {
-   "mot": "anne cecile mailfert",
-   "slug": "anne-cecile-mailfert",
+   "mot": "classement équipe du botswana de football – équipe d'ouganda de football",
+   "slug": "classement-equipe-du-botswana-de-football-equipe-d-ouganda-de-football",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-18T05:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-18"
+  },
+  {
+   "mot": "koh lanta all stars",
+   "slug": "koh-lanta-all-stars",
    "langue": "fr",
    "categorie": "autre",
    "volume": 200,
    "hausse": null,
-   "debut": "2026-11-17T14:10:00",
+   "debut": "2026-11-18T14:00:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-17"
-  },
-  {
-   "mot": "إبراهيم بودربالة",
-   "slug": "ابراهيم-بودرباله",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-17T14:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-17"
+   "jour": "2026-11-18"
   },
   {
    "mot": "تونس ليبيا",
@@ -175,18 +175,6 @@
    "volume": 200,
    "hausse": null,
    "debut": "2026-11-17T17:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-17"
-  },
-  {
-   "mot": "قيس سعيد",
-   "slug": "قيس-سعيد",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-17T14:10:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-17"
@@ -204,28 +192,16 @@
    "jour": "2026-11-17"
   },
   {
-   "mot": "kawarji live",
-   "slug": "kawarji-live",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 100,
+   "mot": "وزارة",
+   "slug": "وزاره",
+   "langue": "ar",
+   "categorie": "administration",
+   "volume": 200,
    "hausse": null,
-   "debut": "2026-11-17T16:40:00",
+   "debut": "2026-11-18T15:20:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-17"
-  },
-  {
-   "mot": "ronaldinho ravenna",
-   "slug": "ronaldinho-ravenna",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-17T15:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-17"
+   "jour": "2026-11-18"
   },
   {
    "mot": "togo vs algeria",
@@ -240,6 +216,18 @@
    "jour": "2026-11-17"
   },
   {
+   "mot": "transport",
+   "slug": "transport",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-18T08:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-18"
+  },
+  {
    "mot": "tun vs libya",
    "slug": "tun-vs-libya",
    "langue": "fr",
@@ -250,6 +238,42 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-17"
+  },
+  {
+   "mot": "شاحنة",
+   "slug": "شاحنه",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-18T06:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-18"
+  },
+  {
+   "mot": "كأس الأمم الإفريقية",
+   "slug": "كاس-الامم-الافريقيه",
+   "langue": "ar",
+   "categorie": "football",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-18T08:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-18"
+  },
+  {
+   "mot": "مالية",
+   "slug": "ماليه",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-18T16:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-18"
   }
  ],
  "semaine": [
@@ -398,18 +422,6 @@
    "jour": "2026-11-17"
   },
   {
-   "mot": "police",
-   "slug": "police",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 2000,
-   "hausse": null,
-   "debut": "2026-11-11T12:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-11"
-  },
-  {
    "mot": "portugal – danemark",
    "slug": "portugal-danemark",
    "langue": "fr",
@@ -444,6 +456,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-12"
+  },
+  {
+   "mot": "twitch",
+   "slug": "twitch",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-18T11:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-18"
   },
   {
    "mot": "électricité",
@@ -542,6 +566,18 @@
    "jour": "2026-11-12"
   },
   {
+   "mot": "kick",
+   "slug": "kick",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-18T12:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-18"
+  },
+  {
    "mot": "libya vs tunisia",
    "slug": "libya-vs-tunisia",
    "langue": "fr",
@@ -626,6 +662,18 @@
    "jour": "2026-11-15"
   },
   {
+   "mot": "tunisair",
+   "slug": "tunisair",
+   "langue": "fr",
+   "categorie": "tourisme",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-18T05:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-18"
+  },
+  {
    "mot": "égypte – malawi",
    "slug": "egypte-malawi",
    "langue": "fr",
@@ -648,30 +696,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-12"
-  },
-  {
-   "mot": "محكمة",
-   "slug": "محكمه",
-   "langue": "ar",
-   "categorie": "administration",
-   "volume": 1000,
-   "hausse": null,
-   "debut": "2026-11-11T15:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-11"
-  },
-  {
-   "mot": "يوسف بلايلي",
-   "slug": "يوسف-بلايلي",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 1000,
-   "hausse": null,
-   "debut": "2026-11-11T13:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-11"
   },
   {
    "mot": "argentine – costa rica",
@@ -744,18 +768,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-14"
-  },
-  {
-   "mot": "koh lanta all stars",
-   "slug": "koh-lanta-all-stars",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 500,
-   "hausse": null,
-   "debut": "2026-11-11T15:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-11"
   },
   {
    "mot": "nations league",
@@ -926,18 +938,6 @@
    "jour": "2026-11-12"
   },
   {
-   "mot": "معين شعباني",
-   "slug": "معين-شعباني",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 500,
-   "hausse": null,
-   "debut": "2026-11-11T05:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-11"
-  },
-  {
    "mot": "منتخب المغرب لكرة القدم",
    "slug": "منتخب-المغرب-لكره-القدم",
    "langue": "ar",
@@ -1032,6 +1032,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-13"
+  },
+  {
+   "mot": "classement équipe du botswana de football – équipe d'ouganda de football",
+   "slug": "classement-equipe-du-botswana-de-football-equipe-d-ouganda-de-football",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-18T05:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-18"
   },
   {
    "mot": "czechia vs spain",
@@ -1140,6 +1152,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-12"
+  },
+  {
+   "mot": "koh lanta all stars",
+   "slug": "koh-lanta-all-stars",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-18T14:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-18"
   },
   {
    "mot": "kora",
@@ -1358,6 +1382,18 @@
    "jour": "2026-11-17"
   },
   {
+   "mot": "وزارة",
+   "slug": "وزاره",
+   "langue": "ar",
+   "categorie": "administration",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-18T15:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-18"
+  },
+  {
    "mot": "ao3",
    "slug": "ao3",
    "langue": "fr",
@@ -1478,6 +1514,18 @@
    "jour": "2026-11-17"
   },
   {
+   "mot": "transport",
+   "slug": "transport",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-18T08:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-18"
+  },
+  {
    "mot": "tun vs libya",
    "slug": "tun-vs-libya",
    "langue": "fr",
@@ -1488,18 +1536,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-17"
-  },
-  {
-   "mot": "tunisie",
-   "slug": "tunisie",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-11T05:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-11"
   },
   {
    "mot": "twitch",
@@ -1562,6 +1598,42 @@
    "jour": "2026-11-16"
   },
   {
+   "mot": "شاحنة",
+   "slug": "شاحنه",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-18T06:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-18"
+  },
+  {
+   "mot": "كأس الأمم الإفريقية",
+   "slug": "كاس-الامم-الافريقيه",
+   "langue": "ar",
+   "categorie": "football",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-18T08:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-18"
+  },
+  {
+   "mot": "مالية",
+   "slug": "ماليه",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-18T16:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-18"
+  },
+  {
    "mot": "مطر",
    "slug": "مطر",
    "langue": "ar",
@@ -1575,18 +1647,6 @@
   }
  ],
  "nouveautes": [
-  {
-   "mot": "libye – tunisie",
-   "slug": "libye-tunisie",
-   "langue": "fr",
-   "categorie": "politique",
-   "volume": 10000,
-   "hausse": null,
-   "debut": "2026-11-17T16:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-17"
-  },
   {
    "mot": "botswana – ouganda",
    "slug": "botswana-ouganda",
@@ -1624,16 +1684,16 @@
    "jour": "2026-11-17"
   },
   {
-   "mot": "libya vs tunisia",
-   "slug": "libya-vs-tunisia",
+   "mot": "tunisair",
+   "slug": "tunisair",
    "langue": "fr",
-   "categorie": "autre",
+   "categorie": "tourisme",
    "volume": 1000,
    "hausse": null,
-   "debut": "2026-11-17T16:40:00",
+   "debut": "2026-11-18T05:40:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-17"
+   "jour": "2026-11-18"
   },
   {
    "mot": "argentine – costa rica",
@@ -1655,18 +1715,6 @@
    "volume": 500,
    "hausse": null,
    "debut": "2026-11-17T20:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-17"
-  },
-  {
-   "mot": "togo – algérie",
-   "slug": "togo-algerie",
-   "langue": "fr",
-   "categorie": "politique",
-   "volume": 500,
-   "hausse": null,
-   "debut": "2026-11-17T16:40:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-17"
@@ -1696,28 +1744,16 @@
    "jour": "2026-11-17"
   },
   {
-   "mot": "anne cecile mailfert",
-   "slug": "anne-cecile-mailfert",
+   "mot": "classement équipe du botswana de football – équipe d'ouganda de football",
+   "slug": "classement-equipe-du-botswana-de-football-equipe-d-ouganda-de-football",
    "langue": "fr",
-   "categorie": "autre",
+   "categorie": "football",
    "volume": 200,
    "hausse": null,
-   "debut": "2026-11-17T14:10:00",
+   "debut": "2026-11-18T05:30:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-17"
-  },
-  {
-   "mot": "إبراهيم بودربالة",
-   "slug": "ابراهيم-بودرباله",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-17T14:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-17"
+   "jour": "2026-11-18"
   },
   {
    "mot": "تونس ليبيا",
@@ -1732,40 +1768,16 @@
    "jour": "2026-11-17"
   },
   {
-   "mot": "قيس سعيد",
-   "slug": "قيس-سعيد",
+   "mot": "وزارة",
+   "slug": "وزاره",
    "langue": "ar",
-   "categorie": "autre",
+   "categorie": "administration",
    "volume": 200,
    "hausse": null,
-   "debut": "2026-11-17T14:10:00",
+   "debut": "2026-11-18T15:20:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-17"
-  },
-  {
-   "mot": "kawarji live",
-   "slug": "kawarji-live",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-17T16:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-17"
-  },
-  {
-   "mot": "ronaldinho ravenna",
-   "slug": "ronaldinho-ravenna",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-17T15:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-17"
+   "jour": "2026-11-18"
   },
   {
    "mot": "togo vs algeria",
@@ -1780,6 +1792,18 @@
    "jour": "2026-11-17"
   },
   {
+   "mot": "transport",
+   "slug": "transport",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-18T08:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-18"
+  },
+  {
    "mot": "tun vs libya",
    "slug": "tun-vs-libya",
    "langue": "fr",
@@ -1790,6 +1814,42 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-17"
+  },
+  {
+   "mot": "شاحنة",
+   "slug": "شاحنه",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-18T06:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-18"
+  },
+  {
+   "mot": "كأس الأمم الإفريقية",
+   "slug": "كاس-الامم-الافريقيه",
+   "langue": "ar",
+   "categorie": "football",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-18T08:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-18"
+  },
+  {
+   "mot": "مالية",
+   "slug": "ماليه",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-18T16:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-18"
   }
  ],
  "hausses": [
@@ -1866,18 +1926,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-07"
-  },
-  {
-   "mot": "babnet",
-   "slug": "babnet",
-   "langue": "fr",
-   "categorie": "politique",
-   "volume": 5000,
-   "hausse": 300,
-   "debut": "2026-11-04T04:40:00",
-   "fin": "2026-11-04T23:30:00",
-   "liees": [],
-   "jour": "2026-11-04"
   },
   {
    "mot": "classement atlético madrid – fc barcelone",
@@ -1995,6 +2043,18 @@
    "jour": "2026-11-07"
   },
   {
+   "mot": "police",
+   "slug": "police",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-11T12:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-11"
+  },
+  {
    "mot": "valencia vs real madrid",
    "slug": "valencia-vs-real-madrid",
    "langue": "fr",
@@ -2031,18 +2091,6 @@
    "jour": "2026-11-09"
   },
   {
-   "mot": "salaire",
-   "slug": "salaire",
-   "langue": "fr",
-   "categorie": "emploi",
-   "volume": 1000,
-   "hausse": 1000,
-   "debut": "2026-11-04T15:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-04"
-  },
-  {
    "mot": "أيك ضد الريال",
    "slug": "ايك-ضد-الريال",
    "langue": "ar",
@@ -2068,18 +2116,6 @@
    "liees": [
     "تقاعد"
    ],
-   "jour": "2026-11-04"
-  },
-  {
-   "mot": "ذهب",
-   "slug": "ذهب",
-   "langue": "ar",
-   "categorie": "finance",
-   "volume": 1000,
-   "hausse": 700,
-   "debut": "2026-11-04T11:20:00",
-   "fin": "2026-11-04T21:00:00",
-   "liees": [],
    "jour": "2026-11-04"
   },
   {
@@ -2215,16 +2251,40 @@
    "jour": "2026-11-06"
   },
   {
-   "mot": "2027",
-   "slug": "2027",
-   "langue": "fr",
-   "categorie": "finance",
-   "volume": 500,
-   "hausse": 1000,
-   "debut": "2026-11-04T16:00:00",
+   "mot": "ماهر الكنزاري",
+   "slug": "ماهر-الكنزاري",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-10T15:10:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-04"
+   "jour": "2026-11-10"
+  },
+  {
+   "mot": "محكمة",
+   "slug": "محكمه",
+   "langue": "ar",
+   "categorie": "administration",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-11T15:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-11"
+  },
+  {
+   "mot": "يوسف بلايلي",
+   "slug": "يوسف-بلايلي",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-11T13:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-11"
   },
   {
    "mot": "aek athens f.c. vs real madrid standings",
@@ -2249,80 +2309,6 @@
    "fin": null,
    "liees": [
     "lens – côme"
-   ],
-   "jour": "2026-11-04"
-  },
-  {
-   "mot": "gta6",
-   "slug": "gta6",
-   "langue": "fr",
-   "categorie": "divertissement",
-   "volume": 500,
-   "hausse": 800,
-   "debut": "2026-11-04T14:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-04"
-  },
-  {
-   "mot": "عقوبة",
-   "slug": "عقوبه",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 500,
-   "hausse": 700,
-   "debut": "2026-11-04T16:50:00",
-   "fin": "2026-11-04T23:40:00",
-   "liees": [],
-   "jour": "2026-11-04"
-  },
-  {
-   "mot": "تقاعد",
-   "slug": "تقاعد",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 500,
-   "hausse": 600,
-   "debut": "2026-11-04T06:30:00",
-   "fin": "2026-11-04T14:00:00",
-   "liees": [],
-   "jour": "2026-11-04"
-  },
-  {
-   "mot": "حرارة",
-   "slug": "حراره",
-   "langue": "ar",
-   "categorie": "meteo",
-   "volume": 500,
-   "hausse": 500,
-   "debut": "2026-11-04T11:20:00",
-   "fin": "2026-11-05T00:10:00",
-   "liees": [],
-   "jour": "2026-11-04"
-  },
-  {
-   "mot": "ماهر الكنزاري",
-   "slug": "ماهر-الكنزاري",
-   "langue": "ar",
-   "categorie": "sport",
-   "volume": 500,
-   "hausse": 300,
-   "debut": "2026-11-04T05:20:00",
-   "fin": "2026-11-04T14:10:00",
-   "liees": [],
-   "jour": "2026-11-04"
-  },
-  {
-   "mot": "abdul el sayed",
-   "slug": "abdul-el-sayed",
-   "langue": "fr",
-   "categorie": "politique",
-   "volume": 500,
-   "hausse": 200,
-   "debut": "2026-11-04T07:10:00",
-   "fin": "2026-11-04T15:10:00",
-   "liees": [
-    "abdul el-sayed"
    ],
    "jour": "2026-11-04"
   },
@@ -2447,6 +2433,18 @@
    "jour": "2026-11-05"
   },
   {
+   "mot": "معين شعباني",
+   "slug": "معين-شعباني",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-11T05:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-11"
+  },
+  {
    "mot": "منتخب تونس لكرة القدم",
    "slug": "منتخب-تونس-لكره-القدم",
    "langue": "ar",
@@ -2479,18 +2477,6 @@
    "hausse": 1000,
    "debut": "2026-11-04T20:40:00",
    "fin": "2026-11-04T21:30:00",
-   "liees": [],
-   "jour": "2026-11-04"
-  },
-  {
-   "mot": "خطاب الكراهية",
-   "slug": "خطاب-الكراهيه",
-   "langue": "ar",
-   "categorie": "politique",
-   "volume": 200,
-   "hausse": 1000,
-   "debut": "2026-11-04T13:00:00",
-   "fin": "2026-11-04T19:00:00",
    "liees": [],
    "jour": "2026-11-04"
   },
@@ -2577,6 +2563,78 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-05"
+  },
+  {
+   "mot": "crystal palace – liverpool",
+   "slug": "crystal-palace-liverpool",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-08T14:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-08"
+  },
+  {
+   "mot": "elche – betis",
+   "slug": "elche-betis",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-08T13:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-08"
+  },
+  {
+   "mot": "es tunis vs monastir",
+   "slug": "es-tunis-vs-monastir",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-07T14:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-07"
+  },
+  {
+   "mot": "fc barcelona",
+   "slug": "fc-barcelona",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-08T21:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-08"
+  },
+  {
+   "mot": "fcb",
+   "slug": "fcb",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-08T21:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-08"
+  },
+  {
+   "mot": "fiorentina – juventus",
+   "slug": "fiorentina-juventus",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-08T21:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-08"
   }
  ],
  "recurrents": [
@@ -2643,6 +2701,19 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-16",
+   "jours": 3
+  },
+  {
+   "mot": "twitch",
+   "slug": "twitch",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-18T11:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-18",
    "jours": 3
   },
   {
@@ -2833,10 +2904,36 @@
   "tourisme": {
    "fr": "Tourisme et voyages",
    "ar": "السياحة والسفر",
-   "n_semaine": 0,
-   "n_mois": 6,
-   "top": [],
-   "top24": []
+   "n_semaine": 1,
+   "n_mois": 7,
+   "top": [
+    {
+     "mot": "tunisair",
+     "slug": "tunisair",
+     "langue": "fr",
+     "categorie": "tourisme",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-18T05:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-18"
+    }
+   ],
+   "top24": [
+    {
+     "mot": "tunisair",
+     "slug": "tunisair",
+     "langue": "fr",
+     "categorie": "tourisme",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-18T05:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-18"
+    }
+   ]
   },
   "sante": {
    "fr": "Santé",
@@ -2866,20 +2963,8 @@
    "fr": "Administration et démarches",
    "ar": "الإدارة والإجراءات",
    "n_semaine": 2,
-   "n_mois": 18,
+   "n_mois": 19,
    "top": [
-    {
-     "mot": "محكمة",
-     "slug": "محكمه",
-     "langue": "ar",
-     "categorie": "administration",
-     "volume": 1000,
-     "hausse": null,
-     "debut": "2026-11-11T15:10:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-11"
-    },
     {
      "mot": "passeport",
      "slug": "passeport",
@@ -2891,9 +2976,34 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-15"
+    },
+    {
+     "mot": "وزارة",
+     "slug": "وزاره",
+     "langue": "ar",
+     "categorie": "administration",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-18T15:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-18"
     }
    ],
-   "top24": []
+   "top24": [
+    {
+     "mot": "وزارة",
+     "slug": "وزاره",
+     "langue": "ar",
+     "categorie": "administration",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-18T15:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-18"
+    }
+   ]
   },
   "energie": {
    "fr": "Énergie",
@@ -2940,8 +3050,8 @@
   "football": {
    "fr": "Football",
    "ar": "كرة القدم",
-   "n_semaine": 13,
-   "n_mois": 203,
+   "n_semaine": 15,
+   "n_mois": 205,
    "top": [
     {
      "mot": "كرة القدم",
@@ -3064,6 +3174,18 @@
      "jour": "2026-11-13"
     },
     {
+     "mot": "classement équipe du botswana de football – équipe d'ouganda de football",
+     "slug": "classement-equipe-du-botswana-de-football-equipe-d-ouganda-de-football",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-18T05:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-18"
+    },
+    {
      "mot": "kora",
      "slug": "kora",
      "langue": "fr",
@@ -3098,6 +3220,18 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-15"
+    },
+    {
+     "mot": "كأس الأمم الإفريقية",
+     "slug": "كاس-الامم-الافريقيه",
+     "langue": "ar",
+     "categorie": "football",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-18T08:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-18"
     }
    ],
    "top24": [
@@ -3112,6 +3246,30 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-17"
+    },
+    {
+     "mot": "classement équipe du botswana de football – équipe d'ouganda de football",
+     "slug": "classement-equipe-du-botswana-de-football-equipe-d-ouganda-de-football",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-18T05:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-18"
+    },
+    {
+     "mot": "كأس الأمم الإفريقية",
+     "slug": "كاس-الامم-الافريقيه",
+     "langue": "ar",
+     "categorie": "football",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-18T08:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-18"
     }
    ]
   },
@@ -3342,8 +3500,8 @@
   "autre": {
    "fr": "Autre",
    "ar": "أخرى",
-   "n_semaine": 81,
-   "n_mois": 123,
+   "n_semaine": 82,
+   "n_mois": 129,
    "top": [
     {
      "mot": "espagne – angleterre",
@@ -3454,18 +3612,6 @@
      "jour": "2026-11-17"
     },
     {
-     "mot": "police",
-     "slug": "police",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 2000,
-     "hausse": null,
-     "debut": "2026-11-11T12:10:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-11"
-    },
-    {
      "mot": "portugal – danemark",
      "slug": "portugal-danemark",
      "langue": "fr",
@@ -3500,6 +3646,18 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-12"
+    },
+    {
+     "mot": "twitch",
+     "slug": "twitch",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-18T11:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-18"
     },
     {
      "mot": "صحراء",
@@ -3548,6 +3706,18 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-15"
+    },
+    {
+     "mot": "kick",
+     "slug": "kick",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-18T12:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-18"
     },
     {
      "mot": "libya vs tunisia",
@@ -3646,18 +3816,6 @@
      "jour": "2026-11-12"
     },
     {
-     "mot": "يوسف بلايلي",
-     "slug": "يوسف-بلايلي",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 1000,
-     "hausse": null,
-     "debut": "2026-11-11T13:00:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-11"
-    },
-    {
      "mot": "argentine – costa rica",
      "slug": "argentine-costa-rica",
      "langue": "fr",
@@ -3704,18 +3862,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-14"
-    },
-    {
-     "mot": "koh lanta all stars",
-     "slug": "koh-lanta-all-stars",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-11T15:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-11"
     },
     {
      "mot": "nations league",
@@ -3788,18 +3934,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-15"
-    },
-    {
-     "mot": "معين شعباني",
-     "slug": "معين-شعباني",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-11T05:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-11"
     },
     {
      "mot": "نور الدين البحيري",
@@ -3970,6 +4104,18 @@
      "jour": "2026-11-12"
     },
     {
+     "mot": "koh lanta all stars",
+     "slug": "koh-lanta-all-stars",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-18T14:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-18"
+    },
+    {
      "mot": "nations league",
      "slug": "nations-league",
      "langue": "fr",
@@ -4064,6 +4210,18 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-13"
+    },
+    {
+     "mot": "économie",
+     "slug": "economie",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-15T09:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-15"
     }
    ],
    "top24": [
@@ -4102,6 +4260,30 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-17"
+    },
+    {
+     "mot": "twitch",
+     "slug": "twitch",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-18T11:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-18"
+    },
+    {
+     "mot": "kick",
+     "slug": "kick",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-18T12:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-18"
     },
     {
      "mot": "libya vs tunisia",
@@ -4162,30 +4344,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-17"
-    },
-    {
-     "mot": "anne cecile mailfert",
-     "slug": "anne-cecile-mailfert",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-17T14:10:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-17"
-    },
-    {
-     "mot": "إبراهيم بودربالة",
-     "slug": "ابراهيم-بودرباله",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-17T14:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-17"
     }
    ]
   }
@@ -4209,7 +4367,7 @@
  "historique": {
   "semaines": {
    "2026-11-16": {
-    "n": 34,
+    "n": 44,
     "top": [
      {
       "mot": "libye – tunisie",
@@ -4260,6 +4418,18 @@
       "jour": "2026-11-17"
      },
      {
+      "mot": "twitch",
+      "slug": "twitch",
+      "langue": "fr",
+      "categorie": "autre",
+      "volume": 2000,
+      "hausse": null,
+      "debut": "2026-11-18T11:30:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-18"
+     },
+     {
       "mot": "صحراء",
       "slug": "صحراء",
       "langue": "ar",
@@ -4296,6 +4466,18 @@
       "jour": "2026-11-16"
      },
      {
+      "mot": "kick",
+      "slug": "kick",
+      "langue": "fr",
+      "categorie": "autre",
+      "volume": 1000,
+      "hausse": null,
+      "debut": "2026-11-18T12:00:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-18"
+     },
+     {
       "mot": "libya vs tunisia",
       "slug": "libya-vs-tunisia",
       "langue": "fr",
@@ -4306,40 +4488,16 @@
       "fin": null,
       "liees": [],
       "jour": "2026-11-17"
-     },
-     {
-      "mot": "argentine – costa rica",
-      "slug": "argentine-costa-rica",
-      "langue": "fr",
-      "categorie": "autre",
-      "volume": 500,
-      "hausse": null,
-      "debut": "2026-11-17T23:40:00",
-      "fin": null,
-      "liees": [],
-      "jour": "2026-11-17"
-     },
-     {
-      "mot": "coupe d'afrique des nations de football 2027",
-      "slug": "coupe-d-afrique-des-nations-de-football-2027",
-      "langue": "fr",
-      "categorie": "football",
-      "volume": 500,
-      "hausse": null,
-      "debut": "2026-11-16T06:10:00",
-      "fin": null,
-      "liees": [],
-      "jour": "2026-11-16"
      }
     ],
     "categories": [
      {
       "cle": "autre",
-      "n": 26
+      "n": 32
      },
      {
       "cle": "football",
-      "n": 4
+      "n": 6
      },
      {
       "cle": "politique",
@@ -4347,6 +4505,14 @@
      },
      {
       "cle": "meteo",
+      "n": 1
+     },
+     {
+      "cle": "administration",
+      "n": 1
+     },
+     {
+      "cle": "tourisme",
       "n": 1
      }
     ]
@@ -5121,7 +5287,7 @@
   },
   "mois": {
    "2026-11": {
-    "n": 287,
+    "n": 297,
     "top": [
      {
       "mot": "classement stade tunisien – club africain",
@@ -5265,11 +5431,11 @@
     "categories": [
      {
       "cle": "autre",
-      "n": 118
+      "n": 124
      },
      {
       "cle": "football",
-      "n": 98
+      "n": 100
      },
      {
       "cle": "sport",
@@ -5280,12 +5446,12 @@
       "n": 13
      },
      {
-      "cle": "meteo",
+      "cle": "administration",
       "n": 8
      },
      {
-      "cle": "administration",
-      "n": 7
+      "cle": "meteo",
+      "n": 8
      },
      {
       "cle": "finance",
@@ -5300,15 +5466,15 @@
       "n": 4
      },
      {
+      "cle": "tourisme",
+      "n": 4
+     },
+     {
       "cle": "commerce",
       "n": 3
      },
      {
       "cle": "immobilier",
-      "n": 3
-     },
-     {
-      "cle": "tourisme",
       "n": 3
      },
      {
@@ -11287,8 +11453,20 @@
    "mot_norm": "kick",
    "slug": "kick",
    "langue": "fr",
-   "categorie": "divertissement",
+   "categorie": "autre",
    "episodes": [
+    {
+     "mot": "kick",
+     "slug": "kick",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-18T12:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-18"
+    },
     {
      "mot": "kick",
      "slug": "kick",
@@ -11302,7 +11480,7 @@
      "jour": "2026-10-26"
     }
    ],
-   "jours": 1,
+   "jours": 2,
    "volume_max": 2000,
    "liees": []
   },
@@ -11931,6 +12109,54 @@
     }
    ],
    "jours": 1,
+   "volume_max": 2000,
+   "liees": []
+  },
+  {
+   "mot": "twitch",
+   "mot_norm": "twitch",
+   "slug": "twitch",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "twitch",
+     "slug": "twitch",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-18T11:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-18"
+    },
+    {
+     "mot": "twitch",
+     "slug": "twitch",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-14T20:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
+    },
+    {
+     "mot": "twitch",
+     "slug": "twitch",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-06T23:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-06"
+    }
+   ],
+   "jours": 3,
    "volume_max": 2000,
    "liees": []
   },
@@ -13298,6 +13524,30 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-09"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 1000,
+   "liees": []
+  },
+  {
+   "mot": "tunisair",
+   "mot_norm": "tunisair",
+   "slug": "tunisair",
+   "langue": "fr",
+   "categorie": "tourisme",
+   "episodes": [
+    {
+     "mot": "tunisair",
+     "slug": "tunisair",
+     "langue": "fr",
+     "categorie": "tourisme",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-18T05:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-18"
     }
    ],
    "jours": 1,
@@ -14746,6 +14996,18 @@
      "slug": "koh-lanta-all-stars",
      "langue": "fr",
      "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-18T14:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-18"
+    },
+    {
+     "mot": "koh lanta all stars",
+     "slug": "koh-lanta-all-stars",
+     "langue": "fr",
+     "categorie": "autre",
      "volume": 500,
      "hausse": null,
      "debut": "2026-11-11T15:50:00",
@@ -14754,7 +15016,7 @@
      "jour": "2026-11-11"
     }
    ],
-   "jours": 1,
+   "jours": 2,
    "volume_max": 500,
    "liees": []
   },
@@ -16732,6 +16994,30 @@
      "fin": "2026-10-25T19:00:00",
      "liees": [],
      "jour": "2026-10-25"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
+   "mot": "classement équipe du botswana de football – équipe d'ouganda de football",
+   "mot_norm": "classement equipe du botswana de football - equipe d'ouganda de football",
+   "slug": "classement-equipe-du-botswana-de-football-equipe-d-ouganda-de-football",
+   "langue": "fr",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "classement équipe du botswana de football – équipe d'ouganda de football",
+     "slug": "classement-equipe-du-botswana-de-football-equipe-d-ouganda-de-football",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-18T05:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-18"
     }
    ],
    "jours": 1,
@@ -19101,6 +19387,30 @@
    "liees": []
   },
   {
+   "mot": "وزارة",
+   "mot_norm": "وزاره",
+   "slug": "وزاره",
+   "langue": "ar",
+   "categorie": "administration",
+   "episodes": [
+    {
+     "mot": "وزارة",
+     "slug": "وزاره",
+     "langue": "ar",
+     "categorie": "administration",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-18T15:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-18"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
    "mot": "وزارة التربية",
    "mot_norm": "وزاره التربيه",
    "slug": "وزاره-التربيه",
@@ -20157,6 +20467,30 @@
    "liees": []
   },
   {
+   "mot": "transport",
+   "mot_norm": "transport",
+   "slug": "transport",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "transport",
+     "slug": "transport",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-18T08:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-18"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 100,
+   "liees": []
+  },
+  {
    "mot": "tun vs libya",
    "mot_norm": "tun vs libya",
    "slug": "tun-vs-libya",
@@ -20201,42 +20535,6 @@
     }
    ],
    "jours": 1,
-   "volume_max": 100,
-   "liees": []
-  },
-  {
-   "mot": "twitch",
-   "mot_norm": "twitch",
-   "slug": "twitch",
-   "langue": "fr",
-   "categorie": "autre",
-   "episodes": [
-    {
-     "mot": "twitch",
-     "slug": "twitch",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-14T20:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-14"
-    },
-    {
-     "mot": "twitch",
-     "slug": "twitch",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-06T23:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-06"
-    }
-   ],
-   "jours": 2,
    "volume_max": 100,
    "liees": []
   },
@@ -20385,6 +20683,30 @@
    "liees": []
   },
   {
+   "mot": "شاحنة",
+   "mot_norm": "شاحنه",
+   "slug": "شاحنه",
+   "langue": "ar",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "شاحنة",
+     "slug": "شاحنه",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-18T06:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-18"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 100,
+   "liees": []
+  },
+  {
    "mot": "قطار",
    "mot_norm": "قطار",
    "slug": "قطار",
@@ -20402,6 +20724,54 @@
      "fin": "2026-10-29T09:50:00",
      "liees": [],
      "jour": "2026-10-29"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 100,
+   "liees": []
+  },
+  {
+   "mot": "كأس الأمم الإفريقية",
+   "mot_norm": "كاس الامم الافريقيه",
+   "slug": "كاس-الامم-الافريقيه",
+   "langue": "ar",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "كأس الأمم الإفريقية",
+     "slug": "كاس-الامم-الافريقيه",
+     "langue": "ar",
+     "categorie": "football",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-18T08:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-18"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 100,
+   "liees": []
+  },
+  {
+   "mot": "مالية",
+   "mot_norm": "ماليه",
+   "slug": "ماليه",
+   "langue": "ar",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "مالية",
+     "slug": "ماليه",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-18T16:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-18"
     }
    ],
    "jours": 1,
