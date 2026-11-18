@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-17",
+ "maj": "2026-11-18",
  "explication": "Mots restés sans catégorie (à classer dans robot/categories.py quand ils reviennent).",
  "mots": [
   {
@@ -104,6 +104,21 @@
   },
   {
    "mot": "صحراء",
+   "fois": 1,
+   "volume": 2000
+  },
+  {
+   "mot": "niger – maroc",
+   "fois": 1,
+   "volume": 2000
+  },
+  {
+   "mot": "pays de galles – portugal",
+   "fois": 1,
+   "volume": 2000
+  },
+  {
+   "mot": "botswana – ouganda",
    "fois": 1,
    "volume": 2000
   },
@@ -269,6 +284,21 @@
   },
   {
    "mot": "soudan – sénégal",
+   "fois": 1,
+   "volume": 500
+  },
+  {
+   "mot": "argentine – costa rica",
+   "fois": 1,
+   "volume": 500
+  },
+  {
+   "mot": "wales vs portugal",
+   "fois": 1,
+   "volume": 500
+  },
+  {
+   "mot": "danemark – norvège",
    "fois": 1,
    "volume": 500
   },
@@ -443,6 +473,16 @@
    "volume": 200
   },
   {
+   "mot": "africa cup of nations qualification",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "مباريات اليوم",
+   "fois": 1,
+   "volume": 200
+  },
+  {
    "mot": "قطار",
    "fois": 1,
    "volume": 100
@@ -519,6 +559,16 @@
   },
   {
    "mot": "ronaldinho ravenna",
+   "fois": 1,
+   "volume": 100
+  },
+  {
+   "mot": "tun vs libya",
+   "fois": 1,
+   "volume": 100
+  },
+  {
+   "mot": "togo vs algeria",
    "fois": 1,
    "volume": 100
   }
