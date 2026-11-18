@@ -8,6 +8,11 @@
    "volume": 2000
   },
   {
+   "mot": "twitch",
+   "fois": 3,
+   "volume": 2000
+  },
+  {
    "mot": "خصم",
    "fois": 2,
    "volume": 1000
@@ -19,6 +24,11 @@
   },
   {
    "mot": "weather tomorrow",
+   "fois": 2,
+   "volume": 500
+  },
+  {
+   "mot": "koh lanta all stars",
    "fois": 2,
    "volume": 500
   },
@@ -36,11 +46,6 @@
    "mot": "إيران",
    "fois": 2,
    "volume": 200
-  },
-  {
-   "mot": "twitch",
-   "fois": 2,
-   "volume": 100
   },
   {
    "mot": "espagne – angleterre",
@@ -213,6 +218,11 @@
    "volume": 1000
   },
   {
+   "mot": "kick",
+   "fois": 1,
+   "volume": 1000
+  },
+  {
    "mot": "تهريب",
    "fois": 1,
    "volume": 500
@@ -249,11 +259,6 @@
   },
   {
    "mot": "معين شعباني",
-   "fois": 1,
-   "volume": 500
-  },
-  {
-   "mot": "koh lanta all stars",
    "fois": 1,
    "volume": 500
   },
@@ -569,6 +574,21 @@
   },
   {
    "mot": "togo vs algeria",
+   "fois": 1,
+   "volume": 100
+  },
+  {
+   "mot": "مالية",
+   "fois": 1,
+   "volume": 100
+  },
+  {
+   "mot": "transport",
+   "fois": 1,
+   "volume": 100
+  },
+  {
+   "mot": "شاحنة",
    "fois": 1,
    "volume": 100
   }

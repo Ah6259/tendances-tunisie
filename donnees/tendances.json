@@ -11492,7 +11492,207 @@
    "sources": [
     "rss"
    ]
+  },
+  "ماليه|498615": {
+   "mot": "مالية",
+   "mot_norm": "ماليه",
+   "langue": "ar",
+   "debut": "2026-11-18T16:00:00",
+   "debut_ts": 1795014000,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-18T16:57:34",
+   "vu_dernier": "2026-11-18T16:57:34",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "وزاره|498614": {
+   "mot": "وزارة",
+   "mot_norm": "وزاره",
+   "langue": "ar",
+   "debut": "2026-11-18T15:20:00",
+   "debut_ts": 1795011600,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "administration",
+   "vu_premier": "2026-11-18T16:57:34",
+   "vu_dernier": "2026-11-18T16:57:34",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "koh lanta all stars|498613": {
+   "mot": "koh lanta all stars",
+   "mot_norm": "koh lanta all stars",
+   "langue": "fr",
+   "debut": "2026-11-18T14:00:00",
+   "debut_ts": 1795006800,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-18T16:57:34",
+   "vu_dernier": "2026-11-18T16:57:34",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "kick|498611": {
+   "mot": "kick",
+   "mot_norm": "kick",
+   "langue": "fr",
+   "debut": "2026-11-18T12:00:00",
+   "debut_ts": 1794999600,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-18T16:57:34",
+   "vu_dernier": "2026-11-18T16:57:34",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "twitch|498610": {
+   "mot": "twitch",
+   "mot_norm": "twitch",
+   "langue": "fr",
+   "debut": "2026-11-18T11:30:00",
+   "debut_ts": 1794997800,
+   "fin": null,
+   "volume": 2000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-18T16:57:34",
+   "vu_dernier": "2026-11-18T16:57:34",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "كاس الامم الافريقيه|498607": {
+   "mot": "كأس الأمم الإفريقية",
+   "mot_norm": "كاس الامم الافريقيه",
+   "langue": "ar",
+   "debut": "2026-11-18T08:30:00",
+   "debut_ts": 1794987000,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-18T16:57:34",
+   "vu_dernier": "2026-11-18T16:57:34",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "transport|498607": {
+   "mot": "transport",
+   "mot_norm": "transport",
+   "langue": "fr",
+   "debut": "2026-11-18T08:20:00",
+   "debut_ts": 1794986400,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-18T16:57:34",
+   "vu_dernier": "2026-11-18T16:57:34",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "شاحنه|498605": {
+   "mot": "شاحنة",
+   "mot_norm": "شاحنه",
+   "langue": "ar",
+   "debut": "2026-11-18T06:20:00",
+   "debut_ts": 1794979200,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-18T16:57:34",
+   "vu_dernier": "2026-11-18T16:57:34",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "tunisair|498604": {
+   "mot": "tunisair",
+   "mot_norm": "tunisair",
+   "langue": "fr",
+   "debut": "2026-11-18T05:40:00",
+   "debut_ts": 1794976800,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "tourisme",
+   "vu_premier": "2026-11-18T16:57:34",
+   "vu_dernier": "2026-11-18T16:57:34",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "classement equipe du botswana de football - equipe d'ouganda de football|498604": {
+   "mot": "classement équipe du botswana de football – équipe d'ouganda de football",
+   "mot_norm": "classement equipe du botswana de football - equipe d'ouganda de football",
+   "langue": "fr",
+   "debut": "2026-11-18T05:30:00",
+   "debut_ts": 1794976200,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-18T16:57:34",
+   "vu_dernier": "2026-11-18T16:57:34",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-18T02:15:47"
+ "maj": "2026-11-18T16:57:34"
 }
