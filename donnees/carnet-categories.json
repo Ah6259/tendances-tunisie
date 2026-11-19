@@ -313,6 +313,11 @@
    "volume": 500
   },
   {
+   "mot": "gta6",
+   "fois": 1,
+   "volume": 500
+  },
+  {
    "mot": "crevette",
    "fois": 1,
    "volume": 200
@@ -493,6 +498,16 @@
    "volume": 200
   },
   {
+   "mot": "administration publique",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "بنتاغون",
+   "fois": 1,
+   "volume": 200
+  },
+  {
    "mot": "قطار",
    "fois": 1,
    "volume": 100
@@ -589,6 +604,16 @@
   },
   {
    "mot": "شاحنة",
+   "fois": 1,
+   "volume": 100
+  },
+  {
+   "mot": "زياد الجزيري",
+   "fois": 1,
+   "volume": 100
+  },
+  {
+   "mot": "boeing 747",
    "fois": 1,
    "volume": 100
   }

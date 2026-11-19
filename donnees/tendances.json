@@ -11732,7 +11732,207 @@
    "sources": [
     "rss"
    ]
+  },
+  "زياد الجزيري|498638": {
+   "mot": "زياد الجزيري",
+   "mot_norm": "زياد الجزيري",
+   "langue": "ar",
+   "debut": "2026-11-19T15:50:00",
+   "debut_ts": 1795099800,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-19T17:02:17",
+   "vu_dernier": "2026-11-19T17:02:17",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "administration publique|498637": {
+   "mot": "administration publique",
+   "mot_norm": "administration publique",
+   "langue": "fr",
+   "debut": "2026-11-19T14:40:00",
+   "debut_ts": 1795095600,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-19T17:02:17",
+   "vu_dernier": "2026-11-19T17:02:17",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "وزاره الشوون الدينيه|498632": {
+   "mot": "وزارة الشؤون الدينية",
+   "mot_norm": "وزاره الشوون الدينيه",
+   "langue": "ar",
+   "debut": "2026-11-19T09:30:00",
+   "debut_ts": 1795077000,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "administration",
+   "vu_premier": "2026-11-19T17:02:17",
+   "vu_dernier": "2026-11-19T17:02:17",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "boeing 747|498630": {
+   "mot": "boeing 747",
+   "mot_norm": "boeing 747",
+   "langue": "fr",
+   "debut": "2026-11-19T07:30:00",
+   "debut_ts": 1795069800,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-19T17:02:17",
+   "vu_dernier": "2026-11-19T17:02:17",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "ريال مدريد|498630": {
+   "mot": "ريال مدريد",
+   "mot_norm": "ريال مدريد",
+   "langue": "ar",
+   "debut": "2026-11-19T07:30:00",
+   "debut_ts": 1795069800,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-19T17:02:17",
+   "vu_dernier": "2026-11-19T17:02:17",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "مطر|498628": {
+   "mot": "مطر",
+   "mot_norm": "مطر",
+   "langue": "ar",
+   "debut": "2026-11-19T05:50:00",
+   "debut_ts": 1795063800,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "meteo",
+   "vu_premier": "2026-11-19T17:02:17",
+   "vu_dernier": "2026-11-19T17:02:17",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "بنتاغون|498628": {
+   "mot": "بنتاغون",
+   "mot_norm": "بنتاغون",
+   "langue": "ar",
+   "debut": "2026-11-19T05:20:00",
+   "debut_ts": 1795062000,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-19T17:02:17",
+   "vu_dernier": "2026-11-19T17:02:17",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "eau potable|498626": {
+   "mot": "eau potable",
+   "mot_norm": "eau potable",
+   "langue": "fr",
+   "debut": "2026-11-19T03:40:00",
+   "debut_ts": 1795056000,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "energie",
+   "vu_premier": "2026-11-19T17:02:17",
+   "vu_dernier": "2026-11-19T17:02:17",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "greve|498625": {
+   "mot": "grève",
+   "mot_norm": "greve",
+   "langue": "fr",
+   "debut": "2026-11-19T02:30:00",
+   "debut_ts": 1795051800,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "emploi",
+   "vu_premier": "2026-11-19T17:02:17",
+   "vu_dernier": "2026-11-19T17:02:17",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "gta6|498619": {
+   "mot": "gta6",
+   "mot_norm": "gta6",
+   "langue": "fr",
+   "debut": "2026-11-18T20:50:00",
+   "debut_ts": 1795031400,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-19T17:02:17",
+   "vu_dernier": "2026-11-19T17:02:17",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-19T01:42:51"
+ "maj": "2026-11-19T17:02:17"
 }
