@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-18",
+ "maj": "2026-11-19",
  "explication": "Mots restés sans catégorie (à classer dans robot/categories.py quand ils reviennent).",
  "mots": [
   {
@@ -10,6 +10,11 @@
   {
    "mot": "twitch",
    "fois": 3,
+   "volume": 2000
+  },
+  {
+   "mot": "gta 6",
+   "fois": 2,
    "volume": 2000
   },
   {
@@ -49,6 +54,11 @@
   },
   {
    "mot": "espagne – angleterre",
+   "fois": 1,
+   "volume": 5000
+  },
+  {
+   "mot": "kick",
    "fois": 1,
    "volume": 5000
   },
@@ -218,11 +228,6 @@
    "volume": 1000
   },
   {
-   "mot": "kick",
-   "fois": 1,
-   "volume": 1000
-  },
-  {
    "mot": "تهريب",
    "fois": 1,
    "volume": 500
@@ -349,11 +354,6 @@
   },
   {
    "mot": "fcb",
-   "fois": 1,
-   "volume": 200
-  },
-  {
-   "mot": "gta 6",
    "fois": 1,
    "volume": 200
   },
@@ -488,6 +488,11 @@
    "volume": 200
   },
   {
+   "mot": "مالية",
+   "fois": 1,
+   "volume": 200
+  },
+  {
    "mot": "قطار",
    "fois": 1,
    "volume": 100
@@ -574,11 +579,6 @@
   },
   {
    "mot": "togo vs algeria",
-   "fois": 1,
-   "volume": 100
-  },
-  {
-   "mot": "مالية",
    "fois": 1,
    "volume": 100
   },
