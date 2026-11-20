@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-19",
+ "maj": "2026-11-20",
  "explication": "Mots restés sans catégorie (à classer dans robot/categories.py quand ils reviennent).",
  "mots": [
   {
@@ -13,6 +13,11 @@
    "volume": 2000
   },
   {
+   "mot": "weather tomorrow",
+   "fois": 3,
+   "volume": 1000
+  },
+  {
    "mot": "gta 6",
    "fois": 2,
    "volume": 2000
@@ -24,11 +29,6 @@
   },
   {
    "mot": "طماطم",
-   "fois": 2,
-   "volume": 500
-  },
-  {
-   "mot": "weather tomorrow",
    "fois": 2,
    "volume": 500
   },
@@ -313,7 +313,22 @@
    "volume": 500
   },
   {
+   "mot": "زياد الجزيري",
+   "fois": 1,
+   "volume": 500
+  },
+  {
+   "mot": "administration publique",
+   "fois": 1,
+   "volume": 500
+  },
+  {
    "mot": "gta6",
+   "fois": 1,
+   "volume": 500
+  },
+  {
+   "mot": "arda güler",
    "fois": 1,
    "volume": 500
   },
@@ -498,11 +513,6 @@
    "volume": 200
   },
   {
-   "mot": "administration publique",
-   "fois": 1,
-   "volume": 200
-  },
-  {
    "mot": "بنتاغون",
    "fois": 1,
    "volume": 200
@@ -604,11 +614,6 @@
   },
   {
    "mot": "شاحنة",
-   "fois": 1,
-   "volume": 100
-  },
-  {
-   "mot": "زياد الجزيري",
    "fois": 1,
    "volume": 100
   },
