@@ -11946,8 +11946,8 @@
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-20T01:53:06",
-   "vu_dernier": "2026-11-20T01:53:06",
-   "releves": 1,
+   "vu_dernier": "2026-11-20T16:44:20",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -11972,7 +11972,107 @@
    "sources": [
     "rss"
    ]
+  },
+  "كهرباء|498662": {
+   "mot": "كهرباء",
+   "mot_norm": "كهرباء",
+   "langue": "ar",
+   "debut": "2026-11-20T15:40:00",
+   "debut_ts": 1795185600,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "energie",
+   "vu_premier": "2026-11-20T16:44:20",
+   "vu_dernier": "2026-11-20T16:44:20",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "ministere de la defense|498662": {
+   "mot": "ministère de la défense",
+   "mot_norm": "ministere de la defense",
+   "langue": "fr",
+   "debut": "2026-11-20T15:30:00",
+   "debut_ts": 1795185000,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "administration",
+   "vu_premier": "2026-11-20T16:44:20",
+   "vu_dernier": "2026-11-20T16:44:20",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "supermarche|498655": {
+   "mot": "supermarché",
+   "mot_norm": "supermarche",
+   "langue": "fr",
+   "debut": "2026-11-20T08:40:00",
+   "debut_ts": 1795160400,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-20T16:44:20",
+   "vu_dernier": "2026-11-20T16:44:20",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "meteo|498653": {
+   "mot": "meteo",
+   "mot_norm": "meteo",
+   "langue": "fr",
+   "debut": "2026-11-20T06:40:00",
+   "debut_ts": 1795153200,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "meteo",
+   "vu_premier": "2026-11-20T16:44:20",
+   "vu_dernier": "2026-11-20T16:44:20",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "طايره|498652": {
+   "mot": "طائرة",
+   "mot_norm": "طايره",
+   "langue": "ar",
+   "debut": "2026-11-20T05:20:00",
+   "debut_ts": 1795148400,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-20T16:44:20",
+   "vu_dernier": "2026-11-20T16:44:20",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-20T01:53:06"
+ "maj": "2026-11-20T16:44:20"
 }

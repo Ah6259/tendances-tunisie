@@ -333,6 +333,11 @@
    "volume": 500
   },
   {
+   "mot": "supermarché",
+   "fois": 1,
+   "volume": 500
+  },
+  {
    "mot": "crevette",
    "fois": 1,
    "volume": 200
@@ -619,6 +624,11 @@
   },
   {
    "mot": "boeing 747",
+   "fois": 1,
+   "volume": 100
+  },
+  {
+   "mot": "طائرة",
    "fois": 1,
    "volume": 100
   }
