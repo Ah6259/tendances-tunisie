@@ -1,12 +1,12 @@
 {
- "maj": "2026-11-19T17:02:25",
- "jour": "2026-11-19",
+ "maj": "2026-11-20T01:53:13",
+ "jour": "2026-11-20",
  "totaux": {
-  "tendances": 493,
-  "mots_distincts": 414,
-  "aujourdhui": 10,
-  "semaine": 119,
-  "mois": 493,
+  "tendances": 495,
+  "mots_distincts": 415,
+  "aujourdhui": 11,
+  "semaine": 109,
+  "mois": 495,
   "expressions_tapees": 2198,
   "premiere_lecture": "2026-11-01T10:46:10"
  },
@@ -24,6 +24,18 @@
    "jour": "2026-11-19"
   },
   {
+   "mot": "weather tomorrow",
+   "slug": "weather-tomorrow",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-19T20:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-19"
+  },
+  {
    "mot": "مطر",
    "slug": "مطر",
    "langue": "ar",
@@ -36,23 +48,11 @@
    "jour": "2026-11-19"
   },
   {
-   "mot": "gta6",
-   "slug": "gta6",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 500,
-   "hausse": null,
-   "debut": "2026-11-18T20:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-18"
-  },
-  {
    "mot": "وزارة الشؤون الدينية",
    "slug": "وزاره-الشوون-الدينيه",
    "langue": "ar",
    "categorie": "administration",
-   "volume": 500,
+   "volume": 1000,
    "hausse": null,
    "debut": "2026-11-19T09:30:00",
    "fin": null,
@@ -64,9 +64,33 @@
    "slug": "administration-publique",
    "langue": "fr",
    "categorie": "autre",
-   "volume": 200,
+   "volume": 500,
    "hausse": null,
    "debut": "2026-11-19T14:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-19"
+  },
+  {
+   "mot": "arda güler",
+   "slug": "arda-guler",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-19T16:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-19"
+  },
+  {
+   "mot": "زياد الجزيري",
+   "slug": "زياد-الجزيري",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-19T15:50:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-19"
@@ -118,18 +142,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-19"
-  },
-  {
-   "mot": "زياد الجزيري",
-   "slug": "زياد-الجزيري",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-19T15:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-19"
   }
  ],
  "semaine": [
@@ -168,18 +180,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-15"
-  },
-  {
-   "mot": "italie – france",
-   "slug": "italie-france",
-   "langue": "fr",
-   "categorie": "politique",
-   "volume": 5000,
-   "hausse": null,
-   "debut": "2026-11-12T20:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-12"
   },
   {
    "mot": "kick",
@@ -314,30 +314,6 @@
    "jour": "2026-11-14"
   },
   {
-   "mot": "tchéquie – espagne",
-   "slug": "tchequie-espagne",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 2000,
-   "hausse": null,
-   "debut": "2026-11-12T20:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-12"
-  },
-  {
-   "mot": "turquie – belgique",
-   "slug": "turquie-belgique",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 2000,
-   "hausse": null,
-   "debut": "2026-11-12T17:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-12"
-  },
-  {
    "mot": "twitch",
    "slug": "twitch",
    "langue": "fr",
@@ -410,18 +386,6 @@
    "jour": "2026-11-16"
   },
   {
-   "mot": "angleterre – croatie",
-   "slug": "angleterre-croatie",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 1000,
-   "hausse": null,
-   "debut": "2026-11-12T20:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-12"
-  },
-  {
    "mot": "belgique – italie",
    "slug": "belgique-italie",
    "langue": "fr",
@@ -456,18 +420,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-19"
-  },
-  {
-   "mot": "italy vs france",
-   "slug": "italy-vs-france",
-   "langue": "fr",
-   "categorie": "politique",
-   "volume": 1000,
-   "hausse": null,
-   "debut": "2026-11-12T20:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-12"
   },
   {
    "mot": "libya vs tunisia",
@@ -554,6 +506,18 @@
    "jour": "2026-11-18"
   },
   {
+   "mot": "weather tomorrow",
+   "slug": "weather-tomorrow",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-19T20:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-19"
+  },
+  {
    "mot": "égypte – malawi",
    "slug": "egypte-malawi",
    "langue": "fr",
@@ -566,18 +530,6 @@
    "jour": "2026-11-13"
   },
   {
-   "mot": "خالد السهيلي",
-   "slug": "خالد-السهيلي",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 1000,
-   "hausse": null,
-   "debut": "2026-11-12T22:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-12"
-  },
-  {
    "mot": "مطر",
    "slug": "مطر",
    "langue": "ar",
@@ -585,6 +537,42 @@
    "volume": 1000,
    "hausse": null,
    "debut": "2026-11-19T05:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-19"
+  },
+  {
+   "mot": "وزارة الشؤون الدينية",
+   "slug": "وزاره-الشوون-الدينيه",
+   "langue": "ar",
+   "categorie": "administration",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-19T09:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-19"
+  },
+  {
+   "mot": "administration publique",
+   "slug": "administration-publique",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-19T14:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-19"
+  },
+  {
+   "mot": "arda güler",
+   "slug": "arda-guler",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-19T16:40:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-19"
@@ -830,6 +818,18 @@
    "jour": "2026-11-15"
   },
   {
+   "mot": "زياد الجزيري",
+   "slug": "زياد-الجزيري",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-19T15:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-19"
+  },
+  {
    "mot": "منتخب المغرب لكرة القدم",
    "slug": "منتخب-المغرب-لكره-القدم",
    "langue": "ar",
@@ -854,18 +854,6 @@
    "jour": "2026-11-13"
   },
   {
-   "mot": "وزارة الشؤون الدينية",
-   "slug": "وزاره-الشوون-الدينيه",
-   "langue": "ar",
-   "categorie": "administration",
-   "volume": 500,
-   "hausse": null,
-   "debut": "2026-11-19T09:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-19"
-  },
-  {
    "mot": "abdelmadjid tebboune",
    "slug": "abdelmadjid-tebboune",
    "langue": "fr",
@@ -888,18 +876,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-16"
-  },
-  {
-   "mot": "administration publique",
-   "slug": "administration-publique",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-19T14:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-19"
   },
   {
    "mot": "africa cup of nations qualification",
@@ -962,30 +938,6 @@
    "jour": "2026-11-18"
   },
   {
-   "mot": "czechia vs spain",
-   "slug": "czechia-vs-spain",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-12T20:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-12"
-  },
-  {
-   "mot": "england vs croatia",
-   "slug": "england-vs-croatia",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-12T21:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-12"
-  },
-  {
    "mot": "espagne",
    "slug": "espagne",
    "langue": "fr",
@@ -1008,18 +960,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-14"
-  },
-  {
-   "mot": "france vs",
-   "slug": "france-vs",
-   "langue": "fr",
-   "categorie": "politique",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-12T22:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-12"
   },
   {
    "mot": "germany vs netherlands",
@@ -1056,18 +996,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-13"
-  },
-  {
-   "mot": "nations league",
-   "slug": "nations-league",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-12T21:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-12"
   },
   {
    "mot": "noureddine bhiri",
@@ -1128,18 +1056,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-16"
-  },
-  {
-   "mot": "sénégal – soudan",
-   "slug": "senegal-soudan",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-12T20:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-12"
   },
   {
    "mot": "tunis",
@@ -1370,18 +1286,6 @@
    "jour": "2026-11-13"
   },
   {
-   "mot": "ridha charfeddine",
-   "slug": "ridha-charfeddine",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-12T20:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-12"
-  },
-  {
    "mot": "ronaldinho",
    "slug": "ronaldinho",
    "langue": "fr",
@@ -1514,18 +1418,6 @@
    "jour": "2026-11-19"
   },
   {
-   "mot": "زياد الجزيري",
-   "slug": "زياد-الجزيري",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-19T15:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-19"
-  },
-  {
    "mot": "شاحنة",
    "slug": "شاحنه",
    "langue": "ar",
@@ -1568,7 +1460,7 @@
    "slug": "وزاره-الشوون-الدينيه",
    "langue": "ar",
    "categorie": "administration",
-   "volume": 500,
+   "volume": 1000,
    "hausse": null,
    "debut": "2026-11-19T09:30:00",
    "fin": null,
@@ -1580,9 +1472,33 @@
    "slug": "administration-publique",
    "langue": "fr",
    "categorie": "autre",
-   "volume": 200,
+   "volume": 500,
    "hausse": null,
    "debut": "2026-11-19T14:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-19"
+  },
+  {
+   "mot": "arda güler",
+   "slug": "arda-guler",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-19T16:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-19"
+  },
+  {
+   "mot": "زياد الجزيري",
+   "slug": "زياد-الجزيري",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-19T15:50:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-19"
@@ -1610,18 +1526,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-19"
-  },
-  {
-   "mot": "زياد الجزيري",
-   "slug": "زياد-الجزيري",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-19T15:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-19"
   }
  ],
  "hausses": [
@@ -1636,18 +1540,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-17"
-  },
-  {
-   "mot": "italie – france",
-   "slug": "italie-france",
-   "langue": "fr",
-   "categorie": "politique",
-   "volume": 5000,
-   "hausse": null,
-   "debut": "2026-11-12T20:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-12"
   },
   {
    "mot": "espagne – angleterre",
@@ -1724,6 +1616,18 @@
    "jour": "2026-11-07"
   },
   {
+   "mot": "italie – france",
+   "slug": "italie-france",
+   "langue": "fr",
+   "categorie": "politique",
+   "volume": 5000,
+   "hausse": null,
+   "debut": "2026-11-12T20:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
    "mot": "barca",
    "slug": "barca",
    "langue": "fr",
@@ -1784,6 +1688,30 @@
    "jour": "2026-11-11"
   },
   {
+   "mot": "tchéquie – espagne",
+   "slug": "tchequie-espagne",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-12T20:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
+   "mot": "turquie – belgique",
+   "slug": "turquie-belgique",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-12T17:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
    "mot": "valencia vs real madrid",
    "slug": "valencia-vs-real-madrid",
    "langue": "fr",
@@ -1832,6 +1760,18 @@
    "jour": "2026-11-09"
   },
   {
+   "mot": "angleterre – croatie",
+   "slug": "angleterre-croatie",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-12T20:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
    "mot": "fc barcelone",
    "slug": "fc-barcelone",
    "langue": "fr",
@@ -1854,6 +1794,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-10"
+  },
+  {
+   "mot": "italy vs france",
+   "slug": "italy-vs-france",
+   "langue": "fr",
+   "categorie": "politique",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-12T20:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
   },
   {
    "mot": "jamal musiala",
@@ -1938,6 +1890,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-08"
+  },
+  {
+   "mot": "خالد السهيلي",
+   "slug": "خالد-السهيلي",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-12T22:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
   },
   {
    "mot": "خصم",
@@ -2060,18 +2024,6 @@
    "jour": "2026-11-07"
   },
   {
-   "mot": "weather tomorrow",
-   "slug": "weather-tomorrow",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 500,
-   "hausse": null,
-   "debut": "2026-11-07T20:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-07"
-  },
-  {
    "mot": "النادي الإفريقي",
    "slug": "النادي-الافريقي",
    "langue": "ar",
@@ -2132,18 +2084,6 @@
    "jour": "2026-11-07"
   },
   {
-   "mot": "az – juventus",
-   "slug": "az-juventus",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-05T21:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-05"
-  },
-  {
    "mot": "centre national des sciences et technologies nucléaires",
    "slug": "centre-national-des-sciences-et-technologies-nucleaires",
    "langue": "fr",
@@ -2180,18 +2120,6 @@
    "jour": "2026-11-08"
   },
   {
-   "mot": "consommation",
-   "slug": "consommation",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-05T21:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-05"
-  },
-  {
    "mot": "crystal palace – liverpool",
    "slug": "crystal-palace-liverpool",
    "langue": "fr",
@@ -2204,6 +2132,18 @@
    "jour": "2026-11-08"
   },
   {
+   "mot": "czechia vs spain",
+   "slug": "czechia-vs-spain",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-12T20:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
+  },
+  {
    "mot": "elche – betis",
    "slug": "elche-betis",
    "langue": "fr",
@@ -2214,6 +2154,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-08"
+  },
+  {
+   "mot": "england vs croatia",
+   "slug": "england-vs-croatia",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-12T21:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
   },
   {
    "mot": "es tunis vs monastir",
@@ -2262,6 +2214,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-08"
+  },
+  {
+   "mot": "france vs",
+   "slug": "france-vs",
+   "langue": "fr",
+   "categorie": "politique",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-12T22:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-12"
   },
   {
    "mot": "hossam hassan",
@@ -2324,88 +2288,16 @@
    "jour": "2026-11-08"
   },
   {
-   "mot": "leverkusen – marseille",
-   "slug": "leverkusen-marseille",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-05T21:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-05"
-  },
-  {
-   "mot": "tomate",
-   "slug": "tomate",
+   "mot": "sénégal – soudan",
+   "slug": "senegal-soudan",
    "langue": "fr",
    "categorie": "autre",
    "volume": 200,
    "hausse": null,
-   "debut": "2026-11-05T18:40:00",
+   "debut": "2026-11-12T20:30:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-05"
-  },
-  {
-   "mot": "الخبر",
-   "slug": "الخبر",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-07T07:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-07"
-  },
-  {
-   "mot": "الشروق",
-   "slug": "الشروق",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-09T18:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-09"
-  },
-  {
-   "mot": "طماطم",
-   "slug": "طماطم",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-07T05:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-07"
-  },
-  {
-   "mot": "فالنسيا ضد الريال",
-   "slug": "فالنسيا-ضد-الريال",
-   "langue": "ar",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-07T21:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-07"
-  },
-  {
-   "mot": "وزارة التربية",
-   "slug": "وزاره-التربيه",
-   "langue": "ar",
-   "categorie": "administration",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-10T06:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-10"
+   "jour": "2026-11-12"
   }
  ],
  "recurrents": [
@@ -2578,6 +2470,19 @@
    "jours": 3
   },
   {
+   "mot": "weather tomorrow",
+   "slug": "weather-tomorrow",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-19T20:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-19",
+   "jours": 3
+  },
+  {
    "mot": "yalla kora",
    "slug": "yalla-kora",
    "langue": "fr",
@@ -2731,18 +2636,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-19"
-    },
-    {
-     "mot": "إضراب",
-     "slug": "اضراب",
-     "langue": "ar",
-     "categorie": "emploi",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-18T16:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-18"
     }
    ]
   },
@@ -2773,20 +2666,7 @@
      "jour": "2026-11-18"
     }
    ],
-   "top24": [
-    {
-     "mot": "tunisair",
-     "slug": "tunisair",
-     "langue": "fr",
-     "categorie": "tourisme",
-     "volume": 1000,
-     "hausse": null,
-     "debut": "2026-11-18T05:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-18"
-    }
-   ]
+   "top24": []
   },
   "sante": {
    "fr": "Santé",
@@ -2831,6 +2711,18 @@
      "jour": "2026-11-18"
     },
     {
+     "mot": "وزارة الشؤون الدينية",
+     "slug": "وزاره-الشوون-الدينيه",
+     "langue": "ar",
+     "categorie": "administration",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-19T09:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-19"
+    },
+    {
      "mot": "passeport",
      "slug": "passeport",
      "langue": "fr",
@@ -2841,39 +2733,15 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-15"
-    },
-    {
-     "mot": "وزارة الشؤون الدينية",
-     "slug": "وزاره-الشوون-الدينيه",
-     "langue": "ar",
-     "categorie": "administration",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-19T09:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-19"
     }
    ],
    "top24": [
     {
-     "mot": "وزارة",
-     "slug": "وزاره",
-     "langue": "ar",
-     "categorie": "administration",
-     "volume": 2000,
-     "hausse": null,
-     "debut": "2026-11-18T15:20:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-18"
-    },
-    {
      "mot": "وزارة الشؤون الدينية",
      "slug": "وزاره-الشوون-الدينيه",
      "langue": "ar",
      "categorie": "administration",
-     "volume": 500,
+     "volume": 1000,
      "hausse": null,
      "debut": "2026-11-19T09:30:00",
      "fin": null,
@@ -3138,18 +3006,6 @@
    ],
    "top24": [
     {
-     "mot": "classement équipe du botswana de football – équipe d'ouganda de football",
-     "slug": "classement-equipe-du-botswana-de-football-equipe-d-ouganda-de-football",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-18T05:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-18"
-    },
-    {
      "mot": "ريال مدريد",
      "slug": "ريال-مدريد",
      "langue": "ar",
@@ -3160,18 +3016,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-19"
-    },
-    {
-     "mot": "كأس الأمم الإفريقية",
-     "slug": "كاس-الامم-الافريقيه",
-     "langue": "ar",
-     "categorie": "football",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-18T08:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-18"
     }
    ]
   },
@@ -3265,7 +3109,7 @@
   "politique": {
    "fr": "Politique et actualité",
    "ar": "السياسة والأخبار",
-   "n_semaine": 8,
+   "n_semaine": 5,
    "n_mois": 15,
    "top": [
     {
@@ -3293,30 +3137,6 @@
      "jour": "2026-11-15"
     },
     {
-     "mot": "italie – france",
-     "slug": "italie-france",
-     "langue": "fr",
-     "categorie": "politique",
-     "volume": 5000,
-     "hausse": null,
-     "debut": "2026-11-12T20:00:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-12"
-    },
-    {
-     "mot": "italy vs france",
-     "slug": "italy-vs-france",
-     "langue": "fr",
-     "categorie": "politique",
-     "volume": 1000,
-     "hausse": null,
-     "debut": "2026-11-12T20:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-12"
-    },
-    {
      "mot": "togo – algérie",
      "slug": "togo-algerie",
      "langue": "fr",
@@ -3327,18 +3147,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-17"
-    },
-    {
-     "mot": "france vs",
-     "slug": "france-vs",
-     "langue": "fr",
-     "categorie": "politique",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-12T22:10:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-12"
     },
     {
      "mot": "tunisie vs libye",
@@ -3378,8 +3186,8 @@
   "autre": {
    "fr": "Autre",
    "ar": "أخرى",
-   "n_semaine": 83,
-   "n_mois": 135,
+   "n_semaine": 76,
+   "n_mois": 137,
    "top": [
     {
      "mot": "espagne – angleterre",
@@ -3526,30 +3334,6 @@
      "jour": "2026-11-14"
     },
     {
-     "mot": "tchéquie – espagne",
-     "slug": "tchequie-espagne",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 2000,
-     "hausse": null,
-     "debut": "2026-11-12T20:00:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-12"
-    },
-    {
-     "mot": "turquie – belgique",
-     "slug": "turquie-belgique",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 2000,
-     "hausse": null,
-     "debut": "2026-11-12T17:20:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-12"
-    },
-    {
      "mot": "twitch",
      "slug": "twitch",
      "langue": "fr",
@@ -3584,18 +3368,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-16"
-    },
-    {
-     "mot": "angleterre – croatie",
-     "slug": "angleterre-croatie",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 1000,
-     "hausse": null,
-     "debut": "2026-11-12T20:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-12"
     },
     {
      "mot": "belgique – italie",
@@ -3682,6 +3454,18 @@
      "jour": "2026-11-15"
     },
     {
+     "mot": "weather tomorrow",
+     "slug": "weather-tomorrow",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-19T20:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-19"
+    },
+    {
      "mot": "égypte – malawi",
      "slug": "egypte-malawi",
      "langue": "fr",
@@ -3694,16 +3478,28 @@
      "jour": "2026-11-13"
     },
     {
-     "mot": "خالد السهيلي",
-     "slug": "خالد-السهيلي",
-     "langue": "ar",
+     "mot": "administration publique",
+     "slug": "administration-publique",
+     "langue": "fr",
      "categorie": "autre",
-     "volume": 1000,
+     "volume": 500,
      "hausse": null,
-     "debut": "2026-11-12T22:20:00",
+     "debut": "2026-11-19T14:40:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-12"
+     "jour": "2026-11-19"
+    },
+    {
+     "mot": "arda güler",
+     "slug": "arda-guler",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-19T16:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-19"
     },
     {
      "mot": "argentine – costa rica",
@@ -3838,6 +3634,18 @@
      "jour": "2026-11-15"
     },
     {
+     "mot": "زياد الجزيري",
+     "slug": "زياد-الجزيري",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-19T15:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-19"
+    },
+    {
      "mot": "نور الدين البحيري",
      "slug": "نور-الدين-البحيري",
      "langue": "ar",
@@ -3874,18 +3682,6 @@
      "jour": "2026-11-16"
     },
     {
-     "mot": "administration publique",
-     "slug": "administration-publique",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-19T14:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-19"
-    },
-    {
      "mot": "africa cup of nations qualification",
      "slug": "africa-cup-of-nations-qualification",
      "langue": "fr",
@@ -3920,30 +3716,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-15"
-    },
-    {
-     "mot": "czechia vs spain",
-     "slug": "czechia-vs-spain",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-12T20:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-12"
-    },
-    {
-     "mot": "england vs croatia",
-     "slug": "england-vs-croatia",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-12T21:20:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-12"
     },
     {
      "mot": "espagne",
@@ -3992,18 +3764,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-14"
-    },
-    {
-     "mot": "nations league",
-     "slug": "nations-league",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-12T21:20:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-12"
     },
     {
      "mot": "noureddine bhiri",
@@ -4066,18 +3826,6 @@
      "jour": "2026-11-16"
     },
     {
-     "mot": "sénégal – soudan",
-     "slug": "senegal-soudan",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-12T20:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-12"
-    },
-    {
      "mot": "tunis",
      "slug": "tunis",
      "langue": "fr",
@@ -4100,77 +3848,113 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-15"
+    },
+    {
+     "mot": "إبراهيم بودربالة",
+     "slug": "ابراهيم-بودرباله",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-17T14:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-17"
+    },
+    {
+     "mot": "الولايات المتحدة",
+     "slug": "الولايات-المتحده",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-14T07:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-14"
+    },
+    {
+     "mot": "بنتاغون",
+     "slug": "بنتاغون",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-19T05:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-19"
+    },
+    {
+     "mot": "قيس سعيد",
+     "slug": "قيس-سعيد",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-17T14:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-17"
+    },
+    {
+     "mot": "مالية",
+     "slug": "ماليه",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-18T16:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-18"
     }
    ],
    "top24": [
     {
-     "mot": "kick",
-     "slug": "kick",
+     "mot": "weather tomorrow",
+     "slug": "weather-tomorrow",
      "langue": "fr",
      "categorie": "autre",
-     "volume": 5000,
+     "volume": 1000,
      "hausse": null,
-     "debut": "2026-11-18T12:00:00",
+     "debut": "2026-11-19T20:50:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-18"
-    },
-    {
-     "mot": "gta 6",
-     "slug": "gta-6",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 2000,
-     "hausse": null,
-     "debut": "2026-11-18T08:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-18"
-    },
-    {
-     "mot": "twitch",
-     "slug": "twitch",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 2000,
-     "hausse": null,
-     "debut": "2026-11-18T11:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-18"
-    },
-    {
-     "mot": "gta6",
-     "slug": "gta6",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-18T20:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-18"
-    },
-    {
-     "mot": "koh lanta all stars",
-     "slug": "koh-lanta-all-stars",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-18T14:00:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-18"
+     "jour": "2026-11-19"
     },
     {
      "mot": "administration publique",
      "slug": "administration-publique",
      "langue": "fr",
      "categorie": "autre",
-     "volume": 200,
+     "volume": 500,
      "hausse": null,
      "debut": "2026-11-19T14:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-19"
+    },
+    {
+     "mot": "arda güler",
+     "slug": "arda-guler",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-19T16:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-19"
+    },
+    {
+     "mot": "زياد الجزيري",
+     "slug": "زياد-الجزيري",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-19T15:50:00",
      "fin": null,
      "liees": [],
      "jour": "2026-11-19"
@@ -4188,18 +3972,6 @@
      "jour": "2026-11-19"
     },
     {
-     "mot": "مالية",
-     "slug": "ماليه",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-18T16:00:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-18"
-    },
-    {
      "mot": "boeing 747",
      "slug": "boeing-747",
      "langue": "fr",
@@ -4210,18 +3982,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-19"
-    },
-    {
-     "mot": "transport",
-     "slug": "transport",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-18T08:20:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-18"
     }
    ]
   }
@@ -4245,7 +4005,7 @@
  "historique": {
   "semaines": {
    "2026-11-16": {
-    "n": 56,
+    "n": 58,
     "top": [
      {
       "mot": "libye – tunisie",
@@ -4371,7 +4131,7 @@
     "categories": [
      {
       "cle": "autre",
-      "n": 38
+      "n": 40
      },
      {
       "cle": "football",
@@ -5173,7 +4933,7 @@
   },
   "mois": {
    "2026-11": {
-    "n": 309,
+    "n": 311,
     "top": [
      {
       "mot": "classement stade tunisien – club africain",
@@ -5317,7 +5077,7 @@
     "categories": [
      {
       "cle": "autre",
-      "n": 130
+      "n": 132
      },
      {
       "cle": "football",
@@ -13561,6 +13321,54 @@
    "liees": []
   },
   {
+   "mot": "weather tomorrow",
+   "mot_norm": "weather tomorrow",
+   "slug": "weather-tomorrow",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "weather tomorrow",
+     "slug": "weather-tomorrow",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-19T20:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-19"
+    },
+    {
+     "mot": "weather tomorrow",
+     "slug": "weather-tomorrow",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-11T20:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-11"
+    },
+    {
+     "mot": "weather tomorrow",
+     "slug": "weather-tomorrow",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-07T20:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-07"
+    }
+   ],
+   "jours": 3,
+   "volume_max": 1000,
+   "liees": []
+  },
+  {
    "mot": "égypte – malawi",
    "mot_norm": "egypte - malawi",
    "slug": "egypte-malawi",
@@ -14105,6 +13913,30 @@
    "liees": []
   },
   {
+   "mot": "وزارة الشؤون الدينية",
+   "mot_norm": "وزاره الشوون الدينيه",
+   "slug": "وزاره-الشوون-الدينيه",
+   "langue": "ar",
+   "categorie": "administration",
+   "episodes": [
+    {
+     "mot": "وزارة الشؤون الدينية",
+     "slug": "وزاره-الشوون-الدينيه",
+     "langue": "ar",
+     "categorie": "administration",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-19T09:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-19"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 1000,
+   "liees": []
+  },
+  {
    "mot": "يوسف بلايلي",
    "mot_norm": "يوسف بلايلي",
    "slug": "يوسف-بلايلي",
@@ -14217,6 +14049,30 @@
    "liees": []
   },
   {
+   "mot": "administration publique",
+   "mot_norm": "administration publique",
+   "slug": "administration-publique",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "administration publique",
+     "slug": "administration-publique",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-19T14:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-19"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 500,
+   "liees": []
+  },
+  {
    "mot": "aek athens f.c. vs real madrid standings",
    "mot_norm": "aek athens f.c. vs real madrid standings",
    "slug": "aek-athens-f-c-vs-real-madrid-standings",
@@ -14303,6 +14159,30 @@
    "liees": [
     "al kass"
    ]
+  },
+  {
+   "mot": "arda güler",
+   "mot_norm": "arda guler",
+   "slug": "arda-guler",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "arda güler",
+     "slug": "arda-guler",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-19T16:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-19"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 500,
+   "liees": []
   },
   {
    "mot": "argentine – costa rica",
@@ -15683,42 +15563,6 @@
    "liees": []
   },
   {
-   "mot": "weather tomorrow",
-   "mot_norm": "weather tomorrow",
-   "slug": "weather-tomorrow",
-   "langue": "fr",
-   "categorie": "autre",
-   "episodes": [
-    {
-     "mot": "weather tomorrow",
-     "slug": "weather-tomorrow",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-11T20:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-11"
-    },
-    {
-     "mot": "weather tomorrow",
-     "slug": "weather-tomorrow",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-07T20:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-07"
-    }
-   ],
-   "jours": 2,
-   "volume_max": 500,
-   "liees": []
-  },
-  {
    "mot": "yalla kora",
    "mot_norm": "yalla kora",
    "slug": "yalla-kora",
@@ -16057,6 +15901,30 @@
    "liees": [
     "ريال مدريد"
    ]
+  },
+  {
+   "mot": "زياد الجزيري",
+   "mot_norm": "زياد الجزيري",
+   "slug": "زياد-الجزيري",
+   "langue": "ar",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "زياد الجزيري",
+     "slug": "زياد-الجزيري",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-19T15:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-19"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 500,
+   "liees": []
   },
   {
    "mot": "زيت الزيتون",
@@ -16399,30 +16267,6 @@
    ]
   },
   {
-   "mot": "وزارة الشؤون الدينية",
-   "mot_norm": "وزاره الشوون الدينيه",
-   "slug": "وزاره-الشوون-الدينيه",
-   "langue": "ar",
-   "categorie": "administration",
-   "episodes": [
-    {
-     "mot": "وزارة الشؤون الدينية",
-     "slug": "وزاره-الشوون-الدينيه",
-     "langue": "ar",
-     "categorie": "administration",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-19T09:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-19"
-    }
-   ],
-   "jours": 1,
-   "volume_max": 500,
-   "liees": []
-  },
-  {
    "mot": "abdelmadjid tebboune",
    "mot_norm": "abdelmadjid tebboune",
    "slug": "abdelmadjid-tebboune",
@@ -16488,30 +16332,6 @@
      "fin": "2026-11-01T00:00:00",
      "liees": [],
      "jour": "2026-10-31"
-    }
-   ],
-   "jours": 1,
-   "volume_max": 200,
-   "liees": []
-  },
-  {
-   "mot": "administration publique",
-   "mot_norm": "administration publique",
-   "slug": "administration-publique",
-   "langue": "fr",
-   "categorie": "autre",
-   "episodes": [
-    {
-     "mot": "administration publique",
-     "slug": "administration-publique",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-19T14:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-19"
     }
    ],
    "jours": 1,
@@ -20754,30 +20574,6 @@
      "fin": "2026-10-25T23:50:00",
      "liees": [],
      "jour": "2026-10-25"
-    }
-   ],
-   "jours": 1,
-   "volume_max": 100,
-   "liees": []
-  },
-  {
-   "mot": "زياد الجزيري",
-   "mot_norm": "زياد الجزيري",
-   "slug": "زياد-الجزيري",
-   "langue": "ar",
-   "categorie": "autre",
-   "episodes": [
-    {
-     "mot": "زياد الجزيري",
-     "slug": "زياد-الجزيري",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-19T15:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-19"
     }
    ],
    "jours": 1,
