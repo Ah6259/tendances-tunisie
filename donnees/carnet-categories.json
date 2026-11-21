@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-20",
+ "maj": "2026-11-21",
  "explication": "Mots restés sans catégorie (à classer dans robot/categories.py quand ils reviennent).",
  "mots": [
   {
@@ -338,6 +338,16 @@
    "volume": 500
   },
   {
+   "mot": "sihem bensedrine",
+   "fois": 1,
+   "volume": 500
+  },
+  {
+   "mot": "ليلى بن علي",
+   "fois": 1,
+   "volume": 500
+  },
+  {
    "mot": "crevette",
    "fois": 1,
    "volume": 200
@@ -519,6 +529,21 @@
   },
   {
    "mot": "بنتاغون",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "ath. bilbao – espanyol",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "arrestation",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "سهام بن سدرين",
    "fois": 1,
    "volume": 200
   },

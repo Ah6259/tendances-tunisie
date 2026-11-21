@@ -12072,7 +12072,207 @@
    "sources": [
     "rss"
    ]
+  },
+  "الاتحاد الافريقي لكره القدم|498668": {
+   "mot": "الاتحاد الإفريقي لكرة القدم",
+   "mot_norm": "الاتحاد الافريقي لكره القدم",
+   "langue": "ar",
+   "debut": "2026-11-20T21:10:00",
+   "debut_ts": 1795205400,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-21T01:09:33",
+   "vu_dernier": "2026-11-21T01:09:33",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "classement al-ahli saudi - al-nassr fc|498668": {
+   "mot": "classement al-ahli saudi – al-nassr fc",
+   "mot_norm": "classement al-ahli saudi - al-nassr fc",
+   "langue": "fr",
+   "debut": "2026-11-20T21:00:00",
+   "debut_ts": 1795204800,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-21T01:09:33",
+   "vu_dernier": "2026-11-21T01:09:33",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "ath. bilbao - espanyol|498668": {
+   "mot": "ath. bilbao – espanyol",
+   "mot_norm": "ath. bilbao - espanyol",
+   "langue": "fr",
+   "debut": "2026-11-20T21:00:00",
+   "debut_ts": 1795204800,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-21T01:09:33",
+   "vu_dernier": "2026-11-21T01:09:33",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "bayern - cologne|498666": {
+   "mot": "bayern – cologne",
+   "mot_norm": "bayern - cologne",
+   "langue": "fr",
+   "debut": "2026-11-20T19:50:00",
+   "debut_ts": 1795200600,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-21T01:09:33",
+   "vu_dernier": "2026-11-21T01:09:33",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "arrestation|498666": {
+   "mot": "arrestation",
+   "mot_norm": "arrestation",
+   "langue": "fr",
+   "debut": "2026-11-20T19:10:00",
+   "debut_ts": 1795198200,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-21T01:09:33",
+   "vu_dernier": "2026-11-21T01:09:33",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "سهام بن سدرين|498665": {
+   "mot": "سهام بن سدرين",
+   "mot_norm": "سهام بن سدرين",
+   "langue": "ar",
+   "debut": "2026-11-20T18:30:00",
+   "debut_ts": 1795195800,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-21T01:09:33",
+   "vu_dernier": "2026-11-21T01:09:33",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "sihem bensedrine|498665": {
+   "mot": "sihem bensedrine",
+   "mot_norm": "sihem bensedrine",
+   "langue": "fr",
+   "debut": "2026-11-20T18:20:00",
+   "debut_ts": 1795195200,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-21T01:09:33",
+   "vu_dernier": "2026-11-21T01:09:33",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "al-ahli saudi - al-nassr fc|498665": {
+   "mot": "al-ahli saudi – al-nassr fc",
+   "mot_norm": "al-ahli saudi - al-nassr fc",
+   "langue": "fr",
+   "debut": "2026-11-20T18:10:00",
+   "debut_ts": 1795194600,
+   "fin": null,
+   "volume": 2000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-21T01:09:33",
+   "vu_dernier": "2026-11-21T01:09:33",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "classement club sportif de hammam lif - etoile sportive de metlaoui|498664": {
+   "mot": "classement club sportif de hammam lif – étoile sportive de métlaoui",
+   "mot_norm": "classement club sportif de hammam lif - etoile sportive de metlaoui",
+   "langue": "fr",
+   "debut": "2026-11-20T17:50:00",
+   "debut_ts": 1795193400,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-21T01:09:33",
+   "vu_dernier": "2026-11-21T01:09:33",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "ليلي بن علي|498664": {
+   "mot": "ليلى بن علي",
+   "mot_norm": "ليلي بن علي",
+   "langue": "ar",
+   "debut": "2026-11-20T17:40:00",
+   "debut_ts": 1795192800,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-21T01:09:33",
+   "vu_dernier": "2026-11-21T01:09:33",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-20T16:44:20"
+ "maj": "2026-11-21T01:09:33"
 }
