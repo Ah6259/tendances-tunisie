@@ -12432,7 +12432,207 @@
    "sources": [
     "rss"
    ]
+  },
+  "classement real madrid - celta vigo|498694": {
+   "mot": "classement real madrid – celta vigo",
+   "mot_norm": "classement real madrid - celta vigo",
+   "langue": "fr",
+   "debut": "2026-11-21T23:20:00",
+   "debut_ts": 1795299600,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-22T00:33:51",
+   "vu_dernier": "2026-11-22T00:33:51",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "الريال ضد سلتا فيغو|498692": {
+   "mot": "الريال ضد سلتا فيغو",
+   "mot_norm": "الريال ضد سلتا فيغو",
+   "langue": "ar",
+   "debut": "2026-11-21T21:40:00",
+   "debut_ts": 1795293600,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-22T00:33:51",
+   "vu_dernier": "2026-11-22T00:33:51",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "ريال مدريد|498692": {
+   "mot": "ريال مدريد",
+   "mot_norm": "ريال مدريد",
+   "langue": "ar",
+   "debut": "2026-11-21T21:30:00",
+   "debut_ts": 1795293000,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-22T00:33:51",
+   "vu_dernier": "2026-11-22T00:33:51",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "real madrid|498692": {
+   "mot": "real madrid",
+   "mot_norm": "real madrid",
+   "langue": "fr",
+   "debut": "2026-11-21T21:10:00",
+   "debut_ts": 1795291800,
+   "fin": null,
+   "volume": 5000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-22T00:33:51",
+   "vu_dernier": "2026-11-22T00:33:51",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "de miguel|498692": {
+   "mot": "de miguel",
+   "mot_norm": "de miguel",
+   "langue": "fr",
+   "debut": "2026-11-21T21:00:00",
+   "debut_ts": 1795291200,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-22T00:33:51",
+   "vu_dernier": "2026-11-22T00:33:51",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "real madrid - celta vigo|498691": {
+   "mot": "real madrid – celta vigo",
+   "mot_norm": "real madrid - celta vigo",
+   "langue": "fr",
+   "debut": "2026-11-21T20:20:00",
+   "debut_ts": 1795288800,
+   "fin": null,
+   "volume": 10000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-22T00:33:51",
+   "vu_dernier": "2026-11-22T00:33:51",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "seville - betis|498690": {
+   "mot": "séville – betis",
+   "mot_norm": "seville - betis",
+   "langue": "fr",
+   "debut": "2026-11-21T19:10:00",
+   "debut_ts": 1795284600,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-22T00:33:51",
+   "vu_dernier": "2026-11-22T00:33:51",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "coupe d'afrique des nations de football|498689": {
+   "mot": "coupe d'afrique des nations de football",
+   "mot_norm": "coupe d'afrique des nations de football",
+   "langue": "fr",
+   "debut": "2026-11-21T18:50:00",
+   "debut_ts": 1795283400,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-22T00:33:51",
+   "vu_dernier": "2026-11-22T00:33:51",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "nice vs psg|498689": {
+   "mot": "nice vs psg",
+   "mot_norm": "nice vs psg",
+   "langue": "fr",
+   "debut": "2026-11-21T18:40:00",
+   "debut_ts": 1795282800,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-22T00:33:51",
+   "vu_dernier": "2026-11-22T00:33:51",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "newcastle - arsenal|498689": {
+   "mot": "newcastle – arsenal",
+   "mot_norm": "newcastle - arsenal",
+   "langue": "fr",
+   "debut": "2026-11-21T18:00:00",
+   "debut_ts": 1795280400,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-22T00:33:51",
+   "vu_dernier": "2026-11-22T00:33:51",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-21T15:55:21"
+ "maj": "2026-11-22T00:33:51"
 }
