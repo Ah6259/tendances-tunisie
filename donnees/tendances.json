@@ -12086,8 +12086,8 @@
    "codes": [],
    "categorie": "football",
    "vu_premier": "2026-11-21T01:09:33",
-   "vu_dernier": "2026-11-21T01:09:33",
-   "releves": 1,
+   "vu_dernier": "2026-11-21T15:55:21",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -12126,8 +12126,8 @@
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-21T01:09:33",
-   "vu_dernier": "2026-11-21T01:09:33",
-   "releves": 1,
+   "vu_dernier": "2026-11-21T15:55:21",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -12272,7 +12272,167 @@
    "sources": [
     "rss"
    ]
+  },
+  "championnat tunisie|498686": {
+   "mot": "championnat tunisie",
+   "mot_norm": "championnat tunisie",
+   "langue": "fr",
+   "debut": "2026-11-21T15:30:00",
+   "debut_ts": 1795271400,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-21T15:55:21",
+   "vu_dernier": "2026-11-21T15:55:21",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "ess|498686": {
+   "mot": "ess",
+   "mot_norm": "ess",
+   "langue": "fr",
+   "debut": "2026-11-21T15:20:00",
+   "debut_ts": 1795270800,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-21T15:55:21",
+   "vu_dernier": "2026-11-21T15:55:21",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "carlos alcaraz|498686": {
+   "mot": "carlos alcaraz",
+   "mot_norm": "carlos alcaraz",
+   "langue": "fr",
+   "debut": "2026-11-21T15:20:00",
+   "debut_ts": 1795270800,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-21T15:55:21",
+   "vu_dernier": "2026-11-21T15:55:21",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "deportivo alaves - deportivo|498685": {
+   "mot": "deportivo alavés – deportivo",
+   "mot_norm": "deportivo alaves - deportivo",
+   "langue": "fr",
+   "debut": "2026-11-21T14:30:00",
+   "debut_ts": 1795267800,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-21T15:55:21",
+   "vu_dernier": "2026-11-21T15:55:21",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "manchester city - fulham|498683": {
+   "mot": "manchester city – fulham",
+   "mot_norm": "manchester city - fulham",
+   "langue": "fr",
+   "debut": "2026-11-21T12:40:00",
+   "debut_ts": 1795261200,
+   "fin": null,
+   "volume": 2000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-21T15:55:21",
+   "vu_dernier": "2026-11-21T15:55:21",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "prix|498683": {
+   "mot": "prix",
+   "mot_norm": "prix",
+   "langue": "fr",
+   "debut": "2026-11-21T12:40:00",
+   "debut_ts": 1795261200,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "commerce",
+   "vu_premier": "2026-11-21T15:55:21",
+   "vu_dernier": "2026-11-21T15:55:21",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "bayern munich|498683": {
+   "mot": "bayern munich",
+   "mot_norm": "bayern munich",
+   "langue": "fr",
+   "debut": "2026-11-21T12:20:00",
+   "debut_ts": 1795260000,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-21T15:55:21",
+   "vu_dernier": "2026-11-21T15:55:21",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "football|498667": {
+   "mot": "football",
+   "mot_norm": "football",
+   "langue": "fr",
+   "debut": "2026-11-20T20:30:00",
+   "debut_ts": 1795203000,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-21T15:55:21",
+   "vu_dernier": "2026-11-21T15:55:21",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-21T01:09:33"
+ "maj": "2026-11-21T15:55:21"
 }
