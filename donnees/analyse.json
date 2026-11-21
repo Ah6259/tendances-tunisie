@@ -1,16 +1,64 @@
 {
- "maj": "2026-11-20T16:44:27",
- "jour": "2026-11-20",
+ "maj": "2026-11-21T01:09:40",
+ "jour": "2026-11-21",
  "totaux": {
-  "tendances": 500,
-  "mots_distincts": 419,
-  "aujourdhui": 6,
+  "tendances": 510,
+  "mots_distincts": 429,
+  "aujourdhui": 15,
   "semaine": 108,
-  "mois": 500,
+  "mois": 510,
   "expressions_tapees": 2198,
   "premiere_lecture": "2026-11-01T10:46:10"
  },
  "aujourdhui": [
+  {
+   "mot": "al-ahli saudi – al-nassr fc",
+   "slug": "al-ahli-saudi-al-nassr-fc",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-20T18:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
+  },
+  {
+   "mot": "bayern – cologne",
+   "slug": "bayern-cologne",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-20T19:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
+  },
+  {
+   "mot": "classement al-ahli saudi – al-nassr fc",
+   "slug": "classement-al-ahli-saudi-al-nassr-fc",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-20T21:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
+  },
+  {
+   "mot": "classement club sportif de hammam lif – étoile sportive de métlaoui",
+   "slug": "classement-club-sportif-de-hammam-lif-etoile-sportive-de-metlaoui",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-20T17:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
+  },
   {
    "mot": "meteo",
    "slug": "meteo",
@@ -24,16 +72,16 @@
    "jour": "2026-11-20"
   },
   {
-   "mot": "weather tomorrow",
-   "slug": "weather-tomorrow",
+   "mot": "sihem bensedrine",
+   "slug": "sihem-bensedrine",
    "langue": "fr",
    "categorie": "autre",
-   "volume": 1000,
+   "volume": 500,
    "hausse": null,
-   "debut": "2026-11-19T20:50:00",
+   "debut": "2026-11-20T18:20:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-19"
+   "jour": "2026-11-20"
   },
   {
    "mot": "supermarché",
@@ -48,6 +96,42 @@
    "jour": "2026-11-20"
   },
   {
+   "mot": "ليلى بن علي",
+   "slug": "ليلي-بن-علي",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-20T17:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
+  },
+  {
+   "mot": "arrestation",
+   "slug": "arrestation",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-20T19:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
+  },
+  {
+   "mot": "ath. bilbao – espanyol",
+   "slug": "ath-bilbao-espanyol",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-20T21:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
+  },
+  {
    "mot": "ministère de la défense",
    "slug": "ministere-de-la-defense",
    "langue": "fr",
@@ -55,6 +139,30 @@
    "volume": 200,
    "hausse": null,
    "debut": "2026-11-20T15:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
+  },
+  {
+   "mot": "الاتحاد الإفريقي لكرة القدم",
+   "slug": "الاتحاد-الافريقي-لكره-القدم",
+   "langue": "ar",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-20T21:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
+  },
+  {
+   "mot": "سهام بن سدرين",
+   "slug": "سهام-بن-سدرين",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-20T18:30:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-20"
@@ -134,16 +242,16 @@
    "jour": "2026-11-18"
   },
   {
-   "mot": "argentine – uruguay",
-   "slug": "argentine-uruguay",
+   "mot": "al-ahli saudi – al-nassr fc",
+   "slug": "al-ahli-saudi-al-nassr-fc",
    "langue": "fr",
-   "categorie": "autre",
+   "categorie": "football",
    "volume": 2000,
    "hausse": null,
-   "debut": "2026-11-13T23:40:00",
+   "debut": "2026-11-20T18:10:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-13"
+   "jour": "2026-11-20"
   },
   {
    "mot": "botswana – ouganda",
@@ -156,18 +264,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-17"
-  },
-  {
-   "mot": "flashscore",
-   "slug": "flashscore",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 2000,
-   "hausse": null,
-   "debut": "2026-11-13T19:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-13"
   },
   {
    "mot": "gta 6",
@@ -192,18 +288,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-14"
-  },
-  {
-   "mot": "maroc – niger",
-   "slug": "maroc-niger",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 2000,
-   "hausse": null,
-   "debut": "2026-11-13T20:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-13"
   },
   {
    "mot": "niger – maroc",
@@ -302,6 +386,18 @@
    "jour": "2026-11-16"
   },
   {
+   "mot": "bayern – cologne",
+   "slug": "bayern-cologne",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-20T19:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
+  },
+  {
    "mot": "belgique – italie",
    "slug": "belgique-italie",
    "langue": "fr",
@@ -312,6 +408,30 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-15"
+  },
+  {
+   "mot": "classement al-ahli saudi – al-nassr fc",
+   "slug": "classement-al-ahli-saudi-al-nassr-fc",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-20T21:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
+  },
+  {
+   "mot": "classement club sportif de hammam lif – étoile sportive de métlaoui",
+   "slug": "classement-club-sportif-de-hammam-lif-etoile-sportive-de-metlaoui",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-20T17:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
   },
   {
    "mot": "classement équipe d'algérie de football – équipe du togo de football",
@@ -360,18 +480,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-20"
-  },
-  {
-   "mot": "morocco vs niger",
-   "slug": "morocco-vs-niger",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 1000,
-   "hausse": null,
-   "debut": "2026-11-13T21:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-13"
   },
   {
    "mot": "ouganda – botswana",
@@ -444,18 +552,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-19"
-  },
-  {
-   "mot": "égypte – malawi",
-   "slug": "egypte-malawi",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 1000,
-   "hausse": null,
-   "debut": "2026-11-13T19:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-13"
   },
   {
    "mot": "مطر",
@@ -626,18 +722,6 @@
    "jour": "2026-11-15"
   },
   {
-   "mot": "pays-bas – grèce",
-   "slug": "pays-bas-grece",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 500,
-   "hausse": null,
-   "debut": "2026-11-13T20:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-13"
-  },
-  {
    "mot": "ravenna fc ronaldinho",
    "slug": "ravenna-fc-ronaldinho",
    "langue": "fr",
@@ -648,6 +732,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-16"
+  },
+  {
+   "mot": "sihem bensedrine",
+   "slug": "sihem-bensedrine",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-20T18:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
   },
   {
    "mot": "soudan – sénégal",
@@ -770,6 +866,18 @@
    "jour": "2026-11-19"
   },
   {
+   "mot": "ليلى بن علي",
+   "slug": "ليلي-بن-علي",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-20T17:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
+  },
+  {
    "mot": "منتخب المغرب لكرة القدم",
    "slug": "منتخب-المغرب-لكره-القدم",
    "langue": "ar",
@@ -830,6 +938,30 @@
    "jour": "2026-11-17"
   },
   {
+   "mot": "arrestation",
+   "slug": "arrestation",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-20T19:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
+  },
+  {
+   "mot": "ath. bilbao – espanyol",
+   "slug": "ath-bilbao-espanyol",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-20T21:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
+  },
+  {
    "mot": "bakary samake",
    "slug": "bakary-samake",
    "langue": "fr",
@@ -840,18 +972,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-15"
-  },
-  {
-   "mot": "bein sport live",
-   "slug": "bein-sport-live",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-13T17:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-13"
   },
   {
    "mot": "classement équipe du botswana de football – équipe d'ouganda de football",
@@ -914,18 +1034,6 @@
    "jour": "2026-11-14"
   },
   {
-   "mot": "kora",
-   "slug": "kora",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-13T17:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-13"
-  },
-  {
    "mot": "ministère de la défense",
    "slug": "ministere-de-la-defense",
    "langue": "fr",
@@ -986,18 +1094,6 @@
    "jour": "2026-11-16"
   },
   {
-   "mot": "tunis",
-   "slug": "tunis",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-13T17:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-13"
-  },
-  {
    "mot": "économie",
    "slug": "economie",
    "langue": "fr",
@@ -1034,6 +1130,18 @@
    "jour": "2026-11-18"
   },
   {
+   "mot": "الاتحاد الإفريقي لكرة القدم",
+   "slug": "الاتحاد-الافريقي-لكره-القدم",
+   "langue": "ar",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-20T21:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
+  },
+  {
    "mot": "الولايات المتحدة",
    "slug": "الولايات-المتحده",
    "langue": "ar",
@@ -1068,6 +1176,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-17"
+  },
+  {
+   "mot": "سهام بن سدرين",
+   "slug": "سهام-بن-سدرين",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-20T18:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
   },
   {
    "mot": "قرض",
@@ -1164,18 +1284,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-19"
-  },
-  {
-   "mot": "flight radar",
-   "slug": "flight-radar",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-13T23:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-13"
   },
   {
    "mot": "kawarji live",
@@ -1384,6 +1492,66 @@
  ],
  "nouveautes": [
   {
+   "mot": "al-ahli saudi – al-nassr fc",
+   "slug": "al-ahli-saudi-al-nassr-fc",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-20T18:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
+  },
+  {
+   "mot": "bayern – cologne",
+   "slug": "bayern-cologne",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-20T19:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
+  },
+  {
+   "mot": "classement al-ahli saudi – al-nassr fc",
+   "slug": "classement-al-ahli-saudi-al-nassr-fc",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-20T21:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
+  },
+  {
+   "mot": "classement club sportif de hammam lif – étoile sportive de métlaoui",
+   "slug": "classement-club-sportif-de-hammam-lif-etoile-sportive-de-metlaoui",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-20T17:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
+  },
+  {
+   "mot": "sihem bensedrine",
+   "slug": "sihem-bensedrine",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-20T18:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
+  },
+  {
    "mot": "supermarché",
    "slug": "supermarche",
    "langue": "fr",
@@ -1396,6 +1564,42 @@
    "jour": "2026-11-20"
   },
   {
+   "mot": "ليلى بن علي",
+   "slug": "ليلي-بن-علي",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-20T17:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
+  },
+  {
+   "mot": "arrestation",
+   "slug": "arrestation",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-20T19:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
+  },
+  {
+   "mot": "ath. bilbao – espanyol",
+   "slug": "ath-bilbao-espanyol",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-20T21:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
+  },
+  {
    "mot": "ministère de la défense",
    "slug": "ministere-de-la-defense",
    "langue": "fr",
@@ -1403,6 +1607,30 @@
    "volume": 200,
    "hausse": null,
    "debut": "2026-11-20T15:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
+  },
+  {
+   "mot": "الاتحاد الإفريقي لكرة القدم",
+   "slug": "الاتحاد-الافريقي-لكره-القدم",
+   "langue": "ar",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-20T21:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-20"
+  },
+  {
+   "mot": "سهام بن سدرين",
+   "slug": "سهام-بن-سدرين",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-20T18:30:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-20"
@@ -1532,6 +1760,18 @@
    "jour": "2026-11-12"
   },
   {
+   "mot": "argentine – uruguay",
+   "slug": "argentine-uruguay",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-13T23:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-13"
+  },
+  {
    "mot": "barca",
    "slug": "barca",
    "langue": "fr",
@@ -1554,6 +1794,30 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-07"
+  },
+  {
+   "mot": "flashscore",
+   "slug": "flashscore",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-13T19:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-13"
+  },
+  {
+   "mot": "maroc – niger",
+   "slug": "maroc-niger",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-13T20:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-13"
   },
   {
    "mot": "outlook",
@@ -1736,6 +2000,18 @@
    "jour": "2026-11-09"
   },
   {
+   "mot": "morocco vs niger",
+   "slug": "morocco-vs-niger",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-13T21:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-13"
+  },
+  {
    "mot": "teddy riner",
    "slug": "teddy-riner",
    "langue": "fr",
@@ -1746,6 +2022,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-09"
+  },
+  {
+   "mot": "égypte – malawi",
+   "slug": "egypte-malawi",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-13T19:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-13"
   },
   {
    "mot": "émission obligataire",
@@ -1856,16 +2144,16 @@
    "jour": "2026-11-07"
   },
   {
-   "mot": "office des céréales",
-   "slug": "office-des-cereales",
+   "mot": "pays-bas – grèce",
+   "slug": "pays-bas-grece",
    "langue": "fr",
    "categorie": "autre",
    "volume": 500,
    "hausse": null,
-   "debut": "2026-11-06T21:30:00",
+   "debut": "2026-11-13T20:50:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-06"
+   "jour": "2026-11-13"
   },
   {
    "mot": "weather",
@@ -1947,6 +2235,18 @@
    "volume": 500,
    "hausse": null,
    "debut": "2026-11-13T11:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-13"
+  },
+  {
+   "mot": "bein sport live",
+   "slug": "bein-sport-live",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-13T17:30:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-13"
@@ -2120,88 +2420,16 @@
    "jour": "2026-11-08"
   },
   {
-   "mot": "jj gabriel",
-   "slug": "jj-gabriel",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-06T20:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-06"
-  },
-  {
-   "mot": "leeds united – tottenham",
-   "slug": "leeds-united-tottenham",
+   "mot": "kora",
+   "slug": "kora",
    "langue": "fr",
    "categorie": "football",
    "volume": 200,
    "hausse": null,
-   "debut": "2026-11-07T13:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-07"
-  },
-  {
-   "mot": "lens – marseille",
-   "slug": "lens-marseille",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-08T21:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "nvidia jensen huang",
-   "slug": "nvidia-jensen-huang",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-13T04:20:00",
+   "debut": "2026-11-13T17:50:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-13"
-  },
-  {
-   "mot": "sénégal – soudan",
-   "slug": "senegal-soudan",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-12T20:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-12"
-  },
-  {
-   "mot": "tunisie vs libye",
-   "slug": "tunisie-vs-libye",
-   "langue": "fr",
-   "categorie": "politique",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-13T15:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-13"
-  },
-  {
-   "mot": "الخبر",
-   "slug": "الخبر",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-07T07:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-07"
   }
  ],
  "recurrents": [
@@ -2528,20 +2756,7 @@
      "jour": "2026-11-18"
     }
    ],
-   "top24": [
-    {
-     "mot": "grève",
-     "slug": "greve",
-     "langue": "fr",
-     "categorie": "emploi",
-     "volume": 1000,
-     "hausse": null,
-     "debut": "2026-11-19T02:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-19"
-    }
-   ]
+   "top24": []
   },
   "education": {
    "fr": "Éducation",
@@ -2653,18 +2868,6 @@
    ],
    "top24": [
     {
-     "mot": "وزارة الشؤون الدينية",
-     "slug": "وزاره-الشوون-الدينيه",
-     "langue": "ar",
-     "categorie": "administration",
-     "volume": 1000,
-     "hausse": null,
-     "debut": "2026-11-19T09:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-19"
-    },
-    {
      "mot": "ministère de la défense",
      "slug": "ministere-de-la-defense",
      "langue": "fr",
@@ -2721,18 +2924,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-20"
-    },
-    {
-     "mot": "eau potable",
-     "slug": "eau-potable",
-     "langue": "fr",
-     "categorie": "energie",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-19T03:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-19"
     }
    ]
   },
@@ -2760,9 +2951,21 @@
   "football": {
    "fr": "Football",
    "ar": "كرة القدم",
-   "n_semaine": 15,
-   "n_mois": 206,
+   "n_semaine": 18,
+   "n_mois": 211,
    "top": [
+    {
+     "mot": "al-ahli saudi – al-nassr fc",
+     "slug": "al-ahli-saudi-al-nassr-fc",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-20T18:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-20"
+    },
     {
      "mot": "كرة القدم",
      "slug": "كره-القدم",
@@ -2774,6 +2977,42 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-16"
+    },
+    {
+     "mot": "bayern – cologne",
+     "slug": "bayern-cologne",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-20T19:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-20"
+    },
+    {
+     "mot": "classement al-ahli saudi – al-nassr fc",
+     "slug": "classement-al-ahli-saudi-al-nassr-fc",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-20T21:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-20"
+    },
+    {
+     "mot": "classement club sportif de hammam lif – étoile sportive de métlaoui",
+     "slug": "classement-club-sportif-de-hammam-lif-etoile-sportive-de-metlaoui",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-20T17:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-20"
     },
     {
      "mot": "classement équipe d'algérie de football – équipe du togo de football",
@@ -2860,18 +3099,6 @@
      "jour": "2026-11-15"
     },
     {
-     "mot": "bein sport live",
-     "slug": "bein-sport-live",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-13T17:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-13"
-    },
-    {
      "mot": "classement équipe du botswana de football – équipe d'ouganda de football",
      "slug": "classement-equipe-du-botswana-de-football-equipe-d-ouganda-de-football",
      "langue": "fr",
@@ -2884,16 +3111,16 @@
      "jour": "2026-11-18"
     },
     {
-     "mot": "kora",
-     "slug": "kora",
-     "langue": "fr",
+     "mot": "الاتحاد الإفريقي لكرة القدم",
+     "slug": "الاتحاد-الافريقي-لكره-القدم",
+     "langue": "ar",
      "categorie": "football",
      "volume": 200,
      "hausse": null,
-     "debut": "2026-11-13T17:50:00",
+     "debut": "2026-11-20T21:10:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-13"
+     "jour": "2026-11-20"
     },
     {
      "mot": "lamine yamal",
@@ -2946,16 +3173,64 @@
    ],
    "top24": [
     {
-     "mot": "ريال مدريد",
-     "slug": "ريال-مدريد",
-     "langue": "ar",
+     "mot": "al-ahli saudi – al-nassr fc",
+     "slug": "al-ahli-saudi-al-nassr-fc",
+     "langue": "fr",
      "categorie": "football",
-     "volume": 100,
+     "volume": 2000,
      "hausse": null,
-     "debut": "2026-11-19T07:30:00",
+     "debut": "2026-11-20T18:10:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-19"
+     "jour": "2026-11-20"
+    },
+    {
+     "mot": "bayern – cologne",
+     "slug": "bayern-cologne",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-20T19:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-20"
+    },
+    {
+     "mot": "classement al-ahli saudi – al-nassr fc",
+     "slug": "classement-al-ahli-saudi-al-nassr-fc",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-20T21:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-20"
+    },
+    {
+     "mot": "classement club sportif de hammam lif – étoile sportive de métlaoui",
+     "slug": "classement-club-sportif-de-hammam-lif-etoile-sportive-de-metlaoui",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-20T17:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-20"
+    },
+    {
+     "mot": "الاتحاد الإفريقي لكرة القدم",
+     "slug": "الاتحاد-الافريقي-لكره-القدم",
+     "langue": "ar",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-20T21:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-20"
     }
    ]
   },
@@ -3055,18 +3330,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-20"
-    },
-    {
-     "mot": "مطر",
-     "slug": "مطر",
-     "langue": "ar",
-     "categorie": "meteo",
-     "volume": 1000,
-     "hausse": null,
-     "debut": "2026-11-19T05:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-19"
     }
    ]
   },
@@ -3138,8 +3401,8 @@
   "autre": {
    "fr": "Autre",
    "ar": "أخرى",
-   "n_semaine": 74,
-   "n_mois": 139,
+   "n_semaine": 71,
+   "n_mois": 144,
    "top": [
     {
      "mot": "espagne – angleterre",
@@ -3166,18 +3429,6 @@
      "jour": "2026-11-18"
     },
     {
-     "mot": "argentine – uruguay",
-     "slug": "argentine-uruguay",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 2000,
-     "hausse": null,
-     "debut": "2026-11-13T23:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-13"
-    },
-    {
      "mot": "botswana – ouganda",
      "slug": "botswana-ouganda",
      "langue": "fr",
@@ -3188,18 +3439,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-17"
-    },
-    {
-     "mot": "flashscore",
-     "slug": "flashscore",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 2000,
-     "hausse": null,
-     "debut": "2026-11-13T19:00:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-13"
     },
     {
      "mot": "gta 6",
@@ -3224,18 +3463,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-14"
-    },
-    {
-     "mot": "maroc – niger",
-     "slug": "maroc-niger",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 2000,
-     "hausse": null,
-     "debut": "2026-11-13T20:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-13"
     },
     {
      "mot": "niger – maroc",
@@ -3334,18 +3561,6 @@
      "jour": "2026-11-17"
     },
     {
-     "mot": "morocco vs niger",
-     "slug": "morocco-vs-niger",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 1000,
-     "hausse": null,
-     "debut": "2026-11-13T21:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-13"
-    },
-    {
      "mot": "ouganda – botswana",
      "slug": "ouganda-botswana",
      "langue": "fr",
@@ -3404,18 +3619,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-19"
-    },
-    {
-     "mot": "égypte – malawi",
-     "slug": "egypte-malawi",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 1000,
-     "hausse": null,
-     "debut": "2026-11-13T19:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-13"
     },
     {
      "mot": "administration publique",
@@ -3526,16 +3729,16 @@
      "jour": "2026-11-15"
     },
     {
-     "mot": "pays-bas – grèce",
-     "slug": "pays-bas-grece",
+     "mot": "sihem bensedrine",
+     "slug": "sihem-bensedrine",
      "langue": "fr",
      "categorie": "autre",
      "volume": 500,
      "hausse": null,
-     "debut": "2026-11-13T20:50:00",
+     "debut": "2026-11-20T18:20:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-13"
+     "jour": "2026-11-20"
     },
     {
      "mot": "soudan – sénégal",
@@ -3598,6 +3801,18 @@
      "jour": "2026-11-19"
     },
     {
+     "mot": "ليلى بن علي",
+     "slug": "ليلي-بن-علي",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-20T17:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-20"
+    },
+    {
      "mot": "abdelmadjid tebboune",
      "slug": "abdelmadjid-tebboune",
      "langue": "fr",
@@ -3644,6 +3859,30 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-17"
+    },
+    {
+     "mot": "arrestation",
+     "slug": "arrestation",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-20T19:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-20"
+    },
+    {
+     "mot": "ath. bilbao – espanyol",
+     "slug": "ath-bilbao-espanyol",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-20T21:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-20"
     },
     {
      "mot": "bakary samake",
@@ -3754,18 +3993,6 @@
      "jour": "2026-11-16"
     },
     {
-     "mot": "tunis",
-     "slug": "tunis",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-13T17:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-13"
-    },
-    {
      "mot": "économie",
      "slug": "economie",
      "langue": "fr",
@@ -3814,6 +4041,18 @@
      "jour": "2026-11-19"
     },
     {
+     "mot": "سهام بن سدرين",
+     "slug": "سهام-بن-سدرين",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-20T18:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-20"
+    },
+    {
      "mot": "قيس سعيد",
      "slug": "قيس-سعيد",
      "langue": "ar",
@@ -3860,44 +4099,44 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-15"
+    },
+    {
+     "mot": "boeing 747",
+     "slug": "boeing-747",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-19T07:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-19"
+    },
+    {
+     "mot": "kawarji live",
+     "slug": "kawarji-live",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-17T16:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-17"
     }
    ],
    "top24": [
     {
-     "mot": "weather tomorrow",
-     "slug": "weather-tomorrow",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 1000,
-     "hausse": null,
-     "debut": "2026-11-19T20:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-19"
-    },
-    {
-     "mot": "administration publique",
-     "slug": "administration-publique",
+     "mot": "sihem bensedrine",
+     "slug": "sihem-bensedrine",
      "langue": "fr",
      "categorie": "autre",
      "volume": 500,
      "hausse": null,
-     "debut": "2026-11-19T14:40:00",
+     "debut": "2026-11-20T18:20:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-19"
-    },
-    {
-     "mot": "arda güler",
-     "slug": "arda-guler",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-19T16:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-19"
+     "jour": "2026-11-20"
     },
     {
      "mot": "supermarché",
@@ -3912,40 +4151,52 @@
      "jour": "2026-11-20"
     },
     {
-     "mot": "زياد الجزيري",
-     "slug": "زياد-الجزيري",
+     "mot": "ليلى بن علي",
+     "slug": "ليلي-بن-علي",
      "langue": "ar",
      "categorie": "autre",
      "volume": 500,
      "hausse": null,
-     "debut": "2026-11-19T15:50:00",
+     "debut": "2026-11-20T17:40:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-19"
+     "jour": "2026-11-20"
     },
     {
-     "mot": "بنتاغون",
-     "slug": "بنتاغون",
+     "mot": "arrestation",
+     "slug": "arrestation",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-20T19:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-20"
+    },
+    {
+     "mot": "ath. bilbao – espanyol",
+     "slug": "ath-bilbao-espanyol",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-20T21:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-20"
+    },
+    {
+     "mot": "سهام بن سدرين",
+     "slug": "سهام-بن-سدرين",
      "langue": "ar",
      "categorie": "autre",
      "volume": 200,
      "hausse": null,
-     "debut": "2026-11-19T05:20:00",
+     "debut": "2026-11-20T18:30:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-19"
-    },
-    {
-     "mot": "boeing 747",
-     "slug": "boeing-747",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-19T07:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-19"
+     "jour": "2026-11-20"
     },
     {
      "mot": "طائرة",
@@ -3966,7 +4217,7 @@
  "historique": {
   "semaines": {
    "2026-11-16": {
-    "n": 63,
+    "n": 73,
     "top": [
      {
       "mot": "libye – tunisie",
@@ -3991,6 +4242,18 @@
       "fin": null,
       "liees": [],
       "jour": "2026-11-18"
+     },
+     {
+      "mot": "al-ahli saudi – al-nassr fc",
+      "slug": "al-ahli-saudi-al-nassr-fc",
+      "langue": "fr",
+      "categorie": "football",
+      "volume": 2000,
+      "hausse": null,
+      "debut": "2026-11-20T18:10:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-20"
      },
      {
       "mot": "botswana – ouganda",
@@ -4075,28 +4338,16 @@
       "fin": null,
       "liees": [],
       "jour": "2026-11-16"
-     },
-     {
-      "mot": "وزارة",
-      "slug": "وزاره",
-      "langue": "ar",
-      "categorie": "administration",
-      "volume": 2000,
-      "hausse": null,
-      "debut": "2026-11-18T15:20:00",
-      "fin": null,
-      "liees": [],
-      "jour": "2026-11-18"
      }
     ],
     "categories": [
      {
       "cle": "autre",
-      "n": 42
+      "n": 47
      },
      {
       "cle": "football",
-      "n": 7
+      "n": 12
      },
      {
       "cle": "meteo",
@@ -4894,7 +5145,7 @@
   },
   "mois": {
    "2026-11": {
-    "n": 316,
+    "n": 326,
     "top": [
      {
       "mot": "classement stade tunisien – club africain",
@@ -5038,11 +5289,11 @@
     "categories": [
      {
       "cle": "autre",
-      "n": 134
+      "n": 139
      },
      {
       "cle": "football",
-      "n": 101
+      "n": 106
      },
      {
       "cle": "sport",
@@ -10486,6 +10737,30 @@
    ]
   },
   {
+   "mot": "al-ahli saudi – al-nassr fc",
+   "mot_norm": "al-ahli saudi - al-nassr fc",
+   "slug": "al-ahli-saudi-al-nassr-fc",
+   "langue": "fr",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "al-ahli saudi – al-nassr fc",
+     "slug": "al-ahli-saudi-al-nassr-fc",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 2000,
+     "hausse": null,
+     "debut": "2026-11-20T18:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-20"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 2000,
+   "liees": []
+  },
+  {
    "mot": "al-nassr fc – al-kholood club",
    "mot_norm": "al-nassr fc - al-kholood club",
    "slug": "al-nassr-fc-al-kholood-club",
@@ -12358,6 +12633,30 @@
    "liees": []
   },
   {
+   "mot": "bayern – cologne",
+   "mot_norm": "bayern - cologne",
+   "slug": "bayern-cologne",
+   "langue": "fr",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "bayern – cologne",
+     "slug": "bayern-cologne",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-20T19:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-20"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 1000,
+   "liees": []
+  },
+  {
    "mot": "bayern – magdebourg",
    "mot_norm": "bayern - magdebourg",
    "slug": "bayern-magdebourg",
@@ -12500,6 +12799,30 @@
    ]
   },
   {
+   "mot": "classement al-ahli saudi – al-nassr fc",
+   "mot_norm": "classement al-ahli saudi - al-nassr fc",
+   "slug": "classement-al-ahli-saudi-al-nassr-fc",
+   "langue": "fr",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "classement al-ahli saudi – al-nassr fc",
+     "slug": "classement-al-ahli-saudi-al-nassr-fc",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-20T21:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-20"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 1000,
+   "liees": []
+  },
+  {
    "mot": "classement bayern munich – borussia dortmund",
    "mot_norm": "classement bayern munich - borussia dortmund",
    "slug": "classement-bayern-munich-borussia-dortmund",
@@ -12526,6 +12849,30 @@
    "liees": [
     "bayern munich"
    ]
+  },
+  {
+   "mot": "classement club sportif de hammam lif – étoile sportive de métlaoui",
+   "mot_norm": "classement club sportif de hammam lif - etoile sportive de metlaoui",
+   "slug": "classement-club-sportif-de-hammam-lif-etoile-sportive-de-metlaoui",
+   "langue": "fr",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "classement club sportif de hammam lif – étoile sportive de métlaoui",
+     "slug": "classement-club-sportif-de-hammam-lif-etoile-sportive-de-metlaoui",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-20T17:50:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-20"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 1000,
+   "liees": []
   },
   {
    "mot": "classement villarreal – paris saint-germain football club",
@@ -15292,6 +15639,30 @@
    "liees": []
   },
   {
+   "mot": "sihem bensedrine",
+   "mot_norm": "sihem bensedrine",
+   "slug": "sihem-bensedrine",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "sihem bensedrine",
+     "slug": "sihem-bensedrine",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-20T18:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-20"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 500,
+   "liees": []
+  },
+  {
    "mot": "soudan – sénégal",
    "mot_norm": "soudan - senegal",
    "slug": "soudan-senegal",
@@ -16092,6 +16463,30 @@
    "liees": []
   },
   {
+   "mot": "ليلى بن علي",
+   "mot_norm": "ليلي بن علي",
+   "slug": "ليلي-بن-علي",
+   "langue": "ar",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "ليلى بن علي",
+     "slug": "ليلي-بن-علي",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-20T17:40:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-20"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 500,
+   "liees": []
+  },
+  {
    "mot": "مباريات اليوم مباشر",
    "mot_norm": "مباريات اليوم مباشر",
    "slug": "مباريات-اليوم-مباشر",
@@ -16425,6 +16820,54 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-17"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
+   "mot": "arrestation",
+   "mot_norm": "arrestation",
+   "slug": "arrestation",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "arrestation",
+     "slug": "arrestation",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-20T19:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-20"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
+   "mot": "ath. bilbao – espanyol",
+   "mot_norm": "ath. bilbao - espanyol",
+   "slug": "ath-bilbao-espanyol",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "ath. bilbao – espanyol",
+     "slug": "ath-bilbao-espanyol",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-20T21:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-20"
     }
    ],
    "jours": 1,
@@ -18918,6 +19361,30 @@
    "liees": []
   },
   {
+   "mot": "الاتحاد الإفريقي لكرة القدم",
+   "mot_norm": "الاتحاد الافريقي لكره القدم",
+   "slug": "الاتحاد-الافريقي-لكره-القدم",
+   "langue": "ar",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "الاتحاد الإفريقي لكرة القدم",
+     "slug": "الاتحاد-الافريقي-لكره-القدم",
+     "langue": "ar",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-20T21:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-20"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
    "mot": "الخبر",
    "mot_norm": "الخبر",
    "slug": "الخبر",
@@ -19163,6 +19630,30 @@
      "fin": "2026-11-04T19:00:00",
      "liees": [],
      "jour": "2026-11-04"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
+   "mot": "سهام بن سدرين",
+   "mot_norm": "سهام بن سدرين",
+   "slug": "سهام-بن-سدرين",
+   "langue": "ar",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "سهام بن سدرين",
+     "slug": "سهام-بن-سدرين",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-20T18:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-20"
     }
    ],
    "jours": 1,
