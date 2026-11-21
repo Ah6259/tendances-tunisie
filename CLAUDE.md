@@ -67,3 +67,6 @@ Adresse : https://tendances.clicvia.com/ (sous-domaine Cloudflare d'Ahmed, CNAME
 - **21/11/2026 — mode sombre lisible (règle commune § 65, capture d'Ahmed)** : bouton « Envoyer » de l'avis en texte foncé en mode sombre, bloc
   de paiement commun réparé (`--p` défini, fond des étapes = variables du site) : bloc ajouté à la fin de assets/style.css ; contrôle
   `node "outils visibilite/mode_sombre.mjs" https://tendances.clicvia.com/` (projets-ahmed) : 0 texte illisible.
+- **21/11/2026 (suite) — mode CLAIR plus lisible (contraste ≥ 4,5)** : bloc clair de assets/style.css : `--or` #B7791F → #92600F (« intention d'achat » 3,6),
+  `--rouge` #C2412F → #B03A28 (bouton masqué « Football » 4,4) ; sombre inchangé. Contrôle `--clair --seuil 4.5` : 0 (seule exception : dates
+  au-dessus des barres de `historique/`, posées sur la carte blanche mais mesurées sur la barre violette = faux positif de l'outil).
