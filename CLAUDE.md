@@ -63,3 +63,7 @@ Adresse : https://tendances.clicvia.com/ (sous-domaine Cloudflare d'Ahmed, CNAME
   (modèle `outils communs/page-404/` de projets-ahmed : la modifier là-bas puis réinstaller avec `installer.py . "Tendances Tunisie" "#5B21B6"`) ;
   pied de page (assets/page.js) : liens vers https://clicvia.com/confidentialite/ et /conditions/ (versions ar/ et en/ selon la langue) ;
   `tools/test_site.mjs` bloque si la 404 ou un des 2 liens manque sur une sorte de page (FR/AR/EN).
+
+- **21/11/2026 — mode sombre lisible (règle commune § 65, capture d'Ahmed)** : bouton « Envoyer » de l'avis en texte foncé en mode sombre, bloc
+  de paiement commun réparé (`--p` défini, fond des étapes = variables du site) : bloc ajouté à la fin de assets/style.css ; contrôle
+  `node "outils visibilite/mode_sombre.mjs" https://tendances.clicvia.com/` (projets-ahmed) : 0 texte illisible.

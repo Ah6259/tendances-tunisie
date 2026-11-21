@@ -549,3 +549,13 @@ html[lang="ar"] .tendance .mot[dir="ltr"]{text-align:left}
 .masquage .etat{flex-basis:100%;font-size:12px;color:var(--doux)}
 /* 03/11/2026 : trois langues = deux boutons ; sur téléphone, en-tête resserré pour que le nom du site reste lisible */
 @media (max-width:440px){.entete .wrap{gap:6px}.logo{gap:7px;font-size:15px}.logo-mark{width:28px;height:28px}.entete-boutons{gap:4px}.entete-pro{padding:6px 8px;font-size:12px}.partager{width:32px;height:32px}.langue{padding:5px 8px;font-size:12px}}
+
+/* MODE SOMBRE LISIBLE (21/11/2026, règle commune § 65 — capture d'Ahmed : textes illisibles en mode sombre) :
+   le bouton « Envoyer » de l'avis gardait un texte blanc sur la couleur d'accent devenue claire ; les étapes du paiement (bloc commun)
+   avaient un fond clair écrit en dur et un rond numéroté sur var(--p) jamais défini. */
+:root{--p:var(--bleu);--p-clair:var(--bleu-clair);--p-tres-clair:var(--bleu-tres-clair)}
+.paie-etapes>li{color:var(--texte)}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]) .avis-envoyer{color:#0D141D}
+  :root:not([data-theme="light"]) .paie-etapes>li::before{color:#0D141D}
+}
