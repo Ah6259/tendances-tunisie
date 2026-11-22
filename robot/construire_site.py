@@ -335,13 +335,16 @@ def accueil(a, v, maj):
     corps.append(AVIS)
     jsonld = ('<script type="application/ld+json">\n' + json.dumps({"@context": "https://schema.org", "@graph": [
         {"@type": "WebSite", "name": NOM["fr"], "alternateName": [NOM["ar"], NOM["en"]], "url": URL_SITE, "inLanguage": LANGUES,
-         "description": "Ce que les Tunisiens cherchent sur Google : tendances en hausse, nouveautés, catégories, opportunités, mises à jour deux fois par jour."},
+         "description": "Ce que les Tunisiens cherchent sur Google : tendances en hausse, nouveautés, catégories, opportunités, mises à jour deux fois par jour.",
+         "publisher": {"@id": "https://clicvia.com/#organisation"}},
+        {"@type": "Organization", "@id": "https://clicvia.com/#organisation", "name": "Clicvia", "url": "https://clicvia.com/",
+         "sameAs": ["https://www.facebook.com/1327283777142447"]},
         {"@type": "Dataset", "name": "Tendances de recherche en Tunisie (relevés quotidiens)", "url": URL_SITE + "a-propos/#donnees",
          "description": "Relevés datés et catégorisés des recherches en forte hausse en Tunisie, d'après Google Trends.",
-         "creator": {"@type": "Organization", "name": "Clicvia"}, "license": "https://tendances.clicvia.com/a-propos/#donnees", "isAccessibleForFree": True,
+         "creator": {"@id": "https://clicvia.com/#organisation"}, "license": "https://tendances.clicvia.com/a-propos/#donnees", "isAccessibleForFree": True,
          "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": URL_SITE + "donnees/analyse.json"}]}]},
         ensure_ascii=False, indent=1) + "\n</script>\n")
-    titre = "Tendances de recherche en Tunisie : ce que les Tunisiens cherchent sur Google aujourd'hui"
+    titre = "Tendances de recherche en Tunisie : ce que cherchent les Tunisiens"
     desc = ("Chaque jour : les mots et expressions en forte hausse dans les recherches Google en Tunisie, en français et en arabe, par catégorie, "
             "avec leur historique et les opportunités pour les entrepreneurs. Données Google Trends, mises à jour automatiquement.")
     return page("", titre, desc, hero, "\n".join(corps), v, maj, PL.ACCUEIL["ar"][0], PL.ACCUEIL["ar"][1], jsonld,

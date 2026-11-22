@@ -1,11 +1,11 @@
 {
- "maj": "2026-11-22T00:33:58",
+ "maj": "2026-11-22T08:17:52",
  "jour": "2026-11-22",
  "totaux": {
   "tendances": 528,
   "mots_distincts": 442,
   "aujourdhui": 17,
-  "semaine": 108,
+  "semaine": 107,
   "mois": 528,
   "expressions_tapees": 2198,
   "premiere_lecture": "2026-11-01T10:46:10"
@@ -876,18 +876,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-20"
-  },
-  {
-   "mot": "منتخب المغرب لكرة القدم",
-   "slug": "منتخب-المغرب-لكره-القدم",
-   "langue": "ar",
-   "categorie": "football",
-   "volume": 500,
-   "hausse": null,
-   "debut": "2026-11-15T07:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-15"
   },
   {
    "mot": "abdelmadjid tebboune",
@@ -2252,6 +2240,18 @@
    "jour": "2026-11-11"
   },
   {
+   "mot": "منتخب المغرب لكرة القدم",
+   "slug": "منتخب-المغرب-لكره-القدم",
+   "langue": "ar",
+   "categorie": "football",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-15T07:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-15"
+  },
+  {
    "mot": "نور الدين البحيري",
    "slug": "نور-الدين-البحيري",
    "langue": "ar",
@@ -2295,18 +2295,6 @@
    "volume": 200,
    "hausse": null,
    "debut": "2026-11-08T20:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-08"
-  },
-  {
-   "mot": "climat",
-   "slug": "climat",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-08T05:40:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-08"
@@ -2977,7 +2965,7 @@
   "football": {
    "fr": "Football",
    "ar": "كرة القدم",
-   "n_semaine": 30,
+   "n_semaine": 29,
    "n_mois": 225,
    "top": [
     {
@@ -3159,18 +3147,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-21"
-    },
-    {
-     "mot": "منتخب المغرب لكرة القدم",
-     "slug": "منتخب-المغرب-لكره-القدم",
-     "langue": "ar",
-     "categorie": "football",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-15T07:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-15"
     },
     {
      "mot": "championnat tunisie",
