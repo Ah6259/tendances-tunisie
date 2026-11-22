@@ -70,3 +70,10 @@ Adresse : https://tendances.clicvia.com/ (sous-domaine Cloudflare d'Ahmed, CNAME
 - **21/11/2026 (suite) — mode CLAIR plus lisible (contraste ≥ 4,5)** : bloc clair de assets/style.css : `--or` #B7791F → #92600F (« intention d'achat » 3,6),
   `--rouge` #C2412F → #B03A28 (bouton masqué « Football » 4,4) ; sombre inchangé. Contrôle `--clair --seuil 4.5` : 0 (seule exception : dates
   au-dessus des barres de `historique/`, posées sur la carte blanche mais mesurées sur la barre violette = faux positif de l'outil).
+
+## 22/11/2026 — Google + IA (demande d'Ahmed : « que Google et les IA indexent nos sites »)
+- État Search Console (21/11) : accueil « URL is unknown to Google », aucune requête.
+- JSON-LD de l'accueil (construire_site.py) : WebSite avec éditeur `Organization` Clicvia (@id https://clicvia.com/#organisation, page
+  Facebook), le Dataset cite le même éditeur ; titre de l'accueil « Tendances de recherche en Tunisie : ce que cherchent les Tunisiens »
+  (l'ancien, trop long, était coupé par titre_seo() en « Tendances de recherche en Tunisie »).
+- robots.txt, llms.txt (refaits par construire_site.py, sans chiffre) et « Comment fonctionne le site ? » (dit déjà « famille Clicvia ») : inchangés.
