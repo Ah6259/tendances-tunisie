@@ -23,12 +23,22 @@
    "volume": 2000
   },
   {
+   "mot": "flashscore",
+   "fois": 2,
+   "volume": 2000
+  },
+  {
    "mot": "خصم",
    "fois": 2,
    "volume": 1000
   },
   {
    "mot": "طماطم",
+   "fois": 2,
+   "volume": 500
+  },
+  {
+   "mot": "fcb",
    "fois": 2,
    "volume": 500
   },
@@ -99,11 +109,6 @@
   },
   {
    "mot": "maroc – niger",
-   "fois": 1,
-   "volume": 2000
-  },
-  {
-   "mot": "flashscore",
    "fois": 1,
    "volume": 2000
   },
@@ -388,11 +393,6 @@
    "volume": 200
   },
   {
-   "mot": "fcb",
-   "fois": 1,
-   "volume": 200
-  },
-  {
    "mot": "الشروق",
    "fois": 1,
    "volume": 200
@@ -554,6 +554,11 @@
   },
   {
    "mot": "de miguel",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "sports",
    "fois": 1,
    "volume": 200
   },
