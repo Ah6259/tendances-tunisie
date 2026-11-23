@@ -1,39 +1,27 @@
 {
- "maj": "2026-11-23T00:46:45",
+ "maj": "2026-11-23T19:43:17",
  "jour": "2026-11-23",
  "totaux": {
-  "tendances": 547,
-  "mots_distincts": 451,
-  "aujourdhui": 19,
-  "semaine": 110,
-  "mois": 547,
+  "tendances": 556,
+  "mots_distincts": 458,
+  "aujourdhui": 15,
+  "semaine": 108,
+  "mois": 556,
   "expressions_tapees": 2293,
   "premiere_lecture": "2026-11-01T10:46:10"
  },
  "aujourdhui": [
   {
-   "mot": "flashscore",
-   "slug": "flashscore",
+   "mot": "blanchiment d'argent",
+   "slug": "blanchiment-d-argent",
    "langue": "fr",
-   "categorie": "autre",
-   "volume": 2000,
-   "hausse": null,
-   "debut": "2026-11-22T15:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-22"
-  },
-  {
-   "mot": "barca",
-   "slug": "barca",
-   "langue": "fr",
-   "categorie": "football",
+   "categorie": "finance",
    "volume": 1000,
    "hausse": null,
-   "debut": "2026-11-22T14:40:00",
+   "debut": "2026-11-23T06:20:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-22"
+   "jour": "2026-11-23"
   },
   {
    "mot": "getafe – atlético madrid",
@@ -60,16 +48,16 @@
    "jour": "2026-11-22"
   },
   {
-   "mot": "ac milan – frosinone",
-   "slug": "ac-milan-frosinone",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 500,
+   "mot": "خبر",
+   "slug": "خبر",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 1000,
    "hausse": null,
-   "debut": "2026-11-22T18:10:00",
+   "debut": "2026-11-23T13:10:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-22"
+   "jour": "2026-11-23"
   },
   {
    "mot": "atalanta – inter",
@@ -96,40 +84,88 @@
    "jour": "2026-11-22"
   },
   {
-   "mot": "fcb",
-   "slug": "fcb",
+   "mot": "iraqi airways",
+   "slug": "iraqi-airways",
    "langue": "fr",
    "categorie": "autre",
    "volume": 500,
    "hausse": null,
-   "debut": "2026-11-22T14:40:00",
+   "debut": "2026-11-23T16:10:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-22"
+   "jour": "2026-11-23"
   },
   {
-   "mot": "برشلونة",
-   "slug": "برشلونه",
+   "mot": "قانون المالية",
+   "slug": "قانون-الماليه",
    "langue": "ar",
-   "categorie": "football",
+   "categorie": "administration",
    "volume": 500,
    "hausse": null,
-   "debut": "2026-11-22T14:50:00",
+   "debut": "2026-11-23T15:30:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-22"
+   "jour": "2026-11-23"
   },
   {
-   "mot": "ca",
-   "slug": "ca",
+   "mot": "al ahly – pyramids",
+   "slug": "al-ahly-pyramids",
    "langue": "fr",
    "categorie": "football",
    "volume": 200,
    "hausse": null,
-   "debut": "2026-11-22T15:30:00",
+   "debut": "2026-11-23T19:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-23"
+  },
+  {
+   "mot": "babnet",
+   "slug": "babnet",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-23T08:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-23"
+  },
+  {
+   "mot": "grève",
+   "slug": "greve",
+   "langue": "fr",
+   "categorie": "emploi",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-23T08:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-23"
+  },
+  {
+   "mot": "marseille – le mans",
+   "slug": "marseille-le-mans",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-22T21:30:00",
    "fin": null,
    "liees": [],
    "jour": "2026-11-22"
+  },
+  {
+   "mot": "nvidia stock",
+   "slug": "nvidia-stock",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-23T17:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-23"
   },
   {
    "mot": "pluie",
@@ -144,100 +180,16 @@
    "jour": "2026-11-22"
   },
   {
-   "mot": "sports",
-   "slug": "sports",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-22T15:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-22"
-  },
-  {
-   "mot": "كأس تونس لكرة القدم",
-   "slug": "كاس-تونس-لكره-القدم",
-   "langue": "ar",
-   "categorie": "football",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-22T17:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-22"
-  },
-  {
-   "mot": "ca vs",
-   "slug": "ca-vs",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-22T15:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-22"
-  },
-  {
-   "mot": "kora",
-   "slug": "kora",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-22T15:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-22"
-  },
-  {
-   "mot": "leïla jaffel",
-   "slug": "leila-jaffel",
+   "mot": "charles leclerc",
+   "slug": "charles-leclerc",
    "langue": "fr",
    "categorie": "autre",
    "volume": 100,
    "hausse": null,
-   "debut": "2026-11-22T17:00:00",
+   "debut": "2026-11-23T13:30:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-22"
-  },
-  {
-   "mot": "marseille – le mans",
-   "slug": "marseille-le-mans",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-22T21:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-22"
-  },
-  {
-   "mot": "match derby",
-   "slug": "match-derby",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-22T14:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-22"
-  },
-  {
-   "mot": "taraji match",
-   "slug": "taraji-match",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-22T15:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-22"
+   "jour": "2026-11-23"
   }
  ],
  "semaine": [
@@ -386,30 +338,6 @@
    "jour": "2026-11-18"
   },
   {
-   "mot": "صحراء",
-   "slug": "صحراء",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 2000,
-   "hausse": null,
-   "debut": "2026-11-16T12:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-16"
-  },
-  {
-   "mot": "كرة القدم",
-   "slug": "كره-القدم",
-   "langue": "ar",
-   "categorie": "football",
-   "volume": 2000,
-   "hausse": null,
-   "debut": "2026-11-16T05:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-16"
-  },
-  {
    "mot": "وزارة",
    "slug": "وزاره",
    "langue": "ar",
@@ -456,6 +384,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-20"
+  },
+  {
+   "mot": "blanchiment d'argent",
+   "slug": "blanchiment-d-argent",
+   "langue": "fr",
+   "categorie": "finance",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-23T06:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-23"
   },
   {
    "mot": "classement al-ahli saudi – al-nassr fc",
@@ -590,6 +530,18 @@
    "jour": "2026-11-22"
   },
   {
+   "mot": "خبر",
+   "slug": "خبر",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-23T13:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-23"
+  },
+  {
    "mot": "مطر",
    "slug": "مطر",
    "langue": "ar",
@@ -686,18 +638,6 @@
    "jour": "2026-11-22"
   },
   {
-   "mot": "coupe d'afrique des nations de football 2027",
-   "slug": "coupe-d-afrique-des-nations-de-football-2027",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 500,
-   "hausse": null,
-   "debut": "2026-11-16T06:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-16"
-  },
-  {
    "mot": "danemark – norvège",
    "slug": "danemark-norvege",
    "langue": "fr",
@@ -734,6 +674,18 @@
    "jour": "2026-11-18"
   },
   {
+   "mot": "iraqi airways",
+   "slug": "iraqi-airways",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-23T16:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-23"
+  },
+  {
    "mot": "koh lanta all stars",
    "slug": "koh-lanta-all-stars",
    "langue": "fr",
@@ -758,18 +710,6 @@
    "jour": "2026-11-21"
   },
   {
-   "mot": "ravenna fc ronaldinho",
-   "slug": "ravenna-fc-ronaldinho",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 500,
-   "hausse": null,
-   "debut": "2026-11-16T14:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-16"
-  },
-  {
    "mot": "sihem bensedrine",
    "slug": "sihem-bensedrine",
    "langue": "fr",
@@ -782,18 +722,6 @@
    "jour": "2026-11-20"
   },
   {
-   "mot": "soudan – sénégal",
-   "slug": "soudan-senegal",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 500,
-   "hausse": null,
-   "debut": "2026-11-16T14:40:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-16"
-  },
-  {
    "mot": "supermarché",
    "slug": "supermarche",
    "langue": "fr",
@@ -804,18 +732,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-20"
-  },
-  {
-   "mot": "temps",
-   "slug": "temps",
-   "langue": "fr",
-   "categorie": "meteo",
-   "volume": 500,
-   "hausse": null,
-   "debut": "2026-11-16T14:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-16"
   },
   {
    "mot": "togo – algérie",
@@ -890,6 +806,18 @@
    "jour": "2026-11-19"
   },
   {
+   "mot": "قانون المالية",
+   "slug": "قانون-الماليه",
+   "langue": "ar",
+   "categorie": "administration",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-23T15:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-23"
+  },
+  {
    "mot": "ليلى بن علي",
    "slug": "ليلي-بن-علي",
    "langue": "ar",
@@ -900,18 +828,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-20"
-  },
-  {
-   "mot": "abdelmadjid tebboune",
-   "slug": "abdelmadjid-tebboune",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-16T11:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-16"
   },
   {
    "mot": "abir moussi",
@@ -936,6 +852,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-17"
+  },
+  {
+   "mot": "al ahly – pyramids",
+   "slug": "al-ahly-pyramids",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-23T19:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-23"
   },
   {
    "mot": "anne cecile mailfert",
@@ -972,6 +900,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-20"
+  },
+  {
+   "mot": "babnet",
+   "slug": "babnet",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-23T08:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-23"
   },
   {
    "mot": "ca",
@@ -1082,6 +1022,30 @@
    "jour": "2026-11-16"
   },
   {
+   "mot": "grève",
+   "slug": "greve",
+   "langue": "fr",
+   "categorie": "emploi",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-23T08:00:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-23"
+  },
+  {
+   "mot": "marseille – le mans",
+   "slug": "marseille-le-mans",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-22T21:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-22"
+  },
+  {
    "mot": "ministère de la défense",
    "slug": "ministere-de-la-defense",
    "langue": "fr",
@@ -1094,6 +1058,18 @@
    "jour": "2026-11-20"
   },
   {
+   "mot": "nvidia stock",
+   "slug": "nvidia-stock",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-23T17:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-23"
+  },
+  {
    "mot": "pluie",
    "slug": "pluie",
    "langue": "fr",
@@ -1104,30 +1080,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-22"
-  },
-  {
-   "mot": "raphinha",
-   "slug": "raphinha",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-16T18:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-16"
-  },
-  {
-   "mot": "robert pattinson",
-   "slug": "robert-pattinson",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-16T18:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-16"
   },
   {
    "mot": "sports",
@@ -1334,6 +1286,18 @@
    "jour": "2026-11-22"
   },
   {
+   "mot": "charles leclerc",
+   "slug": "charles-leclerc",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 100,
+   "hausse": null,
+   "debut": "2026-11-23T13:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-23"
+  },
+  {
    "mot": "eau potable",
    "slug": "eau-potable",
    "langue": "fr",
@@ -1394,18 +1358,6 @@
    "jour": "2026-11-22"
   },
   {
-   "mot": "marseille – le mans",
-   "slug": "marseille-le-mans",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-22T21:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-22"
-  },
-  {
    "mot": "match derby",
    "slug": "match-derby",
    "langue": "fr",
@@ -1440,18 +1392,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-17"
-  },
-  {
-   "mot": "suspect",
-   "slug": "suspect",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-16T06:10:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-16"
   },
   {
    "mot": "taraji match",
@@ -1500,18 +1440,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-17"
-  },
-  {
-   "mot": "رحمة حسن",
-   "slug": "رحمه-حسن",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-16T06:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-16"
   },
   {
    "mot": "ريال مدريد",
@@ -1564,6 +1492,18 @@
  ],
  "nouveautes": [
   {
+   "mot": "blanchiment d'argent",
+   "slug": "blanchiment-d-argent",
+   "langue": "fr",
+   "categorie": "finance",
+   "volume": 1000,
+   "hausse": null,
+   "debut": "2026-11-23T06:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-23"
+  },
+  {
    "mot": "getafe – atlético madrid",
    "slug": "getafe-atletico-madrid",
    "langue": "fr",
@@ -1576,16 +1516,16 @@
    "jour": "2026-11-22"
   },
   {
-   "mot": "ac milan – frosinone",
-   "slug": "ac-milan-frosinone",
-   "langue": "fr",
-   "categorie": "football",
-   "volume": 500,
+   "mot": "خبر",
+   "slug": "خبر",
+   "langue": "ar",
+   "categorie": "autre",
+   "volume": 1000,
    "hausse": null,
-   "debut": "2026-11-22T18:10:00",
+   "debut": "2026-11-23T13:10:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-22"
+   "jour": "2026-11-23"
   },
   {
    "mot": "atalanta – inter",
@@ -1612,35 +1552,47 @@
    "jour": "2026-11-22"
   },
   {
-   "mot": "كأس تونس لكرة القدم",
-   "slug": "كاس-تونس-لكره-القدم",
+   "mot": "iraqi airways",
+   "slug": "iraqi-airways",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-23T16:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-23"
+  },
+  {
+   "mot": "قانون المالية",
+   "slug": "قانون-الماليه",
    "langue": "ar",
+   "categorie": "administration",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-23T15:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-23"
+  },
+  {
+   "mot": "al ahly – pyramids",
+   "slug": "al-ahly-pyramids",
+   "langue": "fr",
    "categorie": "football",
    "volume": 200,
    "hausse": null,
-   "debut": "2026-11-22T17:00:00",
+   "debut": "2026-11-23T19:00:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-22"
-  },
-  {
-   "mot": "leïla jaffel",
-   "slug": "leila-jaffel",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 100,
-   "hausse": null,
-   "debut": "2026-11-22T17:00:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-22"
+   "jour": "2026-11-23"
   },
   {
    "mot": "marseille – le mans",
    "slug": "marseille-le-mans",
    "langue": "fr",
    "categorie": "football",
-   "volume": 100,
+   "volume": 200,
    "hausse": null,
    "debut": "2026-11-22T21:30:00",
    "fin": null,
@@ -1648,28 +1600,28 @@
    "jour": "2026-11-22"
   },
   {
-   "mot": "match derby",
-   "slug": "match-derby",
+   "mot": "nvidia stock",
+   "slug": "nvidia-stock",
    "langue": "fr",
-   "categorie": "football",
-   "volume": 100,
+   "categorie": "autre",
+   "volume": 200,
    "hausse": null,
-   "debut": "2026-11-22T14:50:00",
+   "debut": "2026-11-23T17:20:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-22"
+   "jour": "2026-11-23"
   },
   {
-   "mot": "taraji match",
-   "slug": "taraji-match",
+   "mot": "charles leclerc",
+   "slug": "charles-leclerc",
    "langue": "fr",
-   "categorie": "football",
+   "categorie": "autre",
    "volume": 100,
    "hausse": null,
-   "debut": "2026-11-22T15:30:00",
+   "debut": "2026-11-23T13:30:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-22"
+   "jour": "2026-11-23"
   }
  ],
  "hausses": [
@@ -1880,16 +1832,28 @@
    "jour": "2026-11-13"
   },
   {
-   "mot": "قيس عبد الفتاح",
-   "slug": "قيس-عبد-الفتاح",
+   "mot": "صحراء",
+   "slug": "صحراء",
    "langue": "ar",
    "categorie": "autre",
    "volume": 2000,
    "hausse": null,
-   "debut": "2026-11-09T02:30:00",
+   "debut": "2026-11-16T12:50:00",
    "fin": null,
    "liees": [],
-   "jour": "2026-11-09"
+   "jour": "2026-11-16"
+  },
+  {
+   "mot": "كرة القدم",
+   "slug": "كره-القدم",
+   "langue": "ar",
+   "categorie": "football",
+   "volume": 2000,
+   "hausse": null,
+   "debut": "2026-11-16T05:20:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-16"
   },
   {
    "mot": "angleterre – croatie",
@@ -2024,18 +1988,6 @@
    "jour": "2026-11-15"
   },
   {
-   "mot": "teddy riner",
-   "slug": "teddy-riner",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 1000,
-   "hausse": null,
-   "debut": "2026-11-09T16:50:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-09"
-  },
-  {
    "mot": "égypte – malawi",
    "slug": "egypte-malawi",
    "langue": "fr",
@@ -2120,6 +2072,18 @@
    "jour": "2026-11-14"
   },
   {
+   "mot": "coupe d'afrique des nations de football 2027",
+   "slug": "coupe-d-afrique-des-nations-de-football-2027",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-16T06:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-16"
+  },
+  {
    "mot": "croatie – tchéquie",
    "slug": "croatie-tchequie",
    "langue": "fr",
@@ -2166,6 +2130,42 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-13"
+  },
+  {
+   "mot": "ravenna fc ronaldinho",
+   "slug": "ravenna-fc-ronaldinho",
+   "langue": "fr",
+   "categorie": "football",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-16T14:30:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-16"
+  },
+  {
+   "mot": "soudan – sénégal",
+   "slug": "soudan-senegal",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-16T14:40:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-16"
+  },
+  {
+   "mot": "temps",
+   "slug": "temps",
+   "langue": "fr",
+   "categorie": "meteo",
+   "volume": 500,
+   "hausse": null,
+   "debut": "2026-11-16T14:10:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-16"
   },
   {
    "mot": "uefa nations league",
@@ -2228,18 +2228,6 @@
    "jour": "2026-11-09"
   },
   {
-   "mot": "طماطم",
-   "slug": "طماطم",
-   "langue": "ar",
-   "categorie": "autre",
-   "volume": 500,
-   "hausse": null,
-   "debut": "2026-11-09T17:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-09"
-  },
-  {
    "mot": "معين شعباني",
    "slug": "معين-شعباني",
    "langue": "ar",
@@ -2274,6 +2262,18 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-13"
+  },
+  {
+   "mot": "abdelmadjid tebboune",
+   "slug": "abdelmadjid-tebboune",
+   "langue": "fr",
+   "categorie": "autre",
+   "volume": 200,
+   "hausse": null,
+   "debut": "2026-11-16T11:50:00",
+   "fin": null,
+   "liees": [],
+   "jour": "2026-11-16"
   },
   {
    "mot": "bakary samake",
@@ -2394,54 +2394,6 @@
    "fin": null,
    "liees": [],
    "jour": "2026-11-14"
-  },
-  {
-   "mot": "nations league",
-   "slug": "nations-league",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-12T21:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-12"
-  },
-  {
-   "mot": "noureddine bhiri",
-   "slug": "noureddine-bhiri",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-14T05:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-14"
-  },
-  {
-   "mot": "nvidia jensen huang",
-   "slug": "nvidia-jensen-huang",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-13T04:20:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-13"
-  },
-  {
-   "mot": "portugal",
-   "slug": "portugal",
-   "langue": "fr",
-   "categorie": "autre",
-   "volume": 200,
-   "hausse": null,
-   "debut": "2026-11-14T21:30:00",
-   "fin": null,
-   "liees": [],
-   "jour": "2026-11-14"
   }
  ],
  "recurrents": [
@@ -2502,6 +2454,19 @@
    "liees": [],
    "jour": "2026-10-25",
    "jours": 4
+  },
+  {
+   "mot": "grève",
+   "slug": "greve",
+   "langue": "fr",
+   "categorie": "emploi",
+   "volume": 2000,
+   "hausse": 1000,
+   "debut": "2026-11-02T13:40:00",
+   "fin": "2026-11-04T07:40:00",
+   "liees": [],
+   "jour": "2026-11-02",
+   "jours": 3
   },
   {
    "mot": "ثعبان",
@@ -2768,8 +2733,8 @@
   "emploi": {
    "fr": "Emploi et concours",
    "ar": "الشغل والمناظرات",
-   "n_semaine": 2,
-   "n_mois": 6,
+   "n_semaine": 3,
+   "n_mois": 7,
    "top": [
     {
      "mot": "grève",
@@ -2784,6 +2749,18 @@
      "jour": "2026-11-19"
     },
     {
+     "mot": "grève",
+     "slug": "greve",
+     "langue": "fr",
+     "categorie": "emploi",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-23T08:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-23"
+    },
+    {
      "mot": "إضراب",
      "slug": "اضراب",
      "langue": "ar",
@@ -2796,7 +2773,20 @@
      "jour": "2026-11-18"
     }
    ],
-   "top24": []
+   "top24": [
+    {
+     "mot": "grève",
+     "slug": "greve",
+     "langue": "fr",
+     "categorie": "emploi",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-23T08:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-23"
+    }
+   ]
   },
   "education": {
    "fr": "Éducation",
@@ -2867,8 +2857,8 @@
   "administration": {
    "fr": "Administration et démarches",
    "ar": "الإدارة والإجراءات",
-   "n_semaine": 3,
-   "n_mois": 21,
+   "n_semaine": 4,
+   "n_mois": 22,
    "top": [
     {
      "mot": "وزارة",
@@ -2895,6 +2885,18 @@
      "jour": "2026-11-19"
     },
     {
+     "mot": "قانون المالية",
+     "slug": "قانون-الماليه",
+     "langue": "ar",
+     "categorie": "administration",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-23T15:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-23"
+    },
+    {
      "mot": "ministère de la défense",
      "slug": "ministere-de-la-defense",
      "langue": "fr",
@@ -2907,7 +2909,20 @@
      "jour": "2026-11-20"
     }
    ],
-   "top24": []
+   "top24": [
+    {
+     "mot": "قانون المالية",
+     "slug": "قانون-الماليه",
+     "langue": "ar",
+     "categorie": "administration",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-23T15:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-23"
+    }
+   ]
   },
   "energie": {
    "fr": "Énergie",
@@ -2945,16 +2960,42 @@
   "finance": {
    "fr": "Argent et banques",
    "ar": "المال والبنوك",
-   "n_semaine": 0,
-   "n_mois": 8,
-   "top": [],
-   "top24": []
+   "n_semaine": 1,
+   "n_mois": 9,
+   "top": [
+    {
+     "mot": "blanchiment d'argent",
+     "slug": "blanchiment-d-argent",
+     "langue": "fr",
+     "categorie": "finance",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-23T06:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-23"
+    }
+   ],
+   "top24": [
+    {
+     "mot": "blanchiment d'argent",
+     "slug": "blanchiment-d-argent",
+     "langue": "fr",
+     "categorie": "finance",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-23T06:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-23"
+    }
+   ]
   },
   "football": {
    "fr": "Football",
    "ar": "كرة القدم",
-   "n_semaine": 39,
-   "n_mois": 238,
+   "n_semaine": 37,
+   "n_mois": 239,
    "top": [
     {
      "mot": "real madrid – celta vigo",
@@ -3003,18 +3044,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-21"
-    },
-    {
-     "mot": "كرة القدم",
-     "slug": "كره-القدم",
-     "langue": "ar",
-     "categorie": "football",
-     "volume": 2000,
-     "hausse": null,
-     "debut": "2026-11-16T05:20:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-16"
     },
     {
      "mot": "barca",
@@ -3137,30 +3166,6 @@
      "jour": "2026-11-22"
     },
     {
-     "mot": "coupe d'afrique des nations de football 2027",
-     "slug": "coupe-d-afrique-des-nations-de-football-2027",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-16T06:10:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-16"
-    },
-    {
-     "mot": "ravenna fc ronaldinho",
-     "slug": "ravenna-fc-ronaldinho",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-16T14:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-16"
-    },
-    {
      "mot": "yalla kora",
      "slug": "yalla-kora",
      "langue": "fr",
@@ -3195,6 +3200,18 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-21"
+    },
+    {
+     "mot": "al ahly – pyramids",
+     "slug": "al-ahly-pyramids",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-23T19:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-23"
     },
     {
      "mot": "ca",
@@ -3255,6 +3272,18 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-21"
+    },
+    {
+     "mot": "marseille – le mans",
+     "slug": "marseille-le-mans",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-22T21:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-22"
     },
     {
      "mot": "séville – betis",
@@ -3348,18 +3377,6 @@
      "volume": 100,
      "hausse": null,
      "debut": "2026-11-22T15:20:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-22"
-    },
-    {
-     "mot": "marseille – le mans",
-     "slug": "marseille-le-mans",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-22T21:30:00",
      "fin": null,
      "liees": [],
      "jour": "2026-11-22"
@@ -3499,6 +3516,18 @@
      "jour": "2026-11-22"
     },
     {
+     "mot": "al ahly – pyramids",
+     "slug": "al-ahly-pyramids",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-23T19:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-23"
+    },
+    {
      "mot": "ca",
      "slug": "ca",
      "langue": "fr",
@@ -3511,6 +3540,18 @@
      "jour": "2026-11-22"
     },
     {
+     "mot": "marseille – le mans",
+     "slug": "marseille-le-mans",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-22T21:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-22"
+    },
+    {
      "mot": "كأس تونس لكرة القدم",
      "slug": "كاس-تونس-لكره-القدم",
      "langue": "ar",
@@ -3518,30 +3559,6 @@
      "volume": 200,
      "hausse": null,
      "debut": "2026-11-22T17:00:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-22"
-    },
-    {
-     "mot": "ca vs",
-     "slug": "ca-vs",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-22T15:20:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-22"
-    },
-    {
-     "mot": "kora",
-     "slug": "kora",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-22T15:20:00",
      "fin": null,
      "liees": [],
      "jour": "2026-11-22"
@@ -3567,7 +3584,7 @@
   "meteo": {
    "fr": "Météo",
    "ar": "الطقس",
-   "n_semaine": 4,
+   "n_semaine": 3,
    "n_mois": 17,
    "top": [
     {
@@ -3593,18 +3610,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-19"
-    },
-    {
-     "mot": "temps",
-     "slug": "temps",
-     "langue": "fr",
-     "categorie": "meteo",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-16T14:10:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-16"
     },
     {
      "mot": "pluie",
@@ -3690,8 +3695,8 @@
   "autre": {
    "fr": "Autre",
    "ar": "أخرى",
-   "n_semaine": 55,
-   "n_mois": 152,
+   "n_semaine": 53,
+   "n_mois": 157,
    "top": [
     {
      "mot": "kick",
@@ -3778,18 +3783,6 @@
      "jour": "2026-11-18"
     },
     {
-     "mot": "صحراء",
-     "slug": "صحراء",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 2000,
-     "hausse": null,
-     "debut": "2026-11-16T12:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-16"
-    },
-    {
      "mot": "allemagne – pays-bas",
      "slug": "allemagne-pays-bas",
      "langue": "fr",
@@ -3836,6 +3829,18 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-22"
+    },
+    {
+     "mot": "خبر",
+     "slug": "خبر",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-23T13:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-23"
     },
     {
      "mot": "administration publique",
@@ -3910,6 +3915,18 @@
      "jour": "2026-11-18"
     },
     {
+     "mot": "iraqi airways",
+     "slug": "iraqi-airways",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-23T16:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-23"
+    },
+    {
      "mot": "koh lanta all stars",
      "slug": "koh-lanta-all-stars",
      "langue": "fr",
@@ -3932,18 +3949,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-20"
-    },
-    {
-     "mot": "soudan – sénégal",
-     "slug": "soudan-senegal",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 500,
-     "hausse": null,
-     "debut": "2026-11-16T14:40:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-16"
     },
     {
      "mot": "supermarché",
@@ -3992,18 +3997,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-20"
-    },
-    {
-     "mot": "abdelmadjid tebboune",
-     "slug": "abdelmadjid-tebboune",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-16T11:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-16"
     },
     {
      "mot": "abir moussi",
@@ -4066,6 +4059,18 @@
      "jour": "2026-11-20"
     },
     {
+     "mot": "babnet",
+     "slug": "babnet",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-23T08:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-23"
+    },
+    {
      "mot": "carlos alcaraz",
      "slug": "carlos-alcaraz",
      "langue": "fr",
@@ -4114,28 +4119,16 @@
      "jour": "2026-11-16"
     },
     {
-     "mot": "raphinha",
-     "slug": "raphinha",
+     "mot": "nvidia stock",
+     "slug": "nvidia-stock",
      "langue": "fr",
      "categorie": "autre",
      "volume": 200,
      "hausse": null,
-     "debut": "2026-11-16T18:20:00",
+     "debut": "2026-11-23T17:20:00",
      "fin": null,
      "liees": [],
-     "jour": "2026-11-16"
-    },
-    {
-     "mot": "robert pattinson",
-     "slug": "robert-pattinson",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 200,
-     "hausse": null,
-     "debut": "2026-11-16T18:00:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-16"
+     "jour": "2026-11-23"
     },
     {
      "mot": "sports",
@@ -4234,6 +4227,18 @@
      "jour": "2026-11-19"
     },
     {
+     "mot": "charles leclerc",
+     "slug": "charles-leclerc",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-23T13:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-23"
+    },
+    {
      "mot": "kawarji live",
      "slug": "kawarji-live",
      "langue": "fr",
@@ -4270,18 +4275,6 @@
      "jour": "2026-11-17"
     },
     {
-     "mot": "suspect",
-     "slug": "suspect",
-     "langue": "fr",
-     "categorie": "autre",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-16T06:10:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-16"
-    },
-    {
      "mot": "togo vs algeria",
      "slug": "togo-vs-algeria",
      "langue": "fr",
@@ -4316,18 +4309,6 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-17"
-    },
-    {
-     "mot": "رحمة حسن",
-     "slug": "رحمه-حسن",
-     "langue": "ar",
-     "categorie": "autre",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-16T06:50:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-16"
     },
     {
      "mot": "شاحنة",
@@ -4380,6 +4361,18 @@
      "jour": "2026-11-22"
     },
     {
+     "mot": "خبر",
+     "slug": "خبر",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-23T13:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-23"
+    },
+    {
      "mot": "fcb",
      "slug": "fcb",
      "langue": "fr",
@@ -4392,6 +4385,42 @@
      "jour": "2026-11-22"
     },
     {
+     "mot": "iraqi airways",
+     "slug": "iraqi-airways",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-23T16:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-23"
+    },
+    {
+     "mot": "babnet",
+     "slug": "babnet",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-23T08:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-23"
+    },
+    {
+     "mot": "nvidia stock",
+     "slug": "nvidia-stock",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-23T17:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-23"
+    },
+    {
      "mot": "sports",
      "slug": "sports",
      "langue": "fr",
@@ -4402,6 +4431,18 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-22"
+    },
+    {
+     "mot": "charles leclerc",
+     "slug": "charles-leclerc",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-23T13:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-23"
     },
     {
      "mot": "leïla jaffel",
@@ -4436,6 +4477,141 @@
  ],
  "historique": {
   "semaines": {
+   "2026-11-23": {
+    "n": 9,
+    "top": [
+     {
+      "mot": "blanchiment d'argent",
+      "slug": "blanchiment-d-argent",
+      "langue": "fr",
+      "categorie": "finance",
+      "volume": 1000,
+      "hausse": null,
+      "debut": "2026-11-23T06:20:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-23"
+     },
+     {
+      "mot": "خبر",
+      "slug": "خبر",
+      "langue": "ar",
+      "categorie": "autre",
+      "volume": 1000,
+      "hausse": null,
+      "debut": "2026-11-23T13:10:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-23"
+     },
+     {
+      "mot": "iraqi airways",
+      "slug": "iraqi-airways",
+      "langue": "fr",
+      "categorie": "autre",
+      "volume": 500,
+      "hausse": null,
+      "debut": "2026-11-23T16:10:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-23"
+     },
+     {
+      "mot": "قانون المالية",
+      "slug": "قانون-الماليه",
+      "langue": "ar",
+      "categorie": "administration",
+      "volume": 500,
+      "hausse": null,
+      "debut": "2026-11-23T15:30:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-23"
+     },
+     {
+      "mot": "al ahly – pyramids",
+      "slug": "al-ahly-pyramids",
+      "langue": "fr",
+      "categorie": "football",
+      "volume": 200,
+      "hausse": null,
+      "debut": "2026-11-23T19:00:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-23"
+     },
+     {
+      "mot": "babnet",
+      "slug": "babnet",
+      "langue": "fr",
+      "categorie": "autre",
+      "volume": 200,
+      "hausse": null,
+      "debut": "2026-11-23T08:00:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-23"
+     },
+     {
+      "mot": "grève",
+      "slug": "greve",
+      "langue": "fr",
+      "categorie": "emploi",
+      "volume": 200,
+      "hausse": null,
+      "debut": "2026-11-23T08:00:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-23"
+     },
+     {
+      "mot": "nvidia stock",
+      "slug": "nvidia-stock",
+      "langue": "fr",
+      "categorie": "autre",
+      "volume": 200,
+      "hausse": null,
+      "debut": "2026-11-23T17:20:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-23"
+     },
+     {
+      "mot": "charles leclerc",
+      "slug": "charles-leclerc",
+      "langue": "fr",
+      "categorie": "autre",
+      "volume": 100,
+      "hausse": null,
+      "debut": "2026-11-23T13:30:00",
+      "fin": null,
+      "liees": [],
+      "jour": "2026-11-23"
+     }
+    ],
+    "categories": [
+     {
+      "cle": "autre",
+      "n": 5
+     },
+     {
+      "cle": "football",
+      "n": 1
+     },
+     {
+      "cle": "administration",
+      "n": 1
+     },
+     {
+      "cle": "emploi",
+      "n": 1
+     },
+     {
+      "cle": "finance",
+      "n": 1
+     }
+    ]
+   },
    "2026-11-16": {
     "n": 110,
     "top": [
@@ -5369,7 +5545,7 @@
   },
   "mois": {
    "2026-11": {
-    "n": 363,
+    "n": 372,
     "top": [
      {
       "mot": "classement stade tunisien – club africain",
@@ -5513,11 +5689,11 @@
     "categories": [
      {
       "cle": "autre",
-      "n": 147
+      "n": 152
      },
      {
       "cle": "football",
-      "n": 133
+      "n": 134
      },
      {
       "cle": "sport",
@@ -5528,20 +5704,20 @@
       "n": 13
      },
      {
+      "cle": "administration",
+      "n": 11
+     },
+     {
       "cle": "meteo",
       "n": 11
      },
      {
-      "cle": "administration",
-      "n": 10
-     },
-     {
       "cle": "emploi",
-      "n": 6
+      "n": 7
      },
      {
       "cle": "finance",
-      "n": 5
+      "n": 6
      },
      {
       "cle": "divertissement",
@@ -9976,8 +10152,20 @@
    "mot_norm": "babnet",
    "slug": "babnet",
    "langue": "fr",
-   "categorie": "politique",
+   "categorie": "autre",
    "episodes": [
+    {
+     "mot": "babnet",
+     "slug": "babnet",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-23T08:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-23"
+    },
     {
      "mot": "babnet",
      "slug": "babnet",
@@ -9991,7 +10179,7 @@
      "jour": "2026-11-04"
     }
    ],
-   "jours": 1,
+   "jours": 2,
    "volume_max": 5000,
    "liees": []
   },
@@ -11334,6 +11522,18 @@
      "slug": "greve",
      "langue": "fr",
      "categorie": "emploi",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-23T08:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-23"
+    },
+    {
+     "mot": "grève",
+     "slug": "greve",
+     "langue": "fr",
+     "categorie": "emploi",
      "volume": 1000,
      "hausse": null,
      "debut": "2026-11-19T02:30:00",
@@ -11354,7 +11554,7 @@
      "jour": "2026-11-02"
     }
    ],
-   "jours": 2,
+   "jours": 3,
    "volume_max": 2000,
    "liees": []
   },
@@ -12745,6 +12945,30 @@
    "liees": []
   },
   {
+   "mot": "blanchiment d'argent",
+   "mot_norm": "blanchiment d'argent",
+   "slug": "blanchiment-d-argent",
+   "langue": "fr",
+   "categorie": "finance",
+   "episodes": [
+    {
+     "mot": "blanchiment d'argent",
+     "slug": "blanchiment-d-argent",
+     "langue": "fr",
+     "categorie": "finance",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-23T06:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-23"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 1000,
+   "liees": []
+  },
+  {
    "mot": "caf",
    "mot_norm": "caf",
    "slug": "caf",
@@ -14089,6 +14313,30 @@
    "liees": []
   },
   {
+   "mot": "خبر",
+   "mot_norm": "خبر",
+   "slug": "خبر",
+   "langue": "ar",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "خبر",
+     "slug": "خبر",
+     "langue": "ar",
+     "categorie": "autre",
+     "volume": 1000,
+     "hausse": null,
+     "debut": "2026-11-23T13:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-23"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 1000,
+   "liees": []
+  },
+  {
    "mot": "خصم",
    "mot_norm": "خصم",
    "slug": "خصم",
@@ -15344,6 +15592,30 @@
      "fin": "2026-10-25T17:00:00",
      "liees": [],
      "jour": "2026-10-25"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 500,
+   "liees": []
+  },
+  {
+   "mot": "iraqi airways",
+   "mot_norm": "iraqi airways",
+   "slug": "iraqi-airways",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "iraqi airways",
+     "slug": "iraqi-airways",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-23T16:10:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-23"
     }
    ],
    "jours": 1,
@@ -16671,6 +16943,30 @@
    "liees": []
   },
   {
+   "mot": "قانون المالية",
+   "mot_norm": "قانون الماليه",
+   "slug": "قانون-الماليه",
+   "langue": "ar",
+   "categorie": "administration",
+   "episodes": [
+    {
+     "mot": "قانون المالية",
+     "slug": "قانون-الماليه",
+     "langue": "ar",
+     "categorie": "administration",
+     "volume": 500,
+     "hausse": null,
+     "debut": "2026-11-23T15:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-23"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 500,
+   "liees": []
+  },
+  {
    "mot": "كورة سيتي",
    "mot_norm": "كوره سيتي",
    "slug": "كوره-سيتي",
@@ -16980,6 +17276,30 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-17"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
+   "mot": "al ahly – pyramids",
+   "mot_norm": "al ahly - pyramids",
+   "slug": "al-ahly-pyramids",
+   "langue": "fr",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "al ahly – pyramids",
+     "slug": "al-ahly-pyramids",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-23T19:00:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-23"
     }
    ],
    "jours": 1,
@@ -18689,6 +19009,30 @@
    "liees": []
   },
   {
+   "mot": "marseille – le mans",
+   "mot_norm": "marseille - le mans",
+   "slug": "marseille-le-mans",
+   "langue": "fr",
+   "categorie": "football",
+   "episodes": [
+    {
+     "mot": "marseille – le mans",
+     "slug": "marseille-le-mans",
+     "langue": "fr",
+     "categorie": "football",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-22T21:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-22"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
    "mot": "marseille – toulouse",
    "mot_norm": "marseille - toulouse",
    "slug": "marseille-toulouse",
@@ -18910,6 +19254,30 @@
      "fin": null,
      "liees": [],
      "jour": "2026-11-13"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 200,
+   "liees": []
+  },
+  {
+   "mot": "nvidia stock",
+   "mot_norm": "nvidia stock",
+   "slug": "nvidia-stock",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "nvidia stock",
+     "slug": "nvidia-stock",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 200,
+     "hausse": null,
+     "debut": "2026-11-23T17:20:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-23"
     }
    ],
    "jours": 1,
@@ -20629,6 +20997,30 @@
    "liees": []
   },
   {
+   "mot": "charles leclerc",
+   "mot_norm": "charles leclerc",
+   "slug": "charles-leclerc",
+   "langue": "fr",
+   "categorie": "autre",
+   "episodes": [
+    {
+     "mot": "charles leclerc",
+     "slug": "charles-leclerc",
+     "langue": "fr",
+     "categorie": "autre",
+     "volume": 100,
+     "hausse": null,
+     "debut": "2026-11-23T13:30:00",
+     "fin": null,
+     "liees": [],
+     "jour": "2026-11-23"
+    }
+   ],
+   "jours": 1,
+   "volume_max": 100,
+   "liees": []
+  },
+  {
    "mot": "classement atlético madrid – bayern munich",
    "mot_norm": "classement atletico madrid - bayern munich",
    "slug": "classement-atletico-madrid-bayern-munich",
@@ -21054,30 +21446,6 @@
      "fin": "2026-10-31T16:40:00",
      "liees": [],
      "jour": "2026-10-31"
-    }
-   ],
-   "jours": 1,
-   "volume_max": 100,
-   "liees": []
-  },
-  {
-   "mot": "marseille – le mans",
-   "mot_norm": "marseille - le mans",
-   "slug": "marseille-le-mans",
-   "langue": "fr",
-   "categorie": "football",
-   "episodes": [
-    {
-     "mot": "marseille – le mans",
-     "slug": "marseille-le-mans",
-     "langue": "fr",
-     "categorie": "football",
-     "volume": 100,
-     "hausse": null,
-     "debut": "2026-11-22T21:30:00",
-     "fin": null,
-     "liees": [],
-     "jour": "2026-11-22"
     }
    ],
    "jours": 1,
