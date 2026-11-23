@@ -233,6 +233,11 @@
    "volume": 1000
   },
   {
+   "mot": "خبر",
+   "fois": 1,
+   "volume": 1000
+  },
+  {
    "mot": "تهريب",
    "fois": 1,
    "volume": 500
@@ -349,6 +354,11 @@
   },
   {
    "mot": "ليلى بن علي",
+   "fois": 1,
+   "volume": 500
+  },
+  {
+   "mot": "iraqi airways",
    "fois": 1,
    "volume": 500
   },
@@ -568,6 +578,16 @@
    "volume": 200
   },
   {
+   "mot": "nvidia stock",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "babnet",
+   "fois": 1,
+   "volume": 200
+  },
+  {
    "mot": "قطار",
    "fois": 1,
    "volume": 100
@@ -679,6 +699,11 @@
   },
   {
    "mot": "leïla jaffel",
+   "fois": 1,
+   "volume": 100
+  },
+  {
+   "mot": "charles leclerc",
    "fois": 1,
    "volume": 100
   }
