@@ -13192,7 +13192,207 @@
    "sources": [
     "rss"
    ]
+  },
+  "al-nassr fc - al sadd|498761": {
+   "mot": "al-nassr fc – al sadd",
+   "mot_norm": "al-nassr fc - al sadd",
+   "langue": "fr",
+   "debut": "2026-11-24T18:40:00",
+   "debut_ts": 1795542000,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-24T19:16:29",
+   "vu_dernier": "2026-11-24T19:16:29",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "galatasaray - aston villa|498761": {
+   "mot": "galatasaray – aston villa",
+   "mot_norm": "galatasaray - aston villa",
+   "langue": "fr",
+   "debut": "2026-11-24T18:20:00",
+   "debut_ts": 1795540800,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "immobilier",
+   "vu_premier": "2026-11-24T19:16:29",
+   "vu_dernier": "2026-11-24T19:16:29",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "موزاييك اف ام|498760": {
+   "mot": "موزاييك أف أم",
+   "mot_norm": "موزاييك اف ام",
+   "langue": "ar",
+   "debut": "2026-11-24T17:40:00",
+   "debut_ts": 1795538400,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-24T19:16:29",
+   "vu_dernier": "2026-11-24T19:16:29",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "ligue des champions|498760": {
+   "mot": "ligue des champions",
+   "mot_norm": "ligue des champions",
+   "langue": "fr",
+   "debut": "2026-11-24T17:40:00",
+   "debut_ts": 1795538400,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-24T19:16:29",
+   "vu_dernier": "2026-11-24T19:16:29",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "gta6|498760": {
+   "mot": "gta6",
+   "mot_norm": "gta6",
+   "langue": "fr",
+   "debut": "2026-11-24T17:10:00",
+   "debut_ts": 1795536600,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-24T19:16:29",
+   "vu_dernier": "2026-11-24T19:16:29",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "محكمه|498759": {
+   "mot": "محكمة",
+   "mot_norm": "محكمه",
+   "langue": "ar",
+   "debut": "2026-11-24T16:10:00",
+   "debut_ts": 1795533000,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "administration",
+   "vu_premier": "2026-11-24T19:16:29",
+   "vu_dernier": "2026-11-24T19:16:29",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "الكويت|498758": {
+   "mot": "الكويت",
+   "mot_norm": "الكويت",
+   "langue": "ar",
+   "debut": "2026-11-24T15:30:00",
+   "debut_ts": 1795530600,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-24T19:16:29",
+   "vu_dernier": "2026-11-24T19:16:29",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "tas|498758": {
+   "mot": "tas",
+   "mot_norm": "tas",
+   "langue": "fr",
+   "debut": "2026-11-24T15:20:00",
+   "debut_ts": 1795530000,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-24T19:16:29",
+   "vu_dernier": "2026-11-24T19:16:29",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "libye|498756": {
+   "mot": "libye",
+   "mot_norm": "libye",
+   "langue": "fr",
+   "debut": "2026-11-24T13:00:00",
+   "debut_ts": 1795521600,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "politique",
+   "vu_premier": "2026-11-24T19:16:29",
+   "vu_dernier": "2026-11-24T19:16:29",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "النادي الافريقي|498755": {
+   "mot": "النادي الإفريقي",
+   "mot_norm": "النادي الافريقي",
+   "langue": "ar",
+   "debut": "2026-11-24T12:20:00",
+   "debut_ts": 1795519200,
+   "fin": null,
+   "volume": 2000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-24T19:16:29",
+   "vu_dernier": "2026-11-24T19:16:29",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-24T05:03:38"
+ "maj": "2026-11-24T19:16:29"
 }

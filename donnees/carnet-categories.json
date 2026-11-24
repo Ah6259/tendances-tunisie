@@ -53,6 +53,11 @@
    "volume": 500
   },
   {
+   "mot": "gta6",
+   "fois": 2,
+   "volume": 500
+  },
+  {
    "mot": "jensen huang",
    "fois": 2,
    "volume": 200
@@ -338,11 +343,6 @@
    "volume": 500
   },
   {
-   "mot": "gta6",
-   "fois": 1,
-   "volume": 500
-  },
-  {
    "mot": "arda güler",
    "fois": 1,
    "volume": 500
@@ -584,6 +584,21 @@
   },
   {
    "mot": "babnet",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "موزاييك أف أم",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "الكويت",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "tas",
    "fois": 1,
    "volume": 200
   },
