@@ -180,6 +180,9 @@ def quand(x):
     return dfr(j)
 
 
+SLUGS_PAGES = None   # mots qui ont leur page mot/<slug>/ (24/11/2026 : l'historique liait des mots dont la page avait été retirée -> liens morts)
+
+
 def ligne(x, racine, rang=None, opp=False):
     """Une tendance sur UNE ligne (règle § 19) : rang, mot (lien vers sa page), catégorie, volume, hausse, jour."""
     mot = E(x["mot"])
@@ -189,7 +192,8 @@ def ligne(x, racine, rang=None, opp=False):
     inten = f'<span class="intention">{L("intention d’achat", "نية شراء")}</span>' if opp and x.get("intention") else ""
     return (f'<li class="tendance{" opp" if opp else ""}" data-cat="{E(x.get("categorie", "autre"))}" data-mot="{mot}">'
             + (f'<span class="rang">{rang}</span>' if rang else "")
-            + f'<span class="mot"{dir_}><a href="{racine}mot/{E(x["slug"])}/">{mot}</a></span>{inten}{badge_cat(racine, x.get("categorie", "autre"))}'
+            + (f'<span class="mot"{dir_}><a href="{racine}mot/{E(x["slug"])}/">{mot}</a></span>' if SLUGS_PAGES is None or x.get("slug") in SLUGS_PAGES
+               else f'<span class="mot"{dir_}>{mot}</span>') + f'{inten}{badge_cat(racine, x.get("categorie", "autre"))}'
             + f'<span class="nombres"><span class="vol" title="Recherches : ordre de grandeur donné par Google">{ISO(vol)}</span>{hausse}</span>'
             + f'<span class="quand">{ISO(quand(x))}</span></li>')
 
@@ -609,6 +613,8 @@ def main():
     v = version("assets/style.css", "assets/page.js", "assets/app.js", "assets/avis.js", "robot/construire_site.py")
     maj = a["maj"][:10]
     slugs = {pm["mot_norm"]: pm["slug"] for pm in a["pages_mots"]}
+    global SLUGS_PAGES
+    SLUGS_PAGES = {pm["slug"] for pm in a["pages_mots"]}    # un mot sans page (vieux, retiré) s'affiche sans lien
     pages = {"": accueil(a, v, maj), "semaine/": page_semaine(a, v, maj), "opportunites/": page_opportunites(a, v, maj),
              "mots-tapes/": page_mots(a, v, maj), "historique/": page_historique(a, memoire, v, maj), "a-propos/": page_a_propos(a, v, maj)}
     for c, _, _ in K.CATEGORIES:

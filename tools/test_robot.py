@@ -86,6 +86,12 @@ check("analyse : hausses fortes (semaine) = hausse ≥ 500 % ou volume ≥ 5 000
 check("analyse : page de mot « record » avec 3 épisodes", any(p["mot"] == "record" and len(p["episodes"]) == 3 for p in a["pages_mots"]))
 check("analyse : mots tapés nouveaux repris", a["mots"]["nouveaux"] and a["mots"]["nouveaux"][0]["mot"] == "x neuf")
 check("analyse : toutes les catégories présentes", set(a["categories"]) == {c for c, _, _ in K.CATEGORIES})
+# 24/11/2026 : un mot sans page (page retirée, mot vieux) s'affiche SANS lien (l'historique avait 12 liens morts, robot maj rouge)
+import construire_site as S  # noqa: E402
+S.SLUGS_PAGES = {"a-une-page"}
+avec, sans = S.ligne({"mot": "x", "slug": "a-une-page"}, "../"), S.ligne({"mot": "y", "slug": "retire"}, "../")
+check("ligne : lien vers mot/<slug>/ seulement si la page existe", 'href="../mot/a-une-page/"' in avec and "mot/retire/" not in sans and ">y<" in sans)
+S.SLUGS_PAGES = None
 # ---- 7. fins de ligne Unix dans les fichiers écrits par le robot (règle § 20)
 for f in ("donnees/tendances.json", "donnees/analyse.json", "index.html", "sitemap.xml", "robots.txt"):
     p = os.path.join(RACINE, f)
