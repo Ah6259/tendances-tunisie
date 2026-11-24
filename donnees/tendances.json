@@ -13200,14 +13200,14 @@
    "debut": "2026-11-24T18:40:00",
    "debut_ts": 1795542000,
    "fin": null,
-   "volume": 500,
+   "volume": 1000,
    "hausse": null,
    "liees": [],
    "codes": [],
    "categorie": "football",
    "vu_premier": "2026-11-24T19:16:29",
-   "vu_dernier": "2026-11-24T19:16:29",
-   "releves": 1,
+   "vu_dernier": "2026-11-24T19:57:28",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -13220,14 +13220,14 @@
    "debut": "2026-11-24T18:20:00",
    "debut_ts": 1795540800,
    "fin": null,
-   "volume": 200,
+   "volume": 500,
    "hausse": null,
    "liees": [],
    "codes": [],
    "categorie": "immobilier",
    "vu_premier": "2026-11-24T19:16:29",
-   "vu_dernier": "2026-11-24T19:16:29",
-   "releves": 1,
+   "vu_dernier": "2026-11-24T19:57:28",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -13240,14 +13240,14 @@
    "debut": "2026-11-24T17:40:00",
    "debut_ts": 1795538400,
    "fin": null,
-   "volume": 200,
+   "volume": 500,
    "hausse": null,
    "liees": [],
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-24T19:16:29",
-   "vu_dernier": "2026-11-24T19:16:29",
-   "releves": 1,
+   "vu_dernier": "2026-11-24T19:57:28",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -13266,8 +13266,8 @@
    "codes": [],
    "categorie": "football",
    "vu_premier": "2026-11-24T19:16:29",
-   "vu_dernier": "2026-11-24T19:16:29",
-   "releves": 1,
+   "vu_dernier": "2026-11-24T19:57:28",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -13280,14 +13280,14 @@
    "debut": "2026-11-24T17:10:00",
    "debut_ts": 1795536600,
    "fin": null,
-   "volume": 100,
+   "volume": 200,
    "hausse": null,
    "liees": [],
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-24T19:16:29",
-   "vu_dernier": "2026-11-24T19:16:29",
-   "releves": 1,
+   "vu_dernier": "2026-11-24T19:57:28",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -13306,8 +13306,8 @@
    "codes": [],
    "categorie": "administration",
    "vu_premier": "2026-11-24T19:16:29",
-   "vu_dernier": "2026-11-24T19:16:29",
-   "releves": 1,
+   "vu_dernier": "2026-11-24T19:57:28",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -13326,8 +13326,8 @@
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-24T19:16:29",
-   "vu_dernier": "2026-11-24T19:16:29",
-   "releves": 1,
+   "vu_dernier": "2026-11-24T19:57:28",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -13346,8 +13346,8 @@
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-24T19:16:29",
-   "vu_dernier": "2026-11-24T19:16:29",
-   "releves": 1,
+   "vu_dernier": "2026-11-24T19:57:28",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -13366,8 +13366,8 @@
    "codes": [],
    "categorie": "politique",
    "vu_premier": "2026-11-24T19:16:29",
-   "vu_dernier": "2026-11-24T19:16:29",
-   "releves": 1,
+   "vu_dernier": "2026-11-24T19:57:28",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -13392,7 +13392,27 @@
    "sources": [
     "rss"
    ]
+  },
+  "سجن|498761": {
+   "mot": "سجن",
+   "mot_norm": "سجن",
+   "langue": "ar",
+   "debut": "2026-11-24T18:50:00",
+   "debut_ts": 1795542600,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-24T19:57:28",
+   "vu_dernier": "2026-11-24T19:57:28",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-24T19:16:29"
+ "maj": "2026-11-24T19:57:28"
 }
