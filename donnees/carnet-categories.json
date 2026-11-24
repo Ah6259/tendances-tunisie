@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-23",
+ "maj": "2026-11-24",
  "explication": "Mots restés sans catégorie (à classer dans robot/categories.py quand ils reviennent).",
  "mots": [
   {
@@ -233,6 +233,11 @@
    "volume": 1000
   },
   {
+   "mot": "iraqi airways",
+   "fois": 1,
+   "volume": 1000
+  },
+  {
    "mot": "خبر",
    "fois": 1,
    "volume": 1000
@@ -354,11 +359,6 @@
   },
   {
    "mot": "ليلى بن علي",
-   "fois": 1,
-   "volume": 500
-  },
-  {
-   "mot": "iraqi airways",
    "fois": 1,
    "volume": 500
   },
