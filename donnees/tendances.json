@@ -13412,7 +13412,207 @@
    "sources": [
     "rss"
    ]
+  },
+  "classement real madrid - psv eindhoven|498766": {
+   "mot": "classement real madrid – psv eindhoven",
+   "mot_norm": "classement real madrid - psv eindhoven",
+   "langue": "fr",
+   "debut": "2026-11-24T23:10:00",
+   "debut_ts": 1795558200,
+   "fin": null,
+   "volume": 2000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-25T03:45:04",
+   "vu_dernier": "2026-11-25T03:45:04",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "arsenal|498765": {
+   "mot": "arsenal",
+   "mot_norm": "arsenal",
+   "langue": "fr",
+   "debut": "2026-11-24T22:40:00",
+   "debut_ts": 1795556400,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-25T03:45:04",
+   "vu_dernier": "2026-11-25T03:45:04",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "uefa champions league|498765": {
+   "mot": "uefa champions league",
+   "mot_norm": "uefa champions league",
+   "langue": "fr",
+   "debut": "2026-11-24T22:30:00",
+   "debut_ts": 1795555800,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-25T03:45:04",
+   "vu_dernier": "2026-11-25T03:45:04",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "real|498765": {
+   "mot": "real",
+   "mot_norm": "real",
+   "langue": "fr",
+   "debut": "2026-11-24T22:10:00",
+   "debut_ts": 1795554600,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-25T03:45:04",
+   "vu_dernier": "2026-11-25T03:45:04",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "psv|498764": {
+   "mot": "psv",
+   "mot_norm": "psv",
+   "langue": "fr",
+   "debut": "2026-11-24T21:40:00",
+   "debut_ts": 1795552800,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-25T03:45:04",
+   "vu_dernier": "2026-11-25T03:45:04",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "real madrid|498764": {
+   "mot": "real madrid",
+   "mot_norm": "real madrid",
+   "langue": "fr",
+   "debut": "2026-11-24T21:00:00",
+   "debut_ts": 1795550400,
+   "fin": null,
+   "volume": 5000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-25T03:45:04",
+   "vu_dernier": "2026-11-25T03:45:04",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "الريال ضد بي اس في|498764": {
+   "mot": "الريال ضد بي اس في",
+   "mot_norm": "الريال ضد بي اس في",
+   "langue": "ar",
+   "debut": "2026-11-24T21:00:00",
+   "debut_ts": 1795550400,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-25T03:45:04",
+   "vu_dernier": "2026-11-25T03:45:04",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "arsenal - dortmund|498763": {
+   "mot": "arsenal – dortmund",
+   "mot_norm": "arsenal - dortmund",
+   "langue": "fr",
+   "debut": "2026-11-24T20:30:00",
+   "debut_ts": 1795548600,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-25T03:45:04",
+   "vu_dernier": "2026-11-25T03:45:04",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "bet365|498763": {
+   "mot": "bet365",
+   "mot_norm": "bet365",
+   "langue": "fr",
+   "debut": "2026-11-24T20:30:00",
+   "debut_ts": 1795548600,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-25T03:45:04",
+   "vu_dernier": "2026-11-25T03:45:04",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "real madrid vs psv|498763": {
+   "mot": "real madrid vs psv",
+   "mot_norm": "real madrid vs psv",
+   "langue": "fr",
+   "debut": "2026-11-24T20:20:00",
+   "debut_ts": 1795548000,
+   "fin": null,
+   "volume": 2000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-25T03:45:04",
+   "vu_dernier": "2026-11-25T03:45:04",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-24T19:57:28"
+ "maj": "2026-11-25T03:45:04"
 }

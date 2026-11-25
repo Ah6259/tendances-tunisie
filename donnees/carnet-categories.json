@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-24",
+ "maj": "2026-11-25",
  "explication": "Mots restés sans catégorie (à classer dans robot/categories.py quand ils reviennent).",
  "mots": [
   {
@@ -368,6 +368,11 @@
    "volume": 500
   },
   {
+   "mot": "bet365",
+   "fois": 1,
+   "volume": 500
+  },
+  {
    "mot": "crevette",
    "fois": 1,
    "volume": 200
@@ -599,6 +604,11 @@
   },
   {
    "mot": "tas",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "psv",
    "fois": 1,
    "volume": 200
   },
