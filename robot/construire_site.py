@@ -461,6 +461,13 @@ def page_historique(a, memoire, v, maj):
                 titre_en="History of search trends in Tunisia | " + NOM["en"], desc_en="Week after week, month after month: the number of rising searches in Tunisia, the dominant categories and the strongest words, kept since the first reading.")
 
 
+def mot_maigre(pm):
+    """Plan Google B.1 (25/11/2026) : page de mot MAIGRE = une seule poussée vue (un seul épisode) ET moins de 3 recherches liées : rien de
+    propre à ce site au-delà du mot et d'une ligne. Elle reste en ligne pour le visiteur (liens depuis les listes), mais en noindex et hors
+    du plan du site ; elle redevient indexée dès que le mot revient (2e poussée) ou que Google donne 3 recherches liées."""
+    return len(pm["episodes"]) <= 1 and len(pm.get("liees") or []) < 3
+
+
 def page_mot(a, pm, slugs, v, maj):
     r = "../../"
     fr, ar = cat_nom(pm["categorie"])
@@ -492,7 +499,7 @@ def page_mot(a, pm, slugs, v, maj):
     return page(f"mot/{pm['slug']}/", f"« {mot} » : tendance de recherche en Tunisie | {NOM['fr']}",
                 f"Le mot « {mot} » dans les recherches Google en Tunisie : {pm['jours']} jour(s) en forte hausse, jusqu'à {C.palier_texte(pm['volume_max'])} recherches, catégorie {fr.lower()}, dernière poussée le {dfr(dernier['jour'])}.",
                 hero, corps, v, maj, f"«{mot}»: اتجاه بحث في تونس | {NOM['ar']}", f"كلمة «{mot}» في عمليات بحث غوغل في تونس: {pm['jours']} يوم بصعود قوي، حتى {C.palier_texte(pm['volume_max'])} عملية بحث، فئة {ar}، آخر صعود في {dfr(dernier['jour'])}.",
-                jsonld, og_type="article",
+                jsonld, og_type="article", indexer=not mot_maigre(pm),
                 titre_en=f"“{mot}”: search trend in Tunisia | {NOM['en']}", desc_en=f"The word “{mot}” in Google searches in Tunisia: {pm['jours']} day(s) rising sharply, up to {C.palier_texte(pm['volume_max'])} searches, category {en.lower()}, last surge on {dfr(dernier['jour'])}.")
 
 
@@ -619,9 +626,11 @@ def main():
              "mots-tapes/": page_mots(a, v, maj), "historique/": page_historique(a, memoire, v, maj), "a-propos/": page_a_propos(a, v, maj)}
     for c, _, _ in K.CATEGORIES:
         pages[f"categorie/{c}/"] = page_categorie(a, c, v, maj)
-    dates = {}
+    dates, maigres = {}, set()
     for pm in a["pages_mots"]:
         pages[f"mot/{pm['slug']}/"] = page_mot(a, pm, slugs, v, maj)
+        if mot_maigre(pm):
+            maigres.add(f"mot/{pm['slug']}/")
         dates[f"mot/{pm['slug']}/"] = pm["episodes"][0]["jour"]
     # pages de mots devenues vieilles : retirées (le sitemap fait foi)
     dossier_mots = os.path.join(RACINE, "mot")
@@ -645,9 +654,10 @@ def main():
             h_l, manque = PL.variante(h, URL_SITE, chemin, l, LANGUES, trad, meta=(html.unescape(titre_l), html.unescape(desc_l), None))
             manques += manque
             ecrire(l + "/" + chemin + "index.html", h_l)
-    # sitemap (lastmod VRAI : date des données pour les pages vivantes, date du dernier épisode pour un mot)
+    # sitemap (lastmod VRAI : date des données pour les pages vivantes, date du dernier épisode pour un mot) ;
+    # une page de mot maigre (noindex, plan Google B.1 du 25/11/2026) n'y est jamais
     lignes = []
-    for chemin in pages:
+    for chemin in [c for c in pages if c not in maigres]:
         lm = dates.get(chemin, maj)
         for l in LANGUES:
             lignes.append(f'<url><loc>{PL.adresse(URL_SITE, chemin, l)}</loc><lastmod>{lm}</lastmod>'

@@ -114,7 +114,8 @@ check("À propos : méthode, limites, données ouvertes, FAQ JSON-LD", ap.includ
 
 // ---- 6. fichiers de visibilité et de sécurité (règle § 8, consigne sécurité)
 const plan = lire("sitemap.xml"), robots = lire("robots.txt");
-check("sitemap : toutes les pages FR, AR et EN, avec lastmod, hreflang, aucune adresse étrangère", pages.every(p => plan.includes(`<loc>${SITE}${p}</loc>`) && plan.includes(`<loc>${SITE}ar/${p}</loc>`) && plan.includes(`<loc>${SITE}en/${p}</loc>`))
+const noidx = f => /<meta name="robots" content="[^"]*noindex/.test(lire(f));
+check("sitemap : toutes les pages FR, AR et EN (sauf pages de mots maigres en noindex), avec lastmod, hreflang, aucune adresse étrangère", pages.filter(p => !noidx(p + "index.html")).every(p => plan.includes(`<loc>${SITE}${p}</loc>`) && plan.includes(`<loc>${SITE}ar/${p}</loc>`) && plan.includes(`<loc>${SITE}en/${p}</loc>`))
   && /<lastmod>\d{4}-\d{2}-\d{2}<\/lastmod>/.test(plan) && [...plan.matchAll(/<loc>([^<]+)<\/loc>/g)].every(m => m[1].startsWith(SITE)) && !plan.includes("ah6259.github.io"));
 check("robots.txt : moteurs autorisés, robots d'IA d'entraînement refusés, assistants qui citent autorisés, Sitemap", robots.includes("User-agent: Googlebot\nAllow: /") && robots.includes("User-agent: GPTBot\nDisallow: /")
   && robots.includes("User-agent: ClaudeBot\nDisallow: /") && robots.includes("OAI-SearchBot") && robots.includes(`Sitemap: ${SITE}sitemap.xml`));
@@ -195,6 +196,36 @@ if (JSDOM) {
   check("jsdom : une recherche sans résultat montre le texte « Aucune tendance »", ws.document.querySelectorAll("#semaine > li:not(.cachee-filtre)").length === 0 && !ws.document.querySelector("#semaine ~ .liste-vide").hidden);
   // sabotage du test lui-même (règle : un test doit sonner) : une page sans CSP doit être vue
   check("sabotage : une page sans CSP serait refusée", !(/http-equiv="Content-Security-Policy"/.test(acc.replace('http-equiv="Content-Security-Policy"', ""))));
+}
+
+
+// ---- 25/11/2026 (plan Google B.1 + B.2) : plan du site HONNÊTE.
+//      B.1 : page de mot maigre (une seule poussée ET moins de 3 recherches liées) = en ligne, mais noindex (FR, AR, EN) et hors du plan du site.
+//      B.2 : <lastmod> = date des données pour les pages vivantes, date de la DERNIÈRE poussée pour un mot (jamais « aujourd'hui » pour tout).
+{
+  const urlsD = [...plan.matchAll(/<url><loc>([^<]+)<\/loc><lastmod>([^<]+)<\/lastmod>/g)];
+  const jourT = new Date().toISOString().slice(0, 10), datesSm = urlsD.map(m => m[2]);
+  check(`plan du site : chaque adresse a sa date ; pas toutes celles du jour ni toutes identiques (${urlsD.length} adresses)`,
+    urlsD.length > 10 && urlsD.length === (plan.match(/<url>/g) || []).length && !datesSm.every(d => d === jourT) && new Set(datesSm).size > 1);
+  const PM = Object.fromEntries(A.pages_mots.map(pm => [pm.slug, pm]));
+  const malDate = urlsD.filter(([, u, d]) => { const m = u.match(/\/mot\/([^/]+)\/$/); return m && PM[m[1]] && PM[m[1]].episodes[0].jour !== d; }).map(m => m[1]);
+  check("plan du site : la date d'une page de mot = sa dernière poussée" + (malDate.length ? " — " + malDate.slice(0, 3).join(", ") : ""), !malDate.length);
+  const fichierDe = u => u.replace(SITE, "") + "index.html";
+  const avecNoindex = urlsD.filter(([, u]) => existsSync(join(root, fichierDe(u))) && noidx(fichierDe(u))).map(m => m[1]);
+  check("plan du site : aucune page en noindex" + (avecNoindex.length ? " — " + avecNoindex.slice(0, 3).join(", ") : ""), !avecNoindex.length);
+  const jamais = fixes.flatMap(p => ["", "ar/", "en/"].map(l => l + p + "index.html")).filter(f => !existsSync(join(root, f)) || noidx(f));
+  check("accueil, semaine, opportunités, mots tapés, historique, à propos, catégories (FR, AR, EN) : jamais en noindex" + (jamais.length ? " — " + jamais.slice(0, 3).join(", ") : ""), !jamais.length);
+  const maigre = pm => pm.episodes.length <= 1 && (pm.liees || []).length < 3;
+  const mal = A.pages_mots.filter(pm => ["", "ar/", "en/"].some(l => existsSync(join(root, `${l}mot/${pm.slug}/index.html`)) && noidx(`${l}mot/${pm.slug}/index.html`) !== maigre(pm))).map(pm => pm.slug);
+  check(`pages de mots : noindex seulement avec une seule poussée ET moins de 3 recherches liées (${A.pages_mots.filter(maigre).length} sur ${A.pages_mots.length})` + (mal.length ? " — " + mal.slice(0, 3).join(", ") : ""), !mal.length);
+  // données inventées : la règle du générateur (robot/construire_site.py, mot_maigre) donne les mêmes réponses que ce test
+  const { execFileSync } = await import("node:child_process");
+  try {
+    const cas = [{ episodes: [{}], liees: [] }, { episodes: [{}], liees: ["a", "b", "c"] }, { episodes: [{}, {}], liees: [] }];
+    const r = JSON.parse(execFileSync(process.platform === "win32" ? "python" : "python3", ["-c",
+      `import sys,json;sys.path.insert(0,${JSON.stringify(join(root, "robot"))});sys.path.insert(0,${JSON.stringify(join(root, "tools"))});import construire_site as S;print(json.dumps([S.mot_maigre(x) for x in json.loads(sys.argv[1])]))`, JSON.stringify(cas)], { encoding: "utf-8", cwd: root }).trim().split("\n").pop());
+    check("règle des pages maigres (données inventées) : 1 poussée sans liens = maigre ; 3 liens ou 2 poussées = indexée", JSON.stringify(r) === "[true,false,false]" && JSON.stringify(cas.map(maigre)) === "[true,false,false]");
+  } catch (e) { check("règle des pages maigres (données inventées) : " + e.message.slice(0, 200), false); }
 }
 
 console.log(`${ok} vérifications réussies, ${ko} échec(s)`);

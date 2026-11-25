@@ -86,3 +86,12 @@ Adresse : https://tendances.clicvia.com/ (sous-domaine Cloudflare d'Ahmed, CNAME
   Facebook), le Dataset cite le même éditeur ; titre de l'accueil « Tendances de recherche en Tunisie : ce que cherchent les Tunisiens »
   (l'ancien, trop long, était coupé par titre_seo() en « Tendances de recherche en Tunisie »).
 - robots.txt, llms.txt (refaits par construire_site.py, sans chiffre) et « Comment fonctionne le site ? » (dit déjà « famille Clicvia ») : inchangés.
+
+## 25/11/2026 — plan Google (chute d'octobre, fiche `memoire claude/chute-google-octobre-2026.md` de projets-ahmed)
+- **B.1 pages de mots maigres** : `mot_maigre()` de robot/construire_site.py = UNE seule poussée vue ET moins de 3 recherches liées -> page en
+  ligne (FR, ar/, en/) mais `noindex, follow` et hors du plan du site ; elle redevient indexée dès que le mot revient ou a 3 recherches liées.
+  Le 25/11 : 355 pages de mots sur 439 ; plan du site 1 389 -> 324 adresses.
+- **B.2** : le plan du site avait déjà des dates vraies (date des données pour les pages vivantes, qui changent à chaque relevé ; date de la
+  DERNIÈRE poussée pour un mot) : gardé tel quel, maintenant vérifié par un test.
+- Tests (test_site.mjs, vérifiés par sabotage) : dates pas toutes du jour ni identiques, date d'un mot = sa dernière poussée, aucune page noindex
+  dans le plan, pages fixes et catégories (FR, AR, EN) jamais noindex, règle des mots maigres recalculée + même réponse que le générateur.
