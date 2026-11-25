@@ -33,6 +33,11 @@
    "volume": 1000
   },
   {
+   "mot": "weather",
+   "fois": 2,
+   "volume": 500
+  },
+  {
    "mot": "طماطم",
    "fois": 2,
    "volume": 500
@@ -273,11 +278,6 @@
    "volume": 500
   },
   {
-   "mot": "weather",
-   "fois": 1,
-   "volume": 500
-  },
-  {
    "mot": "تونس",
    "fois": 1,
    "volume": 500
@@ -369,6 +369,16 @@
   },
   {
    "mot": "bet365",
+   "fois": 1,
+   "volume": 500
+  },
+  {
+   "mot": "sabah vs barcelona",
+   "fois": 1,
+   "volume": 500
+  },
+  {
+   "mot": "المستقبل الرياضي بقابس",
    "fois": 1,
    "volume": 500
   },
@@ -609,6 +619,11 @@
   },
   {
    "mot": "psv",
+   "fois": 1,
+   "volume": 200
+  },
+  {
+   "mot": "condamné",
    "fois": 1,
    "volume": 200
   },
