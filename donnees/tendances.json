@@ -13586,8 +13586,8 @@
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-25T03:45:04",
-   "vu_dernier": "2026-11-25T03:45:04",
-   "releves": 1,
+   "vu_dernier": "2026-11-26T02:55:45",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -13792,7 +13792,187 @@
    "sources": [
     "rss"
    ]
+  },
+  "arbi mezni|498791": {
+   "mot": "arbi mezni",
+   "mot_norm": "arbi mezni",
+   "langue": "fr",
+   "debut": "2026-11-26T00:20:00",
+   "debut_ts": 1795648800,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-26T02:55:45",
+   "vu_dernier": "2026-11-26T02:55:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "classement paris saint-germain football club - as roma|498790": {
+   "mot": "classement paris saint-germain football club – as roma",
+   "mot_norm": "classement paris saint-germain football club - as roma",
+   "langue": "fr",
+   "debut": "2026-11-25T23:30:00",
+   "debut_ts": 1795645800,
+   "fin": null,
+   "volume": 2000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-26T02:55:45",
+   "vu_dernier": "2026-11-26T02:55:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "psg vs roma|498788": {
+   "mot": "psg vs roma",
+   "mot_norm": "psg vs roma",
+   "langue": "fr",
+   "debut": "2026-11-25T21:20:00",
+   "debut_ts": 1795638000,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-26T02:55:45",
+   "vu_dernier": "2026-11-26T02:55:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "الطقس غدا|498788": {
+   "mot": "الطقس غدًا",
+   "mot_norm": "الطقس غدا",
+   "langue": "ar",
+   "debut": "2026-11-25T21:00:00",
+   "debut_ts": 1795636800,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "meteo",
+   "vu_premier": "2026-11-26T02:55:45",
+   "vu_dernier": "2026-11-26T02:55:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "sabah fk vs fc barcelona standings|498788": {
+   "mot": "sabah fk vs fc barcelona standings",
+   "mot_norm": "sabah fk vs fc barcelona standings",
+   "langue": "fr",
+   "debut": "2026-11-25T21:00:00",
+   "debut_ts": 1795636800,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-26T02:55:45",
+   "vu_dernier": "2026-11-26T02:55:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "meteo demain|498787": {
+   "mot": "météo demain",
+   "mot_norm": "meteo demain",
+   "langue": "fr",
+   "debut": "2026-11-25T20:50:00",
+   "debut_ts": 1795636200,
+   "fin": null,
+   "volume": 20000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "meteo",
+   "vu_premier": "2026-11-26T02:55:45",
+   "vu_dernier": "2026-11-26T02:55:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "classement sabah football club - fc barcelone|498787": {
+   "mot": "classement sabah football club – fc barcelone",
+   "mot_norm": "classement sabah football club - fc barcelone",
+   "langue": "fr",
+   "debut": "2026-11-25T20:50:00",
+   "debut_ts": 1795636200,
+   "fin": null,
+   "volume": 2000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-26T02:55:45",
+   "vu_dernier": "2026-11-26T02:55:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "meteo pour demain|498787": {
+   "mot": "météo pour demain",
+   "mot_norm": "meteo pour demain",
+   "langue": "fr",
+   "debut": "2026-11-25T20:50:00",
+   "debut_ts": 1795636200,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "meteo",
+   "vu_premier": "2026-11-26T02:55:45",
+   "vu_dernier": "2026-11-26T02:55:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "lille - bayern|498787": {
+   "mot": "lille – bayern",
+   "mot_norm": "lille - bayern",
+   "langue": "fr",
+   "debut": "2026-11-25T20:40:00",
+   "debut_ts": 1795635600,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-26T02:55:45",
+   "vu_dernier": "2026-11-26T02:55:45",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-25T18:36:36"
+ "maj": "2026-11-26T02:55:45"
 }
