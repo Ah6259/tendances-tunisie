@@ -13586,8 +13586,8 @@
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-25T03:45:04",
-   "vu_dernier": "2026-11-26T02:55:45",
-   "releves": 2,
+   "vu_dernier": "2026-11-26T18:17:16",
+   "releves": 3,
    "periodes": [],
    "sources": [
     "rss"
@@ -13780,14 +13780,14 @@
    "debut": "2026-11-25T07:10:00",
    "debut_ts": 1795587000,
    "fin": null,
-   "volume": 500,
+   "volume": 1000,
    "hausse": null,
    "liees": [],
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-25T18:36:36",
-   "vu_dernier": "2026-11-25T18:36:36",
-   "releves": 1,
+   "vu_dernier": "2026-11-26T18:17:16",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -13800,14 +13800,14 @@
    "debut": "2026-11-26T00:20:00",
    "debut_ts": 1795648800,
    "fin": null,
-   "volume": 100,
+   "volume": 1000,
    "hausse": null,
    "liees": [],
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-26T02:55:45",
-   "vu_dernier": "2026-11-26T02:55:45",
-   "releves": 1,
+   "vu_dernier": "2026-11-26T18:17:16",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -13840,14 +13840,14 @@
    "debut": "2026-11-25T21:20:00",
    "debut_ts": 1795638000,
    "fin": null,
-   "volume": 200,
+   "volume": 500,
    "hausse": null,
    "liees": [],
    "codes": [],
    "categorie": "football",
    "vu_premier": "2026-11-26T02:55:45",
-   "vu_dernier": "2026-11-26T02:55:45",
-   "releves": 1,
+   "vu_dernier": "2026-11-26T18:17:16",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -13972,7 +13972,127 @@
    "sources": [
     "rss"
    ]
+  },
+  "نقابه|498807": {
+   "mot": "نقابة",
+   "mot_norm": "نقابه",
+   "langue": "ar",
+   "debut": "2026-11-26T16:50:00",
+   "debut_ts": 1795708200,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-26T18:17:16",
+   "vu_dernier": "2026-11-26T18:17:16",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "bayern munich|498806": {
+   "mot": "bayern munich",
+   "mot_norm": "bayern munich",
+   "langue": "fr",
+   "debut": "2026-11-26T15:00:00",
+   "debut_ts": 1795701600,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-26T18:17:16",
+   "vu_dernier": "2026-11-26T18:17:16",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "سوسن بدر|498805": {
+   "mot": "سوسن بدر",
+   "mot_norm": "سوسن بدر",
+   "langue": "ar",
+   "debut": "2026-11-26T14:40:00",
+   "debut_ts": 1795700400,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-26T18:17:16",
+   "vu_dernier": "2026-11-26T18:17:16",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "ثلج|498797": {
+   "mot": "ثلج",
+   "mot_norm": "ثلج",
+   "langue": "ar",
+   "debut": "2026-11-26T06:30:00",
+   "debut_ts": 1795671000,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "meteo",
+   "vu_premier": "2026-11-26T18:17:16",
+   "vu_dernier": "2026-11-26T18:17:16",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "الطقس|498797": {
+   "mot": "الطقس",
+   "mot_norm": "الطقس",
+   "langue": "ar",
+   "debut": "2026-11-26T06:30:00",
+   "debut_ts": 1795671000,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "meteo",
+   "vu_premier": "2026-11-26T18:17:16",
+   "vu_dernier": "2026-11-26T18:17:16",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "طقس اليوم|498797": {
+   "mot": "طقس اليوم",
+   "mot_norm": "طقس اليوم",
+   "langue": "ar",
+   "debut": "2026-11-26T06:00:00",
+   "debut_ts": 1795669200,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "meteo",
+   "vu_premier": "2026-11-26T18:17:16",
+   "vu_dernier": "2026-11-26T18:17:16",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-26T02:55:45"
+ "maj": "2026-11-26T18:17:16"
 }

@@ -35,7 +35,7 @@
   {
    "mot": "weather",
    "fois": 2,
-   "volume": 500
+   "volume": 1000
   },
   {
    "mot": "طماطم",
@@ -249,6 +249,11 @@
   },
   {
    "mot": "خبر",
+   "fois": 1,
+   "volume": 1000
+  },
+  {
+   "mot": "arbi mezni",
    "fois": 1,
    "volume": 1000
   },
@@ -628,6 +633,11 @@
    "volume": 200
   },
   {
+   "mot": "سوسن بدر",
+   "fois": 1,
+   "volume": 200
+  },
+  {
    "mot": "قطار",
    "fois": 1,
    "volume": 100
@@ -753,7 +763,7 @@
    "volume": 100
   },
   {
-   "mot": "arbi mezni",
+   "mot": "نقابة",
    "fois": 1,
    "volume": 100
   }
