@@ -1,10 +1,10 @@
 {
- "maj": "2026-11-26",
+ "maj": "2026-11-27",
  "explication": "Mots restés sans catégorie (à classer dans robot/categories.py quand ils reviennent).",
  "mots": [
   {
    "mot": "weather tomorrow",
-   "fois": 4,
+   "fois": 5,
    "volume": 1000
   },
   {
@@ -69,6 +69,11 @@
   },
   {
    "mot": "إيران",
+   "fois": 2,
+   "volume": 200
+  },
+  {
+   "mot": "économie",
    "fois": 2,
    "volume": 200
   },
@@ -488,11 +493,6 @@
    "volume": 200
   },
   {
-   "mot": "économie",
-   "fois": 1,
-   "volume": 200
-  },
-  {
    "mot": "finance",
    "fois": 1,
    "volume": 200
@@ -633,6 +633,11 @@
    "volume": 200
   },
   {
+   "mot": "نقابة",
+   "fois": 1,
+   "volume": 200
+  },
+  {
    "mot": "سوسن بدر",
    "fois": 1,
    "volume": 200
@@ -759,11 +764,6 @@
   },
   {
    "mot": "سجن",
-   "fois": 1,
-   "volume": 100
-  },
-  {
-   "mot": "نقابة",
    "fois": 1,
    "volume": 100
   }
