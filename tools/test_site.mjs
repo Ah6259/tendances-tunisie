@@ -115,7 +115,12 @@ check("À propos : méthode, limites, données ouvertes, FAQ JSON-LD", ap.includ
 // ---- 6. fichiers de visibilité et de sécurité (règle § 8, consigne sécurité)
 const plan = lire("sitemap.xml"), robots = lire("robots.txt");
 const noidx = f => /<meta name="robots" content="[^"]*noindex/.test(lire(f));
-check("sitemap : toutes les pages FR, AR et EN (sauf pages de mots maigres en noindex), avec lastmod, hreflang, aucune adresse étrangère", pages.filter(p => !noidx(p + "index.html")).every(p => plan.includes(`<loc>${SITE}${p}</loc>`) && plan.includes(`<loc>${SITE}ar/${p}</loc>`) && plan.includes(`<loc>${SITE}en/${p}</loc>`))
+// VIS.3 (27/11/2026) : plan RÉDUIT — pages principales et catégories (FR, AR, EN), et 25 pages de mots au plus (les plus récentes),
+// chacune dans les 3 langues ; les autres pages de mots restent en ligne, sans noindex
+const motsPlan = [...plan.matchAll(new RegExp(`<loc>${SITE.replace(/[.]/g, "\.")}mot/([^/<]+)/</loc>`, "g"))].map(m => m[1]);
+check(`sitemap RÉDUIT (VIS.3) : ${(plan.match(/<url>/g) || []).length} adresses ; pages principales et catégories en FR, AR et EN ; ${motsPlan.length} pages de mots (25 au plus), chacune en 3 langues ; avec lastmod, hreflang, aucune adresse étrangère`,
+  (plan.match(/<url>/g) || []).length <= 160 && motsPlan.length >= 5 && motsPlan.length <= 25 && motsPlan.every(s => plan.includes(`<loc>${SITE}ar/mot/${s}/</loc>`) && plan.includes(`<loc>${SITE}en/mot/${s}/</loc>`))
+  && pages.filter(p => !p.startsWith("mot/") && !noidx(p + "index.html")).every(p => plan.includes(`<loc>${SITE}${p}</loc>`) && plan.includes(`<loc>${SITE}ar/${p}</loc>`) && plan.includes(`<loc>${SITE}en/${p}</loc>`))
   && /<lastmod>\d{4}-\d{2}-\d{2}<\/lastmod>/.test(plan) && [...plan.matchAll(/<loc>([^<]+)<\/loc>/g)].every(m => m[1].startsWith(SITE)) && !plan.includes("ah6259.github.io"));
 check("robots.txt : moteurs autorisés, robots d'IA d'entraînement refusés, assistants qui citent autorisés, Sitemap", robots.includes("User-agent: Googlebot\nAllow: /") && robots.includes("User-agent: GPTBot\nDisallow: /")
   && robots.includes("User-agent: ClaudeBot\nDisallow: /") && robots.includes("OAI-SearchBot") && robots.includes(`Sitemap: ${SITE}sitemap.xml`));

@@ -608,6 +608,9 @@ def ecrire(chemin, texte):
         f.write(texte)
 
 
+PLAN_MOTS = 25   # VIS.3 (27/11/2026) : pages de mots gardées dans le plan du site réduit
+
+
 def main():
     try:
         sys.stdout.reconfigure(encoding="utf-8")
@@ -656,8 +659,13 @@ def main():
             ecrire(l + "/" + chemin + "index.html", h_l)
     # sitemap (lastmod VRAI : date des données pour les pages vivantes, date du dernier épisode pour un mot) ;
     # une page de mot maigre (noindex, plan Google B.1 du 25/11/2026) n'y est jamais
+    # PLAN DU SITE RÉDUIT (VIS.3 point 2, 27/11/2026 ; « fais l'ordre 3 → 1 → 2 → 4 » d'Ahmed ; règle commune § 72) : Google n'avait pris
+    # AUCUNE page du site (accueil « détectée, non indexée ») sur 336 adresses. Le plan garde les pages principales et les catégories, et les
+    # PLAN_MOTS pages de mots au dernier épisode le plus récent, chacune dans les 3 langues (hreflang toujours vers le plan) ; les autres pages
+    # de mots restent EN LIGNE, sans noindex.
+    mots_ok = sorted((c for c in pages if c.startswith("mot/") and c not in maigres), key=lambda c: (dates.get(c, ""), c), reverse=True)[:PLAN_MOTS]
     lignes = []
-    for chemin in [c for c in pages if c not in maigres]:
+    for chemin in [c for c in pages if c not in maigres and (not c.startswith("mot/") or c in mots_ok)]:
         lm = dates.get(chemin, maj)
         for l in LANGUES:
             lignes.append(f'<url><loc>{PL.adresse(URL_SITE, chemin, l)}</loc><lastmod>{lm}</lastmod>'
