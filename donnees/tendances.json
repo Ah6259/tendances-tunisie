@@ -14060,14 +14060,14 @@
    "debut": "2026-11-26T06:30:00",
    "debut_ts": 1795671000,
    "fin": null,
-   "volume": 500,
+   "volume": 1000,
    "hausse": null,
    "liees": [],
    "codes": [],
    "categorie": "meteo",
    "vu_premier": "2026-11-26T18:17:16",
-   "vu_dernier": "2026-11-26T18:17:16",
-   "releves": 1,
+   "vu_dernier": "2026-11-27T17:57:51",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -14080,14 +14080,14 @@
    "debut": "2026-11-26T06:00:00",
    "debut_ts": 1795669200,
    "fin": null,
-   "volume": 100,
+   "volume": 200,
    "hausse": null,
    "liees": [],
    "codes": [],
    "categorie": "meteo",
    "vu_premier": "2026-11-26T18:17:16",
-   "vu_dernier": "2026-11-26T18:17:16",
-   "releves": 1,
+   "vu_dernier": "2026-11-27T17:57:51",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -14152,7 +14152,167 @@
    "sources": [
     "rss"
    ]
+  },
+  "الشروق|498830": {
+   "mot": "الشروق",
+   "mot_norm": "الشروق",
+   "langue": "ar",
+   "debut": "2026-11-27T15:20:00",
+   "debut_ts": 1795789200,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-27T17:57:51",
+   "vu_dernier": "2026-11-27T17:57:51",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "خبر|498829": {
+   "mot": "خبر",
+   "mot_norm": "خبر",
+   "langue": "ar",
+   "debut": "2026-11-27T14:40:00",
+   "debut_ts": 1795786800,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-27T17:57:51",
+   "vu_dernier": "2026-11-27T17:57:51",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "condamne|498829": {
+   "mot": "condamné",
+   "mot_norm": "condamne",
+   "langue": "fr",
+   "debut": "2026-11-27T14:10:00",
+   "debut_ts": 1795785000,
+   "fin": null,
+   "volume": 500,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-27T17:57:51",
+   "vu_dernier": "2026-11-27T17:57:51",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "mabrouk|498824": {
+   "mot": "mabrouk",
+   "mot_norm": "mabrouk",
+   "langue": "fr",
+   "debut": "2026-11-27T09:30:00",
+   "debut_ts": 1795768200,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-27T17:57:51",
+   "vu_dernier": "2026-11-27T17:57:51",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "ariana|498824": {
+   "mot": "ariana",
+   "mot_norm": "ariana",
+   "langue": "fr",
+   "debut": "2026-11-27T09:00:00",
+   "debut_ts": 1795766400,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-27T17:57:51",
+   "vu_dernier": "2026-11-27T17:57:51",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "meteo|498821": {
+   "mot": "météo",
+   "mot_norm": "meteo",
+   "langue": "fr",
+   "debut": "2026-11-27T06:40:00",
+   "debut_ts": 1795758000,
+   "fin": null,
+   "volume": 20000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "meteo",
+   "vu_premier": "2026-11-27T17:57:51",
+   "vu_dernier": "2026-11-27T17:57:51",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "weather|498821": {
+   "mot": "weather",
+   "mot_norm": "weather",
+   "langue": "fr",
+   "debut": "2026-11-27T06:40:00",
+   "debut_ts": 1795758000,
+   "fin": null,
+   "volume": 2000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-27T17:57:51",
+   "vu_dernier": "2026-11-27T17:57:51",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "europa league|498812": {
+   "mot": "europa league",
+   "mot_norm": "europa league",
+   "langue": "fr",
+   "debut": "2026-11-26T21:00:00",
+   "debut_ts": 1795723200,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-27T17:57:51",
+   "vu_dernier": "2026-11-27T17:57:51",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-27T02:54:21"
+ "maj": "2026-11-27T17:57:51"
 }
