@@ -273,6 +273,11 @@
    "volume": 1000
   },
   {
+   "mot": "man utd – brentford",
+   "fois": 1,
+   "volume": 1000
+  },
+  {
    "mot": "تهريب",
    "fois": 1,
    "volume": 500
@@ -653,6 +658,11 @@
    "volume": 200
   },
   {
+   "mot": "cab",
+   "fois": 1,
+   "volume": 200
+  },
+  {
    "mot": "قطار",
    "fois": 1,
    "volume": 100
@@ -784,6 +794,11 @@
   },
   {
    "mot": "meilleur patissier",
+   "fois": 1,
+   "volume": 100
+  },
+  {
+   "mot": "flash score",
    "fois": 1,
    "volume": 100
   }

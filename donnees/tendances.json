@@ -14452,7 +14452,207 @@
    "sources": [
     "rss"
    ]
+  },
+  "football|498855": {
+   "mot": "football",
+   "mot_norm": "football",
+   "langue": "fr",
+   "debut": "2026-11-28T16:20:00",
+   "debut_ts": 1795879200,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-28T16:49:09",
+   "vu_dernier": "2026-11-28T16:49:09",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "flash score|498855": {
+   "mot": "flash score",
+   "mot_norm": "flash score",
+   "langue": "fr",
+   "debut": "2026-11-28T16:10:00",
+   "debut_ts": 1795878600,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-28T16:49:09",
+   "vu_dernier": "2026-11-28T16:49:09",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "club africain|498855": {
+   "mot": "club africain",
+   "mot_norm": "club africain",
+   "langue": "fr",
+   "debut": "2026-11-28T16:00:00",
+   "debut_ts": 1795878000,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-28T16:49:09",
+   "vu_dernier": "2026-11-28T16:49:09",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "club africain vs zamalek|498855": {
+   "mot": "club africain vs zamalek",
+   "mot_norm": "club africain vs zamalek",
+   "langue": "fr",
+   "debut": "2026-11-28T16:00:00",
+   "debut_ts": 1795878000,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-28T16:49:09",
+   "vu_dernier": "2026-11-28T16:49:09",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "man utd - brentford|498854": {
+   "mot": "man utd – brentford",
+   "mot_norm": "man utd - brentford",
+   "langue": "fr",
+   "debut": "2026-11-28T15:20:00",
+   "debut_ts": 1795875600,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-28T16:49:09",
+   "vu_dernier": "2026-11-28T16:49:09",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "hambourg - bayern|498854": {
+   "mot": "hambourg – bayern",
+   "mot_norm": "hambourg - bayern",
+   "langue": "fr",
+   "debut": "2026-11-28T15:20:00",
+   "debut_ts": 1795875600,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-28T16:49:09",
+   "vu_dernier": "2026-11-28T16:49:09",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "cab|498854": {
+   "mot": "cab",
+   "mot_norm": "cab",
+   "langue": "fr",
+   "debut": "2026-11-28T15:10:00",
+   "debut_ts": 1795875000,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-28T16:49:09",
+   "vu_dernier": "2026-11-28T16:49:09",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "esperance|498854": {
+   "mot": "esperance",
+   "mot_norm": "esperance",
+   "langue": "fr",
+   "debut": "2026-11-28T15:10:00",
+   "debut_ts": 1795875000,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-28T16:49:09",
+   "vu_dernier": "2026-11-28T16:49:09",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "betis - rayo|498853": {
+   "mot": "betis – rayo",
+   "mot_norm": "betis - rayo",
+   "langue": "fr",
+   "debut": "2026-11-28T14:40:00",
+   "debut_ts": 1795873200,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-28T16:49:09",
+   "vu_dernier": "2026-11-28T16:49:09",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "ca vs|498852": {
+   "mot": "ca vs",
+   "mot_norm": "ca vs",
+   "langue": "fr",
+   "debut": "2026-11-28T13:00:00",
+   "debut_ts": 1795867200,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-28T16:49:09",
+   "vu_dernier": "2026-11-28T16:49:09",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-28T02:38:21"
+ "maj": "2026-11-28T16:49:09"
 }
