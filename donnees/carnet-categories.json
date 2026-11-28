@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-27",
+ "maj": "2026-11-28",
  "explication": "Mots restés sans catégorie (à classer dans robot/categories.py quand ils reviennent).",
  "mots": [
   {
@@ -43,6 +43,11 @@
    "volume": 1000
   },
   {
+   "mot": "condamné",
+   "fois": 2,
+   "volume": 1000
+  },
+  {
    "mot": "طماطم",
    "fois": 2,
    "volume": 500
@@ -64,11 +69,6 @@
   },
   {
    "mot": "gta6",
-   "fois": 2,
-   "volume": 500
-  },
-  {
-   "mot": "condamné",
    "fois": 2,
    "volume": 500
   },
@@ -648,6 +648,11 @@
    "volume": 200
   },
   {
+   "mot": "francesca albanese",
+   "fois": 1,
+   "volume": 200
+  },
+  {
    "mot": "قطار",
    "fois": 1,
    "volume": 100
@@ -774,6 +779,11 @@
   },
   {
    "mot": "mabrouk",
+   "fois": 1,
+   "volume": 100
+  },
+  {
+   "mot": "meilleur patissier",
    "fois": 1,
    "volume": 100
   }

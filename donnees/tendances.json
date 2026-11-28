@@ -14166,8 +14166,8 @@
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-27T17:57:51",
-   "vu_dernier": "2026-11-27T17:57:51",
-   "releves": 1,
+   "vu_dernier": "2026-11-28T02:38:21",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -14180,14 +14180,14 @@
    "debut": "2026-11-27T14:40:00",
    "debut_ts": 1795786800,
    "fin": null,
-   "volume": 500,
+   "volume": 1000,
    "hausse": null,
    "liees": [],
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-27T17:57:51",
-   "vu_dernier": "2026-11-27T17:57:51",
-   "releves": 1,
+   "vu_dernier": "2026-11-28T02:38:21",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -14200,14 +14200,14 @@
    "debut": "2026-11-27T14:10:00",
    "debut_ts": 1795785000,
    "fin": null,
-   "volume": 500,
+   "volume": 1000,
    "hausse": null,
    "liees": [],
    "codes": [],
    "categorie": "autre",
    "vu_premier": "2026-11-27T17:57:51",
-   "vu_dernier": "2026-11-27T17:57:51",
-   "releves": 1,
+   "vu_dernier": "2026-11-28T02:38:21",
+   "releves": 2,
    "periodes": [],
    "sources": [
     "rss"
@@ -14312,7 +14312,147 @@
    "sources": [
     "rss"
    ]
+  },
+  "nottm forest - chelsea|498835": {
+   "mot": "nottm forest – chelsea",
+   "mot_norm": "nottm forest - chelsea",
+   "langue": "fr",
+   "debut": "2026-11-27T20:20:00",
+   "debut_ts": 1795807200,
+   "fin": null,
+   "volume": 1000,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-28T02:38:21",
+   "vu_dernier": "2026-11-28T02:38:21",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "نادي الزمالك|498834": {
+   "mot": "نادي الزمالك",
+   "mot_norm": "نادي الزمالك",
+   "langue": "ar",
+   "debut": "2026-11-27T19:40:00",
+   "debut_ts": 1795804800,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-28T02:38:21",
+   "vu_dernier": "2026-11-28T02:38:21",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "francesca albanese|498833": {
+   "mot": "francesca albanese",
+   "mot_norm": "francesca albanese",
+   "langue": "fr",
+   "debut": "2026-11-27T18:30:00",
+   "debut_ts": 1795800600,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-28T02:38:21",
+   "vu_dernier": "2026-11-28T02:38:21",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "meilleur patissier|498833": {
+   "mot": "meilleur patissier",
+   "mot_norm": "meilleur patissier",
+   "langue": "fr",
+   "debut": "2026-11-27T18:30:00",
+   "debut_ts": 1795800600,
+   "fin": null,
+   "volume": 100,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "autre",
+   "vu_premier": "2026-11-28T02:38:21",
+   "vu_dernier": "2026-11-28T02:38:21",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "visa|498833": {
+   "mot": "visa",
+   "mot_norm": "visa",
+   "langue": "fr",
+   "debut": "2026-11-27T18:20:00",
+   "debut_ts": 1795800000,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "tourisme",
+   "vu_premier": "2026-11-28T02:38:21",
+   "vu_dernier": "2026-11-28T02:38:21",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "النادي الرياضي الصفاقسي|498831": {
+   "mot": "النادي الرياضي الصفاقسي",
+   "mot_norm": "النادي الرياضي الصفاقسي",
+   "langue": "ar",
+   "debut": "2026-11-27T16:30:00",
+   "debut_ts": 1795793400,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "football",
+   "vu_premier": "2026-11-28T02:38:21",
+   "vu_dernier": "2026-11-28T02:38:21",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
+  },
+  "energie|498831": {
+   "mot": "énergie",
+   "mot_norm": "energie",
+   "langue": "fr",
+   "debut": "2026-11-27T16:20:00",
+   "debut_ts": 1795792800,
+   "fin": null,
+   "volume": 200,
+   "hausse": null,
+   "liees": [],
+   "codes": [],
+   "categorie": "energie",
+   "vu_premier": "2026-11-28T02:38:21",
+   "vu_dernier": "2026-11-28T02:38:21",
+   "releves": 1,
+   "periodes": [],
+   "sources": [
+    "rss"
+   ]
   }
  },
- "maj": "2026-11-27T17:57:51"
+ "maj": "2026-11-28T02:38:21"
 }
